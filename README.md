@@ -1,2 +1,0 @@
-# MyObsidianNotes
-tes
