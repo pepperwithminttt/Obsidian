@@ -22,7 +22,6 @@ Siklus rambut
 - Telogen = istirahat 
 
 ![[Pasted image 20260507171150.png|378]]
-
 ## Etiologi
 
 - Autoimun
@@ -30,7 +29,6 @@ Siklus rambut
 - Stress
 - Infeksi
 - Berkaitan dengan penyakit autoimun lain 
-
 ## Patofisiologi
 
 Hilangnya immune privilege folikel rambut  
@@ -50,14 +48,12 @@ Penting
 - Stem cell folikel tetap utuh
 - Tidak terjadi scarring
 - Rambut dapat tumbuh kembali  
-
 ## Tanda & Gejala
 
 - Patch alopecia berbatas tegas
 - Exclamation mark hair
 - Nail pitting
 - Kulit licin tanpa skuama
-
 ## Diagnosis
 
 Anamnesis
@@ -79,14 +75,11 @@ Dermoskopi
 - Trikotilomania
 - Androgenetic alopecia
 - Telogen effluvium
-
 ## Terapi
 
 - Kortikosteroid topikal/intralesi
 - Minoxidil
 - Imunoterapi topikal
-- Edukasi pasien 
-
 ## Prognosis
 
 Baik bila:
@@ -97,13 +90,13 @@ Buruk bila:
 - Alopecia totalis/universalis
 - Onset usia muda
 - Ada penyakit autoimun lain
-
 ## Penalaran Klinis
 
 Patch botak berbatas tegas
 - non-scarring
 - kulit kepala normal  
     → mengarah ke alopecia areata
+
 
 Penjelasan:
 
