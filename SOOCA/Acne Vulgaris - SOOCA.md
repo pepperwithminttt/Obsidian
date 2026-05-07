@@ -1,7 +1,7 @@
 Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang menyebabkan sumbatan folikel dan inflamasi
 
 ---
-## Case Review
+## Case Review (Contoh)
 
 - Remaja dengan jerawat wajah
 - Keluhan komedo dan benjolan merah
