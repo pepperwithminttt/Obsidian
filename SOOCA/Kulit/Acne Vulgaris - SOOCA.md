@@ -97,7 +97,7 @@ Papul, pustul, nodul
 
 - Rosacea (Tdk ada komedo, kemerahan persisten dan tdk terlokalisasi di sekitar jerawat tapi lebih merata dan luas di wajah tengah, telangiektasia, jarang di dada/punggung, pencetus sinar matahari, pedas, alkohol)
 - Dermatitis seboroik (Bercak kemerahan, hiperkeratinisasi superfisial sehingga ada sisik berminyak)
-- Acneiform eruption (onset akut, lesi seraham papul atau pustul, tanpa komedo, seringkali dipicu faktor eksternal seperti steroid, INH, barbiturat, promida)
+- Acneiform eruption (onset akut, lesi seragam papul atau pustul, tanpa komedo, seringkali dipicu faktor eksternal seperti steroid, INH, barbiturat, promida)
 
 ---
 ## Terapi
