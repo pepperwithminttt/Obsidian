@@ -2,10 +2,18 @@
 
 ## Alopecia Areata
 
-- Case review
-- Anatomi dan fisiologi folikel rambut
+### Case review
+
+Insert kasus di sini~
+### Anatomi dan fisiologi folikel rambut
+
+Struktur:
+• Folikel atas: infundibulum dan isthmus->permanen
+• Folikel bawah: daerah suprabulbar dan bulbar->beregenerasi sepanjang siklus folikel rambut
 
 ![[Pasted image 20260507165836.png]]
+
+![[Pasted image 20260507170226.png]]
 
 - Etiologi
 
