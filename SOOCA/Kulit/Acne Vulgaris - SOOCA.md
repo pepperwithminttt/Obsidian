@@ -30,7 +30,7 @@ Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang ditandai komedo,
 
 ### Faktor utama
 
-- Peningkatan roduksi sebum
+- Peningkatan produksi sebum
 - Hiperkeratinisasi intrafolikular
 - Kolonisasi Cutibacterium acnes
 ### Faktor pencetus
