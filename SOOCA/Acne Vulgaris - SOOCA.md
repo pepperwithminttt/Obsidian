@@ -25,21 +25,20 @@ Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang ditandai komedo,
 - Menjaga kelembapan
 
 ---
-## Etiologi
+## Etiologi: Multifaktorial
 
 ### Faktor utama
 
-- Produksi sebum meningkat
-- Hiperkeratinisasi folikel
+- Peningkatan roduksi sebum
+- Hiperkeratinisasi intrafolikular
 - Kolonisasi Cutibacterium acnes
-- Inflamasi
-### Faktor risiko
+### Faktor pencetus
 
-- Hormon androgen
+- Hormonal
 - Genetik
+- Kosmetik komedogenik
+- Diet
 - Stress
-- Kosmetik
-- Diet tertentu
 
 ---
 ## Patofisiologi
@@ -95,10 +94,9 @@ Papul, pustul, nodul
 ---
 ## Diagnosis Banding
 
-- Rosacea
-- Folikulitis
-- Dermatitis perioral
-- Acneiform eruption
+- Rosacea (Tdk ada komedo, kemerahan persisten dan tdk terlokalisasi di sekitar jerawat tapi lebih merata dan luas di wajah tengah, telangiektasia, jarang di dada/punggung, pencetus sinar matahari, pedas, alkohol)
+- Dermatitis seboroik (Bercak kemerahan, hiperkeratinisasi superfisial sehingga ada sisik berminyak)
+- Acneiform eruption (akut, lesi seraham papul atau pustul, tanpa komedo, seringkali dipicu faktor eksternal seperti steroid, INH, barbiturat, promida)
 
 ---
 ## Terapi
