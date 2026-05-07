@@ -1,3 +1,5 @@
+## Definisi
+
 Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang ditandai komedo, papul, pustul, nodul, dan kista.
 
 ---
@@ -124,10 +126,9 @@ Papul, pustul, nodul
 ---
 ## Prognosis
 
-### Baik bila:
-
-- Terapi teratur
-- Lesi ringan
+- Quo ad vitam: bonam
+- Quo ad functionam: bonam
+- Quo ad sanationam: dubia ad bonam
 
 ### Komplikasi
 

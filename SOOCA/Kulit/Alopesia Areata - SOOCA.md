@@ -65,10 +65,7 @@ Pemeriksaan fisik
 - Non-scarring
 
 Dermoskopi
-- Yellow dots
-- Black dots
 - Exclamation mark hair
-
 ## Diagnosis Banding
 
 - Tinea capitis
@@ -82,14 +79,14 @@ Dermoskopi
 - Imunoterapi topikal
 ## Prognosis
 
-Baik bila:
-- Lesi kecil
-- Onset dewasa
+- Quo ad vitam: bonam
+- Quo ad functionam: bonam
+- Quo ad sanationam: dubia ad bonam
+## Komplikasi
 
-Buruk bila:
-- Alopecia totalis/universalis
-- Onset usia muda
-- Ada penyakit autoimun lain
+- Alopecia totalis
+- Alopecia universalis
+- Gangguan kecemasan dan depresi
 ## Penalaran Klinis
 
 Patch botak berbatas tegas
