@@ -37,6 +37,7 @@ Chalazion = Peradangan lipogranulomatosa kronik kelenjar Meibom akibat sumbatan 
 ---
 ## Etiologi
 
+- Riwayat hordeolum
 - Sumbatan kelenjar Meibom
 - Blefaritis
 - Rosacea

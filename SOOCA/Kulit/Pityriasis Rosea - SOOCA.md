@@ -83,10 +83,9 @@ Pola “Christmas tree”
 ---
 ## Diagnosis Banding
 
-- Tinea corporis
-- Psoriasis gutata
-- Sifilis sekunder
-- Dermatitis numularis
+- Tinea corporis (KOH positif, sangat gatal, sisik lebih kasar)
+- Sifilis sekunder (riwayat aktivitas seksual yg tdk aman, pola ruam lebih difus bkan christmas tree, tdk ada herald patch, tes serologi positif)
+- Dermatitis numularis (ruam bentuk seperti koin, sangat gatal, terlokalisir sering di kaki/tangan)
 
 ---
 ## Terapi
@@ -97,13 +96,13 @@ Pola “Christmas tree”
 - Observasi
 ### Simptomatik
 
-- Antihistamin
-- Kortikosteroid topikal
-- Emolien
+- Antihistamin (klo gatal)
+- Kortikosteroid topikal (klo lesi luas)
 
 ---
 ## Prognosis
 
+Bonam smua
 ### Umumnya baik
 
 - Sembuh sendiri 6–8 minggu
