@@ -1,9 +1,4 @@
-Alopecia Areata
-↓  
-Penyakit autoimun non-scarring  
-↓  
-Kerontokan rambut berbatas tegas
-
+Alopecia Areata = Penyakit autoimun non-scarring yang menyebabkan kerontokan rambut berbatas tegas
 ## Case Review
 
 - Rambut rontok mendadak
@@ -11,7 +6,6 @@ Kerontokan rambut berbatas tegas
 - Tidak nyeri
 - Kulit kepala normal
 - Tidak ada jaringan parut
-
 ## Anatomi & Fisiologi
 
 Folikel rambut
@@ -20,7 +14,7 @@ Folikel rambut
 - Papila dermal
 - Matriks rambut
 
-![[Pasted image 20260507171133.png]]
+![[Pasted image 20260507171133.png|697x456]]
 
 Siklus rambut
 - Anagen = pertumbuhan
