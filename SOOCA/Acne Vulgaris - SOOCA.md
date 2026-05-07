@@ -1,4 +1,4 @@
-Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang menyebabkan sumbatan folikel dan inflamasi
+Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang ditandai komedo, papul, pustul, nodul, dan kista.
 
 ---
 ## Case Review (Contoh)
@@ -17,6 +17,8 @@ Acne Vulgaris = Penyakit inflamasi kronik unit pilosebasea yang menyebabkan sumb
 - Kelenjar sebasea
 - Sebum
 - Pori kulit
+
+![[Pasted image 20260507221717.png]]
 ### Fungsi sebum
 
 - Melindungi kulit
