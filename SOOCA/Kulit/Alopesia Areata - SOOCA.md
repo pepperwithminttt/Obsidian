@@ -68,14 +68,13 @@ Dermoskopi
 - Exclamation mark hair
 ## Diagnosis Banding
 
-- Tinea capitis
-- Trikotilomania
-- Androgenetic alopecia
-- Telogen effluvium
+- Tinea Capitis biasanya disertai sisik, rambut patah, dan kadang inflamasi atau kerion, sedangkan alopecia areata tidak bersisik dan kulit tampak normal.
+- Telogen Effluvium menyebabkan rambut rontok menyeluruh, bukan patch terlokalisasi seperti alopecia areata, dan biasanya dipicu stres, sakit, atau postpartum.
+- Androgenetic Alopecia bersifat progresif dengan pola khas (frontotemporal atau vertex), berbeda dengan alopecia areata yang muncul mendadak dan patchy.
 ## Terapi
 
 - Kortikosteroid topikal/intralesi
-- Minoxidil
+- Minoxidil (Minoxidil bekerja dengan melebarkan pembuluh darah kulit kepala dan memperpanjang fase anagen (pertumbuhan) folikel rambut sehingga memperlambat kerontokan.)
 - Imunoterapi topikal
 ## Prognosis
 

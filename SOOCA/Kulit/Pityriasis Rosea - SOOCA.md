@@ -26,6 +26,7 @@ Pityriasis Rosea = Penyakit kulit inflamasi akut self-limiting yang diduga berhu
 ---
 ## Etiologi
 
+Idiopatik, namun diduga karena:
 - Human Herpes Virus 6
 - Human Herpes Virus 7
 - Faktor imunologis
