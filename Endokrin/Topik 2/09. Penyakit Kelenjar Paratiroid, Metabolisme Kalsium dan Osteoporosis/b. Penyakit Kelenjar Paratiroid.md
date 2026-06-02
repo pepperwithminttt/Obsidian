@@ -332,17 +332,7 @@ Hiperkalsemia menyebabkan:
 
 CKD menyebabkan:
 
-⬇️ Aktivasi Vitamin D
-
-⬆️ Retensi fosfat
-
-⬇️ Absorpsi kalsium usus
-
-⬇️ Kalsium serum
-
-⬆️ PTH kronik
-
-➡️ Secondary Hyperparathyroidism
+Ginjal rusak -> eksresi fosfat menurun (terjadi retensi fosfat) -> fosfat terperangkap di darah -> berikatan dengan kalsium -> seolah-olah kadar kalsium darah rendah -> kel. paratiroid respons maladaptif -> strimulasi -> PTH meningkat abnormal.
 
 ---
 
