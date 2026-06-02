@@ -179,7 +179,7 @@ Pemeriksaan tambahan:
     
 - Bisphosphonate → onset 24–48 jam
     
-- Hemodialisis bila berat atau gagal ginjal
+- Hemodialisis (cuci darahbila berat atau gagal ginjal
     
 
 ---
