@@ -92,6 +92,8 @@ Jika T3 dan T4 menurun:
 
 📌 Prinsip ini sangat penting untuk interpretasi hasil laboratorium.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1780414778000m03szn.png)
+
 ---
 
 # II. HYPOTHYROIDISM (HIPOTIROIDISME)
@@ -138,35 +140,11 @@ Karena hipofisis terus mencoba merangsang tiroid yang rusak.
 
 #### Penyebab
 
-### Hashimoto Thyroiditis
-
-Penyebab tersering di negara maju.
-
----
-
-### Terapi Radioaktif Iodium (I¹³¹)
-
-Digunakan untuk Graves Disease.
-
-Dapat menghancurkan jaringan tiroid berlebihan.
-
----
-
-### Subtotal Thyroidectomy
-
-Operasi pengangkatan sebagian besar tiroid.
-
----
-
-### Subacute Thyroiditis
-
-Peradangan menyebabkan kerusakan folikel.
-
----
-
-### Defisiensi Iodium
-
-Masih menjadi penyebab utama di banyak negara berkembang.
+- Hashimoto Thyroiditis = Penyebab tersering di negara maju.
+- Terapi Radioaktif Iodium (I¹³¹) = Digunakan untuk Graves Disease dan dapat menghancurkan jaringan tiroid berlebihan.
+- Subtotal Thyroidectomy = Operasi pengangkatan sebagian besar tiroid.
+- Subacute Thyroiditis = Peradangan menyebabkan kerusakan folikel.
+- Defisiensi Iodium = Masih menjadi penyebab utama di banyak negara berkembang.
 
 ---
 
@@ -211,49 +189,13 @@ Laboratorium:
 
 ## A. Gejala Umum
 
-### Fatigue
-
-Kelelahan kronik akibat metabolisme rendah.
-
----
-
-### Cold Intolerance
-
-Pasien mudah merasa dingin ❄️
-
-Karena produksi panas tubuh berkurang.
-
----
-
-### Weight Gain
-
-Berat badan naik meskipun asupan makanan normal.
-
----
-
-### Constipation
-
-Konstipasi akibat perlambatan motilitas usus.
-
----
-
-### Menstrual Irregularity
-
-Gangguan siklus menstruasi.
-
----
-
-### Muscle Cramp
-
-Kram otot akibat gangguan metabolisme energi.
-
----
-
-### Pada Bayi
-
-Dapat menyebabkan:
-
-## Cretinism
+- Fatigue = Kelelahan kronik akibat metabolisme rendah.
+- Cold Intolerance = Pasien mudah merasa dingin ❄️ karena produksi panas tubuh berkurang.
+- Weight Gain = Berat badan naik meskipun asupan makanan normal.
+- Constipation = Konstipasi akibat perlambatan motilitas usus.
+- Menstrual Irregularity = Gangguan siklus menstruasi.
+- Muscle Cramp = Kram otot akibat gangguan metabolisme energi.
+### Pada Bayi Dapat Menyebabkan: Cretinism
 
 Hipotiroidisme kongenital berat yang menyebabkan:
 
@@ -269,65 +211,39 @@ Hipotiroidisme kongenital berat yang menyebabkan:
 
 ## A. Kulit
 
-### Cool Skin
-
-Kulit terasa dingin.
-
----
-
-### Dry Skin
-
-Kulit kering.
-
----
-
-### Rough Skin
-
-Kulit kasar.
+- Cool Skin = Kulit terasa dingin.
+- Dry Skin = Kulit kering.
+- Rough Skin = Kulit kasar.
 
 ---
 
 ## B. Wajah
 
-### Puffy Face
-
-Wajah tampak bengkak.
-
-### Puffy Hands
-
-Tangan tampak membengkak.
+- Puffy Face = Wajah tampak bengkak.
+- Puffy Hands = Tangan tampak membengkak.
 
 ---
 
 ### Mengapa Terjadi?
 
 Karena:
+#### Myxedema
 
-## Myxedema
-
-Akumulasi glikosaminoglikan (GAG)
-
-di jaringan interstisial.
-
-Menarik air sehingga menimbulkan edema non-pitting.
+Akumulasi glikosaminoglikan (GAG) di jaringan interstisial, menarik air sehingga menimbulkan edema non-pitting.
 
 ---
 
 ## C. Suara
 
-### Hoarse Voice
-
-Suara serak akibat infiltrasi mukopolisakarida pada pita suara.
+- Hoarse Voice = Suara serak akibat infiltrasi mukopolisakarida pada pita suara.
 
 ---
 
 ## D. Sistem Neuromuskular
 
-### Slow Reflexes
-
-Relaksasi refleks tendon menjadi lambat.
-
-Sangat khas pada hipotiroidisme.
+- Slow Reflexes
+- Relaksasi refleks tendon menjadi lambat.
+- Sangat khas pada hipotiroidisme.
 
 ---
 
@@ -335,57 +251,30 @@ Sangat khas pada hipotiroidisme.
 
 ## A. Kardiovaskular ❤️
 
-### Bradycardia
-
-Denyut jantung melambat.
-
----
-
-### Decreased Cardiac Output
-
-Curah jantung menurun.
-
----
-
-### Low Voltage QRS
-
-Amplitude QRS kecil pada EKG.
-
----
-
-### Cardiac Enlargement
-
-Jantung dapat membesar.
+- Bradycardia
+- Decreased Cardiac Output
+- Low Voltage QRS (Amplitude QRS kecil pada EKG)
+- Cardiac Enlargement
 
 ---
 
 ## B. Respirasi 🫁
 
-### Respiratory Failure
-
-Pada kasus berat dapat terjadi hipoventilasi.
+- Respiratory Failure
+- Pada kasus berat dapat terjadi hipoventilasi.
 
 ---
 
 ## C. Gastrointestinal 🍽️
 
-### Chronic Constipation
-
-Konstipasi kronis.
-
----
-
-### Ileus
-
-Henti pergerakan usus.
-
-Kondisi gawat darurat.
+- Chronic Constipation
+- Ileus = Henti pergerakan usus. Kondisi gawat darurat.
 
 ---
 
 ## D. Ginjal 🩺
 
-### Penurunan GFR
+- Penurunan GFR
 
 GFR = Glomerular Filtration Rate
 
@@ -395,21 +284,16 @@ Kemampuan filtrasi ginjal menurun.
 
 ## E. Hematologi 🩸
 
-### Anemia
-
-Umum ditemukan pada hipotiroidisme.
+- Anemia (Umum ditemukan pada hipotiroidisme)
 
 ---
 
 ## F. Sistem Saraf 🧠
 
-### Fatigue
-
-### Gangguan Konsentrasi
-
-### Penurunan Memori
-
-### Slow Thinking
+- Fatigue
+- Gangguan Konsentrasi
+- Penurunan Memori
+- Slow Thinking
 
 ---
 
@@ -628,7 +512,7 @@ Fibrosis progresif tiroid.
 
 Penyakit autoimun kronik yang menyebabkan destruksi progresif jaringan tiroid.
 
-Penyebab tersering:
+Sering menyebabkan:
 
 🏆 Hipotiroidisme
 
