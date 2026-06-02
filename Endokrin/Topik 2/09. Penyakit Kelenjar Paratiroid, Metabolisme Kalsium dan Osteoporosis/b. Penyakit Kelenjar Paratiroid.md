@@ -560,6 +560,8 @@ Disebut juga:
 
 🤰✋
 
+![gh|307](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178041912600074jgnc.png)
+
 ---
 
 ### Tata Laksana
