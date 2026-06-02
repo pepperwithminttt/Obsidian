@@ -532,69 +532,27 @@ Terjadi pembentukan autoantibodi.
 
 ### Antibodi Penting
 
-#### Anti-Thyroglobulin (TgAb)
-
-Menyerang tiroglobulin.
-
----
-
-#### Anti-Thyroid Peroxidase (TPOAb)
-
-Disebut juga:
-
-Microsomal antibody
-
-Paling sering positif.
-
----
-
-#### TSH-Receptor Blocking Antibody
-
-Menghambat stimulasi reseptor TSH.
-
-Menurunkan produksi hormon.
+- Anti-Thyroglobulin (TgAb) = Menyerang tiroglobulin.
+- Anti-Thyroid Peroxidase (TPOAb) = Disebut juga microsomal antibody. Paling sering positif.
+- TSH-Receptor Blocking Antibody = Menghambat stimulasi reseptor TSH sehingga menurunkan produksi hormon.
 
 ---
 
 ## C. Gambaran Histopatologi
 
-### Infiltrasi Limfosit Difus
+- Infiltrasi Limfosit Difus = Tiroid dipenuhi limfosit.
+- Fibrosis = Terjadi penggantian jaringan normal oleh jaringan fibrotik.
+- Hurthle Cells = Sel folikel mengalami metaplasia eosinofilik.
 
-Tiroid dipenuhi limfosit.
-
----
-
-### Fibrosis
-
-Terjadi penggantian jaringan normal oleh jaringan fibrotik.
-
----
-
-### Hurthle Cells
-
-Sel folikel mengalami metaplasia eosinofilik.
-
-🧠 Hurthle Cell = ciri khas Hashimoto.
+### 🧠 Hurthle Cell = ciri khas Hashimoto.
 
 ---
 
 ## D. Manifestasi Klinis
 
-### Goiter Difus
-
-Biasanya tidak nyeri.
-
----
-
-### Euthyroid
-
-Pada tahap awal.
-
----
-
-### Hipotiroid Ringan
-
-Pada tahap lanjut.
+- Goiter Difus = Biasanya tidak nyeri
+- Euthyroid (pada tahap awal)
+- Hipotiroid Ringan (pada tahap lanjut)
 
 ---
 
@@ -690,7 +648,7 @@ Insidensi:
 
 ## B. Patogenesis
 
-Jaringan tiroid digantikan fibrosis progresif.
+Jaringan tiroid digantikan jaringan fibrosis progresif.
 
 Konsistensi:
 
