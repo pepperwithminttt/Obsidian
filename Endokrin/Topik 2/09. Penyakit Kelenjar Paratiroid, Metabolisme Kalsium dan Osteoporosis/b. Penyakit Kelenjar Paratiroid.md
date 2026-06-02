@@ -374,7 +374,7 @@ Fokus pada penyebab:
     
 - Terapi CKD-MBD (Chronic Kidney Disease-Mineral Bone Disorder)
     
-- Kontrol fosfat
+- Kontrol fosfat (dengan cara cuci darah atau bisa kasih phosphate binder biar ada yang gantikan kalsium utk berikatan dengan fosfat)
     
 - Suplementasi kalsium
     
