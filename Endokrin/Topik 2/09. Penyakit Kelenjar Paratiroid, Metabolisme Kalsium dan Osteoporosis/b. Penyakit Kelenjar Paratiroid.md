@@ -41,6 +41,7 @@ Penyebab tersering hiperkalsemia pada pasien rawat jalan.
     
 - Parathyroid carcinoma (<1%)
     
+Ketiganya merupakan **Frank Hypercalcemia**
 
 #### Secondary Hyperparathyroidism
 
