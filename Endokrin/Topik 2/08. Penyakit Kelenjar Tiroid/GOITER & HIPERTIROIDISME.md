@@ -4,6 +4,10 @@
 
 **Goiter (gondok)** adalah pembesaran kelenjar tiroid, yaitu kondisi ketika volume atau ukuran kelenjar tiroid lebih besar dari normal.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178041370700011wivp.png)
+
+![gh|290](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17804137530002lf2u2.png)
+
 Kelenjar tiroid terletak di bagian anterior leher, tepat di bawah kartilago tiroid ("jakun"), berbentuk seperti kupu-kupu 🦋.
 
 Pembesaran dapat diketahui melalui:
@@ -605,6 +609,8 @@ Mata tampak menonjol.
 
 Normal <18 mm.
 
+![gh|327](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1780413930000g2339u.png)
+
 Penyebab:
 
 Akumulasi glikosaminoglikan di jaringan retroorbital.
@@ -626,6 +632,8 @@ Penebalan kulit tungkai bawah.
 Non-pitting edema.
 
 Terjadi akibat deposisi glikosaminoglikan.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17804139940001hii5z.png)
 
 ---
 
