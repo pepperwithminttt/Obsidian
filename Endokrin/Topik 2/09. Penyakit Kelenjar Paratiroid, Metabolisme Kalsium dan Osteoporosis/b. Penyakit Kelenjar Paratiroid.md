@@ -179,7 +179,7 @@ Pemeriksaan tambahan:
     
 - Bisphosphonate → onset 24–48 jam
     
-- Hemodialisis (cuci darahbila berat atau gagal ginjal
+- Hemodialisis (cuci darah) bila berat atau gagal ginjal
     
 
 ---
@@ -233,6 +233,7 @@ Hiperkalsemia:
     
 - Ionized calcium >5,6 mg/dL
     
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1780418382000jcc9t4.png)
 
 ---
 
@@ -256,7 +257,9 @@ Hasilnya:
 
 ### Manifestasi Klinis
 
-Jika Ca >12 mg/dL:
+Pada hiperkalsemia, terjadi hiperpolarisasi membran sel.
+Jika Ca 10.5 – 11.9 mg/dl bisa saja asimtomatik.
+Tapi, Jika Ca >12 mg/dL sudah ada gejala:
 
 #### Renal
 
