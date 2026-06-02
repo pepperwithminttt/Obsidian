@@ -981,6 +981,4 @@ PTU = Pregnancy trimester pertama + Thyroid storm
 
 MMI = Maintenance + Minum sekali sehari
 
-➡️ "PTU = Pregnancy & Thyroid storm" 🚨
-
-Ini adalah materi yang sangat sering keluar pada ujian Endokrin karena mencakup **goiter, sintesis hormon tiroid, Graves disease, terapi antitiroid, dan thyroid storm**, jadi pahami alur patofisiologinya, bukan sekadar menghafal. 🦋📚
+➡️ "PTU = Pregnancy & Thyroid storm" 🚨🦋
