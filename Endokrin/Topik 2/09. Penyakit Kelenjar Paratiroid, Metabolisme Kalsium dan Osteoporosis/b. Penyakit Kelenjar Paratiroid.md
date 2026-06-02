@@ -413,7 +413,7 @@ Keadaan defisiensi PTH yang menyebabkan hipokalsemia dan hiperfosfatemia.
     
 - Parathyroidectomy
     
-- Neck irradiation
+- Neck irradiation (biasa karna terapi tumor)
     
 
 ---
