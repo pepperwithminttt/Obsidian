@@ -173,7 +173,7 @@ Pemeriksaan tambahan:
 
 🚑 Emergency
 
-- Normal saline + furosemide → meningkatkan ekskresi kalsium
+- Normal saline + furosemide → untuk diuresis (meningkatkan ekskresi kalsium)
     
 - Calcitonin → onset cepat
     
