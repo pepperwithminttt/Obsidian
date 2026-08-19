@@ -1,19 +1,5 @@
 # Clinical Pathology Aspects of Urogenital System 🩺🧪
-## 1. Learning Objectives 🎯
-
-Setelah mempelajari materi ini, mahasiswa diharapkan mampu:
-
-- Menentukan **laboratory test** yang sesuai dengan masalah pada sistem ginjal dan traktus urinarius berdasarkan daftar dan tingkat kompetensi **SKDI/SNPPDI**.
-- Menginterpretasikan hasil **laboratory test** sesuai tingkat kompetensi.
-- Melakukan pemeriksaan laboratorium secara komprehensif, meliputi:
-    - **Pre-analytical phase** → persiapan pasien, pengambilan, identifikasi, penyimpanan, dan transport spesimen.
-    - **Analytical phase** → proses pemeriksaan spesimen.
-    - **Post-analytical phase** → validasi, interpretasi, dan pelaporan hasil.
-- Pemeriksaan yang ditekankan pada materi ini terutama **urinalysis**, termasuk pemeriksaan **urine sediment** yang harus dapat dilakukan secara mandiri pada tingkat kompetensi 4.
-
----
-
-## 2. Kidney & Urinary System 🫘
+# 1. Kidney & Urinary System 🫘
 
 ### Kidney
 
@@ -53,7 +39,7 @@ Bayangkan nephron sebagai "pabrik penyaringan":
 
 ---
 
-# 3. Urinalysis 🧪
+# 2. Urinalysis 🧪
 
 Pada beberapa penyakit kidney dan urinary tract, **urinalysis** menjadi pemeriksaan laboratorium utama. Delapan kondisi yang disebutkan dalam materi adalah:
 
@@ -74,7 +60,7 @@ Urinalysis terdiri atas tiga komponen utama:
 
 ---
 
-## 4. Urine Specimen 🧴
+# 3. Urine Specimen 🧴
 
 Pemilihan jenis urine bergantung pada tujuan pemeriksaan.
 
@@ -104,7 +90,7 @@ Tujuannya agar:
 
 ---
 
-# 5. Macroscopic Urinalysis 👀
+# 4. Macroscopic Urinalysis 👀
 
 Komponen yang dinilai meliputi:
 
@@ -235,7 +221,7 @@ Bau abnormal yang disebutkan:
 
 ---
 
-# 6. Dipstick Urinalysis 🧪
+# 5. Dipstick Urinalysis 🧪
 
 **Urine dipstick** merupakan plastic strip yang memiliki beberapa area pemeriksaan. Setiap area mengandung **specific reagent** yang bereaksi terhadap substansi tertentu di dalam urine.
 
@@ -281,7 +267,7 @@ Yang paling sering keluar untuk interpretasi klinis:
 
 ---
 
-# 7. Microscopic Urinalysis 🔬
+# 6. Microscopic Urinalysis 🔬
 
 Nilai yang dicantumkan pada materi:
 
@@ -316,7 +302,7 @@ observasi menggunakan objective lens **40×**
 
 ---
 
-# 8. Urine Sediment 🔬
+# 7. Urine Sediment 🔬
 
 Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
@@ -375,7 +361,7 @@ Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
 ---
 
-# 9. Epithelial Cells & Casts 🧫
+# 8. Epithelial Cells & Casts 🧫
 
 ### Epithelial cells
 
@@ -428,7 +414,7 @@ Jadi kalau ada cast, pikirkan bahwa material tersebut **terbentuk di dalam tubul
 
 ---
 
-# 10. Other Urine Sediment Findings 🔬
+# 9. Other Urine Sediment Findings 🔬
 
 Materi juga memperlihatkan:
 
@@ -444,7 +430,7 @@ Yeast dapat menunjukkan bentuk **budding**.
 
 ---
 
-# 11. Kidney Function Test 🫘🧪
+# 10. Kidney Function Test 🫘🧪
 
 Penilaian fungsi kidney dalam materi meliputi fungsi:
 
@@ -461,7 +447,7 @@ Penilaian fungsi kidney dalam materi meliputi fungsi:
 
 ---
 
-# 12. Creatinine 🧪
+# 11. Creatinine 🧪
 
 **Creatinine** merupakan marker yang sering digunakan untuk menilai fungsi glomerular filtration.
 
