@@ -467,7 +467,7 @@ Creatinine berasal dari metabolisme otot dan produksinya relatif konstan. Karena
 
 ---
 
-# 13. Urea
+# 12. Urea
 
 **Urea** terbentuk di **liver** sebagai produk dari **deamination of amino acids**.
 
@@ -495,7 +495,7 @@ Materi menyebutkan bahwa:
 
 ---
 
-# 14. GFR & Clearance 🧮
+# 13. GFR & Clearance 🧮
 
 **Clearance** adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
 
@@ -521,7 +521,7 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-# 15. Creatinine Clearance Methods 📐
+# 14. Creatinine Clearance Methods 📐
 
 ### 24-hour urine collection
 
@@ -562,7 +562,7 @@ Jangan lupa **female × 0.85**.
 
 ---
 
-# 16. CKD-EPI Equation
+# 15. CKD-EPI Equation
 
 **CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine.
 
@@ -580,7 +580,7 @@ Komponen yang dijelaskan pada slide:
 
 ---
 
-# 17. Schwartz Equation 👶
+# 16. Schwartz Equation 👶
 
 Untuk **children <18 years**, digunakan **Schwartz equation**.
 
@@ -597,7 +597,7 @@ Parameter:
 
 ---
 
-# 18. Laboratory Examination According to Disease 🩺
+# 17. Laboratory Examination According to Disease 🩺
 
 Bagian akhir slide merangkum pemeriksaan yang berkaitan dengan beberapa penyakit kidney dan urinary tract.
 
