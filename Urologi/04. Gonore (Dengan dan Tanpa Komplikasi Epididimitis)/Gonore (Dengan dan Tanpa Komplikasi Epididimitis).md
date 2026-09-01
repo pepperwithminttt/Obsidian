@@ -85,32 +85,41 @@ Kalau melihat diplokokus Gram negatif yang berada **di dalam sel**, langsung pik
 
 ---
 
-
-
 ## 3. Patogenesis 🔬
 
-- **Infeksi _N. gonorrhoeae_** dimulai dengan **perlekatan pili gonokokus ke sel epitel**, kemudian diikuti oleh **invasi seluler lokal**.
-    
-- Selain pili, terdapat **protein permukaan lain yang terlibat dalam perlekatan seluler**, yaitu:
-    
-    - **Opa (protein yang terkait dengan kekeruhan)**.
-        
-    - **LOS (lipooligosakarida)**.
-        
-- **LOS** dapat menempel pada **sel sperma** dan kemungkinan menyebabkan penularan _N. gonorrhoeae_ dari pria ke pasangan seksual yang tidak terinfeksi.
-    
-- Setelah proses perlekatan, terjadi **penataan ulang aktin sel inang secara ekstensif** sehingga menghasilkan proyeksi besar yang disebut **ruffles**.
-    
-- **Ruffles** kemudian memungkinkan gonokokus memasuki sel inang dalam vakuola besar yang disebut **makropinosom**.
-    
-- Selanjutnya, gonokokus **berkembang biak di dalam sel yang terinfeksi**.
-    
+Infeksi _N. gonorrhoeae_ berlangsung melalui beberapa tahapan:
 
-💡 **Tips menghafal alurnya:**  
-**Pili → Opa & LOS → LOS + sperma → aktin → ruffles → makropinosom → berkembang biak** 🦠
+1. **Perlekatan**
+    
+    - Infeksi dimulai ketika **pili gonokokus** melekat pada sel epitel.
+        
+    - Setelah melekat, terjadi **invasi seluler lokal**.
+        
+2. **Peran protein permukaan**
+    
+    - Protein permukaan yang berperan dalam perlekatan antara lain:
+        
+        - **Opa (opacity-associated proteins)** → protein yang berkaitan dengan proses adhesi dan interaksi gonokokus dengan sel inang.
+            
+        - **LOS (lipooligosakarida)** → komponen permukaan bakteri yang berperan dalam proses infeksi dan respons inflamasi.
+            
+3. **Peran LOS pada penularan**
+    
+    - LOS dapat menempel pada sel sperma dan diduga berperan dalam membantu **penularan gonokokus dari laki-laki ke pasangan seksual yang tidak terinfeksi**.
+        
+4. **Invasi ke dalam sel**
+    
+    - Gonokokus menyebabkan **penataan ulang aktin sel inang secara ekstensif**.
+        
+    - Perubahan sitoskeleton ini menghasilkan proyeksi besar yang disebut **ruffles**.
+        
+    - Ruffles memungkinkan gonokokus masuk ke dalam sel inang melalui vakuola besar yang disebut **makropinosom**.
+        
+    - Setelah masuk, gonokokus dapat berkembang biak di dalam sel yang terinfeksi.
+        
 
-🧠 Bayangkan gonokokus seperti “penyusup”:  
-**nempel dulu → bikin sel berubah → masuk lewat pintu besar → berkembang biak di dalam sel.**
+💡 **Alur hafalan patogenesis:**  
+**Pili → menempel → Opa/LOS → aktin berubah → ruffles → makropinosom → berkembang biak** 🦠➡️🏠
 
 ---
 
@@ -122,7 +131,7 @@ Faktor risiko gonore meliputi:
     
 - Memiliki **banyak pasangan seksual**.
     
-- **Bayi**: dapat tertular ketika melewati jalan lahir dari ibu yang terinfeksi.
+- **Bayi**: dapat tertular ketika melewati **jalan lahir** dari ibu yang terinfeksi.
     
 - **Anak**: dapat terjadi akibat **sexual abuse** oleh penderita yang terinfeksi.
     
