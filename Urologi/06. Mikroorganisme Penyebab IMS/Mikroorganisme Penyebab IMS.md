@@ -374,6 +374,8 @@ Pada infeksi serviks, area dapat **mudah berdarah ketika disentuh atau setelah p
         
     - Dugaan resistensi antibiotik
         
+![gh|298](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788281441000zm7oqn.png)
+
 
 **2. Deteksi antigen / Direct Fluorescent Antibody (DFA)**
 
@@ -394,7 +396,7 @@ Pada infeksi serviks, area dapat **mudah berdarah ketika disentuh atau setelah p
     
 - Sensitivitas sekitar **92–95%**.
     
-- Merupakan **baku emas** pemeriksaan C. trachomatis.
+- Merupakan [**GOLD STANDARD**]{INGAT!} pemeriksaan C. trachomatis.
     
 
 **4. NAAT-POC**
