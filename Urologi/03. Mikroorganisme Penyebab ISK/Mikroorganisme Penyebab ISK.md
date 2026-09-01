@@ -579,7 +579,7 @@ Spesies _Providencia_:
     
 - Dapat menyebabkan **UTI nosokomial**.
     
-- Berhubungan dengan infeksi luka dan sepsis.
+- Berhubungan dengan **infeksi luka dan sepsis.**
     
 
 ### Karakteristik laboratorium
@@ -633,7 +633,7 @@ Dapat menyebabkan:
 - Banyak strain menghasilkan **β-lactamase**.
     
 
-⚠️ **β-lactamase → resistensi antibiotik**
+⚠️ **β-lactamase → resistensi antibiotik** golongan β-lactam
 
 Spesies yang tercantum:
 
@@ -734,7 +734,7 @@ Merupakan mikroorganisme penting pada **healthcare-associated infections**.
     
 - Dapat ditemukan tunggal atau berpasangan.
     
-- Memiliki kapsul polisakarida.
+- Memiliki **kapsul polisakarida.**
     
 - **Aerob obligat**.
     
