@@ -689,9 +689,11 @@ Jangan lupa **female × 0.85**.
 
 #### CKD-EPI Equation
 
-**CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine.
+**CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine. Rumus ini banyak digunakan sekarang.
 
-Komponen yang dijelaskan pada slide:
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788232502000z3zu9j.png)
+
+Keterangan lagi:
 
 - **Scr** = serum creatinine dalam mg/dL
     
@@ -710,11 +712,16 @@ Komponen yang dijelaskan pada slide:
 - **min** = nilai minimum dari Scr/κ atau 1
     
 - **max** = nilai maksimum dari Scr/κ atau 1
-    
 
 ---
 
-#### Schwartz Equation 👶
+#### CKD-EPI 2021 Kreatinin + Cystatin C
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788232662000ewmc27.png)
+
+---
+
+#### Schwartz Equation👶
 
 Untuk **children <18 years**, digunakan **Schwartz equation**.
 
