@@ -130,14 +130,14 @@ Pemeriksaan:
 
 ### Regimen Antibiotic
 
-| Antibiotic                      | Regimen                        | Catatan                                                                                    |
-| ------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------ |
-| **Nitrofurantoin**              | 100 mg BID selama 5 hari       | First-line; avoid pada pyelonephritis karena konsentrasi di renal parenchyma tidak adekuat |
-| **TMP-SMX**                     | 1 DS tablet BID selama 3 hari  | First-line                                                                                 |
-| **Fosfomycin**                  | 3 g single dose                | First-line                                                                                 |
-| **Amoxicillin-clavulanic acid** | 500/125 mg BID selama 5–7 hari | Digunakan bila first-line tidak dapat digunakan                                            |
-| **Cefpodoxime**                 | 100 mg BID selama 5–7 hari     | Digunakan bila first-line tidak dapat digunakan                                            |
-| **Ciprofloxacin**               | 250 mg BID selama 3 hari       | Effective, tetapi digunakan bila alternatif oral lain tidak tersedia/memungkinkan          |
+| Antibiotic                                  | Regimen                                   | Catatan                                                                                        |
+| ------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Nitrofurantoin**                          | 100 mg [BID]{2 kali sehari} selama 5 hari | **First-line**; avoid pada pyelonephritis karena konsentrasi di renal parenchyma tidak adekuat |
+| **TMP-SMX** (Trimethoprim Sulfamethoxazole) | 1 DS tablet BID selama 3 hari             | First-line                                                                                     |
+| **Fosfomycin**                              | 3 g single dose                           | First-line                                                                                     |
+| **Amoxicillin-clavulanic acid**             | 500/125 mg BID selama 5–7 hari            | Digunakan bila first-line tidak dapat digunakan                                                |
+| **Cefpodoxime**                             | 100 mg BID selama 5–7 hari                | Digunakan bila first-line tidak dapat digunakan                                                |
+| **Ciprofloxacin**                           | 250 mg BID selama 3 hari                  | Effective, tetapi digunakan bila alternatif oral lain tidak tersedia/memungkinkan              |
 
 **TMP-SMX:**
 
