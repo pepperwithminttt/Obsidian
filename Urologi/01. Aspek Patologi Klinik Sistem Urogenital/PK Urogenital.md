@@ -126,29 +126,7 @@ Komponen yang dinilai meliputi:
 ### A. Urine Volume
 
 Volume normal yang tercantum pada materi adalah sekitar **1200–1500 mL/24 hours**, sedangkan rentang pada bagian macroscopic urinalysis tercantum **800–1300 mL/24 hours**.
-
-Produksi urine dipengaruhi oleh:
-
-- Body surface area
-    
-- Fluid intake
-    
-- Air humidity
-    
-- Physical activity
-    
-- Mental activity
-    
-- Drugs, misalnya:
-    
-    - antipyretics
-        
-    - analgesics
-        
-    - diuretics
-        
-
-### Abnormal urine volume
+#### Abnormal urine volume
 
 - **Polyuria** → > **2000 mL/24 hours**
     
