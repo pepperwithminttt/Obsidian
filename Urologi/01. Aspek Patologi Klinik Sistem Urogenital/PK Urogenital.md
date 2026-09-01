@@ -721,18 +721,13 @@ Keterangan lagi:
 
 ---
 
-#### Schwartz Equation👶
+#### Rumus Klasik Bedside Schwartz 2009
 
-Untuk **children <18 years**, digunakan **Schwartz equation**.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788232786000vjyx9m.png)
 
-Parameter:
+#### CKiD U25 - Untuk anak dan dewasa muda 1-25 tahun
 
-- **Height** → cm
-    
-- **Scr** → serum creatinine, mg/dL
-    
-- **k** → constant yang bergantung pada age dan sex.
-    
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788232855000tyewgb.png)
 
 🧠 **Gampangnya:**
 
@@ -790,8 +785,8 @@ Kalau waktunya mepet, fokuskan hafalan ke bagian ini:
 > Hyaline → Tamm-Horsfall protein  
 > Epithelial → tubular epithelial cells  
 > Blood → erythrocytes  
-> Fatty → fat globules  
-> Leukocyte → inflammation/infection
+> Fatty → fat globules, sangat buas cahaya
+> Leukocyte → inflammation/infection di ginjal
 
 **6. Crystal**
 
@@ -810,7 +805,7 @@ Kalau waktunya mepet, fokuskan hafalan ke bagian ini:
 **9. Formula**
 
 > Adult → **Cockcroft-Gault / CKD-EPI**  
-> Children → **Schwartz**
+> Children → **CKiD U25**
 
 **10. Spesimen**
 
