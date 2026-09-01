@@ -1025,7 +1025,8 @@ T. pallidum merupakan bakteri yang:
 - Memiliki ujung yang runcing.
     
 - Tidak memiliki bentuk hook seperti beberapa spirochete komensal.
-    
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788282552000eqwq3g.png)
 
 ### Axial fibrils/filaments
 
@@ -1034,7 +1035,9 @@ T. pallidum merupakan bakteri yang:
 - Menghasilkan rotasi cepat sepanjang sumbu longitudinal.
     
 - Memberikan karakteristik gerakan **corkscrew** 🌀.
-    
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788282621000d5esbi.png)
+
 - Motilitas dapat diamati pada preparat yang tidak diwarnai.
     
 
@@ -1067,20 +1070,6 @@ T. pallidum:
 
 ---
 
-## 3. Kultivasi T. pallidum
-
-T. pallidum secara klasik dikenal sulit dikultur secara rutin.
-
-Materi sumber mencantumkan sistem kultur jangka panjang **in vitro**:
-
-- Subculture setiap **6–7 hari**
-    
-- Periodic feeding menggunakan **modified T. pallidum medium (TPCM-2)**
-    
-- Menggunakan sistem **co-incubation dengan rabbit epithelial cells**
-    
-- Inokulasi pada rabbit model dengan observasi sekitar **45 hari**
-    
 
 ---
 
