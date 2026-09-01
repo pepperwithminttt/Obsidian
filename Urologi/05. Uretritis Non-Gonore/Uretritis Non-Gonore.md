@@ -1,6 +1,4 @@
-# NON-GONOCOCCAL URETHRITIS / CERVICITIS (NGU/NGC)
-
-## 1. Definisi
+# 1. Definisi
 
 - **Non-gonococcal urethritis (NGU)** adalah **sindrom inflamasi uretra** yang disebabkan oleh mikroorganisme **selain _Neisseria gonorrhoeae_**.
     
@@ -23,7 +21,7 @@
 
 ---
 
-## 2. Epidemiologi
+# 2. Epidemiologi
 
 - **Rasio NGU : gonore** ≈ **2–3 : 1**.
     
@@ -44,9 +42,9 @@
 
 ---
 
-## 3. Patogenesis
+# 3. Patogenesis
 
-### A. _Chlamydia trachomatis_
+## A. _Chlamydia trachomatis_
 
 _Chlamydia trachomatis_ memiliki **siklus hidup intraseluler** yang khas dan berlangsung sekitar **48–72 jam**.
 
@@ -83,7 +81,7 @@ Karena _C. trachomatis_ merupakan **bakteri intraseluler obligat**, pemilihan an
 
 ---
 
-## 4. Manifestasi Klinis
+# 4. Manifestasi Klinis
 
 Manifestasi berbeda antara laki-laki dan perempuan, dan sebagian besar perempuan dapat **asimtomatik**.
 
@@ -117,11 +115,11 @@ Manifestasi berbeda antara laki-laki dan perempuan, dan sebagian besar perempuan
 
 ---
 
-## 5. Diagnosis
+# 5. Diagnosis
 
 Diagnosis NGU/NGC ditegakkan melalui **anamnesis + pemeriksaan klinis + pemeriksaan penunjang**.
 
-### A. Anamnesis
+## A. Anamnesis
 
 Hal yang perlu digali:
 
@@ -138,7 +136,7 @@ Hal yang perlu digali:
 - Durasi keluhan, terutama keluhan yang berlangsung **<6 minggu**.
     
 
-### B. Pemeriksaan klinis
+## B. Pemeriksaan klinis
 
 - **Inspeksi**:
     
@@ -157,7 +155,7 @@ Hal yang perlu digali:
 - **Palpasi** bila diperlukan untuk menilai nyeri tekan uretra, pelvis, atau struktur genital terkait.
     
 
-### C. Pemeriksaan penunjang
+## C. Pemeriksaan penunjang
 
 1. **Pewarnaan Gram**
     
@@ -188,9 +186,9 @@ Hal yang perlu digali:
 
 ---
 
-## 6. Diagnosis Banding
+# 6. Diagnosis Banding
 
-### Laki-laki
+## Laki-laki
 
 - **Gonore**
     
@@ -205,7 +203,7 @@ Hal yang perlu digali:
 - Balanitis
     
 
-### Perempuan
+## Perempuan
 
 - **Gonore**
     
@@ -224,7 +222,7 @@ Hal yang perlu digali:
 
 ---
 
-## 7. Tatalaksana
+# 7. Tatalaksana
 
 Tujuan terapi:
 
@@ -237,7 +235,7 @@ Tujuan terapi:
 - mencegah transmisi kepada pasangan.
     
 
-### A. Lini pertama
+## A. Lini pertama
 
 **Doxycycline 100 mg oral, 2× sehari selama 7 hari.**
 
@@ -246,20 +244,20 @@ Tujuan terapi:
 - Karena _C. trachomatis_ merupakan organisme intraseluler, antibiotik dengan penetrasi jaringan/intraseluler yang baik menjadi pertimbangan penting.
     
 
-### B. Alternatif
+## B. Alternatif
 
 **Azithromycin 1 g oral dosis tunggal.**
 
 ⚠️ Namun, penggunaan azithromycin dosis tunggal semakin dibatasi karena masalah **resistensi _M. genitalium_** dan efektivitasnya yang lebih rendah terhadap organisme tersebut dibandingkan regimen doxycycline.
 
-### C. Kehamilan dan menyusui
+## C. Kehamilan dan menyusui
 
 - **Doxycycline kontraindikasi** pada kehamilan.
     
 - Alternatif yang digunakan dalam materi: **azithromycin 1 g oral dosis tunggal**.
     
 
-### D. Gagal terapi
+## D. Gagal terapi
 
 Pada pasien dengan gejala yang menetap atau mengalami kekambuhan setelah terapi:
 
@@ -281,7 +279,7 @@ Regimen yang tercantum dalam materi:
 
 ⚠️ **Catatan penting untuk belajar:** regimen _M. genitalium_ saat ini idealnya disesuaikan dengan **hasil resistance-guided therapy** bila tersedia, karena resistensi makrolida tinggi. Jadi, jangan menghafalkan azithromycin sebagai terapi universal untuk semua NGU.
 
-### E. Edukasi dan terapi pasangan
+## E. Edukasi dan terapi pasangan
 
 - **Pantang hubungan seksual selama 7 hari** setelah terapi sesuai regimen yang digunakan dan sampai pasangan seksual mendapatkan terapi bila diperlukan.
     
@@ -298,9 +296,9 @@ Regimen yang tercantum dalam materi:
 
 ---
 
-## 8. Komplikasi
+# 8. Komplikasi
 
-### Laki-laki 👨
+## Laki-laki 👨
 
 - **Epididimitis** → inflamasi epididimis.
     
@@ -309,7 +307,7 @@ Regimen yang tercantum dalam materi:
 - **Infertilitas** → gangguan kemampuan reproduksi.
     
 
-### Perempuan 👩
+## Perempuan 👩
 
 - **Pelvic inflammatory disease (PID)** → infeksi/inflamasi traktus genitalia bagian atas, termasuk uterus, tuba falopii, dan struktur pelvis terkait.
     
@@ -327,7 +325,7 @@ Regimen yang tercantum dalam materi:
 
 ---
 
-## 9. Pencegahan
+# 9. Pencegahan
 
 - **Safer sex**, terutama penggunaan kondom secara konsisten dan benar. 🛡️
     
@@ -344,7 +342,7 @@ Regimen yang tercantum dalam materi:
 
 ---
 
-## 10. Kesimpulan
+# 10. Kesimpulan
 
 1. **NGU/NGC merupakan sindrom inflamasi uretra atau serviks yang bukan disebabkan oleh _N. gonorrhoeae_.**
     
@@ -365,7 +363,7 @@ Regimen yang tercantum dalam materi:
 9. Pencegahan utama meliputi **safer sex, skrining populasi berisiko, terapi tuntas, dan tata laksana pasangan**.
     
 
-### 🧠 SUPER-FAST REVIEW — NGU/NGC
+## 🧠 SUPER-FAST REVIEW — NGU/NGC
 
 **NGU = “BUKAN GONO”**
 
