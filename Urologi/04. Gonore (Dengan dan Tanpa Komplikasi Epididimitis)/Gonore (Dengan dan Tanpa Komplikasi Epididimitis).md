@@ -403,37 +403,27 @@ Kalau perempuan datang dengan **duh vagina**, jangan langsung gonore karena diag
 
 Pilihan terapi:
 
-**a. Sefiksim**
-
-- **400 mg** per oral **dosis tunggal**
-    
-- + azitromisin 1 g per oral dosis tunggal
-    
+**a. Sefiksim 400 mg** per oral dosis tunggal + **azitromisin 1 g** per oral dosis tunggal
 
 ATAU
 
-**b. Seftriakson**
-
-- **250 mg IM dosis tunggal**
-    
-- **+ azitromisin 1 g per oral dosis tunggal**.
-    
+**b. Seftriakson 250 mg** IM dosis tunggal + **azitromisin 1 g** per oral dosis tunggal.
 
 ### Bila terjadi kegagalan terapi
 
 Apabila terapi anjuran di atas gagal dan **tidak ditemukan pajanan ulang**, diberikan salah satu:
 
-- **Seftriakson 500 mg IM dosis tunggal + azitromisin 2 g per oral dosis tunggal**
+- **Seftriakson 500 mg** IM dosis tunggal + **azitromisin 2 g** per oral dosis tunggal
     
 
-**ATAU**
+ATAU
 
-- **Sefiksim 800 mg + azitromisin 2 g per oral dosis tunggal**
+- **Sefiksim 800 mg** + **azitromisin 2 g** per oral dosis tunggal
     
 
-**ATAU**
+ATAU
 
-- **Gentamisin 240 mg IM dosis tunggal + azitromisin 2 g per oral dosis tunggal**.
+- **Gentamisin 240 mg** IM dosis tunggal + **azitromisin 2 g** per oral dosis tunggal.
     
 
 💡 **Tips hafalan dosis dari materi:**
