@@ -53,7 +53,7 @@ Bayangkan nephron sebagai "pabrik penyaringan":
 
 Pada beberapa penyakit kidney dan urinary tract, **urinalysis** menjadi pemeriksaan laboratorium utama. Delapan kondisi yang disebutkan dalam materi adalah:
 
-1. **Urinary tract infection (UTI)**
+[1. **Urinary tract infection (UTI)**
     
 2. **Acute glomerulonephritis**
     
@@ -68,7 +68,13 @@ Pada beberapa penyakit kidney dan urinary tract, **urinalysis** menjadi pemeriks
 7. **BOD without colic**
     
 8. **Uncomplicated pyelonephritis**
-    
+    ]{
+Pemeriksaan Laboratorium Patologi Klinik terkait Penyakit Sistem Ginjal dan Saluran Kemih
+- Infeksi saluran kemih: Tes Urinalisis, Kultur & Sensitivitas, Tes Darah Rutin
+- Glomerulonefritis akut: Tes Urinalisis, Tes Protein Urin 24 jam, Albumin Darah, LDH, ASTO, Tes Darah Rutin, Tes spesifik lainnya
+- Glomerulonefritis kronik: Tes Urinalisis, Tes Protein Urin 24 jam, Albumin Darah, LDH, Tes Darah Rutin, tes spesifik lainnya.
+- Acute kidney injury: Tes Urinalisis, LFG, kreatinin, ureum, Cystacin C, KIM-1, NGAL, IL-18, .. Tes Darah Rutin… 5. Penyakit ginjal kronik  : Tes Urinalisis, Tes Urine 24 jam, LFG, kreatinin, ureum, Tes Elektrolit, AGD, Tes Darah Rutin.. 6. Sindrom Nefrotik  : Tes Urinalisis, Albumin Darah, Kolesterol Darah, Tes Darah Rutin.. 7. BSK tanpa kolik  : Tes Urinalisis, Tes Analisa Batu Ginjal, Tes Darah Rutin.. 8. Pielonefritis tanpa komplikasi : Tes Urinalisis, Kultur & Sensitivitas, Tes Darah Ruti
+Urinalysis terdiri atas tiga komponen utama:}
 
 Urinalysis terdiri atas tiga komponen utama:
 
