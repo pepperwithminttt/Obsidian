@@ -314,7 +314,7 @@ Yang paling sering keluar untuk interpretasi klinis:
 
 # 6. Microscopic Urinalysis 🔬
 
-Yang diperiksa pada urinalisis mikroskopik
+Komponen yang dinilai pada urinalisis mikroskopik dan nilai normalnya meliputi:
 
 - **Erythrocytes** <5/large field
     
@@ -327,29 +327,6 @@ Yang diperiksa pada urinalisis mikroskopik
 - **Bacteria** <2/large field
     
 
-### Urine sediment preparation
-
-Prosedur:
-
-**10–15 mL urine**  
-↓  
-centrifuge **1500–2000 RPM selama 3–5 menit**  
-↓  
-buang **supernatant**
-↓  
-sisakan sediment sekitar **0.25–0.5 mL**  
-↓  
-ambil **50 µL** dengan pipette  
-↓  
-letakkan pada object glass  
-↓  
-cover dengan coverslip  
-↓  
-observasi menggunakan objective lens **40×**
-
-📌 **Supernatant** = bagian cairan di atas setelah centrifugation.  
-**Sediment** = material yang mengendap di bagian bawah.
-
 ---
 
 # 7. Urine Sediment 🔬
@@ -360,13 +337,13 @@ Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
 - Epithelial cells
     
-- Oval fat bodies
+- [Oval fat bodies]{Sel-sel saluran ginjal (epitel tubulus) atau sel pemakan kotoran (makrofag) yang membengkak karena penuh berisi butiran lemak, dan dapat terlihat pada pemeriksaan mikroskopis sedimen urin}
     
 - Leukocytes
     
 - Erythrocytes
     
-- Casts
+- Casts (Nama lain: Silinder/Granuler/Torak)
     
 - Spermatozoa
     
@@ -437,6 +414,29 @@ Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 **Alkaline → Triple phosphate + Calcium carbonate**
 
 👉 **"ACID = Uric/Oxalate, ALKALI = Triple/CaCO₃"**
+
+### Urine sediment preparation
+
+Prosedur:
+
+**10–15 mL urine**  
+↓  
+centrifuge **1500–2000 RPM selama 3–5 menit**  
+↓  
+buang **supernatant**
+↓  
+sisakan sediment sekitar **0.25–0.5 mL**  
+↓  
+ambil **50 µL** dengan pipette  
+↓  
+letakkan pada object glass  
+↓  
+cover dengan coverslip  
+↓  
+observasi menggunakan objective lens **40×**
+
+📌 **Supernatant** = bagian cairan di atas setelah centrifugation.  
+**Sediment** = material yang mengendap di bagian bawah.
 
 ---
 
