@@ -163,7 +163,7 @@ Hal yang perlu digali:
         
     - Pada uretra: **≥5 PMN/LPB** (_lapang pandang besar/high-power field_).
         
-    - Pada serviks: dapat digunakan **>30 PMN/LPB** sesuai kriteria yang digunakan pada materi.
+    - Pada serviks: dapat digunakan **>30 PMN/LPB**
         
 2. **NAAT/PCR**
     
@@ -252,7 +252,7 @@ Tujuan terapi:
 
 ## C. Kehamilan dan menyusui
 
-- **Doxycycline kontraindikasi** pada kehamilan.
+- **Doxycycline [kontraindikasi]{Karna bisa menembus plasenta dan memiliki efek teratogenik.}** pada kehamilan.
     
 - Alternatif yang digunakan dalam materi: **azithromycin 1 g oral dosis tunggal**.
     
