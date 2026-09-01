@@ -417,68 +417,7 @@ Kriteria diagnosis CAUTI meliputi:
 
 # 🛡️ PREVENTION OF UTI
 
-Strategi prevention dalam materi dibagi berdasarkan **evidence**.
-
-### ✅ Evidence-based interventions
-
-- **Increasing daily fluid intake by 1.5 L**
-    
-- **Voiding after intercourse**
-    
-- **Controlling blood glucose in diabetics**
-    
-- **Avoiding prolonged holding of urine**
-    
-- **Avoidance of spermicides**
-    
-- **Avoiding disruption of normal vaginal microbiota with harsh cleansers**
-    
-- **Vaginal oestrogen**
-    
-- **Methenamine hippurate**
-    
-
-### 🤔 No evidence, but seems sensible
-
-- **Cranberry juice**
-    
-- **D-mannose**
-    
-- **Intravesical hyaluronic acid**
-    
-- **Antibiotic prophylaxis**
-    
-    - Regular
-        
-    - Post-coital
-        
-- **Habitual double micturition** pada pasien dengan:
-    
-    - Modest post-micturition residuals
-        
-    - Significant reflux
-        
-
-### ❌ Praktik yang sebaiknya dihindari
-
-- **Sequential anal and vaginal intercourse**, karena dapat meningkatkan risiko transfer bacteria ke urinary tract.
-    
-
-💡 **Tips menghafal prevention:**
-
-### **“AIR – PIPIS – GULA – JANGAN DITAHAN”** 💧🚽
-
-- 💧 Increase fluid intake
-    
-- 🚽 Voiding after intercourse
-    
-- 🍬 Control diabetes
-    
-- 🚫 Avoid prolonged holding urine
-    
-
-Kemudian ingat faktor yang mengganggu **vaginal microbiota**:  
-→ **No harsh cleansers + avoid spermicides**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788235527000uy75qw.png)
 
 ---
 
