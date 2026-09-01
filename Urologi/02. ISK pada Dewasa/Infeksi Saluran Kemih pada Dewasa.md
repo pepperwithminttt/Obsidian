@@ -59,22 +59,8 @@
 
 ---
  
-# 🚺 ACUTE UNCOMPLICATED CYSTITIS
 
-- **Cystitis** merupakan infeksi pada **urinary bladder**.
-    
-- Gambaran klinis terutama berupa **local bladder signs and symptoms**, yaitu:
-    
-    - [**Dysuria**]{(Painful, burning, or difficult urination)}
-        
-    - **Urinary frequency**
-        
-    - **Urinary urgency**
-        
-    - **Suprapubic pain**
-        
-
-### Uncomplicated UTI
+# UNCOMPLICATED UTI
 
 Uncomplicated UTI dianggap **confined to the bladder**, sehingga **tidak terdapat tanda infeksi yang telah meluas beyond the bladder**.
 
@@ -167,6 +153,20 @@ Pemeriksaan:
     
 
 ---
+# 🚺 ACUTE UNCOMPLICATED CYSTITIS
+
+- **Cystitis** merupakan infeksi pada **urinary bladder**.
+    
+- Gambaran klinis terutama berupa **local bladder signs and symptoms**, yaitu:
+    
+    - [**Dysuria**]{(Painful, burning, or difficult urination)}
+        
+    - **Urinary frequency**
+        
+    - **Urinary urgency**
+        
+    - **Suprapubic pain**
+        
 
 # 🧔 PROSTATITIS
 
@@ -197,6 +197,61 @@ Pemeriksaan:
     
 - Termasuk kondisi pada genitalia yang dapat berkaitan dengan infectious processes.
     
+
+---
+# ⚠️ COMPLICATED UTI (C-UTI)
+
+**Complicated UTI** adalah UTI yang disertai gejala yang menunjukkan bahwa infeksi **extends beyond the bladder** atau melibatkan kondisi tertentu seperti urinary catheterization.
+
+### Clinical Features
+
+Curiga complicated UTI bila terdapat:
+
+- 🌡️ **Fever**
+    
+- **Systemic illness**
+    
+    - Chills
+        
+    - Rigors
+        
+    - Hemodynamic instability
+        
+- **Flank pain**
+    
+- **Costovertebral angle tenderness**
+    
+
+**Pyelonephritis termasuk complicated UTI.**
+
+Selain itu:
+
+- UTI dengan **systemic symptoms** yang berhubungan dengan:
+    
+    - Transurethral catheterization
+        
+    - Suprapubic catheterization
+        
+    - Intermittent catheterization  
+        → termasuk **complicated UTI**.
+        
+
+### Regimen Antibiotic
+
+|Antibiotic|Dosage|
+|---|---|
+|**Amoxicillin-clavulanate**|875–1250 mg every 8–12 hours|
+|**Cefixime**|400 mg once daily|
+|**Cefpodoxime**|200–400 mg every 12 hours|
+|**Ceftibuten**|400 mg daily atau 200 mg every 12 hours|
+|**Cefuroxime**|500 mg every 12 hours|
+|**Cephalexin**|500–1000 mg every 6 hours|
+|**Ciprofloxacin**|500–750 mg every 12 hours|
+|**Levofloxacin**|500–750 mg daily|
+|**TMP-SMX**|800–1600 mg every 12 hours|
+
+💡 **Konsep penting:**  
+Jangan hanya menghafal "complicated = obat X". Yang paling penting adalah mengenali bahwa **systemic involvement → think beyond bladder → complicated UTI**.
 
 ---
 
@@ -275,61 +330,6 @@ Karena keduanya menghasilkan **suboptimal concentrations in renal parenchyma**.
 
 ---
 
-# ⚠️ COMPLICATED UTI (C-UTI)
-
-**Complicated UTI** adalah UTI yang disertai gejala yang menunjukkan bahwa infeksi **extends beyond the bladder** atau melibatkan kondisi tertentu seperti urinary catheterization.
-
-### Clinical Features
-
-Curiga complicated UTI bila terdapat:
-
-- 🌡️ **Fever**
-    
-- **Systemic illness**
-    
-    - Chills
-        
-    - Rigors
-        
-    - Hemodynamic instability
-        
-- **Flank pain**
-    
-- **Costovertebral angle tenderness**
-    
-
-**Pyelonephritis termasuk complicated UTI.**
-
-Selain itu:
-
-- UTI dengan **systemic symptoms** yang berhubungan dengan:
-    
-    - Transurethral catheterization
-        
-    - Suprapubic catheterization
-        
-    - Intermittent catheterization  
-        → termasuk **complicated UTI**.
-        
-
-### Regimen Antibiotic
-
-|Antibiotic|Dosage|
-|---|---|
-|**Amoxicillin-clavulanate**|875–1250 mg every 8–12 hours|
-|**Cefixime**|400 mg once daily|
-|**Cefpodoxime**|200–400 mg every 12 hours|
-|**Ceftibuten**|400 mg daily atau 200 mg every 12 hours|
-|**Cefuroxime**|500 mg every 12 hours|
-|**Cephalexin**|500–1000 mg every 6 hours|
-|**Ciprofloxacin**|500–750 mg every 12 hours|
-|**Levofloxacin**|500–750 mg daily|
-|**TMP-SMX**|800–1600 mg every 12 hours|
-
-💡 **Konsep penting:**  
-Jangan hanya menghafal "complicated = obat X". Yang paling penting adalah mengenali bahwa **systemic involvement → think beyond bladder → complicated UTI**.
-
----
 
 # 🤰 UTI IN PREGNANCY
 
