@@ -349,9 +349,9 @@ Karakteristik umum:
 - Memiliki struktur antigenik yang kompleks.
     
 
-Materi menyebutkan sekitar **20 genus dan 100 spesies**.
+Memiliki sekitar **20 genus dan 100 spesies**.
 
-Genus yang dibahas:
+Genus yang dibahas di PPT:
 
 - _Citrobacter_
     
@@ -382,17 +382,17 @@ _E. coli_ merupakan penghuni terbesar usus manusia dan memiliki **waktu generasi
 
 ### Karakteristik
 
-- Basil Gram-negatif pendek / kokobasil.
+- **Basil Gram-negatif pendek / kokobasil.**
     
-- Aerob atau anaerob fakultatif.
+- Aerob atau **anaerob fakultatif.**
     
-- Beberapa strain motil.
+- Beberapa strain **motil.**
     
-- **Catalase positive**
+- [**Catalase positive**]{Arti}
     
 - **Oxidase negative**
     
-- Fermentasi glukosa → menghasilkan gas.
+- Fermentasi glukosa → menghasilkan **gas.**
     
 - **H₂S negative**
     
