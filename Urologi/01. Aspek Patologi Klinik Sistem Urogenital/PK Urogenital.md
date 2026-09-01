@@ -648,45 +648,37 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-## 12. Creatinine Clearance Methods 📐
+# 12. Metode Menghitung Creatinine Clearance 📐
 
 #### 24-hour urine collection
 
 Secara prinsip:
 
-**Creatinine clearance = (urine creatinine × urine volume per unit time) / serum creatinine**
-
-Pada slide dituliskan menggunakan:
-
-- Creatinine level
-    
-- 24-hour urine volume
-    
-- Blood/serum creatinine level
-    
+**Creatinine clearance = (kadar kreatinin urin × volume urine per [unit time]{Misal klo pke urin 24 jam brrti per 24 jam}) / kadar kreatinin darah**
 
 ---
 
 #### Cockcroft-Gault Equation
 
-Untuk adult:
+Ini adalah rumus yang terkenal dan masih sering dipakai untuk estimasi klirens kreatinin, terutama dalam konteks tertentu seperti penyesuaian dosis obat.
 
-**Male:**
+Untuk laki-laki:
 
-CrCl=(140−age)×weight72×Serum CreatinineCrCl = \frac{(140-age)\times weight}{72\times Serum\ Creatinine}
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788232142000kqzmbm.png)
 
-Untuk female:
+Untuk perempuan:
 
-CrClfemale=CrClmale×0.85CrCl_{female}=CrCl_{male}\times0.85
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882321760000hv331.png)z
 
 Keterangan:
 
-- Age → years
+- Age: years
     
-- Weight → kg
+- Weight: kg
     
-- Serum creatinine → mg/dL
+- Serum creatinine: mg/dL
     
+- Hasil: mL/menit
 
 🧠 **Hafalan Cockcroft:**  
 **"140 − Age × Weight / 72 × Cr"**
@@ -695,7 +687,7 @@ Jangan lupa **female × 0.85**.
 
 ---
 
-# 13. CKD-EPI Equation
+#### CKD-EPI Equation
 
 **CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine.
 
@@ -722,7 +714,7 @@ Komponen yang dijelaskan pada slide:
 
 ---
 
-# 14. Schwartz Equation 👶
+#### Schwartz Equation 👶
 
 Untuk **children <18 years**, digunakan **Schwartz equation**.
 
@@ -742,7 +734,7 @@ Parameter:
 
 ---
 
-# 15. Laboratory Examination According to Disease 🩺
+# 13. Laboratory Examination According to Disease 🩺
 
 Bagian akhir slide merangkum pemeriksaan yang berkaitan dengan beberapa penyakit kidney dan urinary tract.
 
