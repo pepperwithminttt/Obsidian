@@ -453,7 +453,7 @@ Kalau ditanya **gold standard/baku emas → NAAT**.
 
 - **MIF (microimmunofluorescence)**
     
-    - Titer IgG **≥1:256** mendukung LGV.
+    - [Titer IgG **≥1:256** mendukung LGV.]{**Titer IgG ≥1:256** berarti pada pemeriksaan **MIF (microimmunofluorescence)**, antibodi **IgG terhadap _C. trachomatis_** masih dapat terdeteksi walaupun serum pasien sudah **diencerkan sampai 1:256**.}
         
     - Berguna bila NAAT tidak tersedia.
         
@@ -499,11 +499,11 @@ Pada LGV perlu dilakukan skrining:
 
 ### Penyakit yang dapat ditimbulkan
 
-- Urethritis pada laki-laki
+- Urethritis pada laki-laki (Jarang pada perempuan)
     
 - Cervicitis pada perempuan
     
-    - Dapat berkembang menjadi **PID**
+    - Dapat berkembang menjadi [**PID**]{**PID** secara umum paling sering merujuk pada **Penyakit Radang Panggul** atau dalam bahasa Inggris disebut sebagai _Pelvic Inflammatory Disease_.}
         
     - Infertilitas/sterility
         
