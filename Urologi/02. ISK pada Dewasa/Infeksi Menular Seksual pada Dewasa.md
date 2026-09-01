@@ -115,13 +115,13 @@ Pemeriksaan:
         
 - **Urine dipstick**
     
-    - **Nitrite (+)**
+    - [**Nitrite (+)**]{Artinya ada bakteri yang bisa mengubah nitrat menjadi nitrit.}
         
-    - **Leukocyte esterase (+)**
+    - [**Leukocyte esterase (+)**]{Artinya ada leukosit di urin.}
         
-- **Urine culture**
+- **Urine culture (PEMERIKSAAN GOLD STANDARD)**
     
-    - Pertumbuhan pathogenic organism **>10⁵ CFU**
+    - Pertumbuhan organisme patogen **>10⁵ [CFU]{CFU = Colony Forming Unit}**
         
 
 💡 **Hafalan dipstick:**  
