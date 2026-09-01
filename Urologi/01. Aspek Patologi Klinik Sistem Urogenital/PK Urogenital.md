@@ -85,13 +85,13 @@ Urinalysis terdiri atas tiga komponen utama:
 
 Pemilihan jenis urine bergantung pada tujuan pemeriksaan.
 
-|Jenis spesimen|Kegunaan|
-|---|---|
-|**Urine untuk qualitative examination**|Menilai ada/tidaknya suatu substansi|
-|**Morning urine**|Routine urinalysis dan pregnancy test|
-|**Urine 2 hours after meal**|Pemeriksaan glucose|
-|**12-hour/24-hour urine collection**|Pemeriksaan quantitative|
-|**Residual urine**|Menilai ada/tidaknya urinary obstruction|
+| Jenis spesimen                                    | Kegunaan                                 |
+| ------------------------------------------------- | ---------------------------------------- |
+| **Urine sewaktu (untuk qualitative examination)** | Menilai ada/tidaknya suatu substansi     |
+| **Morning urine**                                 | Routine urinalysis dan pregnancy test    |
+| **Urine 2 hours after meal**                      | Pemeriksaan glucose                      |
+| **12-hour/24-hour urine collection**              | Pemeriksaan quantitative                 |
+| **Residual urine**                                | Menilai ada/tidaknya urinary obstruction |
 
 Morning urine sering digunakan karena lebih terkonsentrasi sehingga lebih memudahkan deteksi berbagai komponen urine.
 
