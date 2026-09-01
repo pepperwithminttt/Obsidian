@@ -343,14 +343,9 @@ Karena keduanya menghasilkan **konsentrasi obat yang suboptimal di parenkim ginj
 
 - **Nitrofurantoin**
     
-- **Fosfomycin** (Paling )
+- **Fosfomycin** (Paling direkomendasikan untuk mengobati UTI pada ibu hamil.)
     
 - **Oral β-lactams**
-    
-
-dapat digunakan pada pregnancy berdasarkan materi ini.
-
-- **Fosfomycin** disebut sebagai terapi yang paling direkomendasikan untuk UTI in pregnancy pada materi.
     
 
 💡 **Hafalan:**  
@@ -363,15 +358,15 @@ Berbeda dengan kondisi tertentu pada non-pregnant patient, **ASB pada pregnancy 
 
 ### Definition
 
-CAUTI berkaitan dengan **indwelling urinary catheter** yang terpasang selama **>2 consecutive days** pada inpatient location.
+CAUTI berkaitan dengan **indwelling urinary catheter** yang terpasang selama **>2 hari berturut-turut** pada pasien.
 
-Kriteria meliputi:
+Kriteria diagnosis CAUTI meliputi:
 
 - **Urine culture**
     
     - Tidak lebih dari **2 organisms**
         
-    - Salah satu organism memiliki bacterial count **>10⁵ CFU/mL**
+    - Salah satu organism memiliki bacterial count **>10⁵ [CFU]{Colony Forming Unit}/mL**
         
 - Disertai **≥1 clinical sign/symptom:**
     
@@ -390,19 +385,19 @@ Kriteria meliputi:
 
 ### Management
 
-1. **Discontinue indwelling catheter** bila sudah tidak diperlukan.
+1. **Hentikan pemakaian indwelling catheter** bila sudah tidak diperlukan.
     
-2. Jika catheter masih diperlukan:
+2. Jika kateter masih diperlukan:
     
-    - **Replace catheter**, terutama bila catheter sudah terpasang **>2 minggu**.
+    - **Ganti kateter**, terutama bila kateter sudah terpasang **>2 minggu**.
         
-3. Mulai **antimicrobial therapy** bila suspected CAUTI.
+3. Mulai **terapi antimikroba** bila curiga CAUTI.
     
-4. Terapi kemudian **tailored to urine culture results**.
+4. Terapi **disesuaikan dengan hasil kultur urin**.
     
-5. Durasi antimicrobial:
+5. Durasi terapi antimikroba:
     
-    - **7 days** kemungkinan cukup bila pasien menunjukkan **clinical improvement** setelah memulai antimicrobial therapy.
+    - **7 hari** kemungkinan cukup bila pasien menunjukkan perbaikan klinis setelah memulai terapi antimikroba.
         
 
 💡 **Hafalan CAUTI:**
