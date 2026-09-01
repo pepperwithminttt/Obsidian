@@ -1019,9 +1019,7 @@ B. Basil Gram-negatif, oksidase negatif, anaerob obligat, memfermentasi laktosa
 C. Kokus Gram-positif, katalase negatif, membentuk rantai
 D. Basil Gram-negatif, urease positif, sangat motil
 E. Kokus Gram-positif, koagulase negatif, flora kulit
-### Jawaban soal 2 → **A. Basil Gram-negatif, oksidase positif, aerob obligat, tidak memfermentasi karbohidrat** ✅
-
-
+### Jawaban soal 2 → **A** ✅
 
 Pasien ICU dengan kateter urin menetap memiliki risiko **UTI nosokomial**.
 
