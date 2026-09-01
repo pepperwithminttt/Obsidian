@@ -88,6 +88,7 @@ Tidak terdapat:
     
 - ❌ [**Costovertebral angle (CV) tenderness**]{Rasa nyeri atau sakit saat area sudut iga-vertebrata (bagian punggung bawah di tepi tulang rusuk ke-12 dan tulang belakang) ditekan atau diketuk.}
     
+![gh|195](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788225496000y89qjc.png)
 
 👉 Jadi, gambaran khasnya adalah **“local bladder symptoms tanpa systemic involvement.”**
 
