@@ -1116,6 +1116,9 @@ Sekitar **2–10 minggu** sejak kontak awal.
 Lesi primer:  
 **papule → ulcer/chancre**
 
+![gh|329](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882828760009a3ida.png)
+
+
 Karakteristik **chancre**:
 
 - **Painless**
@@ -1207,6 +1210,11 @@ Pada fase ini:
     
 - Lesi dapat berwarna **copper-colored**.
     
+
+![gh|414](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788282957000lfkmyk.png)
+![gh|509](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788283012000ishigw.png)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788283024000nggvqj.png)
+
 
 🧠 **Classic clue:**  
 **Secondary syphilis + palms & soles** ✋🦶 → sangat penting untuk diingat.
