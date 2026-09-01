@@ -537,8 +537,6 @@ Materi juga memperlihatkan:
 - **Trichomonas**
     
 
-Yeast dapat menunjukkan bentuk **budding**.
-
 ![gh|535](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231099000hnxj34.png)
 
 ![gh|535](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882311170002ruf2h.png)
@@ -549,35 +547,25 @@ Yeast dapat menunjukkan bentuk **budding**.
 
 ![gh|316](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882311780009buewe.png)
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231190000cyw09c.png)
-
-
-
+![gh|316](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231190000cyw09c.png)
 
 ---
 
 # 8. Kidney Function Test 🫘🧪
 
-Penilaian fungsi kidney dalam materi meliputi fungsi:
+Penilaian fungsi kidney meliputi fungsi:
 
-|Bagian|Pemeriksaan|
-|---|---|
-|**Glomerulus**|Urea, creatinine, GFR|
-|**Tubules**|SG, urine Na, glucose|
-|**Tubules + glomerulus**|Urine volume, β2-macroglobulin, blood uric acid|
-
-🧠 **Hafalan:**
-
-**GLOMERULUS = GFR + Creatinine**  
-**TUBULE = SG + Na + Glucose**
+| Bagian                   | Pemeriksaan                                     |
+| ------------------------ | ----------------------------------------------- |
+| **Glomerulus**           | Urea, creatinine, GFR                           |
+| **Tubules**              | Berat jenis, urine Na, glucose                  |
+| **Tubules + glomerulus** | Urine volume, β2-macroglobulin, blood uric acid |
 
 ---
 
 # 9. Creatinine 🧪
 
 **Creatinine** merupakan marker yang sering digunakan untuk menilai fungsi glomerular filtration.
-
-Materi menyebutkan bahwa:
 
 - Creatinine relatif lebih sedikit dipengaruhi oleh meat intake dibandingkan beberapa marker lain, terutama ketika GFR rendah.
     
@@ -586,11 +574,11 @@ Materi menyebutkan bahwa:
 - Peningkatan creatinine berkaitan dengan penurunan kidney function dan dapat ditemukan pada CKD.
     
 
-Reference values pada slide:
+Nilai rujukan:
 
-- **0.6–0.9 mg/dL**
+- Perempuan: **0.6–0.9 mg/dL**
     
-- **0.7–1.1 mg/dL**
+- Laki-laki: **0.7–1.1 mg/dL**
     
 
 📌 **Konsep penting:**  
