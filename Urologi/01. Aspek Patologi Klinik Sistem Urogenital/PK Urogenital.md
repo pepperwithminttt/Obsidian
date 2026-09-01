@@ -13,7 +13,7 @@ Fungsi utama kidney:
 - Mempertahankan **electrolyte balance**.
 - Mengekskresikan **metabolic waste products**.
 - Berperan dalam regulasi **blood pressure** melalui fungsi hormonal.
-- [Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.]{Itulah kenapa pasien gagal ginjal biasa anemia}
+- [Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.]{Itulah kenapa pasien gagal ginjal biasa anemia karna defisiensi eritropoietin.}
 
 ### Urinary system
 
@@ -21,7 +21,7 @@ Urinary system terdiri atas:
 
 **Kidney → Ureter → Bladder → Urethra**
 
-Unit fungsional terkecil kidney adalah **nephron**.
+Unit fungsional terkecil kidney adalah [**nephron**.]{Nephron terdiri dari 2 struktur utama: korpuskel dan tubulus renalis.}
 
 ### Urine formation
 
