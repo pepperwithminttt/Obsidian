@@ -29,7 +29,7 @@
     
 - **Laki-laki > perempuan** dalam manifestasi klinis.
     
-- Pada perempuan, infeksi lebih sering **asimtomatik**, karena pada perempuan ada dibilang keputihan, jdi kadang dikira cuma keputihan padahal dia lgi infeksi jdi tdk dapat tidak terdiagnosis dan berlanjut menjadi komplikasi.
+- Pada perempuan, infeksi lebih sering **asimtomatik**, karena pada perempuan ada dibilang keputihan, jdi kadang dikira cuma keputihan (padahal aslinya dia lgi infeksi) jdi dapat tidak terdiagnosis dan berlanjut menjadi komplikasi.
     
 - _**M. genitalium**_ semakin penting secara epidemiologis karena:
     
@@ -85,14 +85,14 @@ Karena _C. trachomatis_ merupakan **bakteri intraseluler obligat**, pemilihan an
 
 Manifestasi berbeda antara laki-laki dan perempuan, dan sebagian besar perempuan dapat **asimtomatik**.
 
-|Laki-laki 👨|Perempuan 👩|
-|---|---|
-|**Duh uretra**: mukoid, putih, encer|**Duh serviks**: mukopurulen|
-|Disuria|Disuria|
-|Gatal/iritasi uretra|Nyeri pelvis|
-|Eritema dan edema meatus uretra|Dispareunia|
-|± keluhan uretra lainnya|**Spotting**/perdarahan pervaginam di luar menstruasi|
-|±25% dapat asimtomatik|±70% dapat asimtomatik|
+| Laki-laki 👨                                                                                  | Perempuan 👩                                          |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Duh uretra**: mukoid, putih, encer                                                          | **Duh serviks**: mukopurulen                          |
+| Disuria                                                                                       | Disuria                                               |
+| Gatal/iritasi uretra                                                                          | Nyeri pelvis                                          |
+| [Eritema dan edema meatus uretra]{Lebih parah dan nyeri pada Gonore dibandingkan non-Gonore.} | Dispareunia                                           |
+| ± keluhan uretra lainnya                                                                      | **Spotting**/perdarahan pervaginam di luar menstruasi |
+| ±25% dapat asimtomatik                                                                        | ±70% dapat asimtomatik                                |
 
 - **Duh mukoid** → sekret dengan konsistensi lebih kental daripada cairan biasa, tetapi tidak sepekat pus.
     
