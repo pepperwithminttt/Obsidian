@@ -485,44 +485,72 @@ Artinya, pada gonore tanpa komplikasi, prognosis terhadap kehidupan, fungsi, dan
 
 # 🧠 RANGKUMAN SUPER CEPAT UNTUK UJIAN
 
-**GONORE = _N. gonorrhoeae_** 🦠
-
-- **Etiologi:** Gram negatif, diplokokus, obligat manusia.
+- **Etiologi:** _Neisseria gonorrhoeae_ → bakteri **Gram negatif, diplokokus, obligat manusia**, dan dapat ditemukan intraseluler.
     
-- **Penularan:** hubungan seksual; neonatus dapat tertular melalui jalan lahir.
+- **Penularan:** hubungan seksual; neonatus dapat tertular saat melewati jalan lahir ibu yang terinfeksi.
     
-- **Laki-laki:**  
-    **disuria + duh purulen + meatus hiperemis/edema**.
+- **Patogenesis:**  
+    **Pili → Opa & LOS → LOS menempel pada sperma → penataan ulang aktin → ruffles → makropinosom → berkembang biak dalam sel.**
     
-- **Perempuan:**  
-    **±80% asimtomatik** → dapat berupa servisitis, duh mukopurulen, disuria, nyeri pelvis, perdarahan abnormal.
+- **Laki-laki:** **urethral discomfort, disuria + duh tubuh purulen + meatus hiperemis/edema**.
     
-- **Rektal:** gatal, nyeri, tenesmus, discharge.
+- **Perempuan:** sekitar **80% asimtomatik**; dapat berupa duh mukopurulen, disuria, nyeri pelvis, perdarahan uterus di antara siklus haid, dan menorrhagia.
     
-- **Faring:** sering asimtomatik.
+- **Infeksi lain:**
     
-- **Neonatus:** konjungtivitis.
-    
+    - Rektal → gatal, nyeri, tenesmus, discharge.
+        
+    - Faring → sering asimtomatik.
+        
+    - Neonatus → konjungtivitis.
+        
 - **Diagnosis:** anamnesis + pemeriksaan fisik + pemeriksaan penunjang.
     
-- **Penunjang:** Gram, kultur, tes oksidasi/fermentasi/beta-laktamase, NAAT, POCT.
+- **Pemeriksaan penunjang:**  
+    **Pewarnaan Gram → kultur → tes oksidasi, fermentasi, beta-laktamase → NAAT → POCT.**
     
+- **Media kultur:**
+    
+    - **Media Stuart**
+        
+    - **Amies with charcoal**
+        
+    - **Agar coklat Thayer-Martin** sebagai media pertumbuhan selektif dan nutritif.
+        
 - **Diagnosis banding:** uretritis non-spesifik, ISK, servisitis nonspesifik, trikomoniasis, vaginosis bakterialis, kandidosis vulvovaginalis.
     
-- **Pencegahan:** kondom + membatasi pasangan + edukasi.
+
+### 💊 Tatalaksana
+
+Gonore pada serviks, uretra, dan rektum pada dewasa & remaja:
+
+- **Sefiksim 400 mg PO dosis tunggal + azitromisin 1 g PO dosis tunggal**  
+    ATAU
     
-- **Prognosis tanpa komplikasi:** **bonam**.
+- **Seftriakson 250 mg IM dosis tunggal + azitromisin 1 g PO dosis tunggal.**
     
 
-### 🔥 Mnemonik inti
+Jika gagal terapi dan tidak ditemukan pajanan ulang:
 
-> **“GONO = Gram negatif, Gonokokus berpasangan, keluar Nanah, Oke kalau tanpa komplikasi.”**
+- **Seftriakson 500 mg IM dosis tunggal + azitromisin 2 g PO dosis tunggal**  
+    ATAU
+    
+- **Sefiksim 800 mg + azitromisin 2 g PO dosis tunggal**  
+    ATAU
+    
+- **Gentamisin 240 mg IM dosis tunggal + azitromisin 2 g PO dosis tunggal.**
+    
+- Pencegahan: membatasi jumlah pasangan seksual, mengenal pasangan dan kebiasaan seksual pasangan, menggunakan kondom, serta edukasi/sosialisasi.
+    
+- Prognosis tanpa komplikasi: quo ad vitam, functionam, dan sanationam = bonam.
+    
+- Dengan komplikasi: prognosis bergantung pada berat-ringannya komplikasi.
+    
 
-Dan untuk laki-laki:
+💡 **Kunci hafalan pemeriksaan:**  
+**“GRAM → KULTUR → TES → NAAT/POCT”**  
+dan kultur gonore ingat **“Stuart – Amies charcoal – Thayer-Martin.”** 🧫
 
-> **“GONORE = GONOrrea purulen + dysuria + meatus merah.”** 🚹🦠
-
-Untuk perempuan, ingat angka sakti:
-
-> **“80% perempuan = diam-diam.”** 🤫  
-> Jadi **asimtomatik bukan berarti tidak terinfeksi**.
+💊 **Kunci tatalaksana dari materi:**  
+**Awal = Seftriakson/Sefiksim + Azi 1 g**  
+**Gagal = antibiotik dosis lebih tinggi + Azi 2 g.**
