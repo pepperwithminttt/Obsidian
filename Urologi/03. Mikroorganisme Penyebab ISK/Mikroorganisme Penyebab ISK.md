@@ -383,21 +383,13 @@ _E. coli_ merupakan penghuni terbesar usus manusia dan memiliki **waktu generasi
 ### Karakteristik
 
 - **Basil Gram-negatif pendek / kokobasil.**
-    
 - Aerob atau **anaerob fakultatif.**
-    
 - Beberapa strain **motil.**
-    
-- [**Catalase positive**]{Arti}
-    
-- **Oxidase negative**
-    
+- [Catalase positive]{Bakteri menghasilkan enzim katalase. Enzim ini memecah hidrogen peroksida H2O2 yang beracun menjadi air H2O dan oksigen O2. Uji ini menghasilkan gelembung udara. Sifat ini membantu bakteri bertahan hidup di lingkungan beroksigen.}
+- [**Oxidase negative**]{Bakteri tidak memiliki enzim sitokrom c oksidase. Enzim ini biasanya digunakan dalam rantai respirasi aerob. E. coli menggunakan jalur respirasi atau fermentasi lain untuk menghasilkan energi. Ciri ini membedakan E. coli dari bakteri batang gram negatif lainnya seperti Pseudomonas.}
 - Fermentasi glukosa → menghasilkan **gas.**
-    
-- **H₂S negative**
-    
+- [**H₂S negative**]{Bakteri tidak memproduksi gas hidrogen sulfida H2S. Bakteri tidak memecah asam amino mengandung sulfur (seperti sistein). Pada media uji (seperti TSIA), tidak terbentuk endapan hitam. Ciri ini membedakan E. coli dari bakteri Salmonella atau Proteus yang menghasilkan warna hitam H2S positif).}
 - Tidak menggunakan sitrat sebagai sumber energi.
-    
 
 ### Faktor virulensi
 
