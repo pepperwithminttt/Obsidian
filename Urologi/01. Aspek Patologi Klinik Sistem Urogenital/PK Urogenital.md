@@ -1,5 +1,5 @@
 # Clinical Pathology Aspects of Urogenital System 🩺🧪
-# 2. Kidney & Urinary System 🫘
+# 1. Kidney & Urinary System 🫘
 
 ## Kidney
 
@@ -15,9 +15,9 @@ Fungsi utama kidney:
     
 - Mengekskresikan **metabolic waste products**.
     
-- Berperan dalam regulasi **blood pressure** melalui fungsi hormonal.
+- Berperan dalam regulasi **blood pressure** melalui fungsi hormonal (RAAS).
     
-- Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.
+- Berperan dalam **erythrocyte maturation**, terutama melalui produksi [**erythropoietin**.]{Itulah kenapa pasien gagal ginjal sering anemia karena defisiensi eritropoietin.}
     
 
 ## Urinary system
@@ -26,11 +26,12 @@ Urinary system terdiri atas:
 
 **Kidney → Ureter → Bladder → Urethra**
 
-Unit fungsional terkecil kidney adalah **nephron**.
+Unit fungsional terkecil kidney adalah [**nephron**.]{Nephron terdiri dari 2 struktur utama: korpuskel dan tubulus renalis.}
 
 ## Urine formation
 
-Pembentukan urine berlangsung melalui tiga proses utama:
+[Pembentukan urine]{![gh|460](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788227788000omi92n.png)
+} berlangsung melalui tiga proses utama:
 
 1. **Glomerular filtration**
     
@@ -47,7 +48,7 @@ Bayangkan nephron sebagai "pabrik penyaringan":
 
 ---
 
-# 3. Urinalysis 🧪
+# 2. Urinalysis 🧪
 
 Pada beberapa penyakit kidney dan urinary tract, **urinalysis** menjadi pemeriksaan laboratorium utama. Delapan kondisi yang disebutkan dalam materi adalah:
 
@@ -79,7 +80,7 @@ Urinalysis terdiri atas tiga komponen utama:
 
 ---
 
-# 4. Urine Specimen 🧴
+# 3. Urine Specimen 🧴
 
 Pemilihan jenis urine bergantung pada tujuan pemeriksaan.
 
@@ -113,7 +114,7 @@ Tujuannya agar:
 
 ---
 
-# 5. Macroscopic Urinalysis 👀
+# 4. Macroscopic Urinalysis 👀
 
 Komponen yang dinilai meliputi:
 
@@ -282,7 +283,7 @@ Bau abnormal yang disebutkan:
 
 ---
 
-# 6. Dipstick Urinalysis 🧪
+# 5. Dipstick Urinalysis 🧪
 
 **Urine dipstick** merupakan plastic strip yang memiliki beberapa area pemeriksaan. Setiap area mengandung **specific reagent** yang bereaksi terhadap substansi tertentu di dalam urine.
 
@@ -336,7 +337,7 @@ Yang paling sering keluar untuk interpretasi klinis:
 
 ---
 
-# 7. Microscopic Urinalysis 🔬
+# 6. Microscopic Urinalysis 🔬
 
 Nilai yang dicantumkan pada materi:
 
@@ -376,7 +377,7 @@ observasi menggunakan objective lens **40×**
 
 ---
 
-# 8. Urine Sediment 🔬
+# 7. Urine Sediment 🔬
 
 Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
@@ -464,7 +465,7 @@ Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
 ---
 
-# 9. Epithelial Cells & Casts 🧫
+# 8. Epithelial Cells & Casts 🧫
 
 ### Epithelial cells
 
@@ -525,7 +526,7 @@ Jadi kalau ada cast, pikirkan bahwa material tersebut **terbentuk di dalam tubul
 
 ---
 
-# 10. Other Urine Sediment Findings 🔬
+# 9. Other Urine Sediment Findings 🔬
 
 Materi juga memperlihatkan:
 
@@ -548,7 +549,7 @@ Yeast dapat menunjukkan bentuk **budding**.
 
 ---
 
-# 11. Kidney Function Test 🫘🧪
+# 10. Kidney Function Test 🫘🧪
 
 Penilaian fungsi kidney dalam materi meliputi fungsi:
 
@@ -565,7 +566,7 @@ Penilaian fungsi kidney dalam materi meliputi fungsi:
 
 ---
 
-# 12. Creatinine 🧪
+# 11. Creatinine 🧪
 
 **Creatinine** merupakan marker yang sering digunakan untuk menilai fungsi glomerular filtration.
 
@@ -590,7 +591,7 @@ Creatinine berasal dari metabolisme otot dan produksinya relatif konstan. Karena
 
 ---
 
-# 13. Urea
+# 12. Urea
 
 **Urea** terbentuk di **liver** sebagai produk dari **deamination of amino acids**.
 
@@ -621,7 +622,7 @@ Materi menyebutkan bahwa:
 
 ---
 
-# 14. GFR & Clearance 🧮
+# 1. GFR & Clearance 🧮
 
 **Clearance** adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
 
