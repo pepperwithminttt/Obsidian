@@ -257,10 +257,14 @@ Manifestasi dapat berbeda berdasarkan kondisi epitel genital:
 👉 **Kunci perempuan:**  
 **80% asimtomatik** → jangan mengandalkan gejala untuk menyingkirkan gonore pada perempuan. 👀
 
+![gh|309](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178827869900098keq2.png)
+
 ### Neonatus 👶
 
 - Neonatus dari ibu yang terinfeksi dapat mengalami **konjungtivitis**.
     
+
+![gh|299](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788278721000dm50n6.png)
 
 ---
 
@@ -397,16 +401,16 @@ Kalau perempuan datang dengan **duh vagina**, jangan langsung gonore karena diag
 
 ### Infeksi gonore pada serviks, uretra, dan rektum pada dewasa dan remaja
 
-**Pilihan terapi:**
+Pilihan terapi:
 
 **a. Sefiksim**
 
-- **400 mg per oral dosis tunggal**
+- **400 mg** per oral **dosis tunggal**
     
-- **+ azitromisin 1 g per oral dosis tunggal**
+- + azitromisin 1 g per oral dosis tunggal
     
 
-**ATAU**
+ATAU
 
 **b. Seftriakson**
 
