@@ -1,7 +1,7 @@
 # Clinical Pathology Aspects of Urogenital System 🩺🧪
-# 1. Kidney & Urinary System 🫘
+# 2. Kidney & Urinary System 🫘
 
-### Kidney
+## Kidney
 
 **Kidney** terletak di **retroperitoneal cavity**, kira-kira pada level **thoracic vertebra IX hingga lumbar III**. Kidney kanan sedikit lebih rendah dibandingkan kidney kiri karena adanya **liver**.
 
@@ -10,27 +10,34 @@ Berat masing-masing kidney sekitar **120–150 g**.
 Fungsi utama kidney:
 
 - Mempertahankan **water balance**.
+    
 - Mempertahankan **electrolyte balance**.
+    
 - Mengekskresikan **metabolic waste products**.
-- Berperan dalam regulasi **blood pressure** melalui fungsi hormonal (RAAS).
-- [Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.]{Itulah kenapa pasien gagal ginjal biasa anemia karna defisiensi eritropoietin.}
+    
+- Berperan dalam regulasi **blood pressure** melalui fungsi hormonal.
+    
+- Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.
+    
 
-### Urinary system
+## Urinary system
 
 Urinary system terdiri atas:
 
 **Kidney → Ureter → Bladder → Urethra**
 
-Unit fungsional terkecil kidney adalah [**nephron**.]{Nephron terdiri dari 2 struktur utama: korpuskel dan tubulus renalis.}
+Unit fungsional terkecil kidney adalah **nephron**.
 
-### Urine formation
+## Urine formation
 
 Pembentukan urine berlangsung melalui tiga proses utama:
 
-[1. Glomerular filtration
-2. Tubular reabsorption
-3. Tubular secretion]{![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788226875000sqij35.png)
-}
+1. **Glomerular filtration**
+    
+2. **Tubular reabsorption**
+    
+3. **Tubular secretion**
+    
 
 🧠 **Tips hafalan:**  
 **F-R-S → Filter → Reabsorb → Secrete**
@@ -40,29 +47,39 @@ Bayangkan nephron sebagai "pabrik penyaringan":
 
 ---
 
-# 2. Urinalysis 🧪
+# 3. Urinalysis 🧪
 
 Pada beberapa penyakit kidney dan urinary tract, **urinalysis** menjadi pemeriksaan laboratorium utama. Delapan kondisi yang disebutkan dalam materi adalah:
 
-1. Urinary tract infection (UTI)
-2. Acute glomerulonephritis
-3. Chronic glomerulonephritis
-4. Acute kidney injury (AKI)
-5. Chronic kidney disease (CKD)
-6. Nephrotic syndrome
-7. BOD without colic
-8. Uncomplicated pyelonephritis
+1. **Urinary tract infection (UTI)**
+    
+2. **Acute glomerulonephritis**
+    
+3. **Chronic glomerulonephritis**
+    
+4. **Acute kidney injury (AKI)**
+    
+5. **Chronic kidney disease (CKD)**
+    
+6. **Nephrotic syndrome**
+    
+7. **BOD without colic**
+    
+8. **Uncomplicated pyelonephritis**
+    
 
-emeriksaan Laboratorium Patologi Klinik terkait Penyakit Sistem Ginjal dan Saluran Kemih 1. Infeksi saluran kemih  2. Glomerulonefritis akut : Tes Urinalisis, Kultur & Sensitivitas, Tes Darah Rutin : Tes Urinalisis, Tes Protein Urin 24 jam, Albumin Darah, LDH, ASTO, Tes Darah Rutin, Tes spesifik lainnya 3. Glomerulonefritis kronik : Tes Urinalisis, Tes Protein Urin 24 jam, Albumin Darah, LDH, Tes Darah Rutin, tes spesifik lainnya.. 4. Acute kidney injury  : Tes Urinalisis, LFG, kreatinin, ureum, Cystacin C, KIM-1, NGAL, IL-18, .. Tes Darah Rutin… 5. Penyakit ginjal kronik  : Tes Urinalisis, Tes Urine 24 jam, LFG, kreatinin, ureum, Tes Elektrolit, AGD, Tes Darah Rutin.. 6. Sindrom Nefrotik  : Tes Urinalisis, Albumin Darah, Kolesterol Darah, Tes Darah Rutin.. 7. BSK tanpa kolik  : Tes Urinalisis, Tes Analisa Batu Ginjal, Tes Darah Rutin.. 8. Pielonefritis tanpa komplikasi : Tes Urinalisis, Kultur & Sensitivitas, Tes Darah Ruti
 Urinalysis terdiri atas tiga komponen utama:
 
 - **Macroscopic examination**
+    
 - **Urine chemistry examination**
+    
 - **Microscopic examination**
+    
 
 ---
 
-# 3. Urine Specimen 🧴
+# 4. Urine Specimen 🧴
 
 Pemilihan jenis urine bergantung pada tujuan pemeriksaan.
 
@@ -76,23 +93,27 @@ Pemilihan jenis urine bergantung pada tujuan pemeriksaan.
 
 Morning urine sering digunakan karena lebih terkonsentrasi sehingga lebih memudahkan deteksi berbagai komponen urine.
 
-### Syarat spesimen urine
+## Syarat spesimen urine
 
 Urine sebaiknya merupakan **fresh urine**, idealnya diperiksa dalam **1–3 jam**.
 
 Tujuannya agar:
 
 - Warna belum mengalami perubahan.
+    
 - pH belum berubah.
+    
 - Substansi tertentu belum mengalami perubahan.
+    
 - Bacteria belum mengalami multiplikasi secara bermakna.
+    
 
 🧠 **Ingat:**  
 **Urine lama = komposisinya mulai berubah → hasil bisa misleading.**
 
 ---
 
-# 4. Macroscopic Urinalysis 👀
+# 5. Macroscopic Urinalysis 👀
 
 Komponen yang dinilai meliputi:
 
@@ -107,23 +128,38 @@ Volume normal yang tercantum pada materi adalah sekitar **1200–1500 mL/24 hour
 Produksi urine dipengaruhi oleh:
 
 - Body surface area
+    
 - Fluid intake
+    
 - Air humidity
+    
 - Physical activity
+    
 - Mental activity
+    
 - Drugs, misalnya:
+    
     - antipyretics
+        
     - analgesics
+        
     - diuretics
+        
 
 ### Abnormal urine volume
 
 - **Polyuria** → > **2000 mL/24 hours**
+    
 - **Oliguria** → < **400 mL/24 hours**
+    
 - **Anuria** → < **100 mL/24 hours**
+    
 - **Nocturia** → peningkatan urine volume pada malam hari; pada slide disebut >500 mL dengan **SG <1.018**
+    
 - **Pollakiuria** → peningkatan frekuensi miksi dengan volume total yang tetap normal.
+    
 - **Urinary retention** → urine tidak dapat keluar dari bladder; pada slide dicontohkan antara lain karena bladder stones, urethral inflammation, dan BPH.
+    
 
 🧠 **Hafalan volume:**
 
@@ -138,8 +174,11 @@ Produksi urine dipengaruhi oleh:
 Warna normal urine terutama berkaitan dengan pigment:
 
 - **Urochrome**
+    
 - **Uroerythrin**
+    
 - **Urobilin**
+    
 
 Perubahan warna patologis yang dicantumkan:
 
@@ -164,14 +203,20 @@ Normal urine → **clear**.
 Urine yang langsung tampak cloudy setelah miksi dapat disebabkan oleh:
 
 - Phosphate dalam jumlah besar
+    
 - Pus
+    
 - Chyle
+    
 - Blood
+    
 
 Jika awalnya jernih tetapi menjadi cloudy setelah didiamkan, dapat berkaitan dengan:
 
 - Amorphous phosphate
+    
 - Multiplication of bacteria
+    
 
 ---
 
@@ -182,7 +227,9 @@ Normalnya, foam setelah urine dikocok akan **cepat menghilang**.
 Abnormal:
 
 - **Persistent white foam** → proteinuria
+    
 - **Yellow foam** → bilirubinuria
+    
 
 🧠 **Hafalan:**  
 **White foam → Protein**  
@@ -199,12 +246,19 @@ Nilai normal pada slide sekitar **1.003–1.030**, dengan bagian lain mencantumk
 Interpretasi penting:
 
 - **SG meningkat** dapat dipengaruhi oleh:
+    
     - Drugs
+        
     - Contrast fluid
+        
     - Glucose
+        
     - Protein
+        
 - **SG <1.018 setelah overnight fasting** → dapat mengarah pada tubular disorder.
+    
 - **SG ≈ plasma SG (1.010)** → **isosthenuria**, yang pada materi dikaitkan dengan chronic renal failure.
+    
 
 🧠 **Kunci:**  
 **SG = kemampuan memekatkan urine.**
@@ -216,14 +270,19 @@ Interpretasi penting:
 Bau abnormal yang disebutkan:
 
 - **Fruity smell** → ketones
+    
 - **Ammonia smell** → ammonia breakdown
+    
 - **Sulfuric acid smell** → protein breakdown
+    
 - **Stool odor** → intestinal perforation menuju urinary bladder
+    
 - **Foul smell** → pada slide dikaitkan dengan perubahan/abnormalitas urine.
+    
 
 ---
 
-# 5. Dipstick Urinalysis 🧪
+# 6. Dipstick Urinalysis 🧪
 
 **Urine dipstick** merupakan plastic strip yang memiliki beberapa area pemeriksaan. Setiap area mengandung **specific reagent** yang bereaksi terhadap substansi tertentu di dalam urine.
 
@@ -234,7 +293,9 @@ Prinsipnya:
 Intensitas warna dapat dibaca:
 
 1. **Visual**
+    
 2. **Reflection photometer / reflectance photometer**
+    
 
 ### Parameter dipstick
 
@@ -261,23 +322,34 @@ Urutkan dari **fisikokimia → infeksi → metabolik → pigmen**.
 Yang paling sering keluar untuk interpretasi klinis:
 
 - **Leukocyte esterase (+)** → adanya leukocytes dalam urine.
+    
 - **Nitrite (+)** → mendukung bacteriuria oleh bacteria yang dapat mereduksi nitrate menjadi nitrite.
+    
 - **Protein (+)** → proteinuria.
+    
 - **Glucose (+)** → glucosuria.
+    
 - **Ketones (+)** → ketonuria.
+    
 - **Blood (+)** → dapat mendeteksi aktivitas peroxidase dari hemoglobin/myoglobin maupun erythrocytes.
+    
 
 ---
 
-# 6. Microscopic Urinalysis 🔬
+# 7. Microscopic Urinalysis 🔬
 
 Nilai yang dicantumkan pada materi:
 
 - **Erythrocytes** <5/large field
+    
 - **Leukocytes** <5/large field
+    
 - **Epithelial cells** → dapat ditemukan squamous epithelium
+    
 - **Casts** → negative
+    
 - **Bacteria** <2/large field
+    
 
 ### Urine sediment preparation
 
@@ -304,55 +376,84 @@ observasi menggunakan objective lens **40×**
 
 ---
 
-# 7. Urine Sediment 🔬
+# 8. Urine Sediment 🔬
 
 Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
 ### Organic elements
 
 - Epithelial cells
+    
 - Oval fat bodies
+    
 - Leukocytes
+    
 - Erythrocytes
+    
 - Casts
+    
 - Spermatozoa
+    
 - Parasites
+    
 - Bacteria
+    
 - Fungi:
+    
     - spores
+        
     - pseudohyphae
+        
 
 ### Inorganic elements
 
 **Normal crystals:**
 
 - Acidic pH:
+    
     - Uric acid
+        
     - Sodium urate
+        
     - Calcium sulfate
+        
 - Acidic/neutral pH:
+    
     - Calcium oxalate
+        
 - Neutral/alkaline:
+    
     - Triple phosphate
+        
 - Alkaline pH:
+    
     - Calcium carbonate
+        
 
 **Abnormal crystals:**
 
 - Cystine
+    
 - Leucine
+    
 - Cholesterol
+    
 - Tyrosine
+    
 - Bilirubin
+    
 
 **Medicinal crystal:**
 
 - Sulfonamide
+    
 
 **Amorphous material:**
 
 - Phosphate
+    
 - Urate
+    
 
 🧠 **Tips hafalan crystal berdasarkan pH:**
 
@@ -363,14 +464,16 @@ Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
 
 ---
 
-# 8. Epithelial Cells & Casts 🧫
+# 9. Epithelial Cells & Casts 🧫
 
 ### Epithelial cells
 
 Dapat ditemukan:
 
 - **Renal tubular epithelial cells**
+    
 - **Squamous epithelial cells**
+    
 
 ### Casts
 
@@ -385,9 +488,13 @@ Terbentuk akibat **protein precipitation** di tubules, terutama dari **Tamm-Hors
 Gambaran:
 
 - Clear
+    
 - Cylindrical
+    
 - Parallel walls
+    
 - Squared ends
+    
 
 🧠 **Hyaline = H = Healthy-ish** 😆  
 Hyaline cast dalam jumlah kecil dapat ditemukan dan tidak selalu menunjukkan kerusakan berat.
@@ -409,30 +516,39 @@ Mengandung **fat globules** dan bersifat **highly refractile** terhadap cahaya.
 Dapat ditemukan pada kondisi dengan:
 
 - Kidney inflammation
+    
 - Kidney infection
+    
 
 🧠 **Cast = "cetakan tubulus"** 🧱  
 Jadi kalau ada cast, pikirkan bahwa material tersebut **terbentuk di dalam tubulus**, bukan sekadar sel yang lewat dari urinary tract bagian bawah.
 
 ---
 
-# 9. Other Urine Sediment Findings 🔬
+# 10. Other Urine Sediment Findings 🔬
 
 Materi juga memperlihatkan:
 
 - Calcium oxalate
+    
 - Sodium urate
+    
 - Triple phosphate
+    
 - Fungi/yeast
+    
 - Spermatozoa
+    
 - Bacteriuria
+    
 - **Trichomonas**
+    
 
 Yeast dapat menunjukkan bentuk **budding**.
 
 ---
 
-# 10. Kidney Function Test 🫘🧪
+# 11. Kidney Function Test 🫘🧪
 
 Penilaian fungsi kidney dalam materi meliputi fungsi:
 
@@ -449,27 +565,32 @@ Penilaian fungsi kidney dalam materi meliputi fungsi:
 
 ---
 
-# 11. Creatinine 🧪
+# 12. Creatinine 🧪
 
 **Creatinine** merupakan marker yang sering digunakan untuk menilai fungsi glomerular filtration.
 
 Materi menyebutkan bahwa:
 
 - Creatinine relatif lebih sedikit dipengaruhi oleh meat intake dibandingkan beberapa marker lain, terutama ketika GFR rendah.
+    
 - Pada elderly, GFR dapat menurun bersamaan dengan penurunan muscle mass. Karena itu, **normal serum creatinine tidak selalu berarti normal kidney function**.
+    
 - Peningkatan creatinine berkaitan dengan penurunan kidney function dan dapat ditemukan pada CKD.
+    
 
 Reference values pada slide:
 
 - **0.6–0.9 mg/dL**
+    
 - **0.7–1.1 mg/dL**
+    
 
 📌 **Konsep penting:**  
 Creatinine berasal dari metabolisme otot dan produksinya relatif konstan. Karena itu, penurunan GFR menyebabkan clearance creatinine menurun → **serum creatinine meningkat**.
 
 ---
 
-# 12. Urea
+# 13. Urea
 
 **Urea** terbentuk di **liver** sebagai produk dari **deamination of amino acids**.
 
@@ -490,28 +611,40 @@ Peningkatan urea → **hyperuremia**, yang dalam konteks penurunan kidney functi
 Materi menyebutkan bahwa:
 
 - **Urea meningkat lebih dahulu**.
+    
 - Creatinine hanya meningkat cepat ketika kidney damage sudah cukup besar.
+    
 - Creatinine release ke plasma relatif konstan dan sekitar 20% dapat disekresikan oleh tubules.
+    
 
 ⚠️ Jadi jangan menghafal sekadar **"urea = kidney"**. Urea juga dipengaruhi oleh berbagai faktor non-renal, sehingga interpretasinya harus bersama parameter lain.
 
 ---
 
-# 13. GFR & Clearance 🧮
+# 14. GFR & Clearance 🧮
 
 **Clearance** adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
 
 Substansi ideal untuk clearance seharusnya:
 
 - Difiltrasi bebas di glomerulus.
+    
 - Tidak direabsorpsi.
+    
 - Tidak disekresikan oleh tubules.
+    
 - Tidak dimetabolisme.
+    
 - Tidak disimpan di kidney.
+    
 - Tidak berikatan dengan protein.
+    
 - Tidak toksik.
+    
 - Tidak memengaruhi filtration rate.
+    
 - Mudah diukur dalam serum dan urine.
+    
 
 ### Creatinine clearance
 
@@ -523,7 +656,7 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-# 14. Creatinine Clearance Methods 📐
+# 15. Creatinine Clearance Methods 📐
 
 ### 24-hour urine collection
 
@@ -534,8 +667,11 @@ Secara prinsip:
 Pada slide dituliskan menggunakan:
 
 - Creatinine level
+    
 - 24-hour urine volume
+    
 - Blood/serum creatinine level
+    
 
 ---
 
@@ -545,17 +681,20 @@ Untuk adult:
 
 **Male:**
 
-\[ CrCl = \frac{(140-age)\times weight}{72\times Serum\ Creatinine} \]
+CrCl=(140−age)×weight72×Serum CreatinineCrCl = \frac{(140-age)\times weight}{72\times Serum\ Creatinine}
 
 Untuk female:
 
-\[ CrCl_{female}=CrCl_{male}\times0.85 \]
+CrClfemale=CrClmale×0.85CrCl_{female}=CrCl_{male}\times0.85
 
 Keterangan:
 
 - Age → years
+    
 - Weight → kg
+    
 - Serum creatinine → mg/dL
+    
 
 🧠 **Hafalan Cockcroft:**  
 **"140 − Age × Weight / 72 × Cr"**
@@ -564,33 +703,45 @@ Jangan lupa **female × 0.85**.
 
 ---
 
-# 15. CKD-EPI Equation
+# 16. CKD-EPI Equation
 
 **CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine.
 
 Komponen yang dijelaskan pada slide:
 
 - **Scr** = serum creatinine dalam mg/dL
+    
 - **κ (kappa)**:
+    
     - Female = 0.7
+        
     - Male = 0.9
+        
 - **α (alpha)**:
+    
     - Female = −0.241
+        
     - Male = −0.302
+        
 - **min** = nilai minimum dari Scr/κ atau 1
+    
 - **max** = nilai maksimum dari Scr/κ atau 1
+    
 
 ---
 
-# 16. Schwartz Equation 👶
+# 17. Schwartz Equation 👶
 
 Untuk **children <18 years**, digunakan **Schwartz equation**.
 
 Parameter:
 
 - **Height** → cm
+    
 - **Scr** → serum creatinine, mg/dL
+    
 - **k** → constant yang bergantung pada age dan sex.
+    
 
 🧠 **Gampangnya:**
 
@@ -599,7 +750,7 @@ Parameter:
 
 ---
 
-# 17. Laboratory Examination According to Disease 🩺
+# 18. Laboratory Examination According to Disease 🩺
 
 Bagian akhir slide merangkum pemeriksaan yang berkaitan dengan beberapa penyakit kidney dan urinary tract.
 
