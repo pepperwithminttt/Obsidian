@@ -1213,7 +1213,7 @@ Pada fase ini:
 
 ![gh|414](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788282957000lfkmyk.png)
 ![gh|509](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788283012000ishigw.png)
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788283024000nggvqj.png)
+![gh|375](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788283024000nggvqj.png)
 
 
 🧠 **Classic clue:**  
@@ -1227,7 +1227,7 @@ Pada fase ini:
     
 - Pemeriksaan serologi tetap menunjukkan reaktivitas.
     
-- Materi sumber membagi menjadi:
+- Terbagi menjadi:
     
     - Early latent
         
@@ -1342,6 +1342,8 @@ Lokasi yang dapat terkena:
 
 Gumma dapat muncul dalam rentang waktu yang luas, sekitar **1–46 tahun**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882831910002atxws.png)
+
 ---
 
 ## 9. Congenital Syphilis
@@ -1354,6 +1356,7 @@ Transmisi dapat:
     
 - Saat persalinan jika terdapat lesi aktif pada vaginal canal.
     
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788283228000immr0b.png)
 
 ### Diagnosis congenital syphilis
 
