@@ -314,7 +314,7 @@ Yang paling sering keluar untuk interpretasi klinis:
 
 # 6. Microscopic Urinalysis 🔬
 
-Nilai yang dicantumkan pada materi:
+Yang diperiksa pada urinalisis mikroskopik
 
 - **Erythrocytes** <5/large field
     
@@ -335,7 +335,7 @@ Prosedur:
 ↓  
 centrifuge **1500–2000 RPM selama 3–5 menit**  
 ↓  
-buang **supernatant**  
+buang **supernatant**
 ↓  
 sisakan sediment sekitar **0.25–0.5 mL**  
 ↓  
