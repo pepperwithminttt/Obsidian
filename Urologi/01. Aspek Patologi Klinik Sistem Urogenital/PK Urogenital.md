@@ -13,7 +13,7 @@ Fungsi utama kidney:
 - Mempertahankan **electrolyte balance**.
 - Mengekskresikan **metabolic waste products**.
 - Berperan dalam regulasi **blood pressure** melalui fungsi hormonal.
-- Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.
+- [Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.]{Itulah kenapa pasien gagal ginjal biasa anemia}
 
 ### Urinary system
 
