@@ -185,6 +185,9 @@ Faktor risiko gonore meliputi:
 👉 **Gambaran khas laki-laki:**  
 **Duh purulen + disuria + meatus hiperemis/edema** 🚹
 
+![gh|450](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788278504000od70u3.png)
+
+
 ### Infeksi pada Perempuan
 
 Manifestasi dapat berbeda berdasarkan kondisi epitel genital:
@@ -246,7 +249,7 @@ Manifestasi dapat berbeda berdasarkan kondisi epitel genital:
         
     - Gatal.
         
-    - **Tenesmus**.
+    - [**Tenesmus**.]{Tenesmus adalah sensasi dorongan terus-menerus untuk buang air besar (BAB) meskipun rektum atau usus sudah kosong.}
         
     - Discharge.
         
