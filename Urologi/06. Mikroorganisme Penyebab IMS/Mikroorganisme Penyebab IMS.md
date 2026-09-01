@@ -633,9 +633,13 @@ Infeksi dimulai dengan interaksi gonokokus dengan epitel, termasuk **endocervica
 - Terjadi perubahan pada membran sel.
     
 - Terjadi **membrane ruffling** pada sel epitel serviks.
-    
+
+![gh|399](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788282179000h7qlzi.png)
+
 - Struktur membran kemudian membentuk protrusi yang mengelilingi gonokokus.
-    
+
+![gh|373](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882822350009ef01i.png)
+
 - Gonokokus berada di dalam struktur seluler yang lebih luas.
     
 
