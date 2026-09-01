@@ -66,8 +66,6 @@ Beberapa memiliki hubungan khusus:
 
 UTI merupakan salah satu komponen penting **healthcare-associated infections (HAIs)**.
 
-Data yang tercantum dalam materi:
-
 - 40% dari HAI.
     
 - 15–21% HAI pada **pediatric ICU**.
@@ -123,7 +121,7 @@ Dapat digunakan pada:
 
 - Anak yang tidak kooperatif.
     
-- Dewasa yang tidak kooperatif.
+- Dewasa yang tidak kooperatif (misal klo sdg tdk sadar).
     
 
 Urine dikumpulkan menggunakan kantong urine plastik.
@@ -214,7 +212,7 @@ Menentukan sensitivitas bakteri terhadap antibiotik.
 
 ### 5. Penentuan serotipe/biotipe
 
-Digunakan untuk menentukan karakteristik spesifik mikroorganisme.
+Digunakan untuk menentukan karakteristik spesifik mikroorganisme untuk identifikasi lebih jauh mikroorganismenya.
 
 💡 **Urutan hafalan:**  
 **Gram → Hitung → Identifikasi → Sensitivitas → Serotipe/Biotipe**
