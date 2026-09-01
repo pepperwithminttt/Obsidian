@@ -65,7 +65,7 @@
     
 - Gambaran klinis terutama berupa **local bladder signs and symptoms**, yaitu:
     
-    - **Dysuria** (painful, burning, or difficult urination)
+    - [**Dysuria**]{(Painful, burning, or difficult urination)}
         
     - **Urinary frequency**
         
@@ -84,9 +84,9 @@ Tidak terdapat:
     
 - ❌ **Other systemic signs or symptoms**, kecuali disebabkan kondisi non-UTI
     
-- ❌ **Flank pain**
+- ❌ [**Flank pain**]{Rasa nyeri atau tidak nyaman pada area sisi tubuh, yaitu di antara bagian bawah tulang rusuk dan panggul (pinggang belakang atau samping)}
     
-- ❌ **Costovertebral angle (CV) tenderness**
+- ❌ [**Costovertebral angle (CV) tenderness**]{Rasa nyeri atau sakit saat area sudut iga-vertebrata (bagian punggung bawah di tepi tulang rusuk ke-12 dan tulang belakang) ditekan atau diketuk.}
     
 
 👉 Jadi, gambaran khasnya adalah **“local bladder symptoms tanpa systemic involvement.”**
