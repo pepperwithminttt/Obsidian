@@ -12,7 +12,7 @@ Fungsi utama kidney:
 - Mempertahankan **water balance**.
 - Mempertahankan **electrolyte balance**.
 - Mengekskresikan **metabolic waste products**.
-- Berperan dalam regulasi **blood pressure** melalui fungsi hormonal.
+- Berperan dalam regulasi **blood pressure** melalui fungsi hormonal (RAAS).
 - [Berperan dalam **erythrocyte maturation**, terutama melalui produksi **erythropoietin**.]{Itulah kenapa pasien gagal ginjal biasa anemia karna defisiensi eritropoietin.}
 
 ### Urinary system
@@ -27,9 +27,10 @@ Unit fungsional terkecil kidney adalah [**nephron**.]{Nephron terdiri dari 2 str
 
 Pembentukan urine berlangsung melalui tiga proses utama:
 
-1. **Glomerular filtration**
-2. **Tubular reabsorption**
-3. **Tubular secretion**
+[1. Glomerular filtration
+2. Tubular reabsorption
+3. Tubular secretion]{![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788226875000sqij35.png)
+}
 
 🧠 **Tips hafalan:**  
 **F-R-S → Filter → Reabsorb → Secrete**
