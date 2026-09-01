@@ -213,7 +213,7 @@ Abnormal:
 
 ### E. Specific Gravity (SG)
 
-**Specific gravity** menggambarkan kemampuan kidney dalam menghasilkan urine dengan konsentrasi tertentu, sehingga berkaitan dengan kemampuan **urine concentration**.
+**Specific gravity** atau **berat jenis** menggambarkan **kemampuan kidney dalam menghasilkan urine dengan konsentrasi tertentu**, sehingga berkaitan dengan kemampuan urine concentration.
 
 Nilai normal pada slide sekitar **1.003–1.030**, dengan bagian lain mencantumkan **1.015–1.030**.
 
@@ -251,7 +251,7 @@ Bau abnormal yang disebutkan:
     
 - **Stool odor** → intestinal perforation menuju urinary bladder
     
-- **Foul smell** → pada slide dikaitkan dengan perubahan/abnormalitas urine.
+- **Foul smell (bau busuk)** → keganasan saluran kemih
     
 
 ---
@@ -259,6 +259,8 @@ Bau abnormal yang disebutkan:
 # 5. Dipstick Urinalysis 🧪
 
 **Urine dipstick** merupakan plastic strip yang memiliki beberapa area pemeriksaan. Setiap area mengandung **specific reagent** yang bereaksi terhadap substansi tertentu di dalam urine.
+
+![gh|461](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788229682000en6i5a.png)
 
 Prinsipnya:
 
