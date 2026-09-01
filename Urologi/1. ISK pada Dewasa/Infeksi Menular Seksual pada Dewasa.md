@@ -65,7 +65,7 @@
     
 - Gambaran klinis terutama berupa **local bladder signs and symptoms**, yaitu:
     
-    - **Dysuria**
+    - **Dysuria** (painful, burning, or difficult urination)
         
     - **Urinary frequency**
         
