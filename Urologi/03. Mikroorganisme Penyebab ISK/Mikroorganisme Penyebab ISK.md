@@ -974,7 +974,15 @@ Jika diperoleh **32 koloni** dari pengenceran **10⁵**:
 
 # 📝 PEMBAHASAN SOAL
 
-### Soal 1 → **C. Escherichia coli** ✅
+### Soal 1
+Seorang perempuan 23 tahun datang dengan keluhan **disuria** dan **frekuensi berkemih** sejak **2 hari**. Ia **tidak demam** dan **tidak mengalami nyeri pinggang**. Pemeriksaan urine menunjukkan **piuria** dan pertumbuhan **bakteri Gram-negatif** pada kultur urine. Organisme merupakan **basil Gram-negatif, oksidase negatif, katalase positif, memfermentasi glukosa dengan produksi gas, dan tidak menghasilkan H₂S.** Mikroorganisme yang paling mungkin menyebabkan infeksi tersebut adalah:
+
+A. Pseudomonas aeruginosa
+B. Proteus mirabilis
+C. Escherichia coli
+D. Klebsiella pneumoniae
+E. Enterococcus faecali
+### Jawaban soal 1 → **C. Escherichia coli** ✅
 
 Pasien mengalami:
 
