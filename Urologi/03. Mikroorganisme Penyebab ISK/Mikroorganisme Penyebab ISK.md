@@ -485,7 +485,7 @@ Dapat ditemukan pada:
 
 ### Karakteristik
 
-- Basil Gram-negatif pleomorfik.
+- Basil Gram-negatif **pleomorfik**.
     
 - **Sangat motil** ⭐
     
@@ -506,7 +506,7 @@ _Proteus mirabilis_ menghasilkan enzim **urease** yang mengkatalisis:
 
 **Urea + H₂O → NH₃ + CO₂**
 
-Amonia kemudian bereaksi dengan air:
+Dalam urin, ada amonia yang kemudian bereaksi dengan air:
 
 **NH₃ + H₂O ⇌ NH₄⁺ + OH⁻**
 
@@ -551,7 +551,7 @@ Keduanya:
 
 ### Providencia
 
-- Menurut materi, **tidak menghasilkan urease**.
+- **Tidak menghasilkan urease**.
     
 
 Spesies _Providencia_:
