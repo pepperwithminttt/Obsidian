@@ -29,7 +29,7 @@
     
 - **Laki-laki > perempuan** dalam manifestasi klinis.
     
-- Pada perempuan, infeksi lebih sering **asimtomatik**, sehingga dapat tidak terdiagnosis dan berlanjut menjadi komplikasi.
+- Pada perempuan, infeksi lebih sering **asimtomatik**, karena pada perempuan ada dibilang keputihan, jdi kadang dikira cuma keputihan padahal dia lgi infeksi jdi tdk dapat tidak terdiagnosis dan berlanjut menjadi komplikasi.
     
 - _**M. genitalium**_ semakin penting secara epidemiologis karena:
     
