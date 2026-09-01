@@ -358,6 +358,10 @@ Urine sediment dapat mengandung **organic elements** dan **inorganic elements**.
     - pseudohyphae
         
 
+![gh|452](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788230401000w87633.png)
+
+![gh|454](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788230422000t0l75c.png)
+
 ### Inorganic elements
 
 **Normal crystals:**
@@ -440,9 +444,9 @@ observasi menggunakan objective lens **40×**
 
 ---
 
-# 8. Epithelial Cells & Casts 🧫
+## Epithelial Cells & Casts 🧫
 
-### Epithelial cells
+#### Epithelial cells
 
 Dapat ditemukan:
 
@@ -450,14 +454,15 @@ Dapat ditemukan:
     
 - **Squamous epithelial cells**
     
+![gh|455](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788230452000n6tfdi.png)
 
-### Casts
+#### Casts
 
 **Cast** terbentuk di renal tubules dan mempunyai bentuk mengikuti lumen tubulus.
 
 Jenis yang ditampilkan dalam materi:
 
-#### Hyaline cast
+##### Hyaline cast
 
 Terbentuk akibat **protein precipitation** di tubules, terutama dari **Tamm-Horsfall mucoprotein**.
 
@@ -475,19 +480,19 @@ Gambaran:
 🧠 **Hyaline = H = Healthy-ish** 😆  
 Hyaline cast dalam jumlah kecil dapat ditemukan dan tidak selalu menunjukkan kerusakan berat.
 
-#### Epithelial cast
+##### Epithelial cast
 
 Mengandung **detached tubular epithelial cells**.
 
-#### Blood cast
+##### Blood cast
 
 Mengandung erythrocytes yang membentuk cylinder/cast.
 
-#### Fatty cast
+##### Fatty cast
 
 Mengandung **fat globules** dan bersifat **highly refractile** terhadap cahaya.
 
-#### Leukocyte cast
+##### Leukocyte cast
 
 Dapat ditemukan pada kondisi dengan:
 
@@ -501,7 +506,7 @@ Jadi kalau ada cast, pikirkan bahwa material tersebut **terbentuk di dalam tubul
 
 ---
 
-# 9. Other Urine Sediment Findings 🔬
+## Other Urine Sediment Findings 🔬
 
 Materi juga memperlihatkan:
 
@@ -524,7 +529,7 @@ Yeast dapat menunjukkan bentuk **budding**.
 
 ---
 
-# 10. Kidney Function Test 🫘🧪
+# 8. Kidney Function Test 🫘🧪
 
 Penilaian fungsi kidney dalam materi meliputi fungsi:
 
@@ -541,7 +546,7 @@ Penilaian fungsi kidney dalam materi meliputi fungsi:
 
 ---
 
-# 11. Creatinine 🧪
+# 9. Creatinine 🧪
 
 **Creatinine** merupakan marker yang sering digunakan untuk menilai fungsi glomerular filtration.
 
@@ -566,7 +571,7 @@ Creatinine berasal dari metabolisme otot dan produksinya relatif konstan. Karena
 
 ---
 
-# 12. Urea
+# 10. Urea
 
 **Urea** terbentuk di **liver** sebagai produk dari **deamination of amino acids**.
 
@@ -597,7 +602,7 @@ Materi menyebutkan bahwa:
 
 ---
 
-# 13. GFR & Clearance 🧮
+# 11. GFR & Clearance 🧮
 
 **Clearance** adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
 
@@ -632,7 +637,7 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-# 14. Creatinine Clearance Methods 📐
+# 1. Creatinine Clearance Methods 📐
 
 ### 24-hour urine collection
 
