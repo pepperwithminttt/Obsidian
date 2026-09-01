@@ -30,8 +30,7 @@ Unit fungsional terkecil kidney adalah [**nephron**.]{Nephron terdiri dari 2 str
 
 ## Urine formation
 
-[Pembentukan urine]{![gh|460](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788227788000omi92n.png)
-} berlangsung melalui tiga proses utama:
+Pembentukan urine berlangsung melalui tiga proses utama:
 
 1. **Glomerular filtration**
     
@@ -39,6 +38,8 @@ Unit fungsional terkecil kidney adalah [**nephron**.]{Nephron terdiri dari 2 str
     
 3. **Tubular secretion**
     
+
+![gh|460](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788227788000omi92n.png)
 
 🧠 **Tips hafalan:**  
 **F-R-S → Filter → Reabsorb → Secrete**
@@ -622,7 +623,7 @@ Materi menyebutkan bahwa:
 
 ---
 
-# 1. GFR & Clearance 🧮
+# 13. GFR & Clearance 🧮
 
 **Clearance** adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
 
@@ -657,7 +658,7 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-# 15. Creatinine Clearance Methods 📐
+# 14. Creatinine Clearance Methods 📐
 
 ### 24-hour urine collection
 
@@ -704,7 +705,7 @@ Jangan lupa **female × 0.85**.
 
 ---
 
-# 16. CKD-EPI Equation
+# 15. CKD-EPI Equation
 
 **CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine.
 
@@ -731,7 +732,7 @@ Komponen yang dijelaskan pada slide:
 
 ---
 
-# 17. Schwartz Equation 👶
+# 16. Schwartz Equation 👶
 
 Untuk **children <18 years**, digunakan **Schwartz equation**.
 
@@ -751,7 +752,7 @@ Parameter:
 
 ---
 
-# 18. Laboratory Examination According to Disease 🩺
+# 17. Laboratory Examination According to Disease 🩺
 
 Bagian akhir slide merangkum pemeriksaan yang berkaitan dengan beberapa penyakit kidney dan urinary tract.
 
