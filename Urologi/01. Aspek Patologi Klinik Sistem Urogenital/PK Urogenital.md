@@ -119,7 +119,7 @@ Tujuannya agar:
 
 Komponen yang dinilai meliputi:
 
-**Volume → Color → Clarity → Foam → Specific gravity → Smell**
+**Volume → Color → Clarity → Foam → Specific gravity (Berat Jenis) → Smell**
 
 ---
 
@@ -134,18 +134,12 @@ Volume normal yang tercantum pada materi adalah sekitar **1200–1500 mL/24 hour
     
 - **Anuria** → < **100 mL/24 hours**
     
-- **Nocturia** → peningkatan urine volume pada malam hari; pada slide disebut >500 mL dengan **SG <1.018**
+- **Nocturia** → peningkatan urine volume pada malam hari; pada slide disebut **>500 mL** dengan **BJ <1.018** (tanda dini kerusakan ginjal).
     
-- **Pollakiuria** → peningkatan frekuensi miksi dengan volume total yang tetap normal.
+- **Pollakiuria** → **peningkatan frekuensi miksi** dengan **volume total** yang tetap **normal.**
     
-- **Urinary retention** → urine tidak dapat keluar dari bladder; pada slide dicontohkan antara lain karena bladder stones, urethral inflammation, dan BPH.
+- **Urinary retention** → urine tidak dapat keluar dari bladder; contoh karena bladder stones, urethral inflammation, dan BPH (Pembesaran Prostat Jinak).
     
-
-🧠 **Hafalan volume:**
-
-**POLY = banyak**  
-**OLIGO = sedikit**  
-**AN = hampir tidak ada**
 
 ---
 
@@ -153,9 +147,9 @@ Volume normal yang tercantum pada materi adalah sekitar **1200–1500 mL/24 hour
 
 Warna normal urine terutama berkaitan dengan pigment:
 
-- **Urochrome**
+- **Urochrome** (ginjal)
     
-- **Uroerythrin**
+- **Uroerythrin** (timbunan asam urat)
     
 - **Urobilin**
     
