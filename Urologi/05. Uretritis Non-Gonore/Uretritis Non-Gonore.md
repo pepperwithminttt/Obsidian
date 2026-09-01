@@ -363,7 +363,7 @@ Regimen yang tercantum dalam materi:
 9. Pencegahan utama meliputi **safer sex, skrining populasi berisiko, terapi tuntas, dan tata laksana pasangan**.
     
 
-## 🧠 SUPER-FAST REVIEW — NGU/NGC
+# 🧠 SUPER-FAST REVIEW — NGU/NGC
 
 **NGU = “BUKAN GONO”**
 
