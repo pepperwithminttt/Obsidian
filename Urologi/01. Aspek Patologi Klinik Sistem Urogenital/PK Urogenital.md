@@ -588,7 +588,7 @@ Creatinine berasal dari metabolisme otot dan produksinya relatif konstan. Karena
 
 # 10. Urea
 
-**Urea** terbentuk di **liver** sebagai produk dari **deamination of amino acids**.
+**Urea** terbentuk di **liver** sebagai produk dari **deaminasi asam amino**.
 
 Setelah masuk sirkulasi:
 
@@ -596,15 +596,11 @@ Setelah masuk sirkulasi:
 
 Urea merupakan marker kidney function yang **kurang akurat dibandingkan creatinine**.
 
-Reference value pada slide:
+Nilai rujukan: **10–50 mg/dL**
 
-**10–50 mg/dL**
-
-Peningkatan urea → **hyperuremia**, yang dalam konteks penurunan kidney function dapat berkaitan dengan **azotemia**.
+Peningkatan urea → **hyperuremia**, yang dalam konteks penurunan kidney function dapat berkaitan dengan [**azotemia**.]{Azotemia adalah kondisi medis ketika terjadi penumpukan zat limbah nitrogen—seperti urea (_Blood Urea Nitrogen_ atau BUN) dan kreatinin—di dalam darah akibat penurunan fungsi ginjal.}
 
 ### Urea vs Creatinine 🧠
-
-Materi menyebutkan bahwa:
 
 - **Urea meningkat lebih dahulu**.
     
@@ -619,7 +615,7 @@ Materi menyebutkan bahwa:
 
 # 11. GFR & Clearance 🧮
 
-**Clearance** adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
+**Clearance** (klirens) adalah volume plasma/blood yang "dibersihkan" dari suatu substansi melalui ekskresi urine dalam waktu **1 menit**.
 
 Substansi ideal untuk clearance seharusnya:
 
@@ -652,9 +648,9 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-# 12. Creatinine Clearance Methods 📐
+## 12. Creatinine Clearance Methods 📐
 
-### 24-hour urine collection
+#### 24-hour urine collection
 
 Secara prinsip:
 
@@ -671,7 +667,7 @@ Pada slide dituliskan menggunakan:
 
 ---
 
-### Cockcroft-Gault Equation
+#### Cockcroft-Gault Equation
 
 Untuk adult:
 
