@@ -250,9 +250,6 @@ Selain itu:
 |**Levofloxacin**|500–750 mg daily|
 |**TMP-SMX**|800–1600 mg every 12 hours|
 
-💡 **Konsep penting:**  
-Jangan hanya menghafal "complicated = obat X". Yang paling penting adalah mengenali bahwa **systemic involvement → think beyond bladder → complicated UTI**.
-
 ---
 
 # 🌡️ PYELONEPHRITIS
@@ -320,7 +317,7 @@ Kalau ada **fever + flank pain/CVA tenderness**, pikirkan infeksi sudah naik ke 
 
 🚨 **Kenapa nitrofurantoin dan fosfomycin tidak digunakan untuk pyelonephritis?**
 
-Karena keduanya menghasilkan **suboptimal concentrations in renal parenchyma**.
+Karena keduanya menghasilkan **konsentrasi obat yang suboptimal di parenkim ginjal**.
 
 👉 Jadi:
 
@@ -333,20 +330,20 @@ Karena keduanya menghasilkan **suboptimal concentrations in renal parenchyma**.
 
 # 🤰 UTI IN PREGNANCY
 
-- **Pregnancy merupakan indication for treatment of asymptomatic bacteriuria (ASB).**
+- **Kehamilan merupakan indikasi untuk pengobatan bakteriuria asimtomatik**, jadi walaupun tanpa gejala, begitu kita tahu pasiennya hamil, harus langsung diobati.
     
-- Pregnancy dapat memengaruhi:
+- Kehamilan dapat memengaruhi:
     
-    - **Threshold to treat UTI**
+    - **Threshold to treat UTI** (karna aslinya tdk perluji di obati klo misal asimtomatik tpi gegara hamil jadi perlu)
         
-    - **Type of antibiotics used**
+    - **Type of antibiotics used** (ada biasa antibiotik yang teratogenik jadi nd boleh dikasi ibu hamil)
         
 
 ### Antibiotic
 
 - **Nitrofurantoin**
     
-- **Fosfomycin**
+- **Fosfomycin** (Paling )
     
 - **Oral β-lactams**
     
