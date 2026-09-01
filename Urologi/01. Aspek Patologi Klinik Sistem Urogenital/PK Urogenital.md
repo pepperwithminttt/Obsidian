@@ -476,21 +476,31 @@ Gambaran:
     
 - Squared ends
     
+![gh|312](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788230814000wzj6yc.png)
+
 
 🧠 **Hyaline = H = Healthy-ish** 😆  
 Hyaline cast dalam jumlah kecil dapat ditemukan dan tidak selalu menunjukkan kerusakan berat.
 
 ##### Epithelial cast
 
-Mengandung **detached tubular epithelial cells**.
+Mengandung **sel epitel tubular yang terlepas**.
+
+![gh|181](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882308950005zp7bn.png)
 
 ##### Blood cast
 
 Mengandung erythrocytes yang membentuk cylinder/cast.
 
+![gh|328](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788230941000tqrpsu.png)
+
+
 ##### Fatty cast
 
-Mengandung **fat globules** dan bersifat **highly refractile** terhadap cahaya.
+Mengandung **fat globules** dan bersifat **highly refractile/sangat membias** terhadap cahaya.
+
+![gh|324](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882309700006g93rr.png)
+
 
 ##### Leukocyte cast
 
@@ -500,6 +510,8 @@ Dapat ditemukan pada kondisi dengan:
     
 - Kidney infection
     
+![gh|253](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231017000wagtos.png)
+
 
 🧠 **Cast = "cetakan tubulus"** 🧱  
 Jadi kalau ada cast, pikirkan bahwa material tersebut **terbentuk di dalam tubulus**, bukan sekadar sel yang lewat dari urinary tract bagian bawah.
@@ -526,6 +538,21 @@ Materi juga memperlihatkan:
     
 
 Yeast dapat menunjukkan bentuk **budding**.
+
+![gh|535](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231099000hnxj34.png)
+
+![gh|535](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882311170002ruf2h.png)
+
+![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231136000w9dy7t.png)
+
+![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231166000t8s17l.png)
+
+![gh|316](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17882311780009buewe.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788231190000cyw09c.png)
+
+
+
 
 ---
 
@@ -637,7 +664,7 @@ Metode yang sering digunakan adalah **creatinine clearance test**.
 
 ---
 
-# 1. Creatinine Clearance Methods 📐
+# 12. Creatinine Clearance Methods 📐
 
 ### 24-hour urine collection
 
@@ -684,7 +711,7 @@ Jangan lupa **female × 0.85**.
 
 ---
 
-# 15. CKD-EPI Equation
+# 13. CKD-EPI Equation
 
 **CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)** digunakan untuk memperkirakan GFR berdasarkan parameter seperti serum creatinine.
 
@@ -711,7 +738,7 @@ Komponen yang dijelaskan pada slide:
 
 ---
 
-# 16. Schwartz Equation 👶
+# 14. Schwartz Equation 👶
 
 Untuk **children <18 years**, digunakan **Schwartz equation**.
 
@@ -731,7 +758,7 @@ Parameter:
 
 ---
 
-# 17. Laboratory Examination According to Disease 🩺
+# 15. Laboratory Examination According to Disease 🩺
 
 Bagian akhir slide merangkum pemeriksaan yang berkaitan dengan beberapa penyakit kidney dan urinary tract.
 
