@@ -347,6 +347,8 @@ LGV berlangsung dalam **3 stadium**:
     
 - Conjunctival scraping
     
+![gh|471](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788281312000l64sqy.png)
+
 
 Pada infeksi serviks, area dapat **mudah berdarah ketika disentuh atau setelah pengambilan swab**.
 
