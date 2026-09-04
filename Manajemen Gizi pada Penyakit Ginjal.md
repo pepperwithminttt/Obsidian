@@ -34,8 +34,8 @@ Pada **nephrotic syndrome**, terjadi gangguan **glomerular filtration barrier** 
 
 - **Loss of glomerular barrier to protein** → peningkatan permeabilitas glomerulus terhadap protein → **proteinuria**.
 - **Hypoalbuminemia** → kadar albumin serum menurun akibat kehilangan albumin melalui urine.
-- **Hypercholesterolemia** → peningkatan kadar kolesterol darah karena hati mengompensasi kondisi hipoproteinemia dengan memproduksi berbagai sumber protein lain termasuk lipoprotein sehingga kadar lipid meningkat. 
-- **Hypercoagulability** → keadaan darah lebih mudah mengalami thrombosis, masih bagian dari proses kompensasi hati tadi. Terjadi karena hilangnya protein anti-pembekuan darah lewat urine dan lonjakan produksi protein pembekuan di dalam hati.
+- **Hypercholesterolemia** → [peningkatan kadar kolesterol darah.]{Karena hati mengompensasi kondisi hipoproteinemia dengan memproduksi berbagai sumber protein lain termasuk lipoprotein sehingga kadar lipid meningkat.}
+- **Hypercoagulability** → keadaan [darah lebih mudah mengalami thrombosis.]{masih bagian dari proses kompensasi hati tadi. Terjadi karena hilangnya protein anti-pembekuan darah lewat urine dan lonjakan produksi protein pembekuan di dalam hati.}
 - **Abnormal bone metabolism** → dapat terjadi gangguan metabolisme mineral dan tulang.
 - Penyebab dapat:
     - **Primary**
@@ -52,7 +52,7 @@ Pemberian **high-protein diet** tidak otomatis memperbaiki protein yang hilang.
     - **urinary albumin excretion ↑**
     - **albumin catabolism ↑**
 - Akibatnya, **albumin pool tetap tidak berhasil direpleksi secara efektif**.
-- Bahkan high-protein diet dapat mempercepat **progression of renal disease**.
+- Bahkan high-protein diet dapat mempercepat **progression of renal disease** karena proteinuria itu sendiri merupakan toksik bagi parenkim renal.
 
 ➡️ Karena itu, **dietary protein supplementation tidak dianjurkan secara rutin**.
 
