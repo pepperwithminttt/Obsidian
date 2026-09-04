@@ -1,17 +1,3 @@
-Siap. Aku akan tulis ulang materi **“Nutritional Management on Kidney Disease”** dari file yang kamu upload, dengan struktur utama berdasarkan penyakit: **Nephrotic Syndrome → AKI → CKD → Kidney Stone**. Isi dan angka dari materi akan dipertahankan, tanpa diam-diam mengganti rekomendasi sumber dengan guideline lain.
-
-Aku juga akan:
-
-- menjelaskan istilah medis yang memang perlu dijelaskan, tetapi **kalau istilah Inggrisnya sudah jelas, tidak akan ditambahi terjemahan sederhana yang tidak perlu**;
-- mengurangi pengulangan;
-- memakai **header besar hanya untuk tiap penyakit**;
-- memakai poin/subpoin untuk isi agar tidak terlalu panjang ke bawah;
-- menambahkan **🧠 tips hafalan** di bagian yang penting;
-- tetap mempertahankan **dosis, target, batas asupan, dan angka-angka** dari slide;
-- menandai bila ada bagian slide yang tampak kurang lengkap/ambigu daripada mengarang isinya.
-
----
-
 # 🫘 NUTRITIONAL MANAGEMENT ON KIDNEY DISEASE
 
 **Prof. Dr. dr. Haerani Rasyid, MKes, Sp.PD-KGH, SpGK**
