@@ -60,9 +60,6 @@ Perjalanan lesi dapat berupa:
     - **Mudah berdarah**
 - Tidak disertai **gejala prodromal**.
 ![gh|518](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599038000b08xhv.png)
-![gh|618](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599118000g12qfd.png)
-
-
 🧠 **Tips hafalan:**  
 **CHANCRoid = CHANcre yang painful** → ingat **ULKUS NYERI + LUNAK**.  
 Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & soft**.
@@ -71,13 +68,12 @@ KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
 
 **Predileksi:**
 
-|Laki-laki|Perempuan|Ekstragenital|
-|---|---|---|
-|Permukaan preputium|Vulva: fourchette, labia minora, vestibula|Perianus|
-|Frenulum|Vagina|Payudara|
-|Sulkus koronarius|Serviks|Jari|
-|Batang penis|—|Paha|
-|—|—|Mukosa mulut|
+| Laki-laki           | Perempuan                                  | Ekstragenital |
+| ------------------- | ------------------------------------------ | ------------- |
+| Permukaan preputium | Vulva: fourchette, labia minora, vestibula | Payudara      |
+| Frenulum            | Vagina                                     | Paha          |
+| Sulkus koronarius   | Serviks                                    | Jari          |
+| Batang penis        | Perianus                                   | Mukosa mulut  |
 
 ### Autoinokulasi
 
@@ -100,36 +96,31 @@ KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
     - **Nyeri**
     - Dapat mengalami **fluktuasi** akibat pembentukan abses
     - Dapat **ruptur spontan**
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178859954100056zcvw.png)
 🧠 **Urutan mudah:**  
 **Ulkus nyeri → beberapa hari–2 minggu → bubo inguinal nyeri → fluktuatif → bisa pecah.**
 
 ## 4. VARIASI KLINIS
 
 - **Giant chancroid**
-    
     - Lesi tunggal yang meluas ke perifer.
     - Menunjukkan ulserasi yang luas.
-- **Ulkus serpiginosa besar**
     
+- **Ulkus serpiginosa besar**
     - Lesi menjadi konfluens dan menyebar melalui perluasan serta autoinokulasi.
     - Dapat melibatkan penis atau paha.
     - Disebut **ulcus molle serpiginosum**.
 - **Chancroid fagadenik**
-    
     - Terjadi akibat **superinfeksi bakteri fusospirochaeta**.
     - Menyebabkan destruksi jaringan yang cepat dan berat.
     - Disebut **ulcus molle gangrenosum**.
 - **Transient chancroid**
-    
     - Ulkus kecil yang dapat sembuh sendiri dalam beberapa hari.
     - Kemudian **2–3 minggu berikutnya** dapat muncul **limfadenitis regional akut**.
     - Disebut **chancre mou volant**.
 - **Chancroid folikular**
-    
     - Banyak ulkus kecil dengan distribusi **folikular**.
 - **Chancroid papular**
-    
     - Lesi berupa **papul ulseratif granulomatosa**.
     - Dapat menyerupai **donovanosis** atau **condyloma lata**.
     - Disebut **ulcus molle elevatum**.
