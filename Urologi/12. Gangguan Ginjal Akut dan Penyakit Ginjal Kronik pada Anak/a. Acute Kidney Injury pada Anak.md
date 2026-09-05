@@ -199,13 +199,13 @@ Terjadi akibat **obstruksi aliran urine setelah urine terbentuk**, sehingga teka
 
 ### AKI prarenal
 
-**Hipovolemia → hipoperfusi ginjal → vasokonstriksi arteriol aferen → reabsorpsi natrium & air ↑ → GFR ↓ → AKI prarenal.**
+**Hipovolemia → hipoperfusi ginjal → vasokonstriksi arteriol aferen → reabsorpsi natrium & air meningkat → GFR turun → AKI prarenal.**
 
 Pada tahap awal, mekanisme autoregulasi ginjal masih berusaha mempertahankan GFR. Jika hipoperfusi berlangsung berat atau lama, dapat berkembang menjadi **AKI intrinsik**, terutama nekrosis tubular akut.
 
 ### AKI renal/intrinsik
 
-**Hipoperfusi dan/atau nefrotoksin → perubahan hemodinamik dan struktur ginjal → kerusakan glomerulus, interstisium, pembuluh darah, atau tubulus → GFR ↓ → AKI intrinsik.**
+**Hipoperfusi dan/atau nefrotoksin → perubahan hemodinamik dan struktur ginjal → kerusakan glomerulus, interstisium, pembuluh darah, atau tubulus → GFR turun → AKI intrinsik.**
 
 Contohnya:
 
@@ -216,7 +216,7 @@ Contohnya:
 
 ### AKI pascarenal
 
-**Uropati obstruktif → tekanan intralumen ureter ↑ → tekanan hidrostatik pada parenkim ginjal ↑ → GFR ↓ → AKI pascarenal.**
+**Uropati obstruktif → tekanan intralumen ureter meningkat → tekanan hidrostatik pada parenkim ginjal meningkat → GFR turun → AKI pascarenal.**
 
 # Pemeriksaan AKI
 
