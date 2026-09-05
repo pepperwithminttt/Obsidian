@@ -555,8 +555,6 @@ Target:
 
 ---
 
-# UROLITHIASIS
-
 ## 12. RED FLAGS & EMERGENCY INTERVENTION 🚨
 
 ### Red flags
@@ -565,7 +563,7 @@ Target:
 2. **Impending renal deterioration**
     - Severe hydronephrosis
     - Solitary kidney
-3. **Pain refractory to analgesics**
+3. **Nyeri yang tidak mempan dikasih analgesik**
 4. **Intractable nausea/vomiting**
 
 ### Emergency intervention
