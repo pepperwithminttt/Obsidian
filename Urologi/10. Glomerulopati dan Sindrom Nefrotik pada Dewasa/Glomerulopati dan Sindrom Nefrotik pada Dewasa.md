@@ -341,7 +341,7 @@ Jadi beberapa **metabolic consequences** pada sindrom nefrotik:
 - **Warfarin** dapat digunakan sebagai terapi jangka panjang dengan target INR **2–3**.
 - Dosis perlu diperhatikan karena perubahan protein binding dan kehilangan **antithrombin III** dapat memengaruhi respons terhadap obat.
 
-### D. Hipervlipidemia
+### D. Hiperlipidemia
 
 - Tata laksana mengikuti prinsip pencegahan penyakit kardiovaskular pada pasien CKD.
 - **Statin** atau kombinasi statin/ezetimibe dapat digunakan sesuai usia, stadium CKD, dan risiko kardiovaskular.
