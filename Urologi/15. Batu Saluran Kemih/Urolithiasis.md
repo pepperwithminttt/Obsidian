@@ -523,7 +523,7 @@ Pilihan:
 
 ### Oral chemolysis
 
-Khusus **uric acid stone**:
+Cara kerjaKhusus **uric acid stone**:
 
 - Alkalinisasi urine menggunakan:
     - Calcium citrate
