@@ -11,19 +11,6 @@ Secara klinis, penyakit glomerulus dapat muncul sebagai:
 - **Rapidly progressive glomerulonephritis (RPGN)**.
 - **Glomerulonefritis kronik** dengan penurunan fungsi ginjal progresif.
 
-Evaluasi penyakit glomerulus bertujuan untuk:
-
-- Menentukan apakah kelainan berasal dari **glomerulus atau struktur saluran kemih lainnya**.
-- Mencari tanda penyakit **sistemik/multisistem** yang mendasari.
-- Menilai **fungsi ginjal**.
-- Menentukan derajat dan pola kerusakan glomerulus.
-
-Pemeriksaan meliputi:
-
-- **Anamnesis**
-- **Pemeriksaan fisik**
-- **Pemeriksaan penunjang**: urinalisis, fungsi ginjal, pemeriksaan serologis, pencitraan, dan bila diperlukan biopsi ginjal.
-
 # KELAINAN URIN ASIMTOMATIK
 
 ## 1. Hematuria Mikroskopik
