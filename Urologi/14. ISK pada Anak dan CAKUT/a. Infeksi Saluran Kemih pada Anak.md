@@ -6,7 +6,7 @@
 
 ### Significant bacteriuria
 
-Jumlah bakteri yang dianggap bermakna bergantung pada **metode pengambilan urine**:
+Jumlah minimal bakteri yang dianggap bermakna bergantung pada **metode pengambilan urine**:
 
 |Metode|Colony count|Makna|
 |---|--:|---|
