@@ -246,8 +246,6 @@ Struvite dapat membentuk **staghorn stone**, yaitu batu yang bercabang mengikuti
 
 ---
 
-# UROLITHIASIS
-
 ## 6. CLINICAL PRESENTATION
 
 ### A. Pain ⭐
