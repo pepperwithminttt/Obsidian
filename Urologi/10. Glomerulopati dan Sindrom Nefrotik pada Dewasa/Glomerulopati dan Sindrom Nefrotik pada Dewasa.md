@@ -206,7 +206,7 @@ Edema nefrotik dapat terjadi melalui dua mekanisme:
 
 **1. Underfill**
 
-- Proteinuria → hipoalbuminemia → tekanan onkotik plasma ↓ → cairan berpindah ke interstisium → volume plasma efektif ↓ → aktivasi **renin-angiotensin-aldosterone system (RAAS)** → aldosteron ↑ → retensi natrium dan air → edema.
+- Proteinuria → hipoalbuminemia → tekanan onkotik plasma turun → cairan berpindah ke interstisium → volume plasma efektif turun → aktivasi **renin-angiotensin-aldosterone system (RAAS)** → aldosteron naik → retensi natrium dan air → edema.
 
 **2. Overfill**
 
@@ -217,7 +217,7 @@ Edema nefrotik dapat terjadi melalui dua mekanisme:
 
 💡 **Tips hafalan:**
 
-- **Underfill = albumin dulu → volume turun → RAAS naik.**
+- **Underfill = albumin turun dulu → volume turun → RAAS naik → Na⁺ naik.**
 - **Overfill = tubulus menahan Na⁺ dulu.**
 
 ### C. Hiperkoagulabilitas
