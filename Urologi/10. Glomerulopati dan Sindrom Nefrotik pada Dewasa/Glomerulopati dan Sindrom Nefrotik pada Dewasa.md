@@ -222,7 +222,18 @@ Edema nefrotik dapat terjadi melalui dua mekanisme:
 
 ### C. Konsekuensi Metabolik
 
-Hiperkoagulabilitas
+#### 1. Negative Nitrogen Balance
+
+- **Proteinuria berat** menyebabkan kehilangan protein dalam jumlah besar melalui urin.
+- Protein yang hilang mengandung **nitrogen**, sehingga kehilangan nitrogen melalui urin menjadi lebih besar daripada jumlah nitrogen yang masuk dari makanan.
+- Akibatnya terjadi **negative nitrogen balance** → **nitrogen yang keluar dari tubuh > nitrogen yang masuk**.
+- Kondisi ini mencerminkan **kehilangan protein tubuh** dan dapat berkontribusi terhadap:
+    - Penurunan massa otot.
+    - Malnutrisi protein.
+    - Gangguan pertumbuhan pada anak.
+- Dalam praktik klinis, **serum albumin** sering digunakan sebagai salah satu indikator konsekuensi kehilangan protein tersebut.Hiperkoagulabilitas
+
+#### 2. Hiperkoagulabilitas
 
 Kehilangan protein melalui urin menyebabkan perubahan berbagai protein sistem koagulasi dan dapat menyebabkan:
 
@@ -232,7 +243,7 @@ Kehilangan protein melalui urin menyebabkan perubahan berbagai protein sistem ko
 
 Risiko meningkat terutama ketika albumin serum **<2,5 g/dL**.
 
-### D. Hipervlipidemia dan Lipiduria
+#### 3. Hiperlipidemia dan Lipiduria
 
 Hati meningkatkan produksi lipoprotein sebagai respons terhadap perubahan tekanan onkotik dan kehilangan protein.
 
@@ -245,20 +256,27 @@ Dapat ditemukan:
 
 Lipiduria terutama berkaitan dengan **proteinuria**, bukan sekadar kadar lipid plasma.
 
-### E. Efek metabolik lainnya
+#### 4. Efek metabolik lainnya
 
 - **Vitamin D:** kadar 25-hydroxyvitamin D dapat menurun, sedangkan vitamin D bebas biasanya tetap normal.
 - **Thyroxine:** thyroid-binding globulin hilang melalui urin → kadar total thyroxine dapat menurun.
 - **Obat:** perubahan protein binding dapat memengaruhi kadar dan efek obat.
-- Kehilangan protein menyebabkan **negative nitrogen balance**.
 
-💡 **Hafalan komplikasi sindrom nefrotik:** **“P-E-K-L-M”**
+💡 **Hafalan komplikasi sindrom nefrotik:**
 
-- **P**roteinuria
-- **E**dema
-- **K**oagulasi ↑
-- **L**ipid ↑
-- **M**etabolik lain
+Jadi urutan **metabolic consequences** pada sindrom nefrotik:
+
+1. **Negative nitrogen balance** → kehilangan protein.
+2. **Hypercoagulability** → perubahan protein koagulasi + kehilangan antithrombin III.
+3. **Hyperlipidemia & lipiduria** → gangguan metabolisme lipid.
+4. **Other metabolic effects** → vitamin D, thyroid-binding globulin, dan protein binding obat.ik → protein bocor → nitrogen ikut hilang → “keluar > masuk” → Negative Nitrogen Balance.**
+
+Jadi urutan **metabolic consequences** pada sindrom nefrotik:
+
+1. **Negative nitrogen balance** → kehilangan protein.
+2. **Hypercoagulability** → perubahan protein koagulasi + kehilangan antithrombin III.
+3. **Hyperlipidemia & lipiduria** → gangguan metabolisme lipid.
+4. **Other metabolic effects** → vitamin D, thyroid-binding globulin, dan protein binding obat.
 
 ## 5. Istilah Klinis Sindrom Nefrotik
 
