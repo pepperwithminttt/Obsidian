@@ -293,8 +293,6 @@ Demam atau pyuria pada pasien dengan obstruksi harus dicurigai sebagai **infecte
 
 ---
 
-# UROLITHIASIS
-
 ## 7. DIAGNOSTIC APPROACH
 
 Pendekatan diagnosis:
@@ -365,7 +363,7 @@ Pilihan:
 - Batu tampak sebagai **hyperechoic lesion dengan acoustic shadow**.
 - Sensitivitas ±**54%**, spesifisitas ±**90%**.
 - Baik untuk mengevaluasi **dilatasi upper urinary tract (UUT)**.
-
+![gh|241](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788630424000jnjmhn.png)
 ### KUB X-ray
 
 - Banyak digunakan di **emergency room**, terutama pada fasilitas dengan sumber daya terbatas.
@@ -376,7 +374,7 @@ Pilihan:
     - Ammonium urate
     - Xanthine
     - Drug stones
-
+![gh|228](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788630448000oubtta.png)
 ### IVP / IVU
 
 - Dapat menilai:
@@ -388,14 +386,14 @@ Pilihan:
     - Membutuhkan waktu
     - Terdiri atas beberapa fase
 - **Kontraindikasi pada kidney failure.**
-
+![gh|226](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788630465000os82zq.png)
 ### CT Scan ⭐
 
 **Low-dose non-contrast CT (NCCT) = gold standard** untuk diagnosis urolithiasis pada pasien dengan **acute renal colic**.
 
 - **NCCT:** diagnosis batu.
 - **Contrast CT:** dapat digunakan untuk menilai sistem anatomi sebelum tindakan stone removal.
-
+![gh|223](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17886305080008r4s9q.png)
 💡 **Hafalan imaging:**
 
 - **Pregnant/child → USG**
@@ -404,8 +402,6 @@ Pilihan:
 - **Need anatomy before procedure → contrast CT**
 
 ---
-
-# UROLITHIASIS
 
 ## 9. DIFFERENTIAL DIAGNOSIS
 
@@ -424,19 +420,15 @@ Karena **flank pain** merupakan gejala paling umum batu saluran kemih, diagnosis
 
 ---
 
-# UROLITHIASIS
-
 ## 10. MANAGEMENT
 
 ### Prinsip utama
 
 Tujuan tatalaksana:
 
-1. **Menghilangkan nyeri**
+1. **Menghilangkan nyeri** (INI PALING PERTAMA!)
 2. **Mempertahankan fungsi ginjal semaksimal mungkin**
 3. Menentukan apakah batu dapat **pass spontaneously** atau membutuhkan intervensi.
-
-Pada renal colic, **pain control adalah langkah pertama**.
 
 ### A. Pain control ⭐
 
@@ -506,8 +498,6 @@ First line → alternatif → rescue/second line.
 
 ---
 
-# UROLITHIASIS
-
 ## 11. CONSERVATIVE TREATMENT
 
 ### Indikasi
@@ -518,7 +508,7 @@ First line → alternatif → rescue/second line.
 
 ### Medical Expulsive Therapy (MET)
 
-Terutama untuk **distal ureteral stone >5 mm**.
+Cara kerja dengan mengeluarkan batu menggunakan bantuan medikasi. Terutama untuk **distal ureteral stone >5 mm**.
 
 Pilihan:
 
