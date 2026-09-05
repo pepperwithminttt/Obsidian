@@ -581,8 +581,6 @@ Jangan hanya memberikan antibiotik dan menunggu batu keluar. Sistem yang terobst
 
 ---
 
-# UROLITHIASIS
-
 ## 13. DEFINITIVE STONE TREATMENT
 
 Urutan modalitas dari **less invasive → more invasive**:
@@ -598,7 +596,7 @@ Urutan modalitas dari **less invasive → more invasive**:
 - Vesicolithotripsy
 - Laparoscopic surgery
 - Open surgery
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788631028000avdtu7.png)
 ---
 
 ## 14. INDIKASI ACTIVE STONE REMOVAL
@@ -631,8 +629,6 @@ Pertimbangkan active removal pada:
     - Single kidney
 
 ---
-
-# UROLITHIASIS
 
 ## 15. STONE TREATMENT ALGORITHM
 
