@@ -237,7 +237,7 @@ Edema nefrotik dapat terjadi melalui dua mekanisme:
 
 Kehilangan protein melalui urin menyebabkan perubahan berbagai protein sistem koagulasi dan dapat menyebabkan:
 
-- Peningkatan agregasi trombosit.
+- Peningkatan agregasi trombosit karena **protein anti koagulasi ikut terbuang lewat urin**.
 - Keadaan **hiperkoagulabel**.
 - Risiko **trombosis**, termasuk trombosis vena renalis dan emboli paru.
 
@@ -262,16 +262,9 @@ Lipiduria terutama berkaitan dengan **proteinuria**, bukan sekadar kadar lipid p
 - **Thyroxine:** thyroid-binding globulin hilang melalui urin → kadar total thyroxine dapat menurun.
 - **Obat:** perubahan protein binding dapat memengaruhi kadar dan efek obat.
 
-💡 **Hafalan komplikasi sindrom nefrotik:**
+💡 **Ingat!**
 
-Jadi urutan **metabolic consequences** pada sindrom nefrotik:
-
-1. **Negative nitrogen balance** → kehilangan protein.
-2. **Hypercoagulability** → perubahan protein koagulasi + kehilangan antithrombin III.
-3. **Hyperlipidemia & lipiduria** → gangguan metabolisme lipid.
-4. **Other metabolic effects** → vitamin D, thyroid-binding globulin, dan protein binding obat.ik → protein bocor → nitrogen ikut hilang → “keluar > masuk” → Negative Nitrogen Balance.**
-
-Jadi urutan **metabolic consequences** pada sindrom nefrotik:
+Jadi beberapa **metabolic consequences** pada sindrom nefrotik:
 
 1. **Negative nitrogen balance** → kehilangan protein.
 2. **Hypercoagulability** → perubahan protein koagulasi + kehilangan antithrombin III.
