@@ -45,20 +45,23 @@
 Perjalanan lesi dapat berupa:
 
 **Papul → pustul → erosi → ulkus**
-![gh|484](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788598999000o297e6.png)
+![gh|378](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788598999000o297e6.png)
 - Awalnya berupa **papul yang dikelilingi eritema**.
 - Kemudian berkembang menjadi **pustul**.
 - Selanjutnya mengalami **erosi dan ulserasi**.
 - Ulkus memiliki karakteristik:
     - **Lunak**
     - **Nyeri**
-    - Tidak ada **indurasi**
-    - Tepi dapat **ragged** dan **undermined**
+    - Tidak ada [**indurasi**]{Indurasi adalah kondisi ketika area kulit menjadi keras dan sedikit menonjol (membengkak) saat diraba.}
+    - Tepi dapat **ragged/kasar** dan **undermined**
     - Dasar kotor
     - Tertutup jaringan nekrotik
     - Mengandung eksudat nekrotik purulen berwarna **keabuan atau kuning**
     - **Mudah berdarah**
 - Tidak disertai **gejala prodromal**.
+![gh|518](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599038000b08xhv.png)
+![gh|618](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599118000g12qfd.png)
+
 
 🧠 **Tips hafalan:**  
 **CHANCRoid = CHANcre yang painful** → ingat **ULKUS NYERI + LUNAK**.  
@@ -80,7 +83,7 @@ Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & 
 - Lesi yang saling berdekatan dapat mengalami kontak sehingga terbentuk **“kissing ulcer”**.
 - Contoh: penyebaran dari **frenulum ke glans**.
 - Lesi juga dapat muncul pada anus dan lokasi ekstragenital.
-
+![gh|574](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599061000el94ej.png)
 🧠 **Kata kunci:**  
 **Chancroid = “kissing ulcer”** → karena bisa menyebar melalui **autoinokulasi**.
 
