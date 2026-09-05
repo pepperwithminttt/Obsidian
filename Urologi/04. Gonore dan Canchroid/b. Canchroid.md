@@ -53,7 +53,7 @@ Perjalanan lesi dapat berupa:
     - **Lunak**
     - **Nyeri**
     - Tidak ada [**indurasi**]{Indurasi adalah kondisi ketika area kulit menjadi keras dan sedikit menonjol (membengkak) saat diraba.}
-    - Tepi dapat **ragged/kasar** dan **undermined**
+    - Tepi dapat **ragged/kasar/compang-camping** dan **undermined/menggali ke dalam**
     - Dasar kotor
     - Tertutup jaringan nekrotik
     - Mengandung eksudat nekrotik purulen berwarna **keabuan atau kuning**
@@ -66,6 +66,8 @@ Perjalanan lesi dapat berupa:
 🧠 **Tips hafalan:**  
 **CHANCRoid = CHANcre yang painful** → ingat **ULKUS NYERI + LUNAK**.  
 Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & soft**.
+
+KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
 
 **Predileksi:**
 
