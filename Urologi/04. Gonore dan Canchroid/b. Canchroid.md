@@ -9,20 +9,10 @@
     - **Gram-negative**
     - **Fakultatif anaerob**
     - Berbentuk **kokobasilus**
+![gh|300](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788598760000xcorpu.png)
 - Chancroid juga dikenal sebagai **ulcus molle**.
 - **Masa inkubasi:** sekitar **2–35 hari**, rata-rata **7 hari**.
-    - Materi juga mencantumkan lesi biasanya muncul **1–2 minggu setelah infeksi**.
-- Karakteristik utama lesi:
-    - **Nyeri**
-    - **Lunak**
-    - **Tidak mengalami indurasi**
-    - **Tepi tidak rata (ragged)**
-    - Dasar ulkus kotor dengan **eksudat nekrotik purulen** berwarna keabuan atau kuning
-    - Mudah berdarah
-
-🧠 **Tips hafalan:**  
-**CHANCRoid = CHANcre yang painful** → ingat **ULKUS NYERI + LUNAK**.  
-Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & soft**.
+    - Lesi biasanya muncul **1–2 minggu setelah infeksi**.
 
 ## 2. EPIDEMIOLOGI & FAKTOR RISIKO
 
@@ -40,7 +30,7 @@ Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & 
 
 **Faktor risiko:**
 
-- Tidak sirkumsisi
+- **Tidak sirkumsisi**
 - Pekerja seks komersial / promiskuitas
 - Hubungan seksual heteroseksual maupun homoseksual
 - Hubungan seksual tanpa proteksi
@@ -55,7 +45,7 @@ Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & 
 Perjalanan lesi dapat berupa:
 
 **Papul → pustul → erosi → ulkus**
-
+![gh|484](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788598999000o297e6.png)
 - Awalnya berupa **papul yang dikelilingi eritema**.
 - Kemudian berkembang menjadi **pustul**.
 - Selanjutnya mengalami **erosi dan ulserasi**.
@@ -69,6 +59,10 @@ Perjalanan lesi dapat berupa:
     - Mengandung eksudat nekrotik purulen berwarna **keabuan atau kuning**
     - **Mudah berdarah**
 - Tidak disertai **gejala prodromal**.
+
+🧠 **Tips hafalan:**  
+**CHANCRoid = CHANcre yang painful** → ingat **ULKUS NYERI + LUNAK**.  
+Kalau **sifilis → painless & indurated**, sedangkan **chancroid → painful & soft**.
 
 **Predileksi:**
 
