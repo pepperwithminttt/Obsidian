@@ -373,7 +373,7 @@ Pilihan terapi adalah dialisis, terbagi 2:
 Pada anak kritis, terapi pengganti ginjal dapat dipertimbangkan lebih dini terutama bila terjadi **kelebihan cairan ≥10%**, khususnya pada:
 
 - pasien pascaoperasi jantung,
-- pasien yang menggunakan **ECMO**.
+- pasien yang menggunakan **ECMO** (extracorporeal membrane oxygenation).
 
 Kelebihan cairan berat perlu dikendalikan karena dapat menyebabkan keterbatasan ruang untuk:
 
