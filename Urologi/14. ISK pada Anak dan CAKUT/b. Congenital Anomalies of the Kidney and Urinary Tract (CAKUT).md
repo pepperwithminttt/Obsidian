@@ -346,7 +346,6 @@ Akibatnya:
 
 **Posterior urethral valves** adalah kelainan kongenital berupa membran/katup abnormal pada **posterior urethra** yang menyebabkan obstruksi aliran urin. Kondisi ini **terjadi pada laki-laki**.
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788604100000w86cna.png)
-
 ### Patogenesis
 
 **PUV**  
