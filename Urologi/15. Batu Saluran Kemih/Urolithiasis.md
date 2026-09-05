@@ -557,7 +557,7 @@ Target:
 
 ## 12. RED FLAGS & EMERGENCY INTERVENTION 🚨
 
-### Red flags
+### Red flags (Harus dikasih intervensi darurat!)
 
 1. **Obstructed upper urinary tract + infection/sepsis** ⭐⭐⭐
 2. **Impending renal deterioration**
