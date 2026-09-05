@@ -208,7 +208,7 @@ Karena produksi urin janin sangat berkurang → volume cairan amnion menurun →
 ### Manifestasi
 
 - Dapat asimptomatik.
-- [Dapat menyebabkan **hipertensi berat**, terutama pada segmental hypoplasia.]{Pada **renal hypoplasia segmental**, sebagian ginjal berkembang lebih kecil sehingga **jumlah nefron di bagian tersebut lebih sedikit**. Akibatnya, aliran darah yang masuk ke bagian ginjal itu bisa dianggap tubuh sebagai **“kurang”**, sehingga ginjal mengeluarkan **renin**. Renin kemudian mengaktifkan **RAAS**, yang membuat pembuluh darah menyempit dan tubuh menahan garam serta air. Akibatnya, **tekanan darah naik dan bisa menjadi sangat tinggi**.}
+- [Dapat menyebabkan **hipertensi berat**, terutama pada segmental hypoplasia.]{Pada **renal hypoplasia segmental**, sebagian ginjal berkembang lebih kecil sehingga **jumlah nefron di bagian tersebut lebih sedikit**. Akibatnya, aliran darah yang masuk ke bagian ginjal itu juga kurang. Gara-gara itu, tubuh malah menganggap bahwa seluruh tubuh yang sedang **kekurangan perfusi**, sehingga ginjal mengeluarkan **renin**. Renin kemudian mengaktifkan **RAAS**, yang membuat pembuluh darah menyempit dan tubuh menahan garam serta air. Akibatnya, **tekanan darah naik dan bisa menjadi sangat tinggi**.}
 - Bila jumlah nephron sangat berkurang → dapat meningkatkan risiko CKD.
 
 > 🧠 **Hypoplasia = “kecil karena kurang jumlahnya”**  
@@ -221,13 +221,14 @@ Karena produksi urin janin sangat berkurang → volume cairan amnion menurun →
 
 **Multicystic dysplastic kidney** adalah kelainan kongenital ketika jaringan ginjal sebagian besar digantikan oleh **multiple noncommunicating cysts**, sehingga fungsi ginjal tersebut sangat buruk atau tidak berfungsi.
 
-> ⚠️ Catatan penting: materi awal menyebutkan “dilatasi distal tubules dan collecting ducts dengan glomeruli/proximal tubules/loop of Henle masih normal” sebagai _multicystic kidney_. Gambaran tersebut lebih cocok dengan konsep **polycystic kidney disease**, bukan MCDK. **MCDK merupakan renal dysplasia**, sehingga struktur parenkim ginjal berkembang abnormal.
+> ⚠️ Catatan penting: materi di PPT dokter menyebutkan “dilatasi distal tubules dan collecting ducts dengan glomeruli/proximal tubules/loop of Henle masih normal” sebagai _multicystic kidney_. Gambaran tersebut lebih cocok dengan konsep **polycystic kidney disease**, bukan MCDK. **MCDK merupakan renal dysplasia**, sehingga struktur parenkim ginjal berkembang abnormal.
 
 ### Manifestasi
 
 - Dapat ditemukan sebagai **abdominal mass** pada bayi.
 - Sering ditemukan secara prenatal melalui USG.
 - Bila bilateral dan berat → dapat menyebabkan oligohidramnion serta gangguan fungsi ginjal berat.
+![gh|468](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17886038120009gjfxi.png)
 
 ---
 
@@ -262,6 +263,7 @@ Karena produksi urin janin sangat berkurang → volume cairan amnion menurun →
 
 🧠 **Hafalan:**  
 **Horse → tapal kuda → dua ginjal “nyambung” di bawah.** 🐴
+![gh|404](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603857000e84dav.png)
 
 ---
 
@@ -288,6 +290,7 @@ Dapat ditemukan secara prenatal atau muncul kemudian dengan:
 - Hematuria.
 - Mual/muntah.
 - Kadang asimptomatik.
+![gh|346](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178860390600041w0rx.png)
 
 ---
 
@@ -303,12 +306,13 @@ Dapat terjadi karena:
 - Kombinasi faktor tersebut.
 
 Manifestasi dapat berupa UTI berulang, hydronephrosis, atau ditemukan secara insidental pada pemeriksaan prenatal/postnatal.
+![gh|207](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603958000lxvdi8.png)
 
 ---
 
 ## I. Duplex Collecting System
 
-**Duplex collecting system** adalah kelainan ketika satu ginjal memiliki **dua sistem collecting system**, yang dapat disertai dua ureter atau ureter yang bergabung sebelum mencapai kandung kemih.
+**Duplex collecting system** adalah kelainan ketika satu ginjal memiliki **dua collecting system**, yang dapat disertai dua ureter atau ureter yang bergabung sebelum mencapai kandung kemih.
 
 Dapat asimptomatik, tetapi dapat berhubungan dengan:
 
@@ -318,6 +322,7 @@ Dapat asimptomatik, tetapi dapat berhubungan dengan:
 - Ectopic ureter.
 
 🧠 **Duplex = “satu ginjal, jalan pengumpulnya dobel.”** 🚰🚰
+![gh|286](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603989000rrlihl.png)
 
 ---
 
@@ -333,12 +338,14 @@ Akibatnya:
 - UTI berulang.
 - **Renal scarring**.
 - Dapat menyebabkan **reflux nephropathy** dan CKD.
+![gh|337](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788604040000xeb2ix.png)
 
 ---
 
 ## K. Posterior Urethral Valves (PUV) 🚹
 
 **Posterior urethral valves** adalah kelainan kongenital berupa membran/katup abnormal pada **posterior urethra** yang menyebabkan obstruksi aliran urin. Kondisi ini **terjadi pada laki-laki**.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788604100000w86cna.png)
 
 ### Patogenesis
 
