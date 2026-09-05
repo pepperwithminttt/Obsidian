@@ -295,6 +295,9 @@ Manifestasi klinis dapat berupa:
 6. **Anemia** (karena defisiensi eritropoietin yang seharusnya diproduksi oleh ginjal).
 7. **Pernapasan Kussmaul**, terutama akibat asidosis metabolik berat.
 
+#### INGAT! Pernapasan Kussmaul (pernapasan cepat dan dalam) adalah mekanisme tubuh saat asidosis metabolik untuk membuang asam berlebih secara cepat dalam bentuk CO₂
+
+
 # Diagnosis AKI
 
 Diagnosis ditegakkan berdasarkan:
