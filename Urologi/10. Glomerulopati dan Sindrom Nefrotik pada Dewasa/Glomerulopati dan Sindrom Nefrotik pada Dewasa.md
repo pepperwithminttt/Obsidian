@@ -255,7 +255,7 @@ Dapat ditemukan:
 - **Lipiduria** → dapat ditemukan oval fat bodies.
 
 Lipiduria terutama berkaitan dengan **proteinuria**, bukan sekadar kadar lipid plasma.
-
+![gh|556](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788625614000nrw73n.png)
 #### 4. Efek metabolik lainnya
 
 - **Vitamin D:** kadar 25-hydroxyvitamin D dapat menurun, sedangkan vitamin D bebas biasanya tetap normal.
@@ -274,39 +274,39 @@ Jadi beberapa **metabolic consequences** pada sindrom nefrotik:
 ## 5. Istilah Klinis Sindrom Nefrotik
 
 - **Nephrotic-range proteinuria**
-    
     - Anak: uPCR ≥2 mg/mg atau ≥200 mg/mmol atau dipstick protein ≥3+.
     - Dewasa: proteinuria ≥3,5 g/hari.
     - Disertai hipoalbuminemia atau edema bila kadar albumin tidak tersedia.
+
 - **Complete remission**
-    
     - Anak: uPCR <0,2 mg/mg atau <20 mg/mmol, atau dipstick negatif/trace pada ≥3 pemeriksaan berturut-turut.
     - Dewasa: proteinuria ≤0,2 g/hari dan albumin serum >3,5 g/dL.
+
 - **Partial remission**
-    
     - Anak: uPCR >0,2 tetapi <2 mg/mg dan albumin serum ≥3 g/dL bila tersedia.
     - Dewasa: proteinuria 0,21–3,4 g/hari atau penurunan proteinuria ≥50% dari nilai awal.
+
 - **Relapse**
-    
     - Kembali munculnya proteinuria nephrotic-range setelah sebelumnya mengalami remisi.
     - Anak: dipstick ≥3+ selama 3 hari berturut-turut atau ≥1+ selama 7 hari.
     - Dewasa: proteinuria ≥3,5 g/hari setelah complete remission >1 bulan.
+
 - **Steroid-sensitive nephrotic syndrome (SSNS)** → complete remission setelah 4 minggu prednisone/prednisolone dosis standar.
-    
+
 - **Infrequent-relapsing nephrotic syndrome (IRNS)** → 1 relaps dalam ≤6 bulan atau <4 relaps dalam 12 bulan.
-    
+
 - **Frequent-relapsing nephrotic syndrome (FRNS)** → ≥2 relaps dalam 6 bulan atau ≥4 relaps dalam 12 bulan.
-    
+
 - **Steroid-dependent nephrotic syndrome (SDNS)** → relaps saat terapi steroid atau dalam 15 hari setelah penghentian steroid.
-    
+
 - **Steroid-resistant nephrotic syndrome (SRNS)** → tidak mencapai complete remission setelah terapi steroid standar.
-    
+
 - **CNI-responsive SRNS** → mencapai complete remission setelah terapi calcineurin inhibitor (CNI).
-    
+
 - **CNI-resistant SRNS** → tidak mencapai partial remission setelah terapi CNI yang adekuat.
-    
+
 - **Multidrug-resistant SRNS** → tidak mencapai complete remission setelah 12 bulan terapi dengan dua obat steroid-sparing yang mekanismenya berbeda.
-    
+
 - **Secondary SRNS** → pasien SSNS yang kemudian mengalami relaps dan tidak mencapai remisi setelah 4 minggu terapi steroid standar.
     
 
