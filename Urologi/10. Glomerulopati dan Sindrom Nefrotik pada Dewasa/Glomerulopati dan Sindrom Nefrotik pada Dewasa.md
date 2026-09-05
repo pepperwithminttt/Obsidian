@@ -274,22 +274,22 @@ Jadi beberapa **metabolic consequences** pada sindrom nefrotik:
 ## 5. Istilah Klinis Sindrom Nefrotik
 
 - **Nephrotic-range proteinuria**
-    - Anak: uPCR ≥2 mg/mg atau ≥200 mg/mmol atau dipstick protein ≥3+.
-    - Dewasa: proteinuria ≥3,5 g/hari.
+    - Anak: [uPCR]{Urine Protein to Creatinine Ratio} ≥2 mg/mg atau ≥200 mg/mmol atau dipstick protein ≥3+.
+    - Dewasa: proteinuria **≥3,5 g/hari.**
     - Disertai hipoalbuminemia atau edema bila kadar albumin tidak tersedia.
 
 - **Complete remission**
     - Anak: uPCR <0,2 mg/mg atau <20 mg/mmol, atau dipstick negatif/trace pada ≥3 pemeriksaan berturut-turut.
-    - Dewasa: proteinuria ≤0,2 g/hari dan albumin serum >3,5 g/dL.
+    - Dewasa: proteinuria **≤0,2 g/hari** dan albumin serum >3,5 g/dL.
 
 - **Partial remission**
     - Anak: uPCR >0,2 tetapi <2 mg/mg dan albumin serum ≥3 g/dL bila tersedia.
-    - Dewasa: proteinuria 0,21–3,4 g/hari atau penurunan proteinuria ≥50% dari nilai awal.
+    - Dewasa: proteinuria **0,21–3,4 g/hari** atau penurunan proteinuria ≥50% dari nilai awal.
 
 - **Relapse**
     - Kembali munculnya proteinuria nephrotic-range setelah sebelumnya mengalami remisi.
     - Anak: dipstick ≥3+ selama 3 hari berturut-turut atau ≥1+ selama 7 hari.
-    - Dewasa: proteinuria ≥3,5 g/hari setelah complete remission >1 bulan.
+    - Dewasa: proteinuria **≥3,5 g/hari setelah complete remission >1 bulan**.
 
 - **Steroid-sensitive nephrotic syndrome (SSNS)** → complete remission setelah 4 minggu prednisone/prednisolone dosis standar.
 
