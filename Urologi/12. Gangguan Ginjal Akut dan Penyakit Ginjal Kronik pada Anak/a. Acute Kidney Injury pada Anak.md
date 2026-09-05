@@ -360,7 +360,7 @@ Pilihan terapi adalah dialisis, terbagi 2:
 - **Hemodialisis**
 - **Dialisis peritoneal**
 
-### Indikasi tradisional
+### Indikasi tradisional untuk dialisis
 
 - **Hiperkalemia berat** yang tidak responsif terhadap terapi konservatif.
 - **Asidosis berat tidak terkendali** yang tidak dapat dikoreksi dengan aman karena risiko kelebihan natrium atau volume.
