@@ -149,23 +149,21 @@ CAKUT memiliki spektrum klinis luas, mulai dari **asimptomatik** hingga gagal gi
 ### Diagnosis
 
 1. **History taking**
-    
     - Riwayat prenatal, termasuk oligohidramnion.
     - Riwayat UTI.
     - Gangguan berkemih.
     - Riwayat keluarga dengan penyakit ginjal atau kelainan kongenital.
+
 2. **Physical examination**
-    
     - Mencari **major anomalies** dan **minor anomalies**.
     - Palpasi abdomen untuk mengetahui pembesaran ginjal atau massa.
     - Evaluasi tekanan darah dan pertumbuhan.
+
 3. **Laboratory & imaging**
-    
     - Evaluasi fungsi ginjal.
     - Urinalisis dan pemeriksaan urin bila dicurigai UTI.
     - **Ultrasonography (USG)** sebagai pemeriksaan imaging awal.
     - Pemeriksaan imaging spesifik sesuai kelainan, misalnya **voiding cystourethrography (VCUG)** pada dugaan vesicoureteral reflux atau posterior urethral valves.
-
 ---
 
 # 7. Penyakit dan Kelainan CAKUT 🫘
@@ -193,12 +191,14 @@ Karena produksi urin janin sangat berkurang → volume cairan amnion menurun →
 
 🧠 **Hafalan:**  
 **“No kidney → No urine → No amnion → No lung expansion.”** 🌊🫁
+![gh|277](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603088000wphk6p.png)
+![gh|362](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17886031150003n6e4c.png)
 
 ---
 
 ## B. Renal Hypoplasia
 
-**Renal hypoplasia** adalah ginjal yang berukuran lebih kecil sejak lahir akibat **jumlah nephron yang berkurang**, tetapi struktur nephrons yang terbentuk relatif normal.
+**Renal hypoplasia** adalah ginjal yang berukuran lebih kecil sejak lahir akibat **jumlah nephron yang berkurang**, tetapi struktur nephron-nephron yang terbentuk relatif normal.
 
 ### Jenis
 
@@ -213,6 +213,7 @@ Karena produksi urin janin sangat berkurang → volume cairan amnion menurun →
 
 > 🧠 **Hypoplasia = “kecil karena kurang jumlahnya”**  
 > Berbeda dengan **dysplasia**, yang terutama menunjukkan **perkembangan jaringan yang abnormal**.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603204000hzoszq.png)
 
 ---
 
