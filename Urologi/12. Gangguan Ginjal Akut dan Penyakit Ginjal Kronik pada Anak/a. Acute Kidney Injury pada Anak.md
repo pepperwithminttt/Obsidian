@@ -11,27 +11,21 @@
 
 ## Definisi Gangguan Ginjal Berdasarkan Waktu
 
-| Kondisi                                | Waktu setelah cedera ginjal     | Definisi                                                                                                                                                                                                                                       |
-| -------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Acute Kidney Injury (AKI)**       | **< 7 hari**                    | Gangguan fungsi ginjal akut yang terjadi dalam waktu <7 hari dan ditegakkan berdasarkan **kriteria KDIGO**.                                                                                                                                    |
-| 🟠 **Acute Kidney Disease (AKD)**      | **7 hari – <3 bulan (90 hari)** | Gangguan ginjal yang menetap ≥7 hari tetapi <3 bulan. Merupakan kondisi kompleks karena **cedera, regenerasi, dan perbaikan ginjal** dapat berlangsung secara bersamaan, dengan hasil yang dipengaruhi oleh cadangan fungsi ginjal sebelumnya. |
-| 🟢 **Chronic Kidney Disease (CKD)**    | **≥3 bulan (≥90 hari)**         | Kelainan struktur atau fungsi ginjal yang menetap ≥3 bulan dan memiliki implikasi terhadap kesehatan.                                                                                                                                          |
-| 🔵 **Acute on Chronic Kidney Disease** | **AKI pada pasien dengan CKD**  | Penurunan fungsi ginjal **secara akut** yang terjadi pada ginjal yang sebelumnya sudah mengalami kerusakan kronis, sehingga kondisi ginjal yang sudah rusak menjadi semakin buruk.                                                             |
+| Kondisi                            | Waktu setelah cedera ginjal | Definisi                                                                                                                                                                                                                                       |
+| ---------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔴 Acute Kidney Injury (AKI)       | < 7 hari                    | Gangguan fungsi ginjal akut yang terjadi dalam waktu <7 hari dan ditegakkan berdasarkan **kriteria KDIGO**.                                                                                                                                    |
+| 🟠 Acute Kidney Disease (AKD)      | 7 hari – <3 bulan (90 hari) | Gangguan ginjal yang menetap ≥7 hari tetapi <3 bulan. Merupakan kondisi kompleks karena **cedera, regenerasi, dan perbaikan ginjal** dapat berlangsung secara bersamaan, dengan hasil yang dipengaruhi oleh cadangan fungsi ginjal sebelumnya. |
+| 🟢 Chronic Kidney Disease (CKD)    | ≥3 bulan (≥90 hari)         | Kelainan struktur atau fungsi ginjal yang menetap ≥3 bulan dan memiliki implikasi terhadap kesehatan.                                                                                                                                          |
+| 🔵 Acute on Chronic Kidney Disease | AKI pada pasien dengan CKD  | Penurunan fungsi ginjal **secara akut** yang terjadi pada ginjal yang sebelumnya sudah mengalami kerusakan kronis, sehingga kondisi ginjal yang sudah rusak menjadi semakin buruk.                                                             |
 
-### 🧠 Cara baca timeline pada gambar
+### 🧠 Cara hafal timeline:
 
 **Cedera ginjal → 0 → 2 hari → 7 hari → 90 hari**
 
-- **0–<7 hari → AKI**
-    
-- **7 hari–<90 hari → AKD**
-    
-- **≥90 hari → CKD**
-    
-- **AKI yang terjadi pada pasien yang sudah punya CKD → Acute on CKD**
-    
-
-> ⚠️ **Catatan penting:** angka **180 hari** yang terlihat pada gambar **bukan batas definisi CKD**. Batas CKD tetap **≥3 bulan (≥90 hari)**. Angka 180 hari kemungkinan merupakan penanda waktu lanjutan pada ilustrasi, bukan batas diagnosis CKD.
+- 0–<7 hari → AKI
+- 7 hari–<90 hari → AKD
+- ≥90 hari → CKD
+- AKI yang terjadi pada pasien yang sudah punya CKD → Acute on CKD
 
 ## Definisi AKI Menurut KDIGO 2012
 
