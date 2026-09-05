@@ -20,11 +20,11 @@
 
 ### 🧠 Cara hafal timeline:
 
-**Cedera ginjal → 0 → 7 hari → 3 bulan **
+**"7 hari → 3 bulan"**
 
-- 0–<7 hari → AKI
-- 7 hari–<90 hari → AKD
-- ≥90 hari → CKD
+- 0 – <7 hari → AKI
+- 7 hari – <3 bulan → AKD
+- ≥3 bulan → CKD
 - AKI yang terjadi pada pasien yang sudah punya CKD → Acute on CKD
 
 ## Definisi AKI Menurut KDIGO 2012
@@ -39,12 +39,12 @@ AKI adalah **penurunan fungsi ginjal secara cepat** yang menyebabkan gangguan:
 Diagnosis AKI ditegakkan jika **salah satu** kriteria berikut terpenuhi:
 
 - Peningkatan kreatinin serum **≥26,5 µmol/L dalam 48 jam**, atau
-- Peningkatan kreatinin serum menjadi **≥1,5 kali nilai dasar** yang diketahui atau diperkirakan terjadi dalam **7 hari sebelumnya**, atau
+- Peningkatan kreatinin serum menjadi **≥1,5 kali nilai dasar (baseline)** yang diketahui atau diperkirakan terjadi dalam **7 hari sebelumnya**, atau
 - Produksi urine **<0,5 mL/kgBB/jam selama ≥6 jam**.
 
 > 💡 **Tips hafalan KDIGO:** ingat **“26,5 – 1,5 – 0,5”**
 > 
-> - **26,5** → naik dalam **48 jam**
+> - **26,5** → naik dalam **48 jam/2 hari**
 > - **1,5×** → dalam **7 hari**
 > - **0,5 mL/kg/jam** → selama **6 jam**
 
