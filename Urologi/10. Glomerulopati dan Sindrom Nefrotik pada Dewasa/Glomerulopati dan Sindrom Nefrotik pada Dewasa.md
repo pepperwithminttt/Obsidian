@@ -583,16 +583,16 @@ sering kali diagnosis **chronic glomerulonephritis** bersifat presumtif.
 
 # 🔑 PEMBEDAAN CEPAT MANIFESTASI GLOMERULOPATI
 
-|Gambaran|Kelainan urin asimtomatik|Sindrom nefritik|Sindrom nefrotik|RPGN|GN kronik|
-|---|---|---|---|---|---|
-|Hematuria|±|**+++**|±|**+++**|±|
-|RBC casts|±|**+++**|Jarang|**+++**|±|
-|Proteinuria|Ringan|<3 g/hari|**>3,5 g/hari**|Biasanya <3 g/hari|Sering berat|
-|Edema|Tidak khas|+|**+++**|+|±|
-|Hipertensi|±|**+++**|±|±|**+++**|
-|GFR|Normal|↓|Normal/↓|**↓↓ cepat**|**↓ progresif**|
-|Onset|Perlahan/tanpa gejala|Akut|Bervariasi|**Hari–minggu**|Kronik|
-|Ciri khas|Hematuria/proteinuria|Hematuria + GFR ↓|Proteinuria berat + edema|**Crescent**|Ginjal kecil dan halus|
+| Gambaran    | Kelainan urin asimtomatik | Sindrom nefritik  | Sindrom nefrotik          | RPGN (Termasuk Sindrom Nefritik) | GN kronik (Termasuk Sindrom Nefritik) |
+| ----------- | ------------------------- | ----------------- | ------------------------- | -------------------------------- | ------------------------------------- |
+| Hematuria   | ±                         | **+++**           | ±                         | **+++**                          | ±                                     |
+| RBC casts   | ±                         | **+++**           | Jarang                    | **+++**                          | ±                                     |
+| Proteinuria | Ringan                    | <3 g/hari         | **>3,5 g/hari**           | Biasanya <3 g/hari               | Sering berat                          |
+| Edema       | Tidak khas                | +                 | **+++**                   | +                                | ±                                     |
+| Hipertensi  | ±                         | **+++**           | ±                         | ±                                | **+++**                               |
+| GFR         | Normal                    | ↓                 | Normal/↓                  | **↓↓ cepat**                     | **↓ progresif**                       |
+| Onset       | Perlahan/tanpa gejala     | Akut              | Bervariasi                | **Hari–minggu**                  | Kronik                                |
+| Ciri khas   | Hematuria/proteinuria     | Hematuria + GFR ↓ | Proteinuria berat + edema | **Crescent**                     | Ginjal kecil dan halus                |
 
 ### 🧠 SUPER TIPS MENGHAFAL
 
