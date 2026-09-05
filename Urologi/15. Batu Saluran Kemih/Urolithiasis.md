@@ -568,12 +568,12 @@ Target:
 
 ### Emergency intervention
 
-**1. Renal decompression**
+1. Renal decompression
 
 - **Ureteral stent**
 - **Percutaneous nephrostomy**
 
-**2. Emergency stone removal**
+2. Emergency stone removal
 
 ⚠️ **Paling penting untuk ujian:**  
 **Obstruction + infection = emergency.**  
