@@ -84,6 +84,7 @@ Prognosis ditentukan berdasarkan kombinasi **GFR + albuminuria**.
 - GFR semakin rendah → prognosis semakin buruk.
 - Albuminuria semakin tinggi → risiko progresivitas CKD semakin tinggi.
 - Kombinasi **G4–G5 + A3** → risiko sangat tinggi.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788619306000zp0b6y.png)
 
 ---
 
