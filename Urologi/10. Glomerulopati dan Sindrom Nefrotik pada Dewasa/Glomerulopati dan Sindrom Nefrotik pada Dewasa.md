@@ -499,7 +499,7 @@ Dapat ditemukan:
 - Malaise.
 - Demam ringan.
 - Peningkatan berat badan akibat retensi cairan.
-
+![gh|397](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788627729000ygxgeu.png)
 ## 3. Tatalaksana
 
 Prinsip utama adalah **suportif**, sambil memastikan apakah terdapat penyebab spesifik yang membutuhkan terapi.
