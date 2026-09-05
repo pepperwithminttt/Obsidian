@@ -143,7 +143,7 @@ KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
 
 🧠 **Tips hafalan:**  
 **Chancroid → “School of fish”** 🐟🐟🐟  
-Ini merupakan gambaran klasik pada **Gram stain**
+Ini merupakan gambaran klasik pada **Gram stain**.
 ![gh|432](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599891000zu0qvw.png)
 ### Diagnosis Definitif
 
@@ -232,7 +232,7 @@ Keterbatasan yang dicantumkan dalam materi:
 ### Kondisi Khusus
 
 - **Kehamilan:** dapat menggunakan **ceftriaxone atau azithromycin**.
-- **Fimosis:** sirkumsisi dilakukan **setelah lesi sembuh**.
+- [**Fimosis:**]{Fimosis adalah kondisi ketika kulit penutup ujung penis (kulup atau prepusium) melekat terlalu ketat dan tidak dapat ditarik ke belakang melewati kepala penis} sirkumsisi dilakukan **setelah lesi sembuh**.
 
 ### Evaluasi Respons Terapi
 
