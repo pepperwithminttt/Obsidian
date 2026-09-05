@@ -214,13 +214,15 @@ Edema nefrotik dapat terjadi melalui dua mekanisme:
 - Volume plasma normal atau meningkat.
 - **Atrial natriuretic peptide (ANP)** dapat menurun/tidak efektif.
 - Terjadi retensi natrium dan air → edema.
-
+![gh|434](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178862498300040crbs.png)
 💡 **Tips hafalan:**
 
 - **Underfill = albumin turun dulu → volume turun → RAAS naik → Na⁺ naik.**
 - **Overfill = tubulus menahan Na⁺ dulu.**
 
-### C. Hiperkoagulabilitas
+### C. Konsekuensi Metabolik
+
+Hiperkoagulabilitas
 
 Kehilangan protein melalui urin menyebabkan perubahan berbagai protein sistem koagulasi dan dapat menyebabkan:
 
