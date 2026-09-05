@@ -530,7 +530,7 @@ Memberikan informasi mengenai:
 
 IV antibiotics diindikasikan pada:
 
-1. **Infants ≤1 month**
+1. **Bayi ≤1 bulan**
 2. Poor oral intake
 3. Organism resistant terhadap effective oral antibiotics
 4. Complicated UTI
@@ -541,16 +541,16 @@ IV antibiotics diindikasikan pada:
 
 ## Oral Therapy for Cystitis
 
-|Antibiotic|Dose|
-|---|---|
-|**Trimethoprim-sulfamethoxazole**|4–6 mg/kg/dose q12h (**berdasarkan trimethoprim**)|
-|**Nitrofurantoin**|5–7 mg/kg/day, divided q6h|
-|**Amoxicillin**|25–40 mg/kg/day, divided q12h|
-|**Amoxicillin-clavulanate**|25–40 mg/kg/day **amoxicillin component**, divided q8–12h|
-|**Cephalexin**|25–50 mg/kg/day, divided q6h|
-|**Cefixime**|8 mg/kg/day, divided q12h|
-|**Cefdinir**|14 mg/kg/day, divided q12h|
-|**Ciprofloxacin**|20–30 mg/kg/day, divided q12h|
+| Antibiotic                        | Dose                                                      |
+| --------------------------------- | --------------------------------------------------------- |
+| **Trimethoprim-sulfamethoxazole** | 4–6 mg/kg/dose q12h (**berdasarkan trimethoprim**)        |
+| **Nitrofurantoin**                | 5–7 mg/kg/day, divided q6h                                |
+| Amoxicillin                       | 25–40 mg/kg/day, divided q12h                             |
+| Amoxicillin-clavulanate           | 25–40 mg/kg/day **amoxicillin component**, divided q8–12h |
+| Cephalexin                        | 25–50 mg/kg/day, divided q6h                              |
+| Cefixime                          | 8 mg/kg/day, divided q12h                                 |
+| Cefdinir                          | 14 mg/kg/day, divided q12h                                |
+| Ciprofloxacin                     | 20–30 mg/kg/day, divided q12h                             |
 
 > ⚠️ Pemilihan antibiotik aktual harus mempertimbangkan **usia, lokasi UTI, pola resistensi lokal, hasil urine culture/antibiogram, fungsi ginjal, dan guideline yang berlaku**.
 
