@@ -61,7 +61,7 @@ UTI yang berhubungan dengan **kelainan anatomis atau fungsional saluran kemih**,
     - abdominal atau bladder mass
 - kondisi pasien serius/**toxic**
 - **septicemia**
-- peningkatan **creatinine**
+- peningkatan **creatinine** (akibat AKI)
 - tidak memberikan respons terhadap antibiotik dalam **48–72 jam**.
 
 ### Recurrent UTI
@@ -73,7 +73,7 @@ Didefinisikan sebagai salah satu dari:
 - **≥3 episode cystitis/lower UTI**.
 
 🧠 **Cara hafal:**  
-**“2 atas – 1 atas + 1 bawah – 3 bawah.”**
+“**2 atas** atau **1 atas + 1 bawah** atau **3 bawah.**”
 
 ---
 
@@ -86,10 +86,10 @@ Didefinisikan sebagai salah satu dari:
 - Incidence:
     - boys → **2–3%**
     - girls → **8–10%**
-- Insidensi lebih tinggi pada **uncircumcised boys**.
-- Risiko infeksi juga meningkat pada anak dengan **malnutrition** dan **chronic diarrhea**.
+- Insidensi lebih tinggi pada **anak-anak yang belum sirkumsisi**.
+- Risiko infeksi juga meningkat pada anak dengan **malnutrisi** dan **diare kronik**.
 
-🧠 **Kenapa girls lebih sering?**  
+🧠 **Kenapa perempuan lebih sering?**  
 Uretra perempuan lebih pendek dan letaknya lebih dekat dengan perineum sehingga bakteri lebih mudah mengalami **ascending infection**.
 
 ---
