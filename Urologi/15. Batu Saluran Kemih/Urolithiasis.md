@@ -680,10 +680,9 @@ Pertimbangkan active removal pada:
 - **Meatotomy** bila diperlukan.
 
 Jika batu didorong kembali ke vesika → dapat dilakukan **vesicolithotripsy**.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788631283000c6y7xc.png)
 
 ---
-
-# UROLITHIASIS
 
 ## 16. FOLLOW-UP
 
@@ -757,8 +756,6 @@ Alurnya:
 **Cari apa yang berlebih → kurangi penyebabnya + tingkatkan inhibitor.**
 
 ---
-
-# UROLITHIASIS
 
 ## 18. TAKE HOME MESSAGES 🧠
 
