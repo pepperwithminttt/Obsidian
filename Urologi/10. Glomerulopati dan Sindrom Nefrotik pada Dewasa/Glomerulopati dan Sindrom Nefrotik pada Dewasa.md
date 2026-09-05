@@ -120,13 +120,13 @@ Sindrom nefrotik merupakan sindrom klinis khas akibat **peningkatan permeabilita
 
 Gambaran klasik berupa **pentad**:
 
-1. **Proteinuria berat**
+1. **Proteinuria berat** (INI PALING PENTING!)
     - Dewasa: **>3,5 g/hari**
     - Anak: **>40 mg/jam/m²**
 2. **Hipoalbuminemia <3,5 g/dL**
 3. **Edema**
 4. **Hiperkolesterolemia** (akibat mekanisme kompensasi hipoalbuminemia oleh hati)
-5. **Lipiduria** (juga akibat mekanisme kompensasi hipoalbuminemia oleh hati))
+5. **Lipiduria** (juga akibat mekanisme kompensasi hipoalbuminemia oleh hati)
 
 Fungsi ginjal dapat tetap normal pada awal penyakit, tetapi sebagian kasus berkembang menjadi **penurunan fungsi ginjal progresif**, terutama bila sindrom nefrotik berlangsung lama.
 
@@ -177,7 +177,7 @@ Pelepasan mediator/cytokine atau faktor sirkulasi
 ↓  
 Cedera podocyte  
 ↓  
-Gangguan adhesi podocyte terhadap **GBM**  
+Gangguan adhesi podocyte terhadap **GBM** (Glomerular Basement Membr)
 ↓  
 Detachment podocyte  
 ↓  
