@@ -235,7 +235,7 @@ Lebih mampu menunjukkan gejala khas:
 
 - Fever
 - Chills
-- Loin pain
+- Loin/flank pain
 - Kidney tenderness
 
 **Bladder symptoms:**
@@ -279,9 +279,6 @@ Semakin besar → semakin mudah muncul **voiding symptoms**.
 - Area of edema pada **power Doppler ultrasound**
 - **Photopenic area** pada **DMSA scan**
 
-🧠 **Hafalan:**  
-**“UPPER = U demam + Punggung/Loin + Parenkim ginjal.”**  
-**“LOWER = Lower bladder → Lower urinary symptoms.”**
 
 ---
 
