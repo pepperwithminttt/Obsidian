@@ -16,15 +16,12 @@
     - ±26% mengalami kekambuhan dalam **5 tahun** setelah episode batu pertama.
     - Dari pasien yang mengalami kekambuhan, sekitar **50% hanya mengalami satu kali kekambuhan sepanjang hidup**.
 
-💡 **Hafalan:**  
-**“40–60, 3:1, 26%–50%”** → usia puncak, rasio laki-laki, dan recurrence.
-
 ---
 
 ## 2. DEFINITION & ANATOMY
 
 **Urolithiasis** adalah kondisi terbentuknya batu (**calculus**) pada saluran kemih. Batu dapat terbentuk di ginjal kemudian bermigrasi melalui **ureter → vesika urinaria → uretra**, sehingga batu dapat ditemukan di seluruh traktus urinarius.
-
+![gh|322](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788628675000434wtr.png)
 ### Anatomi yang penting
 
 **Ginjal**
