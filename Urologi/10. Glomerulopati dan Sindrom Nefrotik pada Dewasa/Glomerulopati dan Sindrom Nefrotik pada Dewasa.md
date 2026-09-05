@@ -407,9 +407,9 @@ Gambaran khas:
 - **Edema**, terutama periorbital dan pedal.
 - **Hipertensi**.
 - Penurunan GFR → **azotemia** dan insufisiensi ginjal.
-- Urin dapat berwarna merah, cokelat, atau seperti **cola**.
+- Urin dapat berwarna merah, cokelat, seperti air cucian daging, atau seperti **cola**.
 
-💡 **Hafalan sindrom nefritik = “DARAH + GFR TURUN”**
+💡 **Hafalan sindrom nefritik = “HEMATURIA + GFR TURUN”**
 
 - Hematuria/RBC casts
 - Proteinuria tidak terlalu berat
