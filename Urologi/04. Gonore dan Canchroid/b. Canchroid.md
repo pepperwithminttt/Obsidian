@@ -105,21 +105,25 @@ KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
 - **Giant chancroid**
     - Lesi tunggal yang meluas ke perifer.
     - Menunjukkan ulserasi yang luas.
-    
+
 - **Ulkus serpiginosa besar**
     - Lesi menjadi konfluens dan menyebar melalui perluasan serta autoinokulasi.
     - Dapat melibatkan penis atau paha.
     - Disebut **ulcus molle serpiginosum**.
+
 - **Chancroid fagadenik**
     - Terjadi akibat **superinfeksi bakteri fusospirochaeta**.
     - Menyebabkan destruksi jaringan yang cepat dan berat.
     - Disebut **ulcus molle gangrenosum**.
+
 - **Transient chancroid**
     - Ulkus kecil yang dapat sembuh sendiri dalam beberapa hari.
     - Kemudian **2–3 minggu berikutnya** dapat muncul **limfadenitis regional akut**.
     - Disebut **chancre mou volant**.
+
 - **Chancroid folikular**
     - Banyak ulkus kecil dengan distribusi **folikular**.
+
 - **Chancroid papular**
     - Lesi berupa **papul ulseratif granulomatosa**.
     - Dapat menyerupai **donovanosis** atau **condyloma lata**.
@@ -130,7 +134,7 @@ KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
 ### Pemeriksaan Penunjang
 
 - **Pewarnaan Gram**
-    - Menunjukkan basil/kokobasilus Gram-negatif yang tersusun seperti **“school of fish”**.
+    - Menunjukkan **basil/kokobasilus Gram-negatif** yang tersusun seperti **“school of fish”**.
 - **Kultur bakteri**
     - Spesimen diambil dari **dasar ulkus**.
 - **ELISA (Enzyme-Linked Immunosorbent Assay)**
@@ -139,8 +143,8 @@ KLO KATAKU SIH INTINYA INI SARIAWAN TAPI DI ANU.
 
 🧠 **Tips hafalan:**  
 **Chancroid → “School of fish”** 🐟🐟🐟  
-Ini merupakan gambaran klasik pada **Gram stain**.
-
+Ini merupakan gambaran klasik pada **Gram stain**
+![gh|432](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788599891000zu0qvw.png)
 ### Diagnosis Definitif
 
 Diagnosis definitif ditegakkan dengan:
@@ -165,7 +169,7 @@ Diagnosis dapat ditegakkan bila **keempat kriteria** terpenuhi:
 4. Pemeriksaan **HSV-1/HSV-2 NAAT atau kultur HSV** dari eksudat ulkus menunjukkan hasil **negatif**.
 
 🧠 **Hafalan 4 kriteria:**  
-**“NYERI – KHAS – NO SIFILIS – NO HSV”**.
+**“ULKUS NYERI – KEL. LIMFA BESAR – NO SIFILIS – NO HSV”**.
 
 ## 6. DIAGNOSIS BANDING
 
