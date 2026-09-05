@@ -23,7 +23,7 @@
 **Urolithiasis** adalah kondisi terbentuknya batu (**calculus**) pada saluran kemih. Batu dapat terbentuk di ginjal kemudian bermigrasi melalui **ureter → vesika urinaria → uretra**, sehingga batu dapat ditemukan di seluruh traktus urinarius.
 ![gh|322](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788628675000434wtr.png)
 ### Anatomi yang penting
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788628731000cfhzqv.png)
 **Ginjal**
 
 - Organ retroperitoneal, kira-kira setinggi **T12–L3**.
@@ -54,9 +54,7 @@
 💡 **Klinis:** lokasi batu menentukan pola nyeri dan gangguan berkemih.
 
 ---
-
-# UROLITHIASIS
-
+	
 ## 3. RISK FACTORS
 
 ### Internal factors
@@ -84,22 +82,18 @@
 - **Geografis:** prevalensi lebih tinggi pada daerah panas, kering, arid, pegunungan, gurun, dan daerah tropis.
 - **Pekerjaan:** paparan panas, timbal (**lead**), atau kadmium (**cadmium**).
 
-💡 **Hafalan faktor risiko:**  
-**“GEN–BODY–LIFE–PLACE–JOB”**  
-Genetik → kondisi tubuh → lifestyle → tempat tinggal → pekerjaan.
-
 ---
 
 ## 4. STONE COMPOSITION
 
 Batu saluran kemih dapat diklasifikasikan berdasarkan penyebabnya:
 
-|Kelompok|Jenis batu|
-|---|---|
-|**Non-infection stone**|Calcium oxalate, calcium phosphate, uric acid|
-|**Infection stone**|Struvite, carbonate apatite, ammonium urate|
-|**Genetic causes**|Cystine, xanthine, 2,8-dihydroxyadenine|
-|**Drug stone**|Indinavir, triamterene|
+| Kelompok                | Jenis batu                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------------ |
+| **Non-infection stone** | Calcium oxalate, calcium phosphate, uric acid                                              |
+| **Infection stone**     | Struvite (magnesium ammonium phosphate, staghorn stone), carbonate apatite, ammonium urate |
+| **Genetic causes**      | Cystine, xanthine, 2,8-dihydroxyadenine                                                    |
+| **Drug stone**          | Indinavir, triamterene                                                                     |
 
 ### Komposisi tersering
 
@@ -124,8 +118,6 @@ Batu saluran kemih dapat diklasifikasikan berdasarkan penyebabnya:
 **Uric acid = radiolucent** → tidak tampak pada plain X-ray.
 
 ---
-
-# UROLITHIASIS
 
 ## 5. PATHOPHYSIOLOGY
 
