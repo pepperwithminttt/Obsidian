@@ -177,7 +177,7 @@ Pelepasan mediator/cytokine atau faktor sirkulasi
 ↓  
 Cedera podocyte  
 ↓  
-Gangguan adhesi podocyte terhadap **GBM** (Glomerular Basement Membr)
+Gangguan adhesi podocyte terhadap **GBM** (Glomerular Basement Membrane)
 ↓  
 Detachment podocyte  
 ↓  
@@ -198,6 +198,7 @@ Normalnya hati meningkatkan sintesis albumin untuk mengompensasi kehilangan ters
 Tanda klinis khas:
 
 - **Muehrcke lines** → garis putih transversal pada kuku yang berkaitan dengan hipoalbuminemia. 💅
+![gh|268](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788624660000gagirt.png)
 
 ### B. Edema
 
