@@ -523,11 +523,12 @@ Pilihan:
 
 ### Oral chemolysis
 
-Cara kerjaKhusus **uric acid stone**:
+Cara kerja dengan melisiskan batu. Khusus **uric acid stone**:
 
 - Alkalinisasi urine menggunakan:
     - Calcium citrate
     - Sodium bicarbonate
+Tujuannya dialkalinisasi karena batunya asam, kita kasih basa biar mereka saling membatalkan.
 
 ### Diet & lifestyle
 
