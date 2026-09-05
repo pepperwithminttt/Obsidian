@@ -353,9 +353,9 @@ Fokus utama tata laksana adalah **mengatasi faktor yang dapat dimodifikasi dan m
 💡 **Tujuan besarnya:**  
 **“Perfusi cukup – cairan terkendali – elektrolit aman – nutrisi cukup – jangan tambah racun ginjal.”**
 
-## Terapi Pengganti Ginjal
+## Terapi Pengganti Ginjal (bila terapi konservatif saja tidak memadai)
 
-Pilihan terapi:
+Pilihan terapi adalah dialisis, terbagi 2:
 
 - **Hemodialisis**
 - **Dialisis peritoneal**
