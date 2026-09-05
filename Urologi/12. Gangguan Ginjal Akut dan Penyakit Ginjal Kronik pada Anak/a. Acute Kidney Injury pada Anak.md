@@ -20,7 +20,7 @@
 
 ### 🧠 Cara hafal timeline:
 
-**Cedera ginjal → 0 → 2 hari → 7 hari → 90 hari**
+**Cedera ginjal → 0 → 7 hari → 3 bulan **
 
 - 0–<7 hari → AKI
 - 7 hari–<90 hari → AKD
