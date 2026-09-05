@@ -249,14 +249,14 @@ Pada neonatus, beberapa nilai batas berbeda karena fungsi ginjal belum matang.
 
 Pada anak dapat digunakan rumus **Schwartz**:
 
-**GFR = K × tinggi badan (cm) / kreatinin serum (mg/dL)**
+**GFR ml/mnt/1,73m² = K × tinggi badan (cm) / kreatinin serum (mg/dL)**
 
 Nilai **K**:
 
 - Prematur: **0,27**
 - Neonatus: **0,37**
 - Bayi 0–1 tahun: **0,45**
-- Anak 2–12 tahun: **0,55**
+- Anak 2–12 tahun: **0,55** (KATA DOKTER HAFAL INI SAJA KARNA SAMA NILAINYA DGN YG UTK PEREMPUAN)
 - Perempuan 13–21 tahun: **0,55**
 - Laki-laki 13–21 tahun: **0,70**
 
