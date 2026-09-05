@@ -13,11 +13,11 @@ Secara klinis, penyakit glomerulus dapat muncul sebagai:
 
 # KELAINAN URIN ASIMTOMATIK
 
-## 1. Hematuria Mikroskopik
+## 1. Mikrohematuria Asimtomatik
 
 **Definisi**
 
-- Hematuria mikroskopik adalah terdapatnya **>2 eritrosit/HPF** pada sedimen urin yang disentrifugasi (**3000 rpm selama 5 menit**) atau **>10 × 10⁶ eritrosit/L**.
+- Mikrohematuria adalah terdapatnya **>2 eritrosit/HPF** pada sedimen urin yang disentrifugasi (**3000 rpm selama 5 menit**) atau **>10 × 10⁶ eritrosit/L**.
 - Eritrosit pada hematuria glomerular biasanya **dismorfik**, yaitu bentuk eritrosit mengalami perubahan akibat melewati sawar filtrasi glomerulus yang rusak.
 - Sering ditemukan pada:
     - **IgA nephropathy**
@@ -78,7 +78,7 @@ Peningkatan protein urin dapat terjadi akibat:
 - Biasanya proteinuria derajat rendah, **<2 g/hari**.
 - Jika tubular proteinuria muncul bersamaan dengan proteinuria glomerular, dapat menunjukkan **kerusakan tubulointerstisial yang sudah lanjut**.
 
-## 3. Proteinuria Disertai Hematuria
+## 3. Proteinuria Asimtomatik Disertai Hematuria
 
 Kombinasi **hematuria + proteinuria** lebih mengarah ke kerusakan glomerulus bermakna dibandingkan salah satunya saja.
 
@@ -94,7 +94,7 @@ Pasien memiliki risiko lebih tinggi mengalami:
 - **RBC casts**.
 - Penurunan fungsi ginjal.
 
-# HEMATURIA MAKROSKOPIK
+## 4. Makrohematuria
 
 - Hematuria glomerular biasanya:
     - **Episodik**.
@@ -125,8 +125,8 @@ Gambaran klasik berupa **pentad**:
     - Anak: **>40 mg/jam/m²**
 2. **Hipoalbuminemia <3,5 g/dL**
 3. **Edema**
-4. **Hiperkolesterolemia**
-5. **Lipiduria**
+4. **Hiperkolesterolemia** (akibat mekanisme kompensasi hipoalbuminemia oleh hati)
+5. **Lipiduria** (juga akibat mekanisme kompensasi hipoalbuminemia oleh hati))
 
 Fungsi ginjal dapat tetap normal pada awal penyakit, tetapi sebagian kasus berkembang menjadi **penurunan fungsi ginjal progresif**, terutama bila sindrom nefrotik berlangsung lama.
 
