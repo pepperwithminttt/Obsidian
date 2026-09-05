@@ -41,6 +41,8 @@ Secara anatomi, CAKUT dapat dibagi menjadi:
 |**Kidney:** agenesis, hypoplasia, dysplasia, polycystic kidney, horseshoe kidney, fused pelvic kidney, ectopic kidney|**Bladder:** bladder agenesis, bladder neck obstruction|
 |**Ureter:** ureteropelvic junction obstruction, ureteral atresia, ureteral stenosis, ectopic ureter, ureterocele|**Urethra:** urethral agenesis/atresia, posterior urethral valves, congenital urethral stenosis, distal urethral stenosis|
 
+### Tipe-Tipe CAKUT
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788602790000a40our.png)
 
 ---
 
@@ -53,11 +55,11 @@ Perkembangan ginjal berlangsung melalui **organogenesis** kemudian dilanjutkan d
 
 ### Tahapan perkembangan ginjal
 
-|Minggu|Struktur|Keterangan|
-|---|---|---|
-|**Minggu 3–4**|**Pronephros**|Struktur ginjal paling awal dan bersifat rudimenter, kemudian mengalami regresi|
-|**Minggu 4–5**|**Mesonephros**|Sistem ginjal sementara; berhubungan dengan perkembangan **ureteric bud**|
-|**Mulai minggu 5**|**Metanephros**|Cikal bakal **ginjal definitif**|
+| Minggu             | Struktur        | Keterangan                                                                              |
+| ------------------ | --------------- | --------------------------------------------------------------------------------------- |
+| **Minggu 3–4**     | **Pronephros**  | Struktur ginjal paling awal dan bersifat rudimenter (dasar), kemudian mengalami regresi |
+| **Minggu 4–5**     | **Mesonephros** | Sistem ginjal sementara; berhubungan dengan perkembangan **ureteric bud**               |
+| **Mulai minggu 5** | **Metanephros** | Cikal bakal **ginjal definitif**                                                        |
 
 Ginjal definitif terbentuk melalui interaksi timbal balik (**cross-talk**) antara:
 
