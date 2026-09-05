@@ -203,20 +203,20 @@ Karena produksi urin janin sangat berkurang → volume cairan amnion menurun →
 ### Jenis
 
 - **Simple hypoplasia** → seluruh ginjal berukuran kecil.
-- **Segmental hypoplasia (Ask-Upmark kidney)** → hanya bagian tertentu ginjal yang mengalami hipoplasia.
+- **Segmental hypoplasia (Ask-Upmark kidney)** → hanya bagian tertentu ginjal yang mengalami hipoplasia (bentuk seperti tanda tanya).
 
 ### Manifestasi
 
 - Dapat asimptomatik.
-- Dapat menyebabkan **hipertensi berat**, terutama pada segmental hypoplasia.
+- [Dapat menyebabkan **hipertensi berat**, terutama pada segmental hypoplasia.]{Pada **renal hypoplasia segmental**, sebagian ginjal berkembang lebih kecil sehingga **jumlah nefron di bagian tersebut lebih sedikit**. Akibatnya, aliran darah yang masuk ke bagian ginjal itu bisa dianggap tubuh sebagai **“kurang”**, sehingga ginjal mengeluarkan **renin**. Renin kemudian mengaktifkan **RAAS**, yang membuat pembuluh darah menyempit dan tubuh menahan garam serta air. Akibatnya, **tekanan darah naik dan bisa menjadi sangat tinggi**.}
 - Bila jumlah nephron sangat berkurang → dapat meningkatkan risiko CKD.
 
 > 🧠 **Hypoplasia = “kecil karena kurang jumlahnya”**  
 > Berbeda dengan **dysplasia**, yang terutama menunjukkan **perkembangan jaringan yang abnormal**.
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603204000hzoszq.png)
+
+![gh|361](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788603204000hzoszq.png)
 
 ---
-
 ## C. Multicystic Dysplastic Kidney (MCDK)
 
 **Multicystic dysplastic kidney** adalah kelainan kongenital ketika jaringan ginjal sebagian besar digantikan oleh **multiple noncommunicating cysts**, sehingga fungsi ginjal tersebut sangat buruk atau tidak berfungsi.
