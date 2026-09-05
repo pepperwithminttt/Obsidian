@@ -256,7 +256,7 @@ Nilai **K**:
 - Prematur: **0,27**
 - Neonatus: **0,37**
 - Bayi 0–1 tahun: **0,45**
-- Anak 2–12 tahun: **0,55** (KATA DOKTER HAFAL INI SAJA KARNA SAMA NILAINYA DGN YG UTK PEREMPUAN)
+- **Anak 2–12 tahun: 0,55** (KATA DOKTER HAFAL INI SAJA KARNA SAMA NILAINYA DGN YG UTK PEREMPUAN)
 - Perempuan 13–21 tahun: **0,55**
 - Laki-laki 13–21 tahun: **0,70**
 
@@ -270,7 +270,7 @@ Biomarker dapat mendeteksi **cedera ginjal lebih awal**, bahkan sebelum peningka
 - **Cystatin C:** dapat digunakan sebagai penanda fungsi filtrasi ginjal dan dapat berubah lebih awal dibandingkan kreatinin pada kondisi tertentu.
 
 Biomarker dapat diperiksa dalam **urine maupun plasma**, tergantung jenis biomarkernya.
-
+![gh|396](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788615974000xt3jye.png)
 # Manifestasi Klinis AKI
 
 AKI dapat ditemukan pada anak dengan:
@@ -292,7 +292,7 @@ Manifestasi klinis dapat berupa:
     - koma.
 4. **Kejang**, terutama akibat gangguan elektrolit atau uremia.
 5. **Mual dan muntah**.
-6. **Anemia**.
+6. **Anemia** (karena defisiensi eritropoietin yang seharusnya diproduksi oleh ginjal).
 7. **Pernapasan Kussmaul**, terutama akibat asidosis metabolik berat.
 
 # Diagnosis AKI
