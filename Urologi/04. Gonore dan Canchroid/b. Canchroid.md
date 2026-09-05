@@ -288,38 +288,38 @@ Jika tidak terdapat perbaikan dalam **1 minggu**, evaluasi kemungkinan:
 
 **Chancroid = Haemophilus ducreyi**
 
-🔑 **Gambaran klasik:**
+🔑 Gambaran klasik:
 
 > **ULKUS GENITAL NYERI + LUNAK + TIDAK INDURASI + DASAR KOTOR/PURULEN + TEPI RAGGED + BUBO INGUINAL NYERI**
 
-🔬 **Laboratorium:**
+🔬 Laboratorium:
 
 > **Gram → “School of fish” 🐟**
 
-🦠 **Agen:**
+🦠 Agen:
 
 > **H. ducreyi = Gram-negative kokobasilus, fakultatif anaerob**
 
-🧠 **Banding cepat:**
+🧠 Banding cepat:
 
-> **Chancroid = PAINFUL & SOFT**  
+> **Chancroid = PAINFUL & SOFT, NOT INDURATED**
 > **Sifilis = PAINLESS & INDURATED**
 
-💥 **Komplikasi khas:**
+💥 Komplikasi khas:
 
 > **Bubo → fluktuatif → dapat ruptur spontan**
 
-🔄 **Penyebaran:**
+🔄 Penyebaran:
 
 > **Autoinokulasi → “kissing ulcer”**
 
-💊 **Terapi yang perlu diingat:**
+💊 Terapi yang perlu diingat:
 
 > **Azithromycin 1 g PO single dose**  
 > **Ceftriaxone 250 mg IM single dose**  
 > **Ciprofloxacin 500 mg PO BID × 3 hari**  
 > **Erythromycin 500 mg PO QID × 7 hari**
 
-⚠️ **Jangan lupa:**
+⚠️ Jangan lupa:
 
 > Pada pasien dengan ulkus genital, **herpes dan sifilis harus disingkirkan**, serta perlu mempertimbangkan **HIV**.
