@@ -774,7 +774,7 @@ Kriptorkidisme meningkatkan risiko:
 ### Terapi hCG
 
 Bertujuan merangsang produksi testosteron endogen.
-
+![gh|197](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788795175000m61hb2.png)
 Karakteristik:
 
 - Tingkat keberhasilan terbatas, sekitar **6–21%** pada beberapa studi.
@@ -789,8 +789,8 @@ Karakteristik:
 Penggunaan terapi hormonal tidak menjadi pilihan utama pada sebagian besar kasus karena efektivitas terbatas dan kualitas bukti yang bervariasi.
 
 ### GnRH Analogue
-
-Dapat tersedia sebagai semprotan hidung.
+![gh|122](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788795204000i83tkb.png)
+Tersedia sebagai nasal spray.
 
 Keberhasilan dilaporkan sekitar **6–38%**, dengan variasi antarpenelitian.
 
@@ -840,7 +840,7 @@ Tindakan meliputi mobilisasi testis dan korda spermatika (**orchidofunicolysis**
 - Mempertahankan vaskularisasi testis.
 - Membawa testis ke posisi skrotum.
 - Memfiksasi testis agar tetap berada pada posisi yang sesuai.
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788795293000kke9rf.png)
 🎯 **Tujuan utama:**  
 **Testis turun → hidup dengan vaskularisasi baik → berada stabil di skrotum.**
 
