@@ -907,7 +907,7 @@ Setelah memastikan pasien tidak mengalami hypovolemia atau obstruction:
 
 ### Indikasi segera
 
-Mulai KRT bila terdapat **life-threatening complications yang refractory terhadap terapi medis**, misalnya:
+Mulai KRT bila terdapat **komplikasi mengancam nyawa yang refractory** terhadap terapi medis, misalnya:
 
 - **Severe metabolic acidosis**
     - terutama pH ≤7,1 dan refractory
@@ -930,13 +930,13 @@ Mulai KRT bila terdapat **life-threatening complications yang refractory terhada
     - tumor lysis syndrome
     - rhabdomyolysis.
 
-🧠 **Hafalan indikasi KRT: “AEIOU”**
+🧠 **Hafalan indikasi KRT: “AIUEO”**
 
 - **A – Acidosis** berat dan refractory
-- **E – Electrolyte** terutama hyperkalemia refractory
 - **I – Intoxication** tertentu yang dapat didialisis
-- **O – Overload** refractory
 - **U – Uremia** dengan komplikasi
+- **E – Electrolyte** terutama hyperkalemia refractory
+- **O – Overload** refractory
 
 ---
 
@@ -1293,6 +1293,10 @@ Prioritas:
 |Urine sediment|Hyaline casts|Muddy brown/RBC/WBC casts sesuai penyebab|Dapat minimal|
 |USG|Biasanya normal|Biasanya normal/bervariasi|Hydronephrosis dapat ditemukan|
 |Terapi utama|Restore perfusion|Treat specific renal injury + support|Relieve obstruction|
+
+|     |     |
+| --- | --- |
+|     |     |
 
 ---
 
