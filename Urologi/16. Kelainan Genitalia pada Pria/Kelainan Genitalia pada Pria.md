@@ -195,13 +195,10 @@ Kulit batang penis dilepaskan untuk mengevaluasi kelengkungan secara optimal.
 ### 3. Evaluasi kelengkungan
 
 - **Tidak ada kelengkungan**
-    
     - Dilanjutkan dengan urethroplasty satu tahap.
 - **Kelengkungan ringan–sedang**
-    
     - Dilakukan orthoplasty dengan teknik dorsal.
 - **Kelengkungan berat**
-    
     - Dapat memerlukan teknik dorsal atau ventral.
     - Kadang diperlukan pembagian distal/transversal urethral plate.
     - Sering memerlukan rekonstruksi uretra dua tahap.
