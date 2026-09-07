@@ -341,10 +341,10 @@ Gambaran klinis yang dapat ditemukan:
 
 Pilihan tindakan operasi meliputi:
 
-- **Andrews procedure**.
+- **Andrews procedure**.![gh|238](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793074000xb5r1b.png)
 - **Jaboulay atau Winkelmann procedure**.
-- **Lord procedure**.
-
+![gh|422](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178879311400094wirl.png)
+- **Lord procedure**.![gh|220](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793144000wsdk0f.png)
 Pemilihan teknik disesuaikan dengan kondisi hidrokel dan anatomi pasien.
 
 ## Komplikasi
@@ -361,7 +361,9 @@ Komplikasi lain dapat meliputi infeksi dan pembengkakan pascaoperasi.
 
 ## Definisi
 
-**Varikokel** adalah kelainan vaskular berupa pelebaran, pemanjangan, dan tortuositas pleksus vena **pampiniformis** pada korda spermatika yang secara klinis dapat teraba.
+**Varikokel** adalah kelainan vaskular berupa **pelebaran, pemanjangan, dan tortuositas pleksus vena pampiniformis** pada korda spermatika yang secara klinis dapat teraba.
+#### INTINYA INI VARISES GUYS (PELEBARAN VENA) DI TESTIS
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793232000gio9e7.png)
 
 ## Etiologi dan Faktor Predisposisi
 
