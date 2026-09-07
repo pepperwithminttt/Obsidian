@@ -673,7 +673,7 @@ Lokasi dapat berupa:
 - Femoral.
 - Perineal.
 - Transverse scrotal.
-
+![gh|327](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788794604000kz1a72.png)
 ### 3. Retractile Testis
 
 Testis dapat naik keluar dari skrotum akibat refleks kremaster, tetapi dapat dimasukkan kembali ke posisi skrotum secara manual.
@@ -747,7 +747,7 @@ Salah satu pendekatan adalah:
 - Stimulasi dengan **hCG**, misalnya 2.000 IU/hari selama 4 hari sesuai protokol yang digunakan.
 - Pemeriksaan ulang testosteron.
 
-Peningkatan kadar testosteron setelah stimulasi mendukung adanya jaringan testis yang berfungsi.
+**Peningkatan kadar testosteron setelah stimulasi mendukung adanya jaringan testis yang berfungsi.**
 
 ## Imaging
 
@@ -757,7 +757,7 @@ Pilihan pemeriksaan:
 - CT scan.
 - MRI.
 - **Laparoskopi**.
-
+![gh|291](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788794759000361p8o.png)
 Laparoskopi dapat digunakan untuk evaluasi sekaligus tata laksana pada testis non-palpable.
 
 ## Komplikasi
@@ -768,14 +768,6 @@ Kriptorkidisme meningkatkan risiko:
 - **Infertilitas**.
 - Hernia inguinalis.
 - Torsio testis.
-
-🧠 **Hafalan komplikasi: “MIT”**
-
-- **M**alignancy.
-- **I**nfertility.
-- **T**orsion.
-
-Tambahkan: **hernia**.
 
 ## Tata Laksana Medis
 
