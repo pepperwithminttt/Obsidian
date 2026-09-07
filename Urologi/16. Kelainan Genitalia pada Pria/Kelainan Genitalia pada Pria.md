@@ -2,7 +2,7 @@
 
 ## Definisi
 
-**Epispadia** adalah kelainan kongenital berupa defek pada dinding **dorsal uretra**, sehingga muara uretra (_urethral meatus_) berada pada permukaan dorsal penis. Kelainan ini telah ada sejak lahir.
+**Epispadia** adalah kelainan kongenital berupa defek pada dinding **dorsal uretra**, sehingga **muara uretra** (_urethral meatus_) **berada pada permukaan dorsal penis**. Kelainan ini telah ada sejak lahir.
 
 ## Epidemiologi dan Etiologi
 
@@ -18,23 +18,22 @@
 Berdasarkan lokasi muara uretra:
 
 - **Tipe glandular**
-    
     - Muara uretra berada pada bagian dorsal distal penis.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887915710000gdxdh.png)
 - **Tipe penile**
-    
     - Muara uretra berada pada bagian tengah permukaan dorsal penis.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788791587000rky809.png)
 - **Tipe penopubik**
-    
     - Uretra terbuka secara luas.
     - Dapat disertai defek dinding anterior kandung kemih dan dinding abdomen.
     - Merupakan bentuk yang lebih berat dan dapat berhubungan dengan kompleks **bladder exstrophy–epispadias**.
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788791614000crhyto.png)
 🧠 **Tips hafalan:**  
 **Glandular → distal**, **Penile → tengah penis**, **Penopubic → paling proksimal dan paling berat**.
 
 ## Pemeriksaan Penunjang
 
-- Foto rontgen pelvis.
+- Foto rontgen pelvis (pelvic x-ray).
 - **IVU (Intravenous Urography)** untuk mengevaluasi traktus urinarius.
 - Ultrasonografi abdomen lengkap.
 
@@ -88,8 +87,8 @@ Secara umum, prognosis setelah rekonstruksi epispadia **cukup baik**, terutama a
 
 ## Definisi dan Gambaran Anatomi
 
-**Hipospadia** adalah kelainan kongenital pada penis dengan muara uretra yang terletak abnormal pada **permukaan ventral penis**, bukan di ujung glans seperti normal.
-
+**Hipospadia** adalah kelainan kongenital pada penis dengan **muara uretra yang terletak** abnormal pada **permukaan ventral penis**, bukan di ujung glans seperti normal.
+![gh|318](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788791784000zjiszl.png)
 Kelainan dapat melibatkan:
 
 - **Meatus uretra abnormal**.
