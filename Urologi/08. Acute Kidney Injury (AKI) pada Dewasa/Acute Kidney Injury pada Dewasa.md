@@ -178,14 +178,14 @@ Merupakan penyebab intrinsic AKI yang paling penting.
 	- Light chains → multiple myeloma
 	- Uric acid → tumor lysis syndrome
 	- Bile salts → obstructive cholestasis
-**b. Exogenous toxins:**
-- Aminoglycosides
-- Cisplatin
-- Radiocontrast media
-- Sodium phosphate
-- Ethylene glycol
-- Acetaminophen pada kadar toksik
-- Synthetic cannabinoids
+- **Exogenous toxins:**
+	- Aminoglycosides
+	- Cisplatin
+	- Radiocontrast media
+	- Sodium phosphate
+	- Ethylene glycol
+	- Acetaminophen pada kadar toksik
+	- Synthetic cannabinoids
 
 🧠 **ATN = “Ischemia + Toxins”**
 
@@ -206,14 +206,14 @@ Penyebab:
     - rifampin
     - sulfonamides
     - immune checkpoint inhibitors
-- **Infection**:
+- **Infection**
     - bacterial
     - viral
-- **Autoimmune** disease:
+- **Autoimmune disease**
     - Sjögren syndrome
     - sarcoidosis
     - SLE
-- **Malignancy**:
+- **Malignancy**
     - lymphoma
     - leukemia
 
@@ -285,9 +285,9 @@ Terjadi akibat penyumbatan di dalam tubulus oleh material tertentu.
 
 ## C. POSTRENAL AKI
 
-Terjadi akibat **obstruction of urinary outflow** setelah urin terbentuk di ginjal.
+Terjadi akibat **obstruksi aliran keluar urin** setelah urin terbentuk di ginjal.
 
-### Intrinsic obstruction
+### Intrinsic (intrarenal) obstruction
 
 - Bilateral ureteral stones
 - Ureterolithiasis
@@ -295,7 +295,7 @@ Terjadi akibat **obstruction of urinary outflow** setelah urin terbentuk di ginj
 - Renal papillary necrosis
 - Urethral stenosis
 
-### Extrinsic obstruction
+### Extrinsic (extrarenal) obstruction
 
 - Benign prostatic hyperplasia (BPH)
 - Bladder/prostate/rectal/cervical cancer
