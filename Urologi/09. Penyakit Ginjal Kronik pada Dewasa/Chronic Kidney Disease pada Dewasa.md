@@ -112,14 +112,15 @@ Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, da
 
 Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah komplikasi, serta mengurangi biaya karena terapi kidney failure membutuhkan KRT.
 
-## Siapa yang perlu di-screening?
+### Siapa yang perlu di-screening?
 
-- Family history of kidney disease
+Pasien dengan:
+- Riwayat keluarga dengan penyakit ginjal
 - Diabetes mellitus
 - Hypertension
 - Recurrent UTI
 - Urinary obstruction
-- Systemic diseases yang dapat mengenai ginjal
+- Penyakit sistemik yang dapat mengenai ginjal
 - Usia >60 tahun
 - Penggunaan obat, herbal, atau substansi yang berpotensi **nephrotoxic**
 - Cardiovascular disease
@@ -127,7 +128,7 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 - Metabolic syndrome
 - Smoking
 
-## Pemeriksaan utama
+### Pemeriksaan utama
 
 **2 pemeriksaan sederhana dapat mengidentifikasi CKD pada orang dewasa:**
 
@@ -162,6 +163,8 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 - Previous kidney injury
 
 ## Konsep **“4 Hits”** pada CKD 🥊
+
+First hit: Faktor-faktor yang meningkatkan kerentanan terhadap 
 
 |Hit|Mekanisme|Contoh|
 |---|---|---|
