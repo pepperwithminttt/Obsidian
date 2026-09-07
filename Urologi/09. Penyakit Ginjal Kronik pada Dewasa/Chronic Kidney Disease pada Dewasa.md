@@ -169,15 +169,12 @@ Pasien dengan:
 - **Third hit:** Faktor-faktor yang **memperburuk** progresi kerusakan ginjal
 - **Fourth hit:** Faktor-faktor yang **meningkatkan morbiditas dan mortalitas** pada kejadian gagal ginjal
 
-|Hit|Mekanisme|Contoh|
-|---|---|---|
-|🥊 **First hit**|Meningkatkan susceptibility terhadap kerusakan ginjal|Usia lanjut, obesity, genetic factors/family history, reduced kidney mass|
-|🥊🥊 **Second hit**|Langsung memulai kerusakan ginjal|Diabetes, hypertension, autoimmune disease, systemic infection, UTI, stones/obstruction, drug toxicity|
-|🥊🥊🥊 **Third hit**|Mempercepat progresi kerusakan|Proteinuria tinggi, tekanan darah tinggi, kontrol glikemik buruk, high-protein intake, dyslipidemia, smoking|
-|💀 **Fourth hit**|Meningkatkan morbidity & mortality pada kidney failure|Late referral, inadequate dialysis dose, temporary vascular access, anemia, hypoalbuminemia, cardiovascular disease|
-
-💡 **Hafalan:**  
-**1 = rentan → 2 = rusak → 3 = makin parah → 4 = komplikasi & mati.**
+| Hit                  | Mekanisme                                              | Contoh                                                                                                                |
+| -------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| 🥊 **First hit**     | Meningkatkan susceptibility terhadap kerusakan ginjal  | Usia lanjut, obesity, genetic factors/family history, reduced kidney mass                                             |
+| 🥊🥊 **Second hit**  | Langsung memulai kerusakan ginjal                      | Diabetes, hypertension, autoimmune disease, systemic infection, UTI, stones/obstruction, drug toxicity                |
+| 🥊🥊🥊 **Third hit** | Mempercepat progresi kerusakan                         | Proteinuria tinggi, tekanan darah tinggi, kontrol glikemik buruk, high-protein intake, dyslipidemia, smoking          |
+| 💀 **Fourth hit**    | Meningkatkan morbidity & mortality pada kidney failure | Terlambat rujuk, dosis dialisis inadekuat, temporary vascular access, anemia, hypoalbuminemia, cardiovascular disease |
 
 ---
 
