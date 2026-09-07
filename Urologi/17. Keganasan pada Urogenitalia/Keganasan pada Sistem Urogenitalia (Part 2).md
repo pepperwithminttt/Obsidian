@@ -1,10 +1,10 @@
 # 1. TESTICULAR SEMINOMA
 
-**Seminoma** adalah **malignant testicular germ-cell tumour** yang secara histopatologi hanya terdiri dari **seminomatous elements**. Bila tumor memiliki komponen **non-seminomatous**, tumor tersebut diklasifikasikan dan ditatalaksana sebagai **non-seminoma**.
+**Seminoma** adalah **tumor ganas sel germinal testis** yang secara histopatologi hanya terdiri dari **elemen-elemen seminomatous**. Bila tumor memiliki komponen **non-seminomatous**, tumor tersebut diklasifikasikan dan ditatalaksana sebagai **non-seminoma**.
 
 - Seminoma merupakan **pure germ-cell tumour**.
-- Pure seminoma **tidak menghasilkan AFP** → bila AFP meningkat, harus dicurigai adanya **non-seminomatous component**.
-
+- Pure seminoma **tidak menghasilkan AFP** → bila AFP (Alfa Fetoprotein) meningkat, harus dicurigai adanya **non-seminomatous component**.
+![[Pasted image 20260907110716.png]]
 ### Anatomi & Pola Penyebaran
 
 - **Seminiferous tubules** → mengandung germ cells dan merupakan tempat produksi sperma.
@@ -12,7 +12,7 @@
 - **Epididymis** → terletak posterior dan berada di luar testis (**extratesticular**).
 - Drainase limfatik testis mengikuti **gonadal vessels → retroperitoneal lymph nodes**.
 - Jadi, metastasis limfatik testicular cancer terutama menuju **retroperitoneal nodes**, bukan inguinal nodes.
-
+![[Pasted image 20260907110613.png]]
 🧠 **Hafalan:**  
 **TESTIS → GONADAL VESSELS → RETROPERITONEAL**  
 Bukan langsung ke inguinal. 🎯
