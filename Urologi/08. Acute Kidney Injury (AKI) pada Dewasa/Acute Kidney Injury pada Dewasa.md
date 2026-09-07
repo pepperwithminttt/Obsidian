@@ -632,12 +632,12 @@ Pemeriksaan yang dapat digunakan:
 | Parameter        |              Prerenal azotemia |                                         ATN |
 | ---------------- | -----------------------------: | ------------------------------------------: |
 | Urine/Plasma Cr  |                        **>40** |                                         <20 |
-| BUN/Cr           |                            >20 |                                         <20 |
-| UNa              |                      <20 mEq/L |                                   >40 mEq/L |
-| FENa             |                            <1% |                                         >2% |
-| FEurea           |                           <35% |                                        >50% |
-| Specific gravity |                         >1,020 |                                <1,010–1,015 |
-| Uosm             |                           >500 |                        <350–450 mOsm/kg H₂O |
+| BUN/Cr           |                        **>20** |                                         <20 |
+| UNa              |                      <20 mEq/L |                               **>40 mEq/L** |
+| FENa             |                            <1% |                                     **>2%** |
+| FEurea           |                           <35% |                                    **>50%** |
+| Specific gravity |                     **>1,020** |                                <1,010–1,015 |
+| Uosm             |                       **>500** |                        <350–450 mOsm/kg H₂O |
 | Sediment         | Normal/few cells/hyaline casts | Muddy brown granular casts, RTE cells/casts |
 
 **FENa:**
@@ -669,6 +669,11 @@ Temuan urine microscopy dapat membantu menentukan lokasi kerusakan:
 |**Crystalluria**|Uric acid, calcium oxalate, acyclovir, indinavir, dll.|
 
 🧠 **“RBC = glomerulus, WBC = interstitium, RTE/muddy brown = tubulus.”**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788774165000nw5wci.png)
+### Contoh-contoh sedimen urin pada AKI
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788774239000ijl6lt.png)
+Keterangan: (A) Epithelial cell aggregate. (B) Hyaline cast as can be seen in prerenal AKI. (C) Epithelial cast as can be seen in early acute tubular necrosis (ATN; arrows indicate epithelial cells). (D) Muddy brown cast, typical of established ATN. (E) Erythrocyte cast as seen in glomerulonephritis and vasculitis. Inset: Hemoglobin cast. (F–G) Two forms of indinavir crystals
 
 ---
 
