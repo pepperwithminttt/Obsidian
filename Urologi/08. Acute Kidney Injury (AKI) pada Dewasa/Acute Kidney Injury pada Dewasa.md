@@ -346,6 +346,170 @@ Tujuan awalnya adalah mempertahankan perfusi organ vital, tetapi bila berat/berk
 
 🧠 **Prerenal = “air/darah kurang → perfusi turun → GFR turun.”**
 
+### Renal AKI
+
+Pada **intrinsic/renal AKI**, masalahnya adalah **kerusakan langsung pada struktur ginjal**, terutama **tubulus, glomerulus, interstitium, atau pembuluh darah**.
+
+#### 1. Acute Tubular Injury / Acute Tubular Necrosis (ATN) — paling penting
+
+**Iskemia / nephrotoxin**  
+↓  
+**Tubular epithelial cell injury**  
+↓  
+Gangguan fungsi sel tubulus:
+
+- ↓ ATP dan gangguan fungsi membran
+- kehilangan polaritas sel
+- kerusakan sitoskeleton
+- apoptosis/nekrosis sel  
+    ↓  
+    **Tubular epithelial cells terlepas**  
+    ↓  
+    Sel dan debris membentuk **intratubular casts**  
+    ↓  
+    **Tubular obstruction**  
+    ↓  
+    ↑ tekanan intratubular  
+    ↓  
+    **↓ GFR**
+
+Pada saat yang sama:
+
+**Endothelial injury + inflammatory response**  
+↓  
+vasokonstriksi renal + gangguan mikrosirkulasi  
+↓  
+**↓ renal blood flow**  
+↓  
+**hypoxic injury semakin berat**
+
+Jadi ATN membentuk **lingkaran setan**:
+
+> **Iskemia/toxin → tubular injury → obstruction + inflammation → ↓ renal perfusion → ↓ GFR → AKI**
+
+🧠 **Hafalan ATN: “Rusak → Rontok → Sumbat → GFR turun”**  
+Tubulus rusak → sel rontok → lumen tersumbat → GFR turun.
+
+---
+
+#### 2. Glomerular injury
+
+Misalnya **glomerulonephritis atau vasculitis**:
+
+**Immune-mediated/inflammatory injury**  
+↓  
+Kerusakan glomerular capillary  
+↓  
+Gangguan filtration barrier  
+↓  
+Inflamasi + proliferasi sel glomerulus  
+↓  
+**↓ filtration surface + ↓ GFR**  
+↓  
+**AKI**
+
+Karena filtration barrier rusak, dapat muncul:
+
+- **hematuria**
+- **proteinuria**
+- **RBC casts**
+
+---
+
+#### 3. Acute Interstitial Nephritis (AIN)
+
+**Drug/infection/autoimmune trigger**  
+↓  
+Aktivasi sistem imun  
+↓  
+Inflammatory cell infiltration ke interstitium  
+↓  
+**Interstitial edema + tubular injury**  
+↓  
+Kompresi microvasculature dan tubulus  
+↓  
+**↓ renal perfusion + ↓ tubular function**  
+↓  
+**↓ GFR → AKI**
+
+🧠 **AIN = “Interstitium meradang → bengkak → tubulus dan pembuluh tertekan.”**
+
+---
+
+#### 4. Vascular AKI
+
+Misalnya **renal artery occlusion, TMA, malignant hypertension**:
+
+**Vascular injury/occlusion**  
+↓  
+**↓ renal blood flow**  
+↓  
+Iskemia jaringan ginjal  
+↓  
+Tubular + glomerular injury  
+↓  
+**↓ GFR**  
+↓  
+AKI
+
+---
+
+### Postrenal AKI
+
+Pada **postrenal AKI**, ginjal pada awalnya dapat tetap mampu membentuk urin, tetapi **aliran urin terhambat**.
+
+**Urinary tract obstruction**  
+↓  
+**Urine tidak dapat keluar**  
+↓  
+Urine menumpuk di proximal obstruction  
+↓  
+**↑ intratubular pressure**  
+↓  
+Tekanan diteruskan ke **Bowman's space**  
+↓  
+**↓ net filtration pressure**  
+↓  
+**↓ GFR**  
+↓  
+AKI
+
+Jika obstruksi berlangsung lama:
+
+**Persistent obstruction**  
+↓  
+↑ intratubular pressure + renal vasoconstriction  
+↓  
+↓ renal blood flow  
+↓  
+Tubular injury + interstitial inflammation  
+↓  
+**Interstitial fibrosis & tubular atrophy**  
+↓  
+Kerusakan ginjal dapat menjadi **irreversible**
+
+### Contoh
+
+**Bilateral ureteral stones**  
+→ urin tidak dapat mengalir dari kedua ginjal  
+→ urine menumpuk  
+→ ↑ tekanan intratubular  
+→ ↓ GFR  
+→ **postrenal AKI**
+
+**BPH**  
+→ bladder outlet obstruction  
+→ urine tertahan di bladder  
+→ tekanan retrograde ke ureter dan ginjal  
+→ hydronephrosis  
+→ ↑ intratubular pressure  
+→ ↓ GFR  
+→ **postrenal AKI**
+
+🧠 **Hafalan postrenal:**
+
+> **“Buntu → Back pressure → GFR turun.”** 🚫💧
+
 ---
 
 # 6. SUBCLINICAL AKI
