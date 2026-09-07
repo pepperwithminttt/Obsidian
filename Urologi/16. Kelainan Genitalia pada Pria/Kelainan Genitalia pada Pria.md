@@ -640,10 +640,6 @@ Faktor yang berperan:
 - Tekanan intraabdomen.
 - Fungsi gubernakulum dan jalur inguinal.
 
-🧠 **Hafalan:**  
-**Transabdominal = 10–15 minggu**  
-**Inguinoskrotal = 28–35 minggu**
-
 ## Etiologi
 
 Kriptorkidisme dapat disebabkan oleh gangguan pada:
