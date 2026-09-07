@@ -1,6 +1,4 @@
-# Chronic Kidney Disease (CKD)
-
-## DEFINISI & KRITERIA DIAGNOSIS
+# DEFINISI & KRITERIA DIAGNOSIS
 
 **Chronic Kidney Disease (CKD)** menurut KDIGO 2024 adalah **kelainan struktur atau fungsi ginjal yang menetap ≥3 bulan dan memiliki implikasi terhadap kesehatan**.
 
@@ -24,7 +22,7 @@ CKD dapat ditegakkan bila **salah satu** dari berikut ditemukan selama **≥3 bu
 
 ---
 
-## EPIDEMIOLOGI
+# EPIDEMIOLOGI
 
 - CKD merupakan masalah kesehatan global yang besar.
 - Prevalensi global _age-standardized_ diperkirakan sekitar **14,2% pada orang dewasa**, dengan sekitar **788–843 juta orang** terdampak pada akhir 2025.
@@ -39,7 +37,7 @@ CKD dapat ditegakkan bila **salah satu** dari berikut ditemukan selama **≥3 bu
 
 ---
 
-## MANIFESTASI KLINIS
+# MANIFESTASI KLINIS
 
 Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, dan regulasi homeostasis ginjal**.
 
@@ -111,11 +109,11 @@ Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, da
 
 ---
 
-## EARLY DETECTION & SCREENING
+# EARLY DETECTION & SCREENING
 
 Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah komplikasi, serta mengurangi biaya karena terapi kidney failure membutuhkan KRT.
 
-### Siapa yang perlu di-screening?
+## Siapa yang perlu di-screening?
 
 - Family history of kidney disease
 - Diabetes mellitus
@@ -130,7 +128,7 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 - Metabolic syndrome
 - Smoking
 
-### Pemeriksaan utama
+## Pemeriksaan utama
 
 **2 pemeriksaan sederhana dapat mengidentifikasi CKD pada orang dewasa:**
 
@@ -144,9 +142,9 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 
 ---
 
-## FAKTOR RISIKO CKD
+# FAKTOR RISIKO CKD
 
-### Modifiable
+## Modifiable
 
 - Active kidney disease
 - Overweight dan obesity
@@ -156,7 +154,7 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 - Pregnancy
 - Exposure to nephrotoxins
 
-### Non-modifiable
+## Non-modifiable
 
 - Incomplete kidney development
 - Sex
@@ -164,7 +162,7 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 - Aging
 - Previous kidney injury
 
-### Konsep **“4 Hits”** pada CKD 🥊
+## Konsep **“4 Hits”** pada CKD 🥊
 
 |Hit|Mekanisme|Contoh|
 |---|---|---|
@@ -178,7 +176,7 @@ Deteksi dini penting untuk **mencegah atau memperlambat progresi CKD**, mencegah
 
 ---
 
-## KLASIFIKASI CKD — **CGA STAGING**
+# KLASIFIKASI CKD — **CGA STAGING**
 
 KDIGO merekomendasikan CKD diklasifikasikan berdasarkan:
 
@@ -212,7 +210,7 @@ Semakin tinggi **G category + A category**, semakin tinggi risiko progresi CKD d
 
 ---
 
-## KLASIFIKASI BERDASARKAN CAUSE
+# KLASIFIKASI BERDASARKAN CAUSE
 
 Penyebab CKD dapat berasal dari:
 
@@ -241,7 +239,7 @@ Penyebab CKD dapat berasal dari:
 
 ---
 
-## EVALUASI PENYEBAB CKD
+# EVALUASI PENYEBAB CKD
 
 Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya bergantung pada GFR dan albuminuria, tetapi juga penyakit dasarnya.
 
@@ -306,7 +304,7 @@ Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya berga
 
 ---
 
-## EVALUASI GFR
+# EVALUASI GFR
 
 ### Langkah pemeriksaan
 
@@ -353,7 +351,7 @@ Jika masih membutuhkan pengukuran yang lebih akurat
 
 ---
 
-## ALGORITMA DIAGNOSIS CKD
+# ALGORITMA DIAGNOSIS CKD
 
 **Orang dewasa berisiko CKD**
 
