@@ -197,7 +197,7 @@ KDIGO merekomendasikan CKD diklasifikasikan berdasarkan:
 
 ⚠️ **G1/G2 + tanpa kidney damage = bukan CKD.**
 
-**Cara hafal: 90 - 60 - 45 - 30 - 15**
+💡**Hafalan G: 90 - 60 - 45 - 30 - 15**
 
 ### Albuminuria Categories
 
@@ -207,8 +207,7 @@ KDIGO merekomendasikan CKD diklasifikasikan berdasarkan:
 |**A2**|30–300|30–300|Moderately increased|
 |**A3**|>300|>300|Severely increased|
 
-💡 **Hafalan A:**  
-**A1 <30 → A2 30–300 → A3 >300**
+💡 **Hafalan A:**  **30 – 300**
 
 Semakin tinggi **G category + A category**, semakin tinggi risiko progresi CKD dan komplikasi.
 
