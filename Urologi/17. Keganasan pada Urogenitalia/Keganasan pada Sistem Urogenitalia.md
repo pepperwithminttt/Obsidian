@@ -454,7 +454,7 @@ Prostate cancer memiliki beberapa trajectory:
 
 - Prognosis dipengaruhi **tumor grade, PSA, local extent, dan kondisi pasien**.
 - Overtreatment dapat menyebabkan gangguan continence, sexual function, dan bowel health.
-- Undertreatment dapat melewatkan kesempatan untuk cure.
+- Undertreatment dapat melewatkan kesempatan untuk sembuh.
 
 ### Early Detection
 
@@ -495,7 +495,7 @@ Banyak kasus awal **asimtomatik**.
 - Pathological fracture.
 - Uncontrolled bone pain.
 - Rapid functional decline/suspected hypercalcaemia.
-
+![[Pasted image 20260907103701.png]]
 ### Diagnosis
 
 **Alur utama:**
