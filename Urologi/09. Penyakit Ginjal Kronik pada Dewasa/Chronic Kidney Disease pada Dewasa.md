@@ -715,13 +715,13 @@ Dialisis dapat dipertimbangkan berdasarkan kombinasi kondisi klinis, bukan hanya
 - Severe/refractory metabolic acidosis
 - Komplikasi uremia berat lainnya
 
-💡 **Tips hafalan indikasi dialisis: “AEIOU”**
+💡 **Tips hafalan indikasi dialisis: “AIUEO”**
 
 - **A – Acidosis** → refractory metabolic acidosis
-- **E – Electrolyte** → terutama refractory hyperkalemia
 - **I – Intoxication** → toksin tertentu yang dapat didialisis
-- **O – Overload** → refractory volume overload/pulmonary edema
 - **U – Uremia** → encephalopathy, pericarditis, bleeding, dll.
+- **E – Electrolyte** → terutama refractory hyperkalemia
+- **O – Overload** → refractory volume overload/pulmonary edema
 
 📌 **Jangan menghafal “eGFR <15 = otomatis dialisis”.** G5 (<15) menunjukkan **kidney failure**, tetapi keputusan memulai dialisis ditentukan oleh **gejala, komplikasi, kondisi klinis, dan kebutuhan pasien**, bukan angka eGFR semata.
 
@@ -766,4 +766,4 @@ Dialisis dapat dipertimbangkan berdasarkan kombinasi kondisi klinis, bukan hanya
 
 **Transplantation / HD / Peritoneal dialysis**
 
-→ Dialisis bila ada indikasi klinis, terutama **AEIOU**.
+→ Dialisis bila ada indikasi klinis, terutama **AIUEO**.
