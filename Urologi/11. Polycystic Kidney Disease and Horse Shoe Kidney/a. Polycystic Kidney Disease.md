@@ -259,7 +259,7 @@ Dapat ditemukan:
 
 ---
 
-## 8. IMAGING
+# 5. IMAGING
 
 ### Ultrasound (USG) 🔍
 
@@ -330,7 +330,7 @@ MRI merupakan **gold standard untuk Total Kidney Volume (TKV)** dan **height-adj
 
 ---
 
-## 9. ULTRASOUND DIAGNOSTIC CRITERIA
+## ULTRASOUND DIAGNOSTIC CRITERIA
 
 ### Positive Family History
 
