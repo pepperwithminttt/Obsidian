@@ -313,22 +313,22 @@ AKI postrenal umumnya membutuhkan **obstruksi bilateral** atau obstruksi pada sa
 
 Mekanisme utama AKI meliputi:
 
-- ↓ perfusi renal
+- Perfusi renal ↓
 - Cedera hipoksik
-- Endothelial dysfunction
-- Oxidative stress
-- Inflammatory infiltration
-- Inappropriate complement activation
-- Microthrombi formation
-- Cytokine-induced injury
-- Direct tubular injury
-- Urinary obstruction
+- Disfungsi endotel
+- Stress oksidatif
+- Infiltrasi sel-sel penyebab inflamasi
+- Aktivasi komplemen yang tidak tepat
+- Pembentukan microthrombi
+- Cedera cytokine-induced
+- Cedera tubular langsung
+- Obstruksi urin
 
 ### Prerenal AKI
 
-**Hypovolemia → ↓ effective circulating volume → baroreceptor activation → neurohormonal response**
+**Hypovolemia → penurunan volume sirkulasi efektif → aktivasi baroreseptor → respons neurohormonal**
 
-Aktivasi:
+Pada respons neurohormonal, terjadi aktivasi:
 
 - Renin–angiotensin–aldosterone system (RAAS)
 - Vasopressin
@@ -336,8 +336,8 @@ Aktivasi:
 
 Akibatnya:
 
-- vasoconstriction,
-- kontraksi mesangial,
+- vasokonstriksi,
+- kontraksi sel-sel mesangial,
 - ↑ reabsorpsi natrium dan air.
 
 Tujuan awalnya adalah mempertahankan perfusi organ vital, tetapi bila berat/berkepanjangan:
