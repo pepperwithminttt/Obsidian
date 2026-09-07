@@ -197,6 +197,8 @@ KDIGO merekomendasikan CKD diklasifikasikan berdasarkan:
 
 ⚠️ **G1/G2 + tanpa kidney damage = bukan CKD.**
 
+**Cara hafal: 90 - 60 - 45 - 30 - 15**
+
 ### Albuminuria Categories
 
 |Category|ACR (mg/g)|AER (mg/24 h)|Istilah|
