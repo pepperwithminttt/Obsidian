@@ -378,17 +378,7 @@ Tubulus rusak → sel rontok → lumen tersumbat → GFR turun.
 
 Misalnya **glomerulonephritis atau vasculitis**:
 
-**Immune-mediated/inflammatory injury**  
-↓  
-Kerusakan glomerular capillary  
-↓  
-Gangguan filtration barrier  
-↓  
-Inflamasi + proliferasi sel glomerulus  
-↓  
-**↓ filtration surface + ↓ GFR**  
-↓  
-**AKI**
+**Immune-mediated/inflammatory injury** → Kerusakan glomerular capillary → Gangguan filtration barrier → Inflamasi + proliferasi sel glomerulus → **↓ filtration surface + ↓ GFR** → **AKI**
 
 Karena filtration barrier rusak, dapat muncul:
 
@@ -400,19 +390,7 @@ Karena filtration barrier rusak, dapat muncul:
 
 #### 3. Acute Interstitial Nephritis (AIN)
 
-**Drug/infection/autoimmune trigger**  
-↓  
-Aktivasi sistem imun  
-↓  
-Inflammatory cell infiltration ke interstitium  
-↓  
-**Interstitial edema + tubular injury**  
-↓  
-Kompresi microvasculature dan tubulus  
-↓  
-**↓ renal perfusion + ↓ tubular function**  
-↓  
-**↓ GFR → AKI**
+**Drug/infection/autoimmune trigger** → Aktivasi sistem imun → Inflammatory cell infiltration ke interstitium → **Interstitial edema + tubular injury** → Kompresi microvasculature dan tubulus → **↓ renal perfusion + ↓ tubular function** → **↓ GFR → AKI**
 
 🧠 **AIN = “Interstitium meradang → bengkak → tubulus dan pembuluh tertekan.”**
 
@@ -422,17 +400,7 @@ Kompresi microvasculature dan tubulus
 
 Misalnya **renal artery occlusion, TMA, malignant hypertension**:
 
-**Vascular injury/occlusion**  
-↓  
-**↓ renal blood flow**  
-↓  
-Iskemia jaringan ginjal  
-↓  
-Tubular + glomerular injury  
-↓  
-**↓ GFR**  
-↓  
-AKI
+**Vascular injury/occlusion** → **↓ renal blood flow** → Iskemia jaringan ginjal → Tubular + glomerular injury → **↓ GFR** → AKI
 
 ---
 
@@ -440,35 +408,11 @@ AKI
 
 Pada **postrenal AKI**, ginjal pada awalnya dapat tetap mampu membentuk urin, tetapi **aliran urin terhambat**.
 
-**Urinary tract obstruction**  
-↓  
-**Urine tidak dapat keluar**  
-↓  
-Urine menumpuk di bagian proximal dari obstruksi  
-↓  
-**Peningkatan intratubular pressure**  
-↓  
-Tekanan diteruskan ke **Bowman's space**  
-↓  
-**Penurunan net filtration pressure**  
-↓  
-**Penurunan GFR**  
-↓  
-AKI
+**Urinary tract obstruction** → **Urine tidak dapat keluar** → Urine menumpuk di bagian proximal dari obstruksi → **Peningkatan tekanan intratubular** → Tekanan diteruskan ke **Bowman's space** → **Penurunan net filtration pressure** → **Penurunan GFR** → AKI
 
 Jika obstruksi berlangsung lama:
 
-**Persistent obstruction**  
-↓  
-↑ intratubular pressure + renal vasoconstriction  
-↓  
-↓ renal blood flow  
-↓  
-Tubular injury + interstitial inflammation  
-↓  
-**Interstitial fibrosis & tubular atrophy**  
-↓  
-Kerusakan ginjal dapat menjadi **irreversible**
+**Persistent obstruction** → ↑ intratubular pressure + renal vasoconstriction → ↓ renal blood flow → Tubular injury + interstitial inflammation → **Interstitial fibrosis & tubular atrophy** → Kerusakan ginjal dapat menjadi **irreversible**
 
 ### Contoh
 
