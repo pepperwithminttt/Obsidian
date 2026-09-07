@@ -67,6 +67,7 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 - peningkatan komorbiditas,
 - meningkatnya penggunaan **nephrotoxic agents**,
 - semakin banyak prosedur invasif.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887703590002ao04k.png)
 
 ---
 
@@ -84,11 +85,11 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 ### KDIGO staging
 
-|Stage|Serum creatinine|Urine output|
-|---|---|---|
-|**1**|↑ SCr **1,5–1,9× baseline dalam 7 hari** atau ≥0,3 mg/dL dalam 48 jam|<0,5 mL/kg/jam selama **6–12 jam**|
-|**2**|↑ SCr **2,0–2,9× baseline**|<0,5 mL/kg/jam selama **≥12 jam**|
-|**3**|↑ SCr **≥3× baseline**, atau SCr ≥4 mg/dL dengan peningkatan akut ≥0,5 mg/dL|<0,3 mL/kg/jam selama ≥24 jam atau **anuria ≥12 jam**|
+| Stage | Serum creatinine                                                             | Urine output                                              |
+| ----- | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **1** | ↑ SCr **1,5–1,9× baseline dalam 7 hari** atau ≥0,3 mg/dL dalam 48 jam        | **<0,5 mL/kg/jam** selama **6–12 jam**                    |
+| **2** | ↑ SCr **2,0–2,9× baseline**                                                  | **<0,5 mL/kg/jam** selama **≥12 jam**                     |
+| **3** | ↑ SCr **≥3× baseline**, atau SCr ≥4 mg/dL dengan peningkatan akut ≥0,5 mg/dL | **<0,3 mL/kg/jam** selama ≥24 jam atau **anuria ≥12 jam** |
 
 🧠 **Hafalan creatinine:**  
 **Stage 1 = 1,5× → Stage 2 = 2× → Stage 3 = 3×**
