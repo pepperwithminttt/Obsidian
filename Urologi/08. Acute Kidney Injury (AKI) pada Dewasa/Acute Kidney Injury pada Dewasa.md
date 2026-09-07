@@ -71,7 +71,7 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 ---
 
-# 3. CLASSIFICATION ANDF STAGING OF AKI
+# 3. CLASSIFICATION AND STAGING OF AKI
 
 ### Klasifikasi berdasarkan Urine Output
 
@@ -103,12 +103,16 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 Secara fisiopatologis, AKI juga diklasifikasikan menjadi tiga:
 
-**Prerenal → Intrinsic renal → Postrenal**
+**Prerenal → Intrinsic/renal → Postrenal**
 
 Distribusi secara umum:
 
 - **Prerenal ±55%**
-- **Intrinsic renal ±40%**
+- **Intrinsic/renal ±40%**
+	- Glomerular <5%
+	- Interstitial 10%
+	- Tubular 85%
+	- Vascular <5%
 - **Postrenal ±5%**
 
 Namun proporsi dapat berbeda tergantung populasi dan setting klinis.
