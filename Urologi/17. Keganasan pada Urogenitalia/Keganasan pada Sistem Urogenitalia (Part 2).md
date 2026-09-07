@@ -19,7 +19,7 @@ Bukan langsung ke inguinal. 🎯
 
 ### Epidemiologi & Faktor Risiko
 
-Seminoma terutama dipikirkan pada **young adult dengan new intratesticular mass**.
+Pada dewasa muda dengan **massa intratesticular baru**, pikirkan **seminoma**.
 
 Faktor risiko:
 
@@ -65,22 +65,21 @@ Alurnya:
 **History + examination → bilateral scrotal US → tumour markers → urology referral → inguinal orchidectomy + pathology**
 
 1. **History & examination**
-    
     - Evaluasi kedua testis.
     - Tentukan lokasi massa.
     - Periksa regional lymph nodes.
+
 2. ⭐ **Bilateral scrotal ultrasound**
-    
     - Menentukan apakah lesi **intratesticular atau extratesticular**.
     - Menilai solid/cystic.
+
 3. **Serum tumour markers**
-    
     - **AFP**
     - **β-hCG**
     - **LDH**
     - Diperiksa sebelum dan setelah orchidectomy.
+
 4. **Urology referral**
-    
     - Diagnosis definitif diperoleh melalui **inguinal orchidectomy** dan pemeriksaan histopatologi.
 
 🚫 **Jangan melakukan trans-scrotal biopsy**, karena dapat mengganggu pola drainase limfatik standar dan local control.
@@ -89,11 +88,11 @@ Alurnya:
 
 Seminoma biasanya tampak sebagai:
 
-- **Solid intratesticular lesion**.
+- **Lesi intratesticular yang solid**.
 - Biasanya **hypoechoic** dibandingkan jaringan testis normal.
 - Dapat bersifat homogeneous dan lobulated.
 - Sering menunjukkan **internal vascularity** pada Doppler.
-
+![[Pasted image 20260907111144.png]]
 🧠 **USG = menentukan lokasi & karakter massa; pathology = memastikan diagnosis.**
 
 ### Tumour Markers
