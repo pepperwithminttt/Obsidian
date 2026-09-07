@@ -71,9 +71,9 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 ---
 
-# 3. CLASSIFICATION OF AKI
+# 3. CLASSIFICATION ANDF STAGING OF AKI
 
-### Berdasarkan urine output
+### Klasifikasi berdasarkan Urine Output
 
 |Tipe|Urine output|
 |---|--:|
@@ -101,7 +101,7 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 # 4. ETIOLOGY
 
-Secara fisiopatologis, AKI diklasifikasikan menjadi:
+Secara fisiopatologis, AKI juga diklasifikasikan menjadi tiga:
 
 **Prerenal → Intrinsic renal → Postrenal**
 
