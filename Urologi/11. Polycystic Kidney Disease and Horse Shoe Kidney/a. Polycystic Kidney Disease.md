@@ -1,6 +1,4 @@
-# POLYCYSTIC KIDNEY DISEASE (PKD)
-
-## 1. INTRODUCTION
+# 1. INTRODUCTION
 
 - **Polycystic Kidney Disease (PKD)** adalah kelompok penyakit ginjal yang ditandai dengan pembentukan **kista multipel** pada ginjal.
 ![gh|298](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887845260000r6ylm.png)
@@ -21,18 +19,18 @@
 
 ---
 
-## 2. CLASSIFICATION
+# 2. CLASSIFICATION
 
-PKD dalam materi diklasifikasikan berdasarkan etiologi menjadi:
+PKD diklasifikasikan berdasarkan etiologi menjadi:
 
 ### Inherited PKD
 
 Terdiri atas:
 
 - **Autosomal Dominant Polycystic Kidney Disease (ADPKD)**
-    - Berhubungan dengan mutasi **PKD1** dan **PKD2**.
+    - Berhubungan dengan mutasi heterogen **PKD1** dan **PKD2**.
 - **Autosomal Recessive Polycystic Kidney Disease (ARPKD)**
-    - Disebabkan oleh mutasi **PKHD1**.
+    - Disebabkan oleh mutasi gen tunggal yaitu **PKHD1**.
 
 ### Acquired PKD
 
@@ -43,9 +41,7 @@ Berdasarkan manifestasi klinis:
 - **Symptomatic**
 - **Asymptomatic**
 
-🧠 **Tips hafalan:**
-
-**PKD → “AD + AR + Acquired”**
+🧠 **Hafalan:**
 
 - **AD** = PKD1 + PKD2
 - **AR** = PKHD1
@@ -53,13 +49,13 @@ Berdasarkan manifestasi klinis:
 
 ---
 
-## 3. PATHOPHYSIOLOGY
+# 3. PATHOPHYSIOLOGY
 
 ### Cyst Formation 🫧
 
 - Kista berkembang melalui:
-    1. **Proliferation of renal tubular cells**
-    2. **Fluid secretion into the cyst lumen**
+    1. **Proliferasi sel tubulus ginjal**
+    2. **Sekresi cairan ke dalam lumen kista**
 - Kista kemudian bertambah besar dan menyebabkan kompresi terhadap jaringan ginjal di sekitarnya.
 
 ### Renal Enlargement & Impairment
@@ -90,15 +86,11 @@ Pada ADPKD:
 
 Gangguan polycystin berhubungan dengan terbentuknya kista dan progresi penyakit.
 
-🧠 **Tips hafalan patogenesis:**
-
-**“KISTA → KOMPRESI → ISKEMIA → RAAS → HIPERTENSI → GAGAL GINJAL”**
-
 ---
 
 # AUTOSOMAL DOMINANT POLYCYSTIC KIDNEY DISEASE (ADPKD)
 
-## 4. GENETIC CLASSIFICATION
+# 4. GENETIC CLASSIFICATION
 
 ADPKD terutama berhubungan dengan dua gen:
 
