@@ -715,6 +715,7 @@ Faktor risiko hydronephrosis:
 ### MRI
 
 **Non-contrast MRI** dapat digunakan untuk evaluasi renal/vascular tertentu bila diperlukan.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788774677000pvca2r.png)
 
 ---
 
@@ -748,29 +749,28 @@ Prinsip terapi AKI:
 ### General management
 
 1. **Identifikasi penyebab dan status volume**
-    
     - tentukan apakah hypovolemia, euvolemia, atau hypervolemia.
-2. **Pertahankan hemodynamic status**
-    
-    - pastikan renal perfusion adekuat.
-    - hindari hypotension berkepanjangan.
+
+2. **Pertahankan status hemodinamik**
+    - pastikan perfusi renal adekuat.
+    - hindari hipotensi berkepanjangan.
+
 3. **Koreksi hypovolemia**
-    
     - pada AKI akibat dehydration, dapat diberikan isotonic fluid.
     - respons SCr perlu dimonitor.
+
 4. **Hentikan/kurangi nephrotoxic agents**
-    
     - NSAIDs
     - aminoglycosides
     - amphotericin
     - acyclovir
     - pentamidine
     - iodinated contrast bila tidak esensial.
+
 5. **Sesuaikan dosis obat berdasarkan fungsi ginjal.**
-    
-6. Monitor:
-    
-    - SCr
+
+6. **Monitor:**
+    - SCr (serum creatinin)
     - urine output
     - electrolytes
     - acid–base status
