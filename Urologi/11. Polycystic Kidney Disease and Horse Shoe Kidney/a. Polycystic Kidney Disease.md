@@ -651,5 +651,3 @@ Dan untuk **ADPKD extrarenal**:
 > **“LIVER – BRAIN – HEART”** 🫧🧠❤️
 
 **Liver cyst → Intracranial aneurysm → Mitral valve/aortic root**
-
-Sumber utama materi ini adalah file yang kamu berikan; bagian ARPKD hanya saya pertahankan sejauh informasi yang memang tersedia di sumber, sehingga tidak saya isi dengan detail tambahan yang tidak ada di materi.
