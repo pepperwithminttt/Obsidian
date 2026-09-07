@@ -402,7 +402,7 @@ Advanced disease:
 
 **NMIBC**
 
-- ⭐ **Complete TURBT** = foundation.
+- ⭐ **Complete TURBT** (Transurethral Resection of Bladder Tumor) = dasar pengobatan.
 - Berdasarkan risiko recurrence/progression:
     - Intravesical chemotherapy.
     - **BCG**.
