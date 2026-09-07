@@ -1,6 +1,4 @@
-# ACUTE KIDNEY INJURY (AKI)
-
-## 1. DEFINITION & EPIDEMIOLOGY
+# 1. DEFINITION
 
 ### Definition
 
@@ -51,7 +49,7 @@ Secara sederhana:
 
 ---
 
-## 2. EPIDEMIOLOGY
+# 2. EPIDEMIOLOGY
 
 AKI merupakan masalah medis yang sering ditemukan dan berhubungan dengan:
 
