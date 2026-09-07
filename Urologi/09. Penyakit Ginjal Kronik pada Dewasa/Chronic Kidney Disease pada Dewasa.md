@@ -164,7 +164,10 @@ Pasien dengan:
 
 ## Konsep **“4 Hits”** pada CKD 🥊
 
-First hit: Faktor-faktor yang meningkatkan kerentanan terhadap 
+- **First hit:** Faktor-faktor yang **meningkatkan kerentanan** terhadap kerusakan ginjal
+- **Second hit:** Faktor-faktor yang secara langsung **menginisiasi** kerusakan ginjal
+- **Third hit:** Faktor-faktor yang **memperburuk** progresi kerusakan ginjal
+- **Fourth hit:** Faktor-faktor yang **meningkatkan morbiditas dan mortalitas** pada kejadian gagal ginjal
 
 |Hit|Mekanisme|Contoh|
 |---|---|---|
