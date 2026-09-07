@@ -431,8 +431,7 @@ Temuan meliputi:
 - Hipospermatogenesis.
 - Maturation arrest.
 - Disfungsi sel Leydig.
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793644000sjgg54.png)
-
+![gh|276](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793644000sjgg54.png)
 ## Manifestasi Klinis
 
 ### Gejala
@@ -465,34 +464,31 @@ Temuan khas:
 ### Klasifikasi Klinis Sederhana
 
 - **Grade 0 / subclinical**
-    
     - Tidak terlihat dan tidak teraba.
     - Hanya terdeteksi dengan ultrasonografi atau Doppler.
+
 - **Grade I**
-    
     - Hanya teraba saat manuver Valsalva.
+
 - **Grade II**
-    
     - Teraba tanpa Valsalva saat pasien berdiri, tetapi belum terlihat.
+
 - **Grade III**
-    
     - Terlihat melalui kulit skrotum.
 
 🧠 **Hafalan:**  
-**0 = USG, 1 = Valsalva, 2 = Teraba, 3 = Terlihat.**
+**0 = USG, 1 = Valsalva, 2 = Teraba pas berdiri, 3 = Terlihat.**
 
 Varikokel yang **tidak kolaps saat posisi supine** harus menimbulkan kecurigaan terhadap patologi retroperitoneal dan memerlukan evaluasi lebih lanjut.
 
 ## Pemeriksaan Penunjang
 
 - **Ultrasonografi dengan Colour Doppler**
-    
     - Dapat mendeteksi varikokel subklinis.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793808000tni8zj.png)
 - Ultrasonografi abdomen
-    
     - Terutama untuk mengevaluasi kemungkinan penyebab sekunder atau patologi lain.
 - Analisis semen
-    
     - Menilai dampak terhadap kualitas sperma.
 
 ## Tata Laksana
@@ -527,6 +523,7 @@ Pilihan:
 - Embolisasi perkutan melalui akses transfemoral atau transjugular.
 - Mikrosurgery.
 - **Antegrade Scrotal Sclerotherapy (ASS)**.
+![uploading...](h5z37x)
 
 ### Teknik Penting
 
