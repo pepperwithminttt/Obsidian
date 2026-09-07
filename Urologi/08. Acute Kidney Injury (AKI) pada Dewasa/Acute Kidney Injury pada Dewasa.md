@@ -83,7 +83,7 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 > ⚠️ **Catatan:** kriteria staging KDIGO menggunakan urine output **mL/kg/jam**, sehingga jangan menyamakan definisi oliguria berdasarkan volume harian dengan kriteria staging.
 
-### KDIGO staging
+### Kriteria Staging KDIGO untuk AKI
 
 | Stage | Serum creatinine                                                             | Urine output                                              |
 | ----- | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
