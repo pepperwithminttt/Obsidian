@@ -294,7 +294,7 @@ Pada dewasa, hidrokel sering bersifat sekunder terhadap:
 Terjadi karena **processus vaginalis tetap paten**, sehingga terdapat hubungan antara rongga peritoneum dan tunica vaginalis.
 
 Akibatnya, cairan peritoneum dapat bergerak bebas menuju skrotum dan sebaliknya.
-
+![gh|267](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788792474000x5miau.png)
 Bila hubungannya cukup besar, isi abdomen seperti:
 
 - Usus.
@@ -313,6 +313,7 @@ Terjadi ketika **processus vaginalis telah menutup**, tetapi terjadi ketidakseim
 - Absorpsi cairan oleh tunica vaginalis.
 
 Akibatnya cairan terkumpul di sekitar testis.
+![gh|277](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788792508000rty8bf.png)
 
 🧠 **Hafalan:**  
 **Non-communicating = jalannya sudah tertutup, masalahnya cairan lokal.**
