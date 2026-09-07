@@ -495,7 +495,7 @@ Banyak kasus awal **asimtomatik**.
 - Pathological fracture.
 - Uncontrolled bone pain.
 - Rapid functional decline/suspected hypercalcaemia.
-![[Pasted image 20260907103701.png]]
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887650670002719to.png)
 ### Diagnosis
 
 **Alur utama:**

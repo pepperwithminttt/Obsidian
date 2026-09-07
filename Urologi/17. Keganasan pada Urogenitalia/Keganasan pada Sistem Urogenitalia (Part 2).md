@@ -4,7 +4,7 @@
 
 - Seminoma merupakan **pure germ-cell tumour**.
 - Pure seminoma **tidak menghasilkan AFP** → bila AFP (Alfa Fetoprotein) meningkat, harus dicurigai adanya **non-seminomatous component**.
-![[Pasted image 20260907110716.png]]
+![gh|290](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788765096000053pjr.png)
 ### Anatomi & Pola Penyebaran
 
 - **Seminiferous tubules** → mengandung germ cells dan merupakan tempat produksi sperma.
@@ -12,7 +12,7 @@
 - **Epididymis** → terletak posterior dan berada di luar testis (**extratesticular**).
 - Drainase limfatik testis mengikuti **gonadal vessels → retroperitoneal lymph nodes**.
 - Jadi, metastasis limfatik testicular cancer terutama menuju **retroperitoneal nodes**, bukan inguinal nodes.
-![[Pasted image 20260907110613.png]]
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788765118000fa7gb3.png)
 🧠 **Hafalan:**  
 **TESTIS → GONADAL VESSELS → RETROPERITONEAL**  
 Bukan langsung ke inguinal. 🎯
@@ -92,7 +92,7 @@ Seminoma biasanya tampak sebagai:
 - Biasanya **hypoechoic** dibandingkan jaringan testis normal.
 - Dapat bersifat homogeneous dan lobulated.
 - Sering menunjukkan **internal vascularity** pada Doppler.
-![[Pasted image 20260907111144.png]]
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887651410003nmyh2.png)
 🧠 **USG = menentukan lokasi & karakter massa; pathology = memastikan diagnosis.**
 
 ### Tumour Markers
@@ -119,7 +119,7 @@ Gambaran klasik:
 - **Clear cytoplasm**
 - Nuclei prominent
 - **Fibrous septa** yang mengandung lymphocytes.
-![[Pasted image 20260907111452.png]]
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788765151000n2tunb.png)
 ### Staging
 
 Staging menilai **T, N, M, dan S**:
@@ -198,8 +198,8 @@ Yang wajib banget:
 # 2. NON-SEMINOMA TESTICULAR CANCER — TERATOMA
 
 **Teratoma** merupakan salah satu bentuk **non-seminomatous germ-cell tumour (NSGCT)**. Pada histopatologi, teratoma tersusun atas jaringan yang berasal dari **lebih dari satu germ-cell layer** dan dapat menunjukkan komponen **mature maupun immature**.
-![[Pasted image 20260907111925.png]]
-⚠️ **CATATAN PENTING DARI MATERI:** bagian berikutnya dalam slide yang kamu kirim **tampak tercampur dengan materi ovarian teratoma**, karena mencantumkan **oophorectomy, pelvic mass, Rokitansky nodule, dan sebaceous material**. Istilah-istilah tersebut tidak boleh langsung kamu hafalkan sebagai karakteristik utama **testicular teratoma**. Jadi aku pisahkan mana yang aman diambil dari materi.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788765163000d8jr5a.png)
+⚠️ **CATATAN PENTING:** bagian berikutnya dalam slidenya dokter **tampak tercampur dengan materi ovarian teratoma**, karena mencantumkan **oophorectomy, pelvic mass, Rokitansky nodule, dan sebaceous material**. Istilah-istilah tersebut tidak boleh langsung kamu hafalkan sebagai karakteristik utama **testicular teratoma**. Jadi aku pisahkan mana yang aman diambil dari materi.
 
 ### Klasifikasi Teratoma
 
