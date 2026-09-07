@@ -168,23 +168,17 @@ Terjadi akibat kerusakan struktural pada jaringan ginjal.
 Merupakan penyebab intrinsic AKI yang paling penting.
 
 **Penyebab:**
+#### 1. Ischemic
+- Renal ischemia akibat hipotensi berkepanjangan
 
-**Ischemic**
-
-- renal ischemia akibat hipotensi berkepanjangan
-
-**Nephrotoxic**
-
-**Endogenous toxins:**
-
-- Myoglobin → rhabdomyolysis
-- Hemoglobin → massive hemolysis
-- Light chains → multiple myeloma
-- Uric acid → tumor lysis syndrome
-- Bile salts → obstructive cholestasis
-
-**Exogenous toxins:**
-
+#### 2. Nephrotoxic
+- **Endogenous toxins:**
+	- Myoglobin → rhabdomyolysis
+	- Hemoglobin → massive hemolysis
+	- Light chains → multiple myeloma
+	- Uric acid → tumor lysis syndrome
+	- Bile salts → obstructive cholestasis
+**b. Exogenous toxins:**
 - Aminoglycosides
 - Cisplatin
 - Radiocontrast media
@@ -212,14 +206,14 @@ Penyebab:
     - rifampin
     - sulfonamides
     - immune checkpoint inhibitors
-- Infection:
+- **Infection**:
     - bacterial
     - viral
-- Autoimmune disease:
+- **Autoimmune** disease:
     - Sjögren syndrome
     - sarcoidosis
     - SLE
-- Malignancy:
+- **Malignancy**:
     - lymphoma
     - leukemia
 
