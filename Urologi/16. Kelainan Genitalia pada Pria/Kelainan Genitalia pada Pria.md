@@ -364,21 +364,22 @@ Komplikasi lain dapat meliputi infeksi dan pembengkakan pascaoperasi.
 **Varikokel** adalah kelainan vaskular berupa **pelebaran, pemanjangan, dan tortuositas pleksus vena pampiniformis** pada korda spermatika yang secara klinis dapat teraba.
 #### INTINYA INI VARISES (PELEBARAN VENA) DI TESTIS GUYS
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793232000gio9e7.png)
-
 ## Etiologi dan Faktor Predisposisi
 
 Varikokel lebih sering terjadi di sisi kiri karena beberapa faktor:
 
 - Vena testikular kiri sekitar **8–10 cm lebih panjang**, sehingga tekanan hidrostatik lebih tinggi saat berdiri.
 - Vena testikular kiri bermuara ke vena renalis kiri dengan sudut mendekati **90°**.
+![gh|265](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887934360004fm1oj.png)
 - **Nutcracker phenomenon**, yaitu kompresi vena renalis kiri di antara **arteri mesenterika superior (SMA)** dan aorta.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793457000nx8fos.png)
 - Tidak adanya katup vena testikular kiri secara kongenital pada sebagian pasien.
 - Ektasia intrinsik pleksus vena.
 - Faktor anatomis intraabdomen, termasuk beban kolon kiri.
 
 🧠 **Kenapa kiri lebih sering? → “Kiri lebih panjang, jalurnya lebih sulit, tekanannya lebih tinggi.”**
 
-## Patofisiologi Perubahan Testis
+## Patofisiologi yang Menghubungkan Varikokel dengan Infertilitas
 
 Varikokel dapat mengganggu spermatogenesis melalui beberapa mekanisme:
 
@@ -430,6 +431,7 @@ Temuan meliputi:
 - Hipospermatogenesis.
 - Maturation arrest.
 - Disfungsi sel Leydig.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793644000sjgg54.png)
 
 ## Manifestasi Klinis
 
