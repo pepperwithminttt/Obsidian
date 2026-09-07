@@ -4,19 +4,19 @@
 
 CKD dapat ditegakkan bila **salah satu** dari berikut ditemukan selama **≥3 bulan**:
 
-|**Marker kerusakan ginjal**|**Kriteria**|
-|---|---|
-|**Albuminuria**|ACR ≥30 mg/g (≥3 mg/mmol)|
-|**Kelainan sedimen urin**|Misalnya kelainan pada pemeriksaan mikroskopis urin|
-|**Hematuria persisten**|Darah dalam urin yang menetap|
-|**Kelainan elektrolit/tubular**|Kelainan akibat gangguan fungsi tubulus|
-|**Kelainan histologi**|Ditemukan melalui biopsi ginjal|
-|**Kelainan struktural**|Ditemukan melalui pemeriksaan imaging|
-|**Riwayat transplantasi ginjal**|Meski fungsi ginjal saat ini dapat bervariasi|
-|**Penurunan GFR**|**GFR <60 mL/menit/1,73 m²** → G3a–G5|
+| **Marker kerusakan ginjal**      | **Kriteria**                                        |
+| -------------------------------- | --------------------------------------------------- |
+| **Albuminuria**                  | ACR ≥30 mg/g (≥3 mg/mmol)                           |
+| **Kelainan sedimen urin**        | Misalnya kelainan pada pemeriksaan mikroskopis urin |
+| **Hematuria persisten**          | Darah dalam urin yang menetap                       |
+| **Kelainan elektrolit/tubular**  | Kelainan akibat gangguan fungsi tubulus             |
+| **Kelainan histologi**           | Ditemukan melalui biopsi ginjal                     |
+| **Kelainan struktural**          | Ditemukan melalui pemeriksaan imaging               |
+| **Riwayat transplantasi ginjal** | Meski fungsi ginjal saat ini dapat bervariasi       |
+| **Penurunan GFR**                | **GFR <60 mL/menit/1,73 m²** → Stage G3a–G5         |
 
 📌 **Intinya:**  
-**CKD = kerusakan ginjal ≥3 bulan ATAU GFR <60 selama ≥3 bulan.**
+**CKD = kerusakan ginjal ATAU GFR <60 selama ≥3 bulan.**
 
 > ⚠️ **G1 dan G2 saja belum berarti CKD.** Jika GFR ≥60, harus ada **marker kerusakan ginjal** agar memenuhi kriteria CKD.
 
