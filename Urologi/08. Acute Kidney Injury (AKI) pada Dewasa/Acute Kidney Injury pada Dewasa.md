@@ -831,7 +831,9 @@ Penatalaksanaan:
 
 ### C. Acid–base disorder
 
-**Metabolic acidosis** ditangani berdasarkan penyebab dan derajat keparahan.
+Asidosis metabolik pada AKI terjadi karena ginjal yang rusak secara mendadak **tidak mampu membuang asam sisa metabolisme** dan **gagal memproduksi bikarbonat** (zat basa penyeimbang pH darah).
+
+Asidosis metabolik ditangani berdasarkan penyebab dan derajat keparahan.
 
 Bila berat dan refractory terhadap terapi medis → pertimbangkan RRT.
 
@@ -848,7 +850,7 @@ Bila berat dan refractory terhadap terapi medis → pertimbangkan RRT.
 
 - koreksi penyebab,
 - koreksi defisit air secara terkontrol,
-- KRT bila diperlukan.
+- RRT bila diperlukan.
 
 ---
 
@@ -856,16 +858,14 @@ Bila berat dan refractory terhadap terapi medis → pertimbangkan RRT.
 
 **Hyperphosphatemia:**
 
-- phosphate binders,
+- beri phosphate binders,
 - calcium-based therapy pada kondisi tertentu.
 
 **Hypercalcemia/hypermagnesemia:**
 
 - umumnya tidak menimbulkan konsekuensi klinis berat, tetapi tetap perlu dievaluasi sesuai kadar dan kondisi pasien.
 
----
-
-# 16. NUTRITION
+### F. Nutrition
 
 Pasien AKI berisiko mengalami **protein-energy malnutrition**.
 
@@ -875,7 +875,7 @@ Kebutuhan nutrisi secara umum:
 
 - **Protein:** 0,8–1,0 g/kg/hari
 - **Energy:** 20–30 kcal/kg/hari
-- Bila menggunakan KRT:
+- Bila menggunakan RRT:
     - protein **1–1,5 g/kg/hari**
     - dapat mencapai **1,7 g/kg/hari** pada continuous KRT dan kondisi hypercatabolic.
 
@@ -883,7 +883,7 @@ Kebutuhan nutrisi secara umum:
 
 # 17. Furosemide Stress Test
 
-Digunakan pada pasien dengan **early mild-to-moderate AKI**, terutama untuk membantu memprediksi risiko progresi AKI.
+Digunakan pada pasien dengan early mild-to-moderate AKI, yaitu **stage 1-2** berdasarkan kriteria KDIGO terutama untuk membantu memprediksi risiko progresi AKI.
 
 Setelah memastikan pasien tidak mengalami hypovolemia atau obstruction:
 
