@@ -558,23 +558,27 @@ Selain itu, akumulasi toksin uremik dapat menyebabkan **penurunan survival RBC**
 - Erythropoiesis-stimulating therapy
 - HIF stabilizer sesuai indikasi
 
----
-
-### 🦴 CKD-MBD
+### 🦴 CKD-MBD (Chronic Kidney Disease–Mineral and Bone Disorder)
 
 Penurunan fungsi ginjal menyebabkan:
 
-**↓ konversi calcidiol → calcitriol**  
-→ **↓ calcium absorption dari intestine**  
-→ **hypocalcemia**
+**Penurunan konversi calcidiol → calcitriol**
+
+Sehingga:
+- **↓ calcium absorption dari usus**  
+- **hypocalcemia**
 
 Bersamaan dengan:
 
-**↓ phosphate excretion**  
-→ **hyperphosphatemia**  
-→ phosphate berikatan dengan calcium  
-→ semakin menurunkan ionized calcium  
-→ **↑ PTH**
+**Penurunan phosphate excretion**
+
+Sehingga:
+- **hyperphosphatemia**  
+- phosphate berikatan dengan calcium  
+- semakin menurunkan ionized calcium
+
+Akibatnya:
+- **↑ PTH**
 
 Hasil akhirnya:
 
@@ -592,7 +596,7 @@ Dapat menyebabkan bone weakness dan pathological fracture.
 
 ### 🧪 Metabolic acidosis
 
-**↓ renal ammonium excretion + ↓ acid excretion**  
+**Penurunan eksresi ammonium renal + ↓ acid excretion**  
 → retensi asam  
 → **metabolic acidosis**
 
