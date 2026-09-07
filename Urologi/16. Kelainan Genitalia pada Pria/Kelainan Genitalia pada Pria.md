@@ -362,7 +362,7 @@ Komplikasi lain dapat meliputi infeksi dan pembengkakan pascaoperasi.
 ## Definisi
 
 **Varikokel** adalah kelainan vaskular berupa **pelebaran, pemanjangan, dan tortuositas pleksus vena pampiniformis** pada korda spermatika yang secara klinis dapat teraba.
-#### INTINYA INI VARISES GUYS (PELEBARAN VENA) DI TESTIS
+#### INTINYA INI VARISES (PELEBARAN VENA) DI TESTIS GUYS
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793232000gio9e7.png)
 
 ## Etiologi dan Faktor Predisposisi
