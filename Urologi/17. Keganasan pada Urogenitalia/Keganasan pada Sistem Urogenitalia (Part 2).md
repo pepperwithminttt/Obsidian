@@ -119,7 +119,7 @@ Gambaran klasik:
 - **Clear cytoplasm**
 - Nuclei prominent
 - **Fibrous septa** yang mengandung lymphocytes.
-
+![[Pasted image 20260907111452.png]]
 ### Staging
 
 Staging menilai **T, N, M, dan S**:
@@ -198,17 +198,19 @@ Yang wajib banget:
 # 2. NON-SEMINOMA TESTICULAR CANCER — TERATOMA
 
 **Teratoma** merupakan salah satu bentuk **non-seminomatous germ-cell tumour (NSGCT)**. Pada histopatologi, teratoma tersusun atas jaringan yang berasal dari **lebih dari satu germ-cell layer** dan dapat menunjukkan komponen **mature maupun immature**.
-
+![[Pasted image 20260907111925.png]]
 ⚠️ **CATATAN PENTING DARI MATERI:** bagian berikutnya dalam slide yang kamu kirim **tampak tercampur dengan materi ovarian teratoma**, karena mencantumkan **oophorectomy, pelvic mass, Rokitansky nodule, dan sebaceous material**. Istilah-istilah tersebut tidak boleh langsung kamu hafalkan sebagai karakteristik utama **testicular teratoma**. Jadi aku pisahkan mana yang aman diambil dari materi.
 
 ### Klasifikasi Teratoma
 
-Menurut materi, teratoma dibagi menjadi:
+Teratoma dibagi menjadi:
 
 - **Mature**
     - Cystic
     - Solid
 - **Immature**
+	- Cenderung bertransformasi menjadi malignant
+	- Angka kejadian rendah (1% dari kasus teratoma)
 - **Monodermal**
     - Ovarian stroma
     - Carcinoid tumour
@@ -217,8 +219,6 @@ Menurut materi, teratoma dibagi menjadi:
 ⚠️ **Bagian monodermal dan beberapa karakteristik imaging di slide jelas menggunakan terminologi ovarian teratoma**, sehingga jangan menjadikannya sebagai inti hafalan untuk testicular teratoma.
 
 ### Mature Teratoma
-
-Materi menyebut:
 
 - Dapat berupa **cystic atau solid**.
 - Disebut memiliki risiko transformasi maligna **<2%** dalam materi.
@@ -232,17 +232,13 @@ Materi menyebut:
 
 ### Manifestasi Klinis
 
-Pada materi tercantum:
-
-- Abdominal/pelvic mass.
+- Massa abdominal/pelvic yang dapat diraba.
 - Abdominal distension.
-- Abdominal pain.
+- Nyeri abdominal.
 
 ⚠️ Namun, pola presentasi ini juga merupakan bagian yang **tidak khas untuk testicular teratoma** dan tampak berasal dari materi ovarian teratoma. Untuk testicular germ-cell tumour, kembali ke prinsip utama: **new solid intratesticular mass → curiga malignansi**.
 
 ### Pemeriksaan Laboratorium
-
-Tumour markers yang dicantumkan:
 
 - **AFP**
 - **β-hCG**
@@ -251,7 +247,7 @@ Tumour markers yang dicantumkan:
 Pada NSGCT, peningkatan AFP sangat penting karena **pure seminoma tidak menghasilkan AFP**.
 
 ### Imaging
-
+![[Pasted image 20260907112642.png]]
 Materi mencantumkan:
 
 - **USG**

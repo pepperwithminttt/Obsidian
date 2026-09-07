@@ -21,6 +21,7 @@
 ## 2. DEFINITION & ANATOMY
 
 **Urolithiasis** adalah kondisi terbentuknya batu (**calculus**) pada saluran kemih. Batu dapat terbentuk di ginjal kemudian bermigrasi melalui **ureter → vesika urinaria → uretra**, sehingga batu dapat ditemukan di seluruh traktus urinarius.
+
 ![gh|322](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788628675000434wtr.png)
 ### Anatomi yang penting
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788628731000cfhzqv.png)
