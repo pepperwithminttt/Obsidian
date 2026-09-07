@@ -465,7 +465,7 @@ Manifestasi AKI sangat bergantung pada penyebab dan derajat gangguan fungsi ginj
 ### Manifestasi sistemik
 
 - **Azotemia** → akumulasi nitrogenous waste
-- **Uremia** → symptomatic kidney failure
+- **Uremia** → [symptomatic kidney failure]{Uremia adalah penumpukan urea dalam darah yang terjadi ketika ginjal gagal menyaring limbah dari darah.}
 - Hyperkalemia
 - Metabolic acidosis
 - Volume overload
