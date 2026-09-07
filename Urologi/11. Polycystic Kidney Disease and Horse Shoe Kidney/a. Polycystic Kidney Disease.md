@@ -85,12 +85,13 @@ Pada ADPKD:
     - fungsi sel epitel.
 
 Gangguan polycystin berhubungan dengan terbentuknya kista dan progresi penyakit.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178878501700011ycl3.png)
 
 ---
 
 # AUTOSOMAL DOMINANT POLYCYSTIC KIDNEY DISEASE (ADPKD)
 
-# 4. GENETIC CLASSIFICATION
+## GENETIC CLASSIFICATION
 
 ADPKD terutama berhubungan dengan dua gen:
 
@@ -110,9 +111,9 @@ Secara umum, **PKD1 truncating** menunjukkan perjalanan yang lebih agresif diban
 
 ---
 
-## 5. MAYO IMAGING CLASSIFICATION (MIC)
+## MAYO IMAGING CLASSIFICATION (MIC)
 
-MIC digunakan untuk menilai **risk of disease progression** berdasarkan ukuran ginjal dan laju pertumbuhan volume ginjal.
+MIC digunakan untuk menilai **risiko progresi penyakit** berdasarkan **ukuran ginjal** dan **laju pertumbuhan volume ginjal**.
 
 ### Class 1 — Typical
 
@@ -130,6 +131,7 @@ MIC digunakan untuk menilai **risk of disease progression** berdasarkan ukuran g
 - Asymmetric
 - Umumnya memiliki prognosis lebih baik.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788785079000iqg1jk.png)
 ---
 
 ## 6. CLINICAL MANIFESTATIONS
