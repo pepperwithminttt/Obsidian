@@ -330,7 +330,7 @@ MRI merupakan **gold standard untuk Total Kidney Volume (TKV)** dan **height-adj
 
 ---
 
-## ULTRASOUND DIAGNOSTIC CRITERIA
+# 6. ULTRASOUND DIAGNOSTIC CRITERIA
 
 ### Positive Family History
 
@@ -360,7 +360,7 @@ Jika ditemukan **atypical atau few cysts**:
 
 ---
 
-## 10. MAYO IMAGING CLASSIFICATION & RISK STRATIFICATION
+# 7. MAYO IMAGING CLASSIFICATION & RISK STRATIFICATION
 
 MIC menggunakan **htTKV ÷ age** untuk memperkirakan **annual kidney growth rate**.
 
@@ -375,23 +375,19 @@ MIC menggunakan **htTKV ÷ age** untuk memperkirakan **annual kidney growth rate
 
 Semakin tinggi kelas MIC, semakin cepat pertumbuhan ginjal dan semakin tinggi risiko progresi penyakit.
 
-🧠 **Hafalan cepat:**
-
-**A → B → C → D → E = makin cepat tumbuh, makin buruk prognosis.**
-
 Yang perlu paling diingat:
 
 **1C–1E → rapidly progressive → pikirkan TOLVAPTAN.**
 
 ---
 
-## 11. COMPLICATIONS
+# 8. COMPLICATIONS
 
 Komplikasi utama PKD, terutama ADPKD:
 
 - **Progressive chronic kidney failure**
-    - → ESKD
-    - → dialysis / kidney transplantation
+    - ESKD
+    - dialysis / kidney transplantation
 - **Uncontrolled hypertension**
     - mempercepat kerusakan ginjal
 - **Liver cysts**
@@ -403,7 +399,7 @@ Komplikasi utama PKD, terutama ADPKD:
 
 ---
 
-## 12. MANAGEMENT
+# 9. MANAGEMENT
 
 ### Blood Pressure Control 🩺
 
@@ -428,7 +424,7 @@ Komplikasi utama PKD, terutama ADPKD:
 
 **Hydration 💧**
 
-- Materi mencantumkan anjuran **≥3 L/day** untuk menekan endogenous vasopressin dan membantu menghambat pertumbuhan kista.
+- Anjuran minum pada PPT tercantum **≥3 L/hari** untuk menekan endogenous vasopressin dan membantu menghambat pertumbuhan kista.
 - Pada bagian management lainnya tercantum **≥2 L/day**.
 - Jadi, angka hidrasi dalam sumber berada pada kisaran **2–3 L/day**, dengan bagian utama menekankan ≥3 L/day.
 
@@ -446,7 +442,7 @@ Komplikasi utama PKD, terutama ADPKD:
 
 ---
 
-## 13. TOLVAPTAN — DISEASE-MODIFYING THERAPY 💊
+# 10. TOLVAPTAN — DISEASE-MODIFYING THERAPY 💊
 
 ### Mechanism of Action
 
@@ -513,7 +509,7 @@ Menurut materi:
 
 ---
 
-## 14. FOLLOW-UP & LONG-TERM MANAGEMENT
+# 11. FOLLOW-UP & LONG-TERM MANAGEMENT
 
 ### Basic Management
 
