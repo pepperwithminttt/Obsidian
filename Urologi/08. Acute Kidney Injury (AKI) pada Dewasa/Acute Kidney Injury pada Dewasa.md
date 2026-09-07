@@ -39,12 +39,12 @@ Secara sederhana:
 - **AKD:** >7 hari–<3 bulan
 - **CKD:** ≥3 bulan
 
-### Resolution of AKI and AKD
+### Criteria for Resolution of AKI and AKD
 
-|Resolution|AKI: dalam 7 hari|AKD: dalam 3 bulan|
-|---|---|---|
-|**Complete resolution**|SCr/cystatin C **<1,2× baseline**|SCr/cystatin C <1,2× baseline **atau** eGFR >80% baseline|
-|**Partial resolution**|SCr/cystatin C **≥1,2 hingga <1,5× baseline**|SCr/cystatin C ≥1,2 hingga <1,5× baseline **atau** eGFR <80% hingga >66% baseline|
+| Resolution              | AKI: dalam 7 hari                             | AKD: dalam 3 bulan                                                          |
+| ----------------------- | --------------------------------------------- | --------------------------------------------------------------------------- |
+| **Complete resolution** | SCr/cystatin C **<1,2× baseline**             | SCr/cystatin C **<1,2× baseline** atau **eGFR >80%** baseline               |
+| **Partial resolution**  | SCr/cystatin C **≥1,2 hingga <1,5× baseline** | SCr/cystatin C **≥1,2 - <1,5× baseline** atau **eGFR <80% - >66%** baseline |
 
 ---
 
