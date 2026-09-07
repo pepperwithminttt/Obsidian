@@ -523,27 +523,31 @@ Pilihan:
 - Embolisasi perkutan melalui akses transfemoral atau transjugular.
 - Mikrosurgery.
 - **Antegrade Scrotal Sclerotherapy (ASS)**.
-![uploading...](h5z37x)
-
+![gh|397](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788793937000duykq6.png)
 ### Teknik Penting
 
 - **Palomo**
-    
     - Ligasi vena spermatika internal secara tinggi di retroperitoneum.
+
 - **Ivanissevich**
-    
     - Pendekatan melalui kanalis inguinalis.
+
 - **Marmar / subinguinal**
-    
     - Insisi kecil di bawah cincin inguinalis eksternal.
     - Dengan bantuan mikroskop dapat mengidentifikasi struktur dengan lebih baik dan dilaporkan memiliki hasil yang superior.
-- **Laparoskopi**
-    
-    - Oklusi vena spermatika internal secara tinggi.
-- **Embolisasi perkutan**
-    
-    - Oklusi vena menggunakan bahan seperti coil atau balon.
 
+- **Laparoskopi**
+    - Oklusi vena spermatika internal secara tinggi.
+![gh|357](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788794023000smri67.png)
+
+- **Embolisasi perkutan**
+    - Oklusi vena menggunakan bahan seperti coil atau balon.
+![gh|417](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887940430000msgbl.png)
+![gh|214](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887940570002jos57.png)
+- **Microsurgery**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788794155000eyvejn.png)
+- Anterograde sclerotherapy
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788794202000jwd093.png)
 ## Komplikasi Tindakan
 
 - Hidrokel akibat ligasi limfatik.
