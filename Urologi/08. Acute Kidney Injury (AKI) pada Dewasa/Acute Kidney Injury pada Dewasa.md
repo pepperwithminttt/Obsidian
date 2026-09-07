@@ -1284,19 +1284,15 @@ Prioritas:
 
 # 24. HIGH-YIELD DIFFERENTIAL DIAGNOSIS
 
-||**Prerenal**|**Intrinsic renal**|**Postrenal**|
-|---|---|---|---|
-|Masalah utama|↓ Perfusi|Kerusakan struktur ginjal|Obstruction|
-|Contoh utama|Hypovolemia, HF, sepsis|ATN, AIN, GN, vascular|Stone, BPH, tumor|
-|Urine|Pekat|Sedimen abnormal|Bervariasi|
-|FENa|Biasanya <1%|Biasanya >2% pada ATN|Bervariasi|
-|Urine sediment|Hyaline casts|Muddy brown/RBC/WBC casts sesuai penyebab|Dapat minimal|
-|USG|Biasanya normal|Biasanya normal/bervariasi|Hydronephrosis dapat ditemukan|
-|Terapi utama|Restore perfusion|Treat specific renal injury + support|Relieve obstruction|
-
-|     |     |
-| --- | --- |
-|     |     |
+|                | Prerenal                | Intrinsik                                 | Postrenal                      |
+| -------------- | ----------------------- | ----------------------------------------- | ------------------------------ |
+| Masalah utama  | ↓ Perfusi               | Kerusakan struktur ginjal                 | Obstruksi                      |
+| Contoh utama   | Hypovolemia, HF, sepsis | ATN, AIN, GN, vascular                    | Stone, BPH, tumor              |
+| Urine          | Pekat                   | Sedimen abnormal                          | Bervariasi                     |
+| FENa           | Biasanya <1%            | Biasanya >2% pada ATN                     | Bervariasi                     |
+| Urine sediment | Hyaline casts           | Muddy brown/RBC/WBC casts sesuai penyebab | Dapat minimal                  |
+| USG            | Biasanya normal         | Biasanya normal/bervariasi                | Hydronephrosis dapat ditemukan |
+| Terapi utama   | Restore perfusion       | Treat specific renal injury + support     | Relieve obstruction            |
 
 ---
 
@@ -1336,10 +1332,9 @@ Prioritas:
 
 ### 5. KRT
 
-**AEIOU**
+**AIUEO**
 
 - **A**cidosis
-- **E**lectrolyte
 - **I**ntoxication
 - **O**verload
 - **U**remia
