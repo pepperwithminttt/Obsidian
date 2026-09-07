@@ -267,18 +267,19 @@ Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya berga
     - Obat/nephrotoxin
     - Kelainan saluran kemih
     - Riwayat kidney disease
+
 - 👨‍👩‍👧 **Family history**
     - Cari kemungkinan penyakit genetik
     - Bila perlu buat **family pedigree**
+
 - 🔍 **Physical examination**
-    
     - Tanda penyakit sistemik
     - Tanda urinary tract abnormality
+
 - 🧪 **Laboratory**
-    
     - Urinalysis
     - Urine sediment
-    - UACR
+    - UACR (Urine Albumin Creatinine Ratio)
     - Electrolytes dan acid-base
     - Serologic tests:
         - Anti-PLA2R
@@ -286,8 +287,8 @@ Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya berga
         - Anti-GBM
     - Serum-free light chains
     - Serum/urine protein electrophoresis dan immunofixation
+
 - 🖥️ **Imaging**
-    
     - Ultrasound
     - CT
     - MRI
@@ -295,22 +296,21 @@ Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya berga
     - Nuclear medicine studies
     
     Ultrasound menilai:
-    
     - Ukuran dan bentuk ginjal
     - Simetri
     - Cystic disease
     - Obstruction
     - Reflux disease
+
 - 🧬 **Genetic testing**
-    
     - APOL1
     - COL4A3, COL4A4, COL4A5
     - NPHS1
     - UMOD
     - HNF1B
     - PKD1, PKD2
+
 - 🔬 **Kidney biopsy**
-    
     - Dilakukan bila secara klinis sesuai.
     - Membantu menentukan diagnosis dan **guiding treatment decisions**.
     - Dapat diperiksa dengan:
@@ -325,7 +325,7 @@ Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya berga
 
 ### Langkah pemeriksaan
 
-**Initial test → eGFR berdasarkan serum creatinine (eGFRcr)**
+**Initial test → eGFR berdasarkan serum creatinine (eGFRcr)** (eGFR = estimated GFR)
 
 ⬇️
 
@@ -346,8 +346,7 @@ Jika masih membutuhkan pengukuran yang lebih akurat
 
 ### Perbandingan eGFR vs measured GFR
 
-**eGFR**
-
+**Estimated GFR**
 - Murah
 - Mudah
 - Tersedia luas
@@ -356,7 +355,6 @@ Jika masih membutuhkan pengukuran yang lebih akurat
 - Dipengaruhi faktor non-GFR seperti muscle mass
 
 **Measured GFR**
-
 - Lebih akurat
 - Lebih sedikit dipengaruhi faktor non-GFR
 - Dapat mendeteksi perubahan GFR lebih awal
