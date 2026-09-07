@@ -101,7 +101,7 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 
 # 4. ETIOLOGY
 
-Secara fisiopatologis, AKI dibagi menjadi:
+Secara fisiopatologis, AKI diklasifikasikan menjadi:
 
 **Prerenal → Intrinsic renal → Postrenal**
 
