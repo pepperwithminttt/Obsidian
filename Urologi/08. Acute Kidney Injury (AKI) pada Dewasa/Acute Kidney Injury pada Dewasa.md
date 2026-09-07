@@ -18,6 +18,7 @@
 |---|---|
 |**Transient AKI**|Peningkatan SCr/cystatin C atau penurunan urine output yang berlangsung **<48 jam**|
 |**Persistent AKI**|Peningkatan SCr/cystatin C atau penurunan urine output yang berlangsung **>48 jam hingga ≤7 hari**|
+Note: SCr = Serum Creatinin
 
 ### AKI, AKD, dan CKD berdasarkan waktu
 
