@@ -2,7 +2,8 @@
 
 ## 1. INTRODUCTION
 
-- **Polycystic Kidney Disease (PKD)** adalah kelompok penyakit ginjal yang ditandai dengan pembentukan **multiple cysts** pada ginjal.
+- **Polycystic Kidney Disease (PKD)** adalah kelompok penyakit ginjal yang ditandai dengan pembentukan **kista multipel** pada ginjal.
+![gh|298](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887845260000r6ylm.png)
 - Kista terbentuk dari proliferasi sel tubulus ginjal dan sekresi cairan ke dalam lumen kista.
 - Kista dapat terus membesar sehingga menyebabkan:
     - **renal enlargement**
