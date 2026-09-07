@@ -287,22 +287,21 @@ Terjadi akibat penyumbatan di dalam tubulus oleh material tertentu.
 
 Terjadi akibat **obstruksi aliran keluar urin** setelah urin terbentuk di ginjal.
 
-### Intrinsic (intrarenal) obstruction
+### Intrarenal obstruction
 
-- Bilateral ureteral stones
-- Ureterolithiasis
-- Blood clot
-- Renal papillary necrosis
-- Urethral stenosis
+- Nephrolithiasis
 
-### Extrinsic (extrarenal) obstruction
+### Extrarenal obstruction
 
 - Benign prostatic hyperplasia (BPH)
+- Ureterolithiasis
 - Bladder/prostate/rectal/cervical cancer
+- Urethral stenosis
 - Retroperitoneal fibrosis
+- Renal papillary necrosis
 - Metastatic cancer
 - Pelvic mass
-- Neurogenic bladder
+- Acute neurogenic bladder
 
 > 🧠 **Postrenal = “ginjal membuat urin, tetapi urin tidak bisa keluar.”**
 
@@ -314,8 +313,8 @@ AKI postrenal umumnya membutuhkan **obstruksi bilateral** atau obstruksi pada sa
 
 Mekanisme utama AKI meliputi:
 
-- ↓ renal perfusion
-- Hypoxic injury
+- ↓ perfusi renal
+- Cedera hipoksik
 - Endothelial dysfunction
 - Oxidative stress
 - Inflammatory infiltration
