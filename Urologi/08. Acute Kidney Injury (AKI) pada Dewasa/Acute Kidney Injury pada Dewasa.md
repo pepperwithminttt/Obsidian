@@ -1,7 +1,5 @@
 # 1. DEFINITION
 
-### Definition
-
 **Acute Kidney Injury (AKI)** adalah penurunan fungsi ginjal akut yang ditandai oleh salah satu dari kriteria berikut:
 
 - **Peningkatan serum creatinine (SCr) ≥0,3 mg/dL dalam 48 jam**, atau
