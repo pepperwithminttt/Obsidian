@@ -104,6 +104,8 @@ Derajat kelainan jaringan dapat melibatkan:
 - Corpus cavernosum.
 - Kadang dapat disertai kelainan testis.
 
+## Klasifikasi
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788791988000ty4txu.png)
 ## Waktu Operasi
 
 Usia ideal operasi adalah **6–24 bulan**.
