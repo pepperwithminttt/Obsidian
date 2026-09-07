@@ -41,6 +41,14 @@ CKD = **kerusakan ginjal** ATAU **GFR <60** selama **≥3 bulan**.
 
 Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, dan regulasi homeostasis ginjal**.
 
+
+%% col-start %%
+%% col-break:b:secondary %%
+Column 1
+%% col-break:b:secondary %%
+Column 2
+%% col-end %%
+
 - ❤️ **Cardiovascular**
     - Hypertension
     - Peningkatan heart rate
