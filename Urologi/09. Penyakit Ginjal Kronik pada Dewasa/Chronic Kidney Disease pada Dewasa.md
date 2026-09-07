@@ -211,7 +211,9 @@ KDIGO merekomendasikan CKD diklasifikasikan berdasarkan:
 
 Semakin tinggi **G category + A category**, semakin tinggi risiko progresi CKD dan komplikasi.
 
-### Staging CKD
+### Prognosis CKD menurut KDIGO menggunakan kriteria CGA
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887823340002zyzl3.png)
+### Staging CKD menurut GFR dan kerusakan ginjal
 
 | GFR (ml/min/1,73m²)                | Dengan Kerusakan Ginjal | Tanpa Kerusakan Ginjal |
 | ---------------------------------- | ----------------------- | ---------------------- |
@@ -222,8 +224,8 @@ Semakin tinggi **G category + A category**, semakin tinggi risiko progresi CKD d
 | <15 (atau bila menjalani dialisis) | 5                       | 5                      |
 Note: Kerusakan ginjal didefinisikan sebagai adanya kelainan patologis atau penanda kerusakan ginjal, termasuk kelainan yang ditemukan pada pemeriksaan darah, pemeriksaan urin, atau pemeriksaan pencitraan (imaging).
 
-Hafalan staging CKD: Mirip dengan GFR cuman tidak ada 45-nya
-90 - 60 - 30 - 15
+💡**Hafalan staging CKD:** Mirip dengan GFR cuman tidak ada 45-nya.
+**90 - 60 - 30 - 15**
 
 ---
 
@@ -261,13 +263,11 @@ Penyebab CKD dapat berasal dari:
 Tujuan evaluasi adalah menentukan **cause**, karena terapi CKD tidak hanya bergantung pada GFR dan albuminuria, tetapi juga penyakit dasarnya.
 
 - 🩺 **Medical history**
-    
     - Riwayat penyakit sistemik
     - Obat/nephrotoxin
     - Kelainan saluran kemih
     - Riwayat kidney disease
 - 👨‍👩‍👧 **Family history**
-    
     - Cari kemungkinan penyakit genetik
     - Bila perlu buat **family pedigree**
 - 🔍 **Physical examination**
