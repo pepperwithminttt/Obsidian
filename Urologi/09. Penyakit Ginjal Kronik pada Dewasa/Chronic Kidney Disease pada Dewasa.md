@@ -592,35 +592,31 @@ Dapat menyebabkan bone weakness dan pathological fracture.
 - Phosphate binders
 - Active vitamin D sesuai indikasi
 
----
-
 ### 🧪 Metabolic acidosis
 
-**Penurunan eksresi ammonium renal + ↓ acid excretion**  
-→ retensi asam  
-→ **metabolic acidosis**
+**Penurunan eksresi ammonium renal + penurunan ekskresi asam**  
+Sehingga:
+- retensi asam  berujung pada **metabolic acidosis**
 
-**Terapi:** sodium bicarbonate supplementation bila sesuai.
-
----
+**Terapi:** suplementasi sodium bicarbonate bila sesuai.
 
 ### 💧 Volume overload
 
-**↓ renal salt + water excretion**  
-→ retensi cairan  
-→ extracellular fluid expansion  
-→ **hypertension + peripheral/pitting edema ± pulmonary edema**
+**Penurunan renal salt + water excretion**  
 
----
+Sehingga:
+- retensi cairan
+- extracellular fluid expansion
+- **hypertension + peripheral/pitting edema ± pulmonary edema**
 
 ### ⚡ Hyperkalemia
 
-**↓ renal K⁺ excretion**  
-→ **↑ serum K⁺**  
-→ hyperkalemia  
-→ dapat menyebabkan **cardiac dysrhythmia**.
+**Penurunan ekskresi K⁺ renal**
 
----
+Sehingga:
+- **↑ serum K⁺**
+- hyperkalemia
+- dapat menyebabkan **cardiac dysrhythmia**.
 
 ### 🫀 Cardiovascular disease & dyslipidemia
 
@@ -636,11 +632,9 @@ CKD menyebabkan gangguan metabolisme lipid dan fungsi vaskular:
 
 ➡️ Karena itu **cardiovascular disease merupakan salah satu komplikasi dan penyebab utama morbidity/mortality pada CKD.**
 
----
-
 ### 🧠 Uremic syndrome
 
-**↓ GFR → ↓ clearance zat toksik** seperti:
+**Penurunan GFR → penurunan clearance zat toksik** seperti:
 
 - Urea
 - Guanidine
