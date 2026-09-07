@@ -1336,8 +1336,9 @@ Prioritas:
 
 - **A**cidosis
 - **I**ntoxication
-- **O**verload
 - **U**remia
+- **E**lectrolyte
+- **O**verload
 
 ### 6. Cara cepat membedakan kasus
 
@@ -1351,22 +1352,4 @@ Prioritas:
 
 # 26. INTI AKI DALAM 1 ALUR
 
-**Insult**  
-↓  
-**↓ Renal perfusion / direct renal injury / urinary obstruction**  
-↓  
-**↓ GFR**  
-↓  
-**↑ SCr + ↓ urine output**  
-↓  
-**AKI**  
-↓  
-Cari penyebab: **PRERENAL – INTRINSIC – POSTRENAL**  
-↓  
-**Correct reversible cause + supportive therapy**  
-↓  
-Monitor **SCr + urine output + electrolytes + acid–base + fluid status**  
-↓  
-Jika terjadi komplikasi berat yang refractory → **KRT/RRT**  
-↓  
-**Follow-up sampai 90 hari** untuk menilai recovery dan risiko CKD.
+**Insult**  → **↓ Renal perfusion / direct renal injury / urinary obstruction**  → **↓ GFR**  → **↑ SCr + ↓ urine output**  → **AKI**  → Cari penyebab: **PRERENAL – INTRINSIC – POSTRENAL** → **Correct reversible cause + supportive therapy** → Monitor **SCr + urine output + electrolytes + acid–base + fluid status** → Jika terjadi komplikasi berat yang refractory → **KRT/RRT** → **Follow-up sampai 90 hari** untuk menilai recovery dan risiko CKD.
