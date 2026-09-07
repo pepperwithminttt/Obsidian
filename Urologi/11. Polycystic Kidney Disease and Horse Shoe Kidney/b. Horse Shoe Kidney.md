@@ -113,7 +113,7 @@ Ginjal **low**, pelvis **front**, kedua ginjal **fused**, dan pembuluh darah **b
 
 ## 🔎 Diagnosis & Imaging
 
-- **Ultrasonography (USG) → pemeriksaan awal pilihan*
+- **Ultrasonography (USG) → pemeriksaan awal pilihan**
     - Non-invasif.
     - Tidak menggunakan **ionizing radiation**.
     - Tersedia luas.
@@ -123,7 +123,7 @@ Ginjal **low**, pelvis **front**, kedua ginjal **fused**, dan pembuluh darah **b
         - **Isthmus** tampak sebagai massa jaringan lunak di garis tengah, **anterior terhadap aorta**.
         - **Hilum menghadap anterior** akibat malrotasi.
         - Dapat menunjukkan komplikasi seperti **hydronephrosis, renal stones, atau renal cysts**.
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887897690005be6ud.png)
 - **Radionuclide scan**
     - Menilai fungsi jaringan ginjal.
     - Menunjukkan **abnormal renal axis**.
@@ -144,11 +144,10 @@ Ginjal **low**, pelvis **front**, kedua ginjal **fused**, dan pembuluh darah **b
         - Ginjal berada pada level **L3–L4**.
         - **Hilum menghadap anterior** → malrotasi.
         - Ureter berjalan **anterior terhadap isthmus**.
-
+![gh|276](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17887898050008ti6y5.png)
 - **MRI**
-    
     - Tidak menggunakan **ionizing radiation**.
-    - Memiliki **superior soft-tissue contrast**.
+    - Memiliki **soft-tissue contrast yang lebih superior**.
     - Berguna terutama untuk:
         - Karakterisasi massa kompleks.
         - Evaluasi **renal cyst** dan klasifikasi **Bosniak**.
@@ -157,7 +156,6 @@ Ginjal **low**, pelvis **front**, kedua ginjal **fused**, dan pembuluh darah **b
         - Menunjukkan kelainan vena, misalnya **double IVC**.
 
 - **CT angiography / MR angiography**
-
     - Digunakan untuk memetakan **aberrant renal vasculature**, terutama sebelum tindakan operasi, sehingga risiko cedera pembuluh darah dapat diminimalkan.
 
 ### ⭐ Temuan imaging yang wajib diingat
