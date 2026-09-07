@@ -211,6 +211,20 @@ KDIGO merekomendasikan CKD diklasifikasikan berdasarkan:
 
 Semakin tinggi **G category + A category**, semakin tinggi risiko progresi CKD dan komplikasi.
 
+### Staging CKD
+
+| GFR (ml/min/1,73m²)                | Dengan Kerusakan Ginjal | Tanpa Kerusakan Ginjal |
+| ---------------------------------- | ----------------------- | ---------------------- |
+| >90                                | 1                       |                        |
+| 60-89                              | 2                       |                        |
+| 30-59                              | 3                       | 3                      |
+| 15-29                              | 4                       | 4                      |
+| <15 (atau bila menjalani dialisis) | 5                       | 5                      |
+Note: Kerusakan ginjal didefinisikan sebagai adanya kelainan patologis atau penanda kerusakan ginjal, termasuk kelainan yang ditemukan pada pemeriksaan darah, pemeriksaan urin, atau pemeriksaan pencitraan (imaging).
+
+Hafalan staging CKD: Mirip dengan GFR cuman tidak ada 45-nya
+90 - 60 - 30 - 15
+
 ---
 
 # KLASIFIKASI BERDASARKAN CAUSE
