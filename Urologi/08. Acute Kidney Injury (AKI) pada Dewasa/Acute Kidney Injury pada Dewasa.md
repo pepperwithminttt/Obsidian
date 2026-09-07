@@ -756,7 +756,7 @@ Prinsip terapi AKI:
     - hindari hipotensi berkepanjangan.
 
 3. **Koreksi hypovolemia**
-    - pada AKI akibat dehydration, dapat diberikan isotonic fluid.
+    - pada AKI akibat dehidrasi, dapat diberikan 1-3 L cairan isotonik selama 24-48 jam.
     - respons SCr perlu dimonitor.
 
 4. **Hentikan/kurangi nephrotoxic agents**
@@ -810,22 +810,22 @@ Pada AKI berat:
 
 ### B. Hyperkalemia
 
-Hyperkalemia dapat menyebabkan gangguan cardiac conduction yang mengancam nyawa.
+Hyperkalemia dapat menyebabkan gangguan konduksi jantung yang mengancam nyawa.
 
 Penatalaksanaan:
 
-- hentikan sumber potassium,
+- hentikan sumber kalium,
 - hentikan obat yang meningkatkan K⁺:
     - ACE-I
     - ARB
     - potassium-sparing diuretics
-- **IV calcium** bila terdapat ECG changes → menstabilkan membran jantung,
+- **IV calcium** bila terdapat perubahan EKG → menstabilkan membran jantung,
 - insulin + glucose,
 - β-adrenergic agonist,
-- meningkatkan eliminasi potassium,
-- KRT bila refractory.
+- meningkatkan eliminasi [potassium]{Potassium = kalium.},
+- RRT (Renal Replacement Therapy) bila refractory.
 
-🧠 **Hyperkalemia + ECG changes = calcium dulu untuk cardiac membrane stabilization.**
+🧠 **Hyperkalemia + ECG changes = calcium dulu untuk stabilisasi cardiac membrane.**
 
 ---
 
@@ -833,7 +833,7 @@ Penatalaksanaan:
 
 **Metabolic acidosis** ditangani berdasarkan penyebab dan derajat keparahan.
 
-Bila berat dan refractory terhadap terapi medis → pertimbangkan KRT.
+Bila berat dan refractory terhadap terapi medis → pertimbangkan RRT.
 
 ---
 
