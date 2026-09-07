@@ -352,36 +352,18 @@ Pada **intrinsic/renal AKI**, masalahnya adalah **kerusakan langsung pada strukt
 
 #### 1. Acute Tubular Injury / Acute Tubular Necrosis (ATN) — paling penting
 
-**Iskemia / nephrotoxin**  
-↓  
-**Tubular epithelial cell injury**  
-↓  
-Gangguan fungsi sel tubulus:
+**Iskemia / nephrotoxin**  → **Tubular epithelial cell injury**  → Gangguan fungsi sel tubulus:
 
 - ↓ ATP dan gangguan fungsi membran
 - kehilangan polaritas sel
 - kerusakan sitoskeleton
 - apoptosis/nekrosis sel  
     ↓  
-    **Tubular epithelial cells terlepas**  
-    ↓  
-    Sel dan debris membentuk **intratubular casts**  
-    ↓  
-    **Tubular obstruction**  
-    ↓  
-    ↑ tekanan intratubular  
-    ↓  
-    **↓ GFR**
+    **Tubular epithelial cells terlepas**  → Sel dan debris membentuk **intratubular casts**  → **Tubular obstruction**  → peningkatan tekanan intratubular  → **penurunan GFR**
 
 Pada saat yang sama:
 
-**Endothelial injury + inflammatory response**  
-↓  
-vasokonstriksi renal + gangguan mikrosirkulasi  
-↓  
-**↓ renal blood flow**  
-↓  
-**hypoxic injury semakin berat**
+**Endothelial injury + inflammatory response** → vasokonstriksi renal + gangguan mikrosirkulasi  → **penurunan renal blood flow**  → **hypoxic injury semakin berat**
 
 Jadi ATN membentuk **lingkaran setan**:
 
@@ -462,15 +444,15 @@ Pada **postrenal AKI**, ginjal pada awalnya dapat tetap mampu membentuk urin, te
 ↓  
 **Urine tidak dapat keluar**  
 ↓  
-Urine menumpuk di proximal obstruction  
+Urine menumpuk di bagian proximal dari obstruksi  
 ↓  
-**↑ intratubular pressure**  
+**Peningkatan intratubular pressure**  
 ↓  
 Tekanan diteruskan ke **Bowman's space**  
 ↓  
-**↓ net filtration pressure**  
+**Penurunan net filtration pressure**  
 ↓  
-**↓ GFR**  
+**Penurunan GFR**  
 ↓  
 AKI
 
