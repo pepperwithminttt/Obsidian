@@ -126,15 +126,16 @@ MIC digunakan untuk menilai **risiko progresi penyakit** berdasarkan **ukuran gi
 
 ### Class 2 — Atypical
 
-- Unilateral
+- **Unilateral**
 - Segmental
 - Asymmetric
-- Umumnya memiliki prognosis lebih baik.
+- Umumnya memiliki **prognosis lebih baik**.
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788785079000iqg1jk.png)
+
 ---
 
-## 6. CLINICAL MANIFESTATIONS
+## CLINICAL MANIFESTATIONS
 
 Manifestasi ADPKD dapat dibagi menjadi **renal** dan **extrarenal**.
 
@@ -168,7 +169,6 @@ Penyebabnya meliputi:
 **4. Progressive renal dysfunction**
 
 - Terjadi penurunan **eGFR** secara progresif.
-    
 - Perjalanan:
     
     **ADPKD → CKD → ESKD**.
@@ -208,7 +208,7 @@ Penyebabnya meliputi:
 
 ---
 
-## 7. DIAGNOSIS
+# 4. DIAGNOSIS
 
 ### Anamnesis
 
