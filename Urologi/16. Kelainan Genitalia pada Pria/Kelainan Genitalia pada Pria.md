@@ -781,7 +781,7 @@ Karakteristik:
 - Keberhasilan bergantung pada lokasi testis.
 - Sebagian testis yang berhasil turun dapat mengalami re-asensus.
 - Efek samping:
-    - Peningkatan rugae skrotum.
+    - Peningkatan [rugae skrotum]{**Rugae skrotum** adalah kerutan atau lipatan alami pada permukaan kulit kantong zakar (skrotum) pria}.
     - Pigmentasi.
     - Pertumbuhan rambut pubis.
     - Pertumbuhan penis.
