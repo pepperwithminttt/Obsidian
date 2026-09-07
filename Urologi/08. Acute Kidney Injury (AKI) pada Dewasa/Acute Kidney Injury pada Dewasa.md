@@ -33,11 +33,11 @@ Secara sederhana:
 
 **Kidney injury → 0–7 hari = AKI → >7 hari sampai <3 bulan = AKD → ≥3 bulan = CKD**
 
-🧠 **Hafalan waktu: “7–90”**
+🧠 **Hafalan waktu: “7h–3b”**
 
 - **AKI:** sampai 7 hari
-- **AKD:** >7 hari–<90 hari
-- **CKD:** ≥90 hari
+- **AKD:** >7 hari–<3 bulan
+- **CKD:** ≥3 bulan
 
 ### Resolution of AKI and AKD
 
