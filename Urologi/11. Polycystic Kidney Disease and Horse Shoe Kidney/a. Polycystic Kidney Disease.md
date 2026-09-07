@@ -262,7 +262,7 @@ Dapat ditemukan:
 # 5. IMAGING
 
 ### Ultrasound (USG) 🔍
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/178878896800023bvew.png)
 **First-line imaging modality**
 
 Alasannya:
@@ -286,7 +286,7 @@ Alasannya:
 - Operator-dependent.
 
 ### CT Scan
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788789062000w77kf4.png)
 **Keunggulan:**
 
 - Mendeteksi cysts **≥2 mm**
