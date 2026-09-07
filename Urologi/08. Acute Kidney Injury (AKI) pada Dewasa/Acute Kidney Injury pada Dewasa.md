@@ -91,10 +91,10 @@ Insidensi AKI meningkat dari waktu ke waktu, antara lain akibat:
 | **2** | ↑ SCr **2,0–2,9× baseline**                                                  | **<0,5 mL/kg/jam** selama **≥12 jam**                     |
 | **3** | ↑ SCr **≥3× baseline**, atau SCr ≥4 mg/dL dengan peningkatan akut ≥0,5 mg/dL | **<0,3 mL/kg/jam** selama ≥24 jam atau **anuria ≥12 jam** |
 
-🧠 **Hafalan creatinine:**  
+🧠 Hafalan creatinine:  
 **Stage 1 = 1,5× → Stage 2 = 2× → Stage 3 = 3×**
 
-🧠 **Hafalan urine:**  
+🧠 Hafalan urine:  
 **6 → 12 → 24 jam**, dan Stage 3 bisa **anuria 12 jam**.
 
 ---
