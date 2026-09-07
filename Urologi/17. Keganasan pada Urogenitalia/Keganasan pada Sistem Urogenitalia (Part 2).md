@@ -247,7 +247,7 @@ Teratoma dibagi menjadi:
 Pada NSGCT, peningkatan AFP sangat penting karena **pure seminoma tidak menghasilkan AFP**.
 
 ### Imaging
-![[Pasted image 20260907112642.png]]
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1788765202000qeob7i.png)
 Materi mencantumkan:
 
 - **USG**
