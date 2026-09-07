@@ -16,7 +16,7 @@ CKD dapat ditegakkan bila **salah satu** dari berikut ditemukan selama **≥3 bu
 | **Penurunan GFR**                | **GFR <60 mL/menit/1,73 m²** → Stage G3a–G5         |
 
 📌 **Intinya:**  
-**CKD = kerusakan ginjal ATAU GFR <60 selama ≥3 bulan.**
+CKD = **kerusakan ginjal** ATAU **GFR <60** selama **≥3 bulan**.
 
 > ⚠️ **G1 dan G2 saja belum berarti CKD.** Jika GFR ≥60, harus ada **marker kerusakan ginjal** agar memenuhi kriteria CKD.
 
@@ -42,7 +42,6 @@ CKD dapat ditegakkan bila **salah satu** dari berikut ditemukan selama **≥3 bu
 Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, dan regulasi homeostasis ginjal**.
 
 - ❤️ **Cardiovascular**
-    
     - Hypertension
     - Peningkatan heart rate
     - Dysrhythmias
@@ -50,45 +49,45 @@ Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, da
     - Kelainan bunyi jantung
     - Retinopathy
     - Retensi cairan → **peripheral edema** dan/atau **pulmonary edema**
+
 - 🧴 **Integumentary**
-    
     - Bruising
     - Pruritus
     - Kulit kering
     - Perubahan warna kulit → **ashen gray hingga yellowish**
     - Rambut dan kuku kering serta rapuh
+
 - 🦠 **Immune**
-    
     - Peningkatan risiko infeksi
+
 - 🫁 **Respiratory**
-    
     - Peningkatan respiratory rate
     - **Kussmaul respiration**
     - Crackles
     - Penurunan PaO₂
+
 - 🚽 **Renal**
-    
     - Penurunan urine output
     - Azotemia
     - Proteinuria
     - Hematuria
     - Hyperuricemia
+
 - 🦴 **Musculoskeletal**
-    
     - **Renal osteodystrophy**
     - Penurunan calcium
     - Gangguan vitamin D
     - Secondary hyperparathyroidism
     - Pathological fracture
+
 - 🍽️ **Gastrointestinal**
-    
     - Anorexia
     - Nausea dan vomiting
     - Halitosis
     - Metallic taste
     - Gastrointestinal bleeding
+
 - 🧠 **Neurological**
-    
     - Peripheral neuropathy
     - Restless legs
     - Lethargy
@@ -96,8 +95,8 @@ Manifestasi CKD terutama muncul akibat **penurunan fungsi ekskresi, endokrin, da
     - Encephalopathy
     - Perubahan tingkat kesadaran
     - Gangguan fungsi motorik
+
 - 🩸 **Hematological**
-    
     - Anemia
     - Weakness
     - Fatigue
