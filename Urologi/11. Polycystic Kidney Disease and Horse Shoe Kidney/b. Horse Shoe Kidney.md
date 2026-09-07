@@ -184,16 +184,15 @@ Ginjal **low**, pelvis **front**, kedua ginjal **fused**, dan pembuluh darah **b
 Tatalaksana **tidak ditujukan untuk “memisahkan” ginjal**, tetapi berdasarkan gejala dan komplikasinya.
 
 - **Konservatif**
-    
     - Untuk pasien **asimtomatik** tanpa komplikasi bermakna.
     - Monitoring klinis dan imaging sesuai kebutuhan.
+
 - **Endourologic intervention**
-    
     - Digunakan bila terdapat batu atau obstruksi.
     - **Percutaneous nephrolithotomy (PCNL)** merupakan salah satu pilihan untuk nephrolithiasis.
     - Perencanaan akses harus memperhatikan **posisi ginjal, isthmus, collecting system, dan variasi pembuluh darah**.
+
 - **Open / robotic surgery & reconstruction**
-    
     - Dipertimbangkan pada komplikasi tertentu, terutama **UPJO** atau kelainan anatomi yang membutuhkan rekonstruksi.
     - Operasi memerlukan perencanaan imaging yang baik karena **aberrant vasculature** sangat sering ditemukan.
 
@@ -208,6 +207,3 @@ Tatalaksana **tidak ditujukan untuk “memisahkan” ginjal**, tetapi berdasarka
 **MALROTATE** → renal pelvis/hilum menghadap **anterior**  
 ↓  
 **STASIS** → ureter angulasi di atas isthmus → **UPJO, hydronephrosis, UTI, stones**
-
-**Angka penting:**  
-**0,25% = 1/400 | M:F = 2:1 | 95% lower-pole fusion | UTI ≈30% | UPJO ≈20% | VUR ≈50%**.
