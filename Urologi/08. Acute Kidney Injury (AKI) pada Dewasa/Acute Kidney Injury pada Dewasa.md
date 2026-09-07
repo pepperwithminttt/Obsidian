@@ -1,6 +1,4 @@
-# 1. DEFINITION & EPIDEMIOLOGY
-
-### Definition
+# 1. DEFINITION
 
 **Acute Kidney Injury (AKI)** adalah penurunan fungsi ginjal akut yang ditandai oleh salah satu dari kriteria berikut:
 
