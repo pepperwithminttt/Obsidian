@@ -595,7 +595,7 @@ Curigai AKI pada pasien dengan:
 
 ---
 
-# 9. DIFFERENTIATING AKI FROM CKD
+# 9. CARA MEMBEDAKAN AKI DENGAN CKD
 
 |Parameter|AKI|CKD|
 |---|---|---|
@@ -616,7 +616,7 @@ Curigai AKI pada pasien dengan:
 Pemeriksaan yang dapat digunakan:
 
 - Serum creatinine
-- BUN
+- BUN (Blood Urea Nitrogen) ratio
 - Urine volume
 - Urinalysis
 - Urine microscopy
@@ -629,20 +629,21 @@ Pemeriksaan yang dapat digunakan:
 
 ### Urinary indices
 
-|Parameter|Prerenal azotemia|ATN|
-|---|--:|--:|
-|Urine/Plasma Cr|>40|<20|
-|BUN/Cr|>20|<20|
-|UNa|<20 mEq/L|>40 mEq/L|
-|FENa|<1%|>2%|
-|FEurea|<35%|>50%|
-|Specific gravity|>1,020|<1,010–1,015|
-|Uosm|>500|<350–450 mOsm/kg H₂O|
-|Sediment|Normal/few cells/hyaline casts|Muddy brown granular casts, RTE cells/casts|
+| Parameter        |              Prerenal azotemia |                                         ATN |
+| ---------------- | -----------------------------: | ------------------------------------------: |
+| Urine/Plasma Cr  |                        **>40** |                                         <20 |
+| BUN/Cr           |                            >20 |                                         <20 |
+| UNa              |                      <20 mEq/L |                                   >40 mEq/L |
+| FENa             |                            <1% |                                         >2% |
+| FEurea           |                           <35% |                                        >50% |
+| Specific gravity |                         >1,020 |                                <1,010–1,015 |
+| Uosm             |                           >500 |                        <350–450 mOsm/kg H₂O |
+| Sediment         | Normal/few cells/hyaline casts | Muddy brown granular casts, RTE cells/casts |
 
 **FENa:**
-
-[ FENa = \frac{Urine\ Na \times Plasma\ Cr}{Plasma\ Na \times Urine\ Cr}\times100% ]
+$$
+FENa = \frac{Urine\ Na \times Plasma\ Cr}{Plasma\ Na \times Urine\ Cr}\times100%
+$$
 
 ⚠️ **FEurea berguna pada pasien yang menggunakan loop diuretic**, karena diuretik dapat meningkatkan ekskresi natrium dan membuat FENa sulit diinterpretasikan.
 
