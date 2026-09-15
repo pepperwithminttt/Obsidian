@@ -186,6 +186,7 @@ Berdasarkan lokasi infeksi:
     - Benda kromatoid berbentuk lisong
 - Kista matang memiliki **4 inti** dan merupakan **bentuk infektif**.
 - Kista keluar bersama tinja dan dapat menginfeksi orang lain bila tertelan.
+![gh|277](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789484803000wx0q5h.png)
 
 ### Siklus hidup
 
