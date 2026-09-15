@@ -459,7 +459,7 @@ Infeksi terjadi melalui **tertelannya kista matang**.
 
 ### Siklus hidup
 
-- Trofozoit hidup terutama di **duodenum**, khususnya pada kripta dan permukaan mukosa.
+- Trofozoit hidup terutama di **duodenum**, khususnya pada **kripta** dan permukaan mukosa.
 - Kadang-kadang dapat ditemukan di saluran atau kandung empedu.
 - Trofozoit bergerak dengan flagel dan melekat pada epitel usus menggunakan batil isap.
 - Infeksi terjadi setelah **kista matang tertelan**.
