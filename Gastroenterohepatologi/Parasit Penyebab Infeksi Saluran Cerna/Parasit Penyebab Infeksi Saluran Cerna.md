@@ -447,6 +447,7 @@ Infeksi terjadi melalui **tertelannya kista matang**.
     - Posterior
 - Memiliki **aksostil**.
 - Memiliki struktur seperti batil isap yang memungkinkan trofozoit melekat pada epitel usus.
+![gh|226](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17894867040004b0k0n.png)
 
 **Kista:**
 
