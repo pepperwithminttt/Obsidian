@@ -189,12 +189,12 @@ Berdasarkan lokasi infeksi:
 
 ### Siklus hidup
 
-**Kista matang tertelan → usus halus → ekskistasi → bentuk minuta → menuju usus besar → bentuk minuta tinggal dan berkembang biak di usus besar (dengan cara belah pasang) → bentuk minuta bisa menjadi bentuk histolitika atau bentuk kista**
+**Kista matang tertelan → menuju usus halus → ekskistasi → bentuk minuta → menuju usus besar → bentuk minuta tinggal dan berkembang biak di usus besar (dengan cara belah pasang) → bentuk minuta bisa menjadi bentuk histolitika atau bentuk kista**
 
 Jika:
 
-- Tetap berada di lumen usus sebagai bentuk minuta → membentuk kista (enkistasi) → keluar bersama tinja.
-- Berubah menjadi bentuk histolytica → menginvasi mukosa dan submukosa kolon → menyebabkan ulkus dan amoebiasis intestinalis. Bisa masuk ke pembuluh darah → menyebar secara hematogen → terutama ke hati dan dapat mencapai paru atau otak.
+- **Tetap berada di lumen usus** sebagai bentuk minuta → **membentuk kista** (enkistasi) → keluar bersama tinja.
+- Berubah menjadi bentuk **histolytica** → **menginvasi** mukosa dan submukosa kolon → **menyebabkan ulkus** dan **amoebiasis intestinalis**. Bisa **masuk ke pembuluh darah** → menyebar secara **hematogen** → terutama ke **hati** dan dapat mencapai **paru** atau **otak**.
 
 ### Patogenesis dan patologi
 
