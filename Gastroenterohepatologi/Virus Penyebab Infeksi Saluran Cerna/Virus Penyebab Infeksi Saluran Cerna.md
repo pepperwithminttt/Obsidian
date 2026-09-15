@@ -36,30 +36,19 @@ Urutan hafalan cepat:
 |**Astrovirus**|VP25, VP27, VP29|Kerusakan enterosit|Apoptosis|
 
 - **Rotavirus:** memiliki sekitar **42 tipe G** dan **27 tipe P**; kombinasi G/P penting untuk klasifikasi strain.
-    
 - **Norovirus:** memiliki banyak genotipe; **GII.4** merupakan salah satu genotipe penting pada manusia.
-    
 - **Adenovirus enterik:** terutama tipe **40 dan 41** dari berbagai spesies adenovirus.
-    
 - Astrovirus klasik memiliki sekitar **8 serotipe**.
-    
 
 ### Envelope dan stabilitas virus 🦠
 
 - **Virus non-enveloped:** hanya memiliki kapsid sebagai lapisan luar → umumnya **lebih stabil terhadap lingkungan**, panas, deterjen, dan beberapa disinfektan.
-    
 - **Virus enveloped:** memiliki lipid bilayer tambahan yang berasal dari sel pejamu.
-    
     - Envelope mengandung glikoprotein/fusion proteins yang diperlukan untuk berikatan dengan reseptor dan masuk ke sel.
-        
     - Karena lipid bilayer mudah rusak oleh **alkohol, panas, bahan kimia, dan UV**, virus enveloped umumnya lebih mudah diinaktivasi.
-        
 - Contoh:
-    
     - **Enveloped:** influenza virus, SARS-CoV-2.
-        
     - **Non-enveloped:** norovirus, hepatitis A virus.
-        
 
 💡 **Tips hafalan:**  
 **Envelope = “lapisan lemak” → mudah rusak oleh alkohol/deterjen.**  
