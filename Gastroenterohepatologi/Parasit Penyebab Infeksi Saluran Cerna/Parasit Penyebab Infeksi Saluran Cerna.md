@@ -342,9 +342,6 @@ Pemeriksaan:
 - **Tetrasiklin**
     - Dosis:  25 mg/kg BB (5 hari)
 
-💡 **Tips hafalan:**  
-**Metronidazol = “Meto membasmi amoeba invasif”** → ingat untuk bentuk yang menyebabkan penyakit jaringan.
-
 ### Pencegahan
 
 Ditujukan untuk memutus transmisi fekal-oral:
