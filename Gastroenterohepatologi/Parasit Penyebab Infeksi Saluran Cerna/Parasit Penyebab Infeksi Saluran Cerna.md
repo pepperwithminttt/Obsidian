@@ -140,6 +140,18 @@ Berdasarkan lokasi infeksi:
 2. **Bentuk histolytica** 
 3. **Bentuk kista**
 
+#### Bentuk minuta
+
+- Ukuran sekitar **10–20 µm**.
+- Endoplasma berbutir dan dapat mengandung:
+    - Bakteri
+    - Sisa makanan
+- Memiliki satu inti entamoeba.
+- Ektoplasma tidak selalu tampak, tetapi menjadi jelas ketika membentuk pseudopodium secara perlahan.
+- Pergerakan relatif lambat.
+- Hidup sebagai **organisme komensal** dalam rongga usus besar.
+- Berkembang biak dengan **belah pasang**.
+
 #### Bentuk histolytica
 
 - Ukuran sekitar **20–40 µm**.
@@ -160,19 +172,7 @@ Berdasarkan lokasi infeksi:
 - Berkembang biak dengan **belah pasang**.
 - Pada kondisi tertentu dapat berubah menjadi bentuk histolytica yang bersifat invasif.
 
-#### Bentuk minuta
-
-- Ukuran sekitar **10–20 µm**.
-- Endoplasma berbutir dan dapat mengandung:
-    - Bakteri
-    - Sisa makanan
-- Memiliki satu inti entamoeba.
-- Ektoplasma tidak selalu tampak, tetapi menjadi jelas ketika membentuk pseudopodium secara perlahan.
-- Pergerakan relatif lambat.
-- Hidup sebagai **organisme komensal** dalam rongga usus besar.
-- Berkembang biak dengan **belah pasang**.
-
-> 💡 **Tips:** _histolytica = histo + lysis → “melisis jaringan”_. Jadi, bentuk histolytica adalah bentuk yang perlu diingat sebagai **bentuk invasif/patogen**.
+> 💡 **Tips:** _histolytica = histo (artinya jaringan) + lysis → “melisis jaringan”_. Jadi, bentuk histolytica adalah bentuk yang perlu diingat sebagai **bentuk invasif/patogen**.
 
 #### Bentuk kista
 
