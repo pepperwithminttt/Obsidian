@@ -193,7 +193,7 @@ Berdasarkan lokasi infeksi:
 
 Jika:
 
-- Tetap berada di lumen usus sebagai bentuk minuta → membentuk kista → keluar bersama tinja.
+- Tetap berada di lumen usus sebagai bentuk minuta → membentuk kista (enkistasi) → keluar bersama tinja.
 - Berubah menjadi bentuk histolytica → menginvasi mukosa dan submukosa kolon → menyebabkan ulkus dan amoebiasis intestinalis. Bisa masuk ke pembuluh darah → menyebar secara hematogen → terutama ke hati dan dapat mencapai paru atau otak.
 
 ### Patogenesis dan patologi
