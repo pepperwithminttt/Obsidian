@@ -211,7 +211,7 @@ Bentuk histolytica menghasilkan enzim yang menyebabkan **lisis jaringan**.
 - Infeksi sekunder dapat menyebabkan peradangan yang semakin luas. Proses dapat meluas ke lateral sepanjang sumbu usus sehingga ulkus saling berhubungan dan membentuk sinus di bawah mukosa.
 - Peristaltik usus menyebabkan isi ulkus berupa bentuk histolitika keluar bersama tinja.
 
-**Tempat predileksi:**
+**Predileksi:**
 
 - Caecum
 - Sigmoid
@@ -223,21 +223,21 @@ Pada infeksi berat → seluruh kolon dan rectum dapat terkena.
 
 #### Amoebiasis intestinalis
 
-Merupakan radang usus besar dengan ulkus yang menggaung (**kolitis ulserosa amoebik**).
+Merupakan radang usus besar dengan ulkus yang menggaung **(kolitis ulserosa amoebik)**.
 
-**A. Amoebiasis kolon akut / disentri amoeba**
+**A. Amoebiasis kolon akut / disentri amoeba (dysentria amoebica)**
 
-- Gejala berlangsung <1 bulan.
+- Gejala berlangsung **<1 bulan**.
 - Gambaran khas berupa **sindrom disentri**:
     - Diare
-    - Tinja berlendir dan berdarah
+    - **Tinja berlendir dan berdarah**
     - Tenesmus
     - Nyeri perut
 - Pada pemeriksaan tinja segar dapat ditemukan bentuk histolytica.
 
 **B. Amoebiasis kolon menahun**
 
-- Gejala >1 bulan atau gejala ringan/tidak khas.
+- Gejala **>1 bulan** atau gejala ringan/tidak khas.
 - Dapat diselingi episode akut secara periodik.
 - Bentuk histolytica lebih sulit ditemukan sehingga pemeriksaan tinja perlu dilakukan berulang.
 - Dapat terjadi peradangan dan penebalan jaringan di sekitar ulkus.
@@ -290,7 +290,7 @@ Pemeriksaan:
 ### Epidemiologi
 
 - Di Indonesia dapat ditemukan secara endemik.
-- Frekuensi dalam materi ini sekitar **10–18%**.
+- Frekuensi **10–18%**.
 - Manifestasi:
     - Amoebiasis kolon → paling sering
     - Amoebiasis hati → kadang-kadang
@@ -305,7 +305,7 @@ Pemeriksaan:
 
 - Klinis → sindrom disentri, nyeri perut, diare.
 - Pemeriksaan tinja segar → mencari bentuk histolytica.
-- Jika tidak ditemukan → pemeriksaan tinja dapat diulang, dalam materi disebutkan selama **3 hari berturut-turut**.
+- Jika tidak ditemukan → pemeriksaan tinja dapat diulang selama **3 hari berturut-turut**.
 - Proktoskopi → menilai rectum.
 - Sigmoidoskopi → menilai sigmoid.
 
@@ -324,7 +324,7 @@ Pemeriksaan:
 
 > ⚠️ Regimen obat pada materi ini merupakan materi kuliah klasik; pilihan dan dosis terapi klinis dapat berbeda berdasarkan pedoman saat ini.
 
-- **Metronidazol** → salah satu obat utama untuk amoebiasis invasif.
+- **Metronidazol** → obat pilihan, karena efektif terhadap bentuk histolitika & bentuk kista. Dosis dewasa: 2 gram/hari (3 hari).
 - **Emetin hidroklorida**
     - Aktif terhadap bentuk histolytica.
     - Pemberian parenteral.
