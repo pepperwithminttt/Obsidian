@@ -324,19 +324,23 @@ Pemeriksaan:
 
 > ⚠️ Regimen obat pada materi ini merupakan materi kuliah klasik; pilihan dan dosis terapi klinis dapat berbeda berdasarkan pedoman saat ini.
 
-- **Metronidazol** → obat pilihan, karena efektif terhadap bentuk histolitika & bentuk kista. Dosis dewasa: 2 gram/hari (3 hari).
+- **Metronidazol** → obat utama.
+	- Obat pilihan karena efektif terhadap bentuk histolitika & bentuk kista.
+	- Dosis dewasa: 2 gram/hari (3 hari).
 - **Emetin hidroklorida**
     - Aktif terhadap bentuk histolytica.
     - Pemberian parenteral.
+    - Dosis max: 0,1-0,65 gr/hari (4-6 hari).
     - Toksisitas relatif tinggi, terutama terhadap jantung.
 - **Dehidroemetin**
     - Aktivitas terhadap bentuk histolytica.
     - Toksisitas lebih ringan dibanding emetin.
+    - Dosis max: 0,1 gr/hari (4-6 hari).
 - **Klorokuin**
     - Dapat digunakan pada amoebiasis ekstraintestinal.
+    - Dosis: 1 gr/hari (2-5 hari)
 - **Tetrasiklin**
-    - Dapat diberikan secara oral.
-    - Relatif kurang toksik.
+    - Dosis:  25 mg/kg BB (5 hari)
 
 💡 **Tips hafalan:**  
 **Metronidazol = “Meto membasmi amoeba invasif”** → ingat untuk bentuk yang menyebabkan penyakit jaringan.
