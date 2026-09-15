@@ -137,7 +137,7 @@ Berdasarkan lokasi infeksi:
 **E. histolytica** memiliki tiga bentuk:
 
 1. **Bentuk minuta**
-2. **Bentuk histolytica** 
+2. **Bentuk histolytica** (tropozoit)
 3. **Bentuk kista**
 
 #### Bentuk minuta
