@@ -379,6 +379,7 @@ Punya 2 stadium:
     - Sisa makanan
 - Berkembang biak dengan belah pasang.
 - **Sulit dibedakan dari bentuk minuta E. histolytica** hanya berdasarkan gambaran umum.
+![gh|293](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789485935000ir4j8o.png)
 
 **Kista:**
 
@@ -391,6 +392,12 @@ Punya 2 stadium:
     - Benda kromatoid berbentuk seperti jarum
 - Kista matang memiliki **8 inti**.
 - Merupakan bentuk infektif.
+
+Gambar kista E. Coli berinti 8 (pewarnaan iodine):
+![gh|231](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789485987000bcuqtg.png)
+Gambar kista E. Coli berinti 8 (pewarnaan trichrome):
+![gh|226](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789486061000ird4s5.png)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789486094000x8bob7.png)
 
 ### Siklus hidup dan transmisi
 
