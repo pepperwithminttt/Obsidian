@@ -29,6 +29,7 @@ Protozoa terutama terdiri atas **inti dan sitoplasma**.
         - Benda asing
         - Benda kromatoid
         - Berperan dalam nutrisi dan reproduksi
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789483219000ul90la.png)
 
 ### Alat gerak
 
