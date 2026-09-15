@@ -556,7 +556,7 @@ Lebih sering:
 - Ukuran sekitar **60 µm**.
 - Bentuk lonjong.
 - Dinding tebal.
-- Memiliki makronukleus.
+- Memiliki 1 makronukleus.
 - Dapat memiliki 1–2 vakuol kontraktil.
 - Banyak vakuol makanan.
 - Silia yang masih bergerak dapat terlihat pada kista hidup.
