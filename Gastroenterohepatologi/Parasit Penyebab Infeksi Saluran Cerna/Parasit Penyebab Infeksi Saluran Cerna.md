@@ -482,7 +482,7 @@ Manifestasi dapat berupa:
 
 - Diare osmotik
 - Gangguan absorpsi
-- Intoleransi laktosa 
+- Intoleransi laktosa (karena kerusakan mikrovili yang merupakan tempat produksi enzim laktase sehingga terjadi defisiensi laktase)
 - Keluhan gastrointestinal yang bervariasi
 - Pada sebagian kasus tidak bergejala.
 
