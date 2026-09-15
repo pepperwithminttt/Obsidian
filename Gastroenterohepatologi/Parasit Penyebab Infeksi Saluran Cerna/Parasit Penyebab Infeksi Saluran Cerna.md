@@ -137,32 +137,18 @@ Berdasarkan lokasi infeksi:
 **E. histolytica** memiliki tiga bentuk:
 
 1. **Bentuk minuta**
-2. **Bentuk histolytica**
+2. **Bentuk histolytica** 
 3. **Bentuk kista**
 
-#### Bentuk minuta
+#### Bentuk histolytica
 
 - Ukuran sekitar **20–40 µm**.
 - Memiliki satu inti entamoeba.
 - Kromatin halus dan tersebar merata.
 - Kariosom kecil dan terletak sentral.
-- Endoplasma berbutir halus.
+- Endoplasma berbutir halus dan **mengandung sel darah merah** yang sudah dia fagosit
 - Ektoplasma jelas.
 - Membentuk pseudopodium besar dan lebar seperti daun → pergerakan cepat.
-- Hidup di rongga usus besar.
-- Berkembang biak dengan **belah pasang**.
-- Pada kondisi tertentu dapat berubah menjadi bentuk histolytica yang bersifat invasif.
-
-#### Bentuk histolytica
-
-- Ukuran sekitar **10–20 µm**.
-- Endoplasma berbutir dan dapat mengandung:
-    - Bakteri
-    - Sisa makanan
-    - Eritrosit
-- Memiliki satu inti entamoeba.
-- Ektoplasma tidak selalu tampak, tetapi menjadi jelas ketika membentuk pseudopodium secara perlahan.
-- Pergerakan relatif lambat.
 - Merupakan bentuk **patogen dan invasif**.
 - Dapat hidup pada mukosa usus besar dan menginvasi jaringan.
 - Dapat menyebar ke:
@@ -171,7 +157,20 @@ Berdasarkan lokasi infeksi:
     - Otak
     - Kulit
     - Vagina
-- Berkembang biak dengan belah pasang di jaringan dan dapat menyebabkan kerusakan jaringan.
+- Berkembang biak dengan **belah pasang**.
+- Pada kondisi tertentu dapat berubah menjadi bentuk histolytica yang bersifat invasif.
+
+#### Bentuk minuta
+
+- Ukuran sekitar **10–20 µm**.
+- Endoplasma berbutir dan dapat mengandung:
+    - Bakteri
+    - Sisa makanan
+- Memiliki satu inti entamoeba.
+- Ektoplasma tidak selalu tampak, tetapi menjadi jelas ketika membentuk pseudopodium secara perlahan.
+- Pergerakan relatif lambat.
+- Hidup sebagai **organisme komensal** dalam rongga usus besar.
+- Berkembang biak dengan **belah pasang**.
 
 > 💡 **Tips:** _histolytica = histo + lysis → “melisis jaringan”_. Jadi, bentuk histolytica adalah bentuk yang perlu diingat sebagai **bentuk invasif/patogen**.
 
