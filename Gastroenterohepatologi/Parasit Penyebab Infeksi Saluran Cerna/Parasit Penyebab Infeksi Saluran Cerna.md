@@ -550,6 +550,7 @@ Lebih sering:
     - Vakuol makanan
     - Vakuol kontraktil
 - Berkembang biak dengan **belah pasang**.
+![gh|214](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17894868330005u36d4.png)
 
 **Kista:**
 
@@ -569,6 +570,7 @@ Lebih sering:
 - Babi → hospes utama
 - Big → protozoa terbesar
 - Bulu → seluruh permukaan memiliki silia
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789486872000q9ufc6.png)
 
 ### Siklus hidup
 
