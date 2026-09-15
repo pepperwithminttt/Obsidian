@@ -457,9 +457,6 @@ Infeksi terjadi melalui **tertelannya kista matang**.
 - Kista matang memiliki **4 inti**.
 - Berkembang biak dengan belah pasang pada stadium trofozoit.
 
-💡 **Tips hafalan Giardia:**  
-**“Giardia = 2 mata + 4 pasang flagel”** 👀 → dua inti dan empat pasang flagel.
-
 ### Siklus hidup
 
 - Trofozoit hidup terutama di **duodenum**, khususnya pada kripta dan permukaan mukosa.
