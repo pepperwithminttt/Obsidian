@@ -474,14 +474,15 @@ Infeksi tidak selalu menimbulkan gejala.
 
 - Iritasi mukosa → **enteritis kataral**.
 - Jika parasit menutupi sebagian besar permukaan usus → absorpsi lemak terganggu.
-- Gangguan absorpsi lemak → dapat menyebabkan gangguan nutrisi dan steatorrhea.
+- Gangguan absorpsi lemak → dapat menyebabkan gangguan nutrisi dan **steatorrhea** (lemak di feses).
 - Parasit juga dapat mengenai saluran/kandung empedu → iritasi dan penebalan mukosa → dapat mengganggu aliran bilirubin.
 - Anak-anak lebih sering terkena dibandingkan dewasa.
 
 Manifestasi dapat berupa:
 
-- Diare
+- Diare osmotik
 - Gangguan absorpsi
+- Intoleransi laktosa 
 - Keluhan gastrointestinal yang bervariasi
 - Pada sebagian kasus tidak bergejala.
 
