@@ -456,6 +456,7 @@ Infeksi terjadi melalui **tertelannya kista matang**.
 - Kista muda memiliki 2 inti.
 - Kista matang memiliki **4 inti**.
 - Berkembang biak dengan belah pasang pada stadium trofozoit.
+![gh|214](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789486657000cywe1i.png)
 
 ### Siklus hidup
 
