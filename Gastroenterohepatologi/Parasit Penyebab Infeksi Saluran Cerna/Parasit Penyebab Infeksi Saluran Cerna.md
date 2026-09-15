@@ -427,7 +427,7 @@ Infeksi terjadi melalui **tertelannya kista matang**.
 ## Giardia lamblia (Lamblia intestinalis)
 
 - **Hospes:** manusia
-- **Penyakit:** giardiasis/lamblisis
+- **Penyakit:** giardiasis/lambliasis
 - **Distribusi:** kosmopolit, lebih sering di daerah tropis, termasuk Indonesia.
 
 ### Morfologi
