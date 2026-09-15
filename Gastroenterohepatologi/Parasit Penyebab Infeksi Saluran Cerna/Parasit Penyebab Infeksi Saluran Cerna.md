@@ -208,9 +208,8 @@ Bentuk histolytica menghasilkan enzim yang menyebabkan **lisis jaringan**.
     - Awalnya kecil
     - Menggaung ke dalam
     - Tersebar di mukosa
-- Infeksi sekunder dapat menyebabkan peradangan yang semakin luas.
-- Proses dapat meluas ke lateral sepanjang sumbu usus sehingga ulkus saling berhubungan dan membentuk sinus di bawah mukosa.
-- Peristaltik usus menyebabkan isi ulkus keluar bersama tinja.
+- Infeksi sekunder dapat menyebabkan peradangan yang semakin luas. Proses dapat meluas ke lateral sepanjang sumbu usus sehingga ulkus saling berhubungan dan membentuk sinus di bawah mukosa.
+- Peristaltik usus menyebabkan isi ulkus berupa bentuk histolitika keluar bersama tinja.
 
 **Tempat predileksi:**
 
