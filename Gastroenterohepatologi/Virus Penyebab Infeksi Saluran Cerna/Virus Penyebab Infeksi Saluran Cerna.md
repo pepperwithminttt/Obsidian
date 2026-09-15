@@ -18,7 +18,7 @@
 |Contoh tipe|G1P[8], G2P[4], G9P[8]|GII.4, GII.17, GII.2|Adenovirus 40, 41|GI, GII|HAstV-1|
 |Data pada materi|**54,93%** anak rawat inap dengan gastroenteritis|**18,47%** pasien positif|Berkontribusi pada diare anak|7,14% kasus mengalami koinfeksi dengan rotavirus|Ada di Indonesia, lebih jarang|
 
-**Urutan hafalan cepat:**  
+Urutan hafalan cepat:  
 **Rota = bayi + muntah/diare + 2 hari → 3–8 hari**  
 **Noro = semua umur + muntah mendadak + 12–48 jam → 1–3 hari**  
 **Adeno = anak kecil + inkubasi lebih panjang**  
