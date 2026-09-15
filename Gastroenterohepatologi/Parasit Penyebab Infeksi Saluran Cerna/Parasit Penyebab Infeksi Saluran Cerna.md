@@ -364,6 +364,10 @@ Ditujukan untuk memutus transmisi fekal-oral:
 
 ### Morfologi
 
+Punya 2 stadium:
+1. Trofozoit
+2. Kista
+
 **Trofozoit:**
 
 - Ukuran sekitar **15–30 µm**.
@@ -374,7 +378,7 @@ Ditujukan untuk memutus transmisi fekal-oral:
     - Bakteri
     - Sisa makanan
 - Berkembang biak dengan belah pasang.
-- Sulit dibedakan dari bentuk minuta E. histolytica hanya berdasarkan gambaran umum.
+- **Sulit dibedakan dari bentuk minuta E. histolytica** hanya berdasarkan gambaran umum.
 
 **Kista:**
 
