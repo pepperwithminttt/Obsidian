@@ -146,7 +146,7 @@ Berdasarkan lokasi infeksi:
 - Memiliki satu inti entamoeba.
 - Kromatin halus dan tersebar merata.
 - Kariosom kecil dan terletak sentral.
-- Endoplasma berbutir halus dan **mengandung sel darah merah** yang sudah dia fagosit
+- Endoplasma berbutir halus dan **mengandung sel darah merah** yang sudah dia fagosit.
 - Ektoplasma jelas.
 - Membentuk pseudopodium besar dan lebar seperti daun → pergerakan cepat.
 - Merupakan bentuk **patogen dan invasif**.
