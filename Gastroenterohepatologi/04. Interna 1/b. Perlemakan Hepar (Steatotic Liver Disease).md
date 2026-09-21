@@ -434,50 +434,31 @@ $$
 ⚠️ FIB-4 kurang dapat diandalkan:
 
 - pada usia <35 tahun
-    
 - selama kondisi akut
-    
-
-💡 **Cara hafal:**  
-**FIB-4 = 1,3 dan 2,67**  
-**<1,3 aman-ish → 1,3–2,67 cek lagi → >2,67 rujuk.**
 
 ---
 
 ### Pemeriksaan lini kedua
 
 Jika FIB-4 ≥1,3:
-
 **VCTE (transient elastography)**
 
 - Mengukur liver stiffness.
-    
 - Nilai **<8 kPa sering mendukung risiko rendah**, tetapi harus mempertimbangkan kualitas pemeriksaan dan konteks klinis.
-    
 
 **ELF**
-
 - Pemeriksaan darah yang menilai marker turnover matriks/fibrosis.
-    
 
 **MRE**
-
 - Akurasi tinggi.
-    
 - Berguna ketika VCTE tidak reliabel atau hasilnya discordant.
-    
 
 **Biopsi**  
 Dipertimbangkan bila:
-
 - diagnosis belum jelas
-    
 - terdapat kemungkinan penyakit hati lain
-    
 - hasil pemeriksaan noninvasif tidak sesuai
-    
 - diperlukan kepastian histologi untuk keputusan terapi tertentu
-    
 
 > 💡 **Urutan hafalan fibrosis:**  
 > **FIB-4 → VCTE/ELF → MRE/biopsi bila perlu.**
