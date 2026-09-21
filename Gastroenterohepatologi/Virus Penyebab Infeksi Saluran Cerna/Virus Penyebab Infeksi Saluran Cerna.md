@@ -146,32 +146,20 @@ Norovirus terutama menyerang **epitel usus halus** dan mengganggu fungsi absorps
 **Per virus:**
 
 - **Rotavirus:** EIA/latex agglutination, RT-PCR/qRT-PCR.
-    
 - **Norovirus:** RT-PCR/qRT-PCR.
-    
 - **Adenovirus:** EIA, PCR untuk sekuens adenovirus.
-    
 - **Astrovirus:** RT-PCR untuk RNA astrovirus.
-    
 - **Sapovirus:** RT-PCR untuk RNA sapovirus.
-    
 
 ### Investigasi saat terjadi outbreak gastroenteritis
 
 - **Feses:** sekitar 10 mL dari kasus dan kontrol; idealnya dikumpulkan dalam **48–72 jam setelah onset**.
-    
 - **Serum:** dapat digunakan untuk pemeriksaan antibodi:
-    
     - serum fase akut
-        
     - serum konvalesen
-        
     - peningkatan antibodi spesifik mendukung infeksi.
-        
 - Selain feses dan serum, dapat diperiksa **makanan dan air** sebagai sumber penularan.
-    
 - Tujuan pemeriksaan adalah menentukan **agen penyebab dan sumber outbreak**.
-    
 
 ---
 
