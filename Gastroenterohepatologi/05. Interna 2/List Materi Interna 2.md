@@ -1,8 +1,7 @@
-1. Kolitis
-2. Kolitis ulseratif
-3. Crohn disease
-4. IBS
-5. Divertikulosis
-6. Divertikulitis
-7. Intoleransi makanan
-8. Hemoroid grade 1 dan 2
+1. Kolitis (3A)
+2. Kolitis ulseratif (1)
+3. Crohn disease (1)
+4. IBS (3A)
+5. Divertikulosis/divertikulitis (3A)
+6. Intoleransi makanan (4A)
+7. Hemoroid grade 1 dan 2 (4A)

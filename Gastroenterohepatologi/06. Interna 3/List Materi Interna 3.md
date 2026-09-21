@@ -1,7 +1,7 @@
-1. Abses hepar ameba
-2. Kolesistitis
-3. Pankreatitis
-4. Karsinoma pankreas
-5. Koledokolitiasis
+1. Abses hepar ameba (3A)
+2. Kolesistitis (3B)
+3. Pankreatitis (2)
+4. Karsinoma pankreas (2)
+5. Koledokolitiasis (2)
 6. Kolangitis
 7. Cholangioca
