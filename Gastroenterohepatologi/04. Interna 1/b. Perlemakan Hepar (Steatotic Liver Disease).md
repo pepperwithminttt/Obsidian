@@ -202,19 +202,13 @@ Patogenesis MASH bersifat **multifaktorial dan terjadi melalui beberapa “paral
 Pada resistensi insulin:
 
 - Insulin gagal menekan **lipolisis jaringan adiposa**.
-    
 - Akibatnya, lebih banyak **free fatty acids (FFA)** masuk melalui vena porta ke hati.
-    
 - Pada saat yang sama, insulin masih dapat mempertahankan stimulasi **de novo lipogenesis** di hati.
-    
 - Hasil akhirnya adalah peningkatan **hepatic lipid pool**.
-    
 
 📌 Jadi, resistensi insulin menyebabkan:
 
 **↑ FFA ke hati + ↑ lipogenesis → ↑ lemak hati**
-
----
 
 ### Lipotoksisitas
 
@@ -223,19 +217,12 @@ Akumulasi lemak sendiri belum tentu langsung menyebabkan cedera. Yang penting ad
 Lipotoksisitas menyebabkan:
 
 - stres oksidatif
-    
 - reactive oxygen species (ROS)
-    
 - stres retikulum endoplasma
-    
 - disfungsi mitokondria
-    
 - cedera dan kematian hepatosit
-    
 
 Hal tersebut kemudian memicu inflamasi dan fibrosis.
-
----
 
 ### Gut–liver axis
 
@@ -257,24 +244,18 @@ Sinyal dari **asam empedu dan metabolit mikroba** juga ikut menghubungkan metabo
 
 ⚠️ Pemeriksaan mikrobioma **belum menjadi pemeriksaan rutin** dalam praktik klinis.
 
----
-
 ### Faktor genetik
 
 Beberapa gen yang berhubungan dengan kerentanan SLD/MASH:
 
 - **PNPLA3**
-    
 - **TM6SF2**
-    
 - **MBOAT7**
-    
 - **GCKR**
-    
 - **HSD17B13**
-    
 
 💡 Tidak perlu menghafal semuanya sebagai daftar terpisah. Ingat bahwa **genetik memodifikasi kerentanan terhadap akumulasi lemak, cedera hepatosit, dan progresi fibrosis.**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790007834000j7xx31.png)
 
 ---
 
@@ -298,43 +279,50 @@ Tidak semua pasien akan mengalami progresi sampai tahap akhir.
 
 📌 **Fibrosis stage merupakan penanda prognostik hati yang paling penting.**
 
-### Manifestasi berdasarkan stadium
+### PATHOMECHANISM → CLINIC
 
-|Stadium|Mekanisme|Manifestasi|
-|---|---|---|
-|Steatosis|Akumulasi trigliserida hepatosit|Sering asimtomatik; kadang rasa penuh/tidak nyaman kuadran kanan atas|
-|Cedera hepatosit|Lipotoksisitas, stres oksidatif/ER|ALT/AST meningkat ringan; fatigue dapat muncul tetapi tidak spesifik|
-|Fibrosis|Aktivasi stellate cell → kolagen → peningkatan resistensi intrahepatik|Trombositopenia, splenomegali, kolateral/varises|
-|Sirosis dekompensata|Hipertensi portal + gangguan fungsi sintesis/detoksifikasi|Asites, edema, ikterus, ensefalopati, perdarahan varises|
+**Mengapa tanda dan gejala muncul?**
 
-⚠️ **Penyakit awal sering tidak bergejala. Normalnya ALT juga tidak menyingkirkan fibrosis lanjut.**
+Penyakit tahap awal sering **asimtomatik**. Manifestasi klinis menjadi semakin jelas ketika terjadi **cedera hepatosit, fibrosis, hipertensi portal, dan penurunan fungsi hati**.
+
+|**Tahap penyakit**|**Mekanisme**|**Temuan klinis**|**Hubungan mekanistik**|
+|---|---|---|---|
+|**Steatosis / hepatomegali**|↑ penyimpanan trigliserida di hepatosit → peningkatan ukuran hati|Sering tidak ada gejala; kadang rasa penuh atau tidak nyaman di **kuadran kanan atas**|Pembesaran hati menyebabkan **capsular stretch** sehingga timbul rasa tidak nyaman|
+|**Cedera hepatosit**|Lipotoksisitas → **oxidative stress** dan **endoplasmic reticulum (ER) stress** → cedera hepatosit|**ALT/AST meningkat ringan**; fatigue dapat terjadi tetapi tidak spesifik|Cedera dan inflamasi hepatosit menyebabkan pelepasan aminotransferase; fatigue bersifat multifaktorial|
+|**Fibrosis → hipertensi portal**|Aktivasi **hepatic stellate cells** → deposisi kolagen dan extracellular matrix → peningkatan resistensi intrahepatik → hipertensi portal|**Trombositopenia, splenomegali, pembuluh kolateral, varises**|Hipertensi portal menyebabkan **splenic sequestration** trombosit dan pembentukan sirkulasi kolateral/varises|
+|**Sirosis dekompensata**|Hipertensi portal + penurunan kapasitas sintesis dan detoksifikasi hati|**Asites, edema, ikterus, ensefalopati hepatik, perdarahan varises**|Retensi cairan dan hipertensi portal menyebabkan asites/edema; gangguan sintesis menyebabkan hipoalbuminemia dan koagulopati; gangguan detoksifikasi berkontribusi terhadap ensefalopati|
+
+### 🔑 Poin penting
+
+**Tidak adanya gejala + ALT normal tidak menyingkirkan fibrosis yang bermakna secara klinis.**
+
+💡 **Cara menghafal alurnya:**
+
+**Steatosis** → hati membesar → _rasa penuh/nyeri samar_  
+↓  
+**Cedera hepatosit** → ALT/AST ↑  
+↓  
+**Fibrosis** → resistensi intrahepatik ↑ → **hipertensi portal**  
+↓  
+**Hipertensi portal** → trombosit ↓ + splenomegali + varises  
+↓  
+**Sirosis dekompensata** → asites + edema + ikterus + ensefalopati + perdarahan varises 🚨
 
 ### Red flags 🚨
 
 Curiga penyakit lanjut bila ditemukan:
 
 - Trombosit rendah
-    
 - Rasio AST:ALT meningkat
-    
 - Splenomegali
-    
 - Hati bernodul
-    
 - Pembuluh kolateral
-    
 - Albumin rendah
-    
 - INR memanjang
-    
 - Bilirubin meningkat
-    
 - Asites
-    
 - Ensefalopati
-    
 - Perdarahan varises
-    
 
 ---
 
