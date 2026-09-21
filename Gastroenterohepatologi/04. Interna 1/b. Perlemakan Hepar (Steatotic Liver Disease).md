@@ -1,10 +1,6 @@
-# STEATOTIC LIVER DISEASE (SLD) 🫀🫁
+# 1. Konsep Dasar dan Klasifikasi
 
-**Level Kompetensi: 3A**
-
-## 1. Konsep Dasar dan Klasifikasi
-
-### Definisi
+## Definisi
 
 **Steatotic Liver Disease (SLD)** adalah istilah payung untuk **steatosis hepatik (perlemakan hati) akibat penyebab apa pun**.
 
@@ -18,7 +14,7 @@
 > 💡 **Prinsip utama SLD:**  
 > **“Ada lemak → cari penyebab → nilai fibrosis.”**
 
-### Klasifikasi SLD
+## Klasifikasi SLD
 
 |Kategori|Ciri utama|
 |---|---|
@@ -28,22 +24,18 @@
 |**Specific-cause SLD**|Steatosis akibat penyebab spesifik seperti obat, kelainan genetik/metabolik, nutrisi, endokrin, atau penyakit hati lain|
 |**Cryptogenic SLD**|Steatosis tanpa faktor metabolik, alkohol, atau penyebab spesifik yang dapat diidentifikasi|
 
-### Perubahan nomenklatur 2023
+## Perubahan nomenklatur 2023
 
 - **NAFLD → MASLD**
-    
 - **NASH → MASH**
-    
 - **NAFLD dengan konsumsi alkohol lebih tinggi → MetALD**
-    
 - **Fatty liver disease → Steatotic Liver Disease (SLD)**
-    
 
 Perubahan istilah terutama merupakan **perubahan nomenklatur**, sedangkan dasar biologis penyakit tetap relevan.
 
 ---
 
-### MASLD — Metabolic dysfunction-associated steatotic liver disease
+## MASLD — Metabolic dysfunction-associated steatotic liver disease
 
 Diagnosis **MASLD** membutuhkan:
 
@@ -52,41 +44,26 @@ Diagnosis **MASLD** membutuhkan:
 Faktor risiko pada dewasa:
 
 - **Adipositas**
-    
     - BMI ≥25 kg/m²
-        
     - Pada populasi Asia: **BMI ≥23 kg/m²**
-        
     - atau lingkar pinggang meningkat
-        
 - **Gangguan glukosa**
-    
     - glukosa puasa ≥100 mg/dL
-        
     - glukosa 2 jam ≥140 mg/dL
-        
     - HbA1c ≥5,7%
-        
     - diabetes melitus atau sedang mendapat terapi diabetes
-        
 - **Tekanan darah ≥130/85 mmHg** atau menggunakan antihipertensi
-    
 - **Trigliserida ≥150 mg/dL** atau mendapat terapi penurun lipid
-    
 - **HDL rendah**
-    
     - ≤40 mg/dL pada laki-laki
-        
     - ≤50 mg/dL pada perempuan
-        
     - atau mendapat terapi untuk kondisi tersebut
-        
 
 📌 **Catatan:** penyakit hati lain tetap dapat muncul bersamaan dengan MASLD. Jadi, memenuhi kriteria MASLD **tidak berarti penyakit lain otomatis tersingkir**.
 
 ---
 
-### MetALD dan ALD 🍺
+## MetALD dan ALD 🍺
 
 Jumlah alkohol perlu dinilai berdasarkan **gram alkohol/minggu**, bukan sekadar jumlah gelas.
 
@@ -113,7 +90,7 @@ Atau:
 
 ---
 
-### MASH — Metabolic dysfunction-associated steatohepatitis
+## MASH — Metabolic dysfunction-associated steatohepatitis
 
 **MASH bukan kategori penyebab terpisah**, tetapi merupakan **fenotipe histologis dalam spektrum MASLD**.
 
@@ -136,9 +113,9 @@ Jadi:
 
 ---
 
-## 2. Faktor Risiko dan Etiologi
+# 2. Faktor Risiko dan Etiologi
 
-### Faktor risiko MASLD
+## Faktor risiko MASLD
 
 **Metabolik**
 
@@ -185,7 +162,7 @@ Jadi:
 
 📌 **Lean MASLD tetap dapat terjadi**, termasuk pada populasi Asia. Jadi, **jangan menggunakan ukuran tubuh saja untuk menyingkirkan MASLD.**
 
-### Siapa yang perlu dicari secara aktif risiko fibrosisnya?
+## Siapa yang perlu dicari secara aktif risiko fibrosisnya?
 
 Prioritaskan:
 
@@ -204,7 +181,7 @@ Prioritaskan:
 
 ---
 
-### Penyebab secondary steatosis
+## Penyebab secondary steatosis
 
 |Penyebab|Contoh/petunjuk|
 |---|---|
