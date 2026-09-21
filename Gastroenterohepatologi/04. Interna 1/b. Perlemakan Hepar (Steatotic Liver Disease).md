@@ -76,19 +76,12 @@ Jumlah alkohol perlu dinilai berdasarkan **gram alkohol/minggu**, bukan sekadar 
 |**ALD**|>350 g/minggu|>420 g/minggu|
 
 - **MASLD:** faktor metabolik merupakan pendorong utama.
-    
 - **MetALD:** faktor metabolik dan alkohol sama-sama berperan.
-    
 - **ALD:** alkohol merupakan faktor dominan.
-    
 
-💡 **Cara hafal:**  
+💡 Cara hafal:  
 **Wanita: 140 → 350**  
 **Pria: 210 → 420**
-
-Atau:
-
-> **“140/210 masuk MASLD, naik sampai 350/420 = MetALD, lewat itu = ALD.”**
 
 ---
 
