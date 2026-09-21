@@ -716,11 +716,7 @@ Steatosis + ≥1 faktor kardiometabolik
 ### 🧠 Mnemonic super singkat
 
 **SLD** = “Lemak → Penyebab → Fibrosis”
-
 **MASLD** = “FAT + METABOLIC”
-
 **FIB**-4 = “1,3 – 2,67”
-
 **Weight loss** = “5 – 7/10 – 10”
-
 **Work-up** = “Steatosis → Cause → Fibrosis”
