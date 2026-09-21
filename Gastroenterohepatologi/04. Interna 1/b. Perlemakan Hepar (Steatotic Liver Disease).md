@@ -285,12 +285,12 @@ Tidak semua pasien akan mengalami progresi sampai tahap akhir.
 
 Penyakit tahap awal sering **asimtomatik**. Manifestasi klinis menjadi semakin jelas ketika terjadi **cedera hepatosit, fibrosis, hipertensi portal, dan penurunan fungsi hati**.
 
-|**Tahap penyakit**|**Mekanisme**|**Temuan klinis**|**Hubungan mekanistik**|
-|---|---|---|---|
-|**Steatosis / hepatomegali**|↑ penyimpanan trigliserida di hepatosit → peningkatan ukuran hati|Sering tidak ada gejala; kadang rasa penuh atau tidak nyaman di **kuadran kanan atas**|Pembesaran hati menyebabkan **capsular stretch** sehingga timbul rasa tidak nyaman|
-|**Cedera hepatosit**|Lipotoksisitas → **oxidative stress** dan **endoplasmic reticulum (ER) stress** → cedera hepatosit|**ALT/AST meningkat ringan**; fatigue dapat terjadi tetapi tidak spesifik|Cedera dan inflamasi hepatosit menyebabkan pelepasan aminotransferase; fatigue bersifat multifaktorial|
-|**Fibrosis → hipertensi portal**|Aktivasi **hepatic stellate cells** → deposisi kolagen dan extracellular matrix → peningkatan resistensi intrahepatik → hipertensi portal|**Trombositopenia, splenomegali, pembuluh kolateral, varises**|Hipertensi portal menyebabkan **splenic sequestration** trombosit dan pembentukan sirkulasi kolateral/varises|
-|**Sirosis dekompensata**|Hipertensi portal + penurunan kapasitas sintesis dan detoksifikasi hati|**Asites, edema, ikterus, ensefalopati hepatik, perdarahan varises**|Retensi cairan dan hipertensi portal menyebabkan asites/edema; gangguan sintesis menyebabkan hipoalbuminemia dan koagulopati; gangguan detoksifikasi berkontribusi terhadap ensefalopati|
+| **Tahap penyakit**               | **Mekanisme**                                                                                                                             | **Temuan klinis**                                                                      | **Hubungan mekanistik**                                                                                                                                                                  |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Steatosis / hepatomegali**     | ↑ penyimpanan trigliserida di hepatosit → peningkatan ukuran hati                                                                         | Sering tidak ada gejala; kadang rasa penuh atau tidak nyaman di **kuadran kanan atas** | Pembesaran hati menyebabkan **capsular stretch** sehingga timbul rasa tidak nyaman                                                                                                       |
+| **Cedera hepatosit**             | Lipotoksisitas → **oxidative stress** dan **endoplasmic reticulum (ER) stress** → cedera hepatosit                                        | **ALT/AST meningkat ringan**; fatigue dapat terjadi tetapi tidak spesifik              | Cedera dan inflamasi hepatosit menyebabkan pelepasan aminotransferase; fatigue bersifat multifaktorial                                                                                   |
+| **Fibrosis → hipertensi portal** | Aktivasi **hepatic stellate cells** → deposisi kolagen dan extracellular matrix → peningkatan resistensi intrahepatik → hipertensi portal | **Trombositopenia, splenomegali, pembuluh kolateral, varises**                         | Hipertensi portal menyebabkan **splenic sequestration** trombosit dan pembentukan sirkulasi kolateral/varises                                                                            |
+| **Sirosis dekompensata**         | Hipertensi portal + penurunan kapasitas sintesis dan detoksifikasi hati                                                                   | **Asites, edema, ikterus, ensefalopati hepatik, perdarahan varises**                   | Retensi cairan dan hipertensi portal menyebabkan asites/edema; gangguan sintesis menyebabkan hipoalbuminemia dan koagulopati; gangguan detoksifikasi berkontribusi terhadap ensefalopati |
 
 ### 🔑 Poin penting
 
@@ -312,17 +312,10 @@ Penyakit tahap awal sering **asimtomatik**. Manifestasi klinis menjadi semakin j
 
 Curiga penyakit lanjut bila ditemukan:
 
-- Trombosit rendah
-- Rasio AST:ALT meningkat
-- Splenomegali
-- Hati bernodul
-- Pembuluh kolateral
-- Albumin rendah
-- INR memanjang
-- Bilirubin meningkat
-- Asites
-- Ensefalopati
-- Perdarahan varises
+- Trombosit rendah atau rasio AST:ALT meningkat
+- Splenomegali, hati bernodul, atau ada pembuluh kolateral
+- Hipoalbuminemia, INR memanjang, atau hiperbilirubinemia
+- Asites, ensefalopati, atau perdarahan varises
 
 ---
 
