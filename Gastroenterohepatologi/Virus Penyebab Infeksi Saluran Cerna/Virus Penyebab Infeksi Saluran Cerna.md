@@ -187,45 +187,28 @@ Norovirus terutama menyerang **epitel usus halus** dan mengganggu fungsi absorps
 ## Hepatitis A (HAV)
 
 - Famili: **Picornaviridae**
-    
 - Genom: **ssRNA positive-sense**, ±7,5 kb
-    
 - Kapsid: **non-enveloped, ikosahedral**
-    
 - Ukuran: ±27–32 nm
-    
 - Serotipe: HAV 1–4
-    
 - Transmisi: **fecal–oral**, terutama makanan dan air terkontaminasi.
-    
 - Inkubasi: **15–50 hari**
-    
 - Menyebabkan terutama **hepatitis akut** dan **tidak menyebabkan infeksi kronis**.
-    
 
 **Patogenesis:**
 
 1. HAV masuk melalui saluran cerna.
-    
 2. Virus mencapai hati dan menginfeksi hepatosit.
-    
 3. Virus bereplikasi di hepatosit.
-    
 4. Kerusakan hati terutama disebabkan oleh **respons imun terhadap hepatosit yang terinfeksi**, bukan semata-mata efek sitopatik langsung virus.
-    
 5. Inflamasi menyebabkan peningkatan **ALT/AST**, gangguan fungsi hepatosit, dan pada kasus klinis muncul jaundice.
-    
 
 **Diagnosis:**
 
 - **Anti-HAV IgM** → infeksi akut.
-    
 - **Anti-HAV IgG** → imunitas akibat infeksi sebelumnya/vaksinasi.
-    
 - **ALT** meningkat akibat inflamasi hepatoseluler.
-    
 - HAV RNA dapat dideteksi dengan PCR pada kondisi tertentu.
-    
 
 💡 **HAV:** **A = Acute + Anti-HAV IgM.**
 
@@ -234,50 +217,29 @@ Norovirus terutama menyerang **epitel usus halus** dan mengganggu fungsi absorps
 ## Hepatitis B (HBV)
 
 - Famili: **Hepadnaviridae**
-    
 - Genom: **partially double-stranded DNA**, ±3,2 kb.
-    
 - Virus enveloped.
-    
-- Partikel lengkap disebut **Dane particle**, ±42 nm.
-    
+- Memiliki struktur atau **partikel yang lengkap** disebut **Dane particle**, ±42 nm.
 - Memiliki:
-    
     - **HBsAg** = surface antigen
-        
     - **HBcAg** = core antigen
-        
     - **HBeAg** = penanda replikasi/infektivitas tinggi
-        
     - DNA polymerase
-        
 - HBV memiliki berbagai genotipe, termasuk A–I.
-    
 
 ### Patogenesis
 
 1. HBV masuk ke hepatosit melalui reseptor **NTCP (sodium taurocholate cotransporting polypeptide)**.
-    
 2. Nukleokapsid masuk ke nukleus.
-    
 3. DNA virus diperbaiki menjadi **cccDNA (covalently closed circular DNA)**.
-    
 4. cccDNA menjadi template untuk transkripsi RNA virus.
-    
 5. RNA ditranslasi menjadi protein virus.
-    
 6. **Pregenomic RNA (pgRNA)** dikemas bersama polymerase.
-    
 7. Terjadi **reverse transcription** pgRNA → DNA virus.
-    
 8. Nukleokapsid baru dapat:
-    
     - direcycle kembali ke nukleus untuk mempertahankan cccDNA, atau
-        
     - memperoleh envelope dan dilepaskan sebagai virion.
-        
 9. Respons imun terhadap hepatosit yang terinfeksi menyebabkan inflamasi dan kerusakan hati.
-    
 
 ### Seromarker HBV
 
