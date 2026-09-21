@@ -328,41 +328,26 @@ Pendekatan praktis:
 ### A. Konfirmasi steatosis
 
 **Ultrasonografi**
-
 - Pemeriksaan rutin yang mudah dan murah.
-    
 - Keterbatasan: sensitivitas rendah pada steatosis ringan dan bergantung operator.
-    
 
 **CAP dengan VCTE**
-
 - Memberikan estimasi steatosis sekaligus kekakuan hati.
-    
 
 **MRI-PDFF**
-
 - Mengukur kadar lemak hati secara lebih akurat dan reproducible.
-    
 - Lebih mahal dan tidak selalu diperlukan secara rutin.
-    
 
 **Biopsi hati**
-
 - Memberikan gambaran histologi secara langsung.
-    
 - Dapat mendiagnosis MASH dan menentukan stadium fibrosis.
-    
 - Invasif dan memiliki risiko sampling variability.
-    
 
 💡 **Ingat fungsi pemeriksaan:**
 
 - **USG/MRI-PDFF → lemak**
-    
 - **Elastografi/MRE → fibrosis**
-    
 - **Biopsi → histologi**
-    
 
 ---
 
@@ -371,92 +356,55 @@ Pendekatan praktis:
 Nilai:
 
 **Darah lengkap**
-
 - terutama trombosit
-    
 
 **Fungsi/cedera hati**
-
 - AST
-    
 - ALT
-    
 - ALP
-    
 - GGT
-    
 - bilirubin
-    
 
 **Fungsi sintesis**
-
 - albumin
-    
 - INR
-    
 
 **Fungsi ginjal**
-
 - kreatinin
-    
 
 Tambahkan evaluasi metabolik:
-
 - glukosa/HbA1c
-    
 - profil lipid
-    
 - BMI dan lingkar pinggang
-    
 - tekanan darah
-    
 
 ---
 
 ### C. Mencari penyebab lain
 
 **Viral hepatitis**
-
 - HBsAg ± anti-HBc
-    
 - anti-HCV dengan reflex HCV RNA
-    
 
 **Autoimun/kolestatik**
-
 - ANA
-    
 - SMA
-    
 - IgG
-    
 - AMA bila terdapat pola kolestatik
-    
 
 **Penyakit genetik/metabolik**
-
 - Wilson disease
-    
 - hemochromatosis
-    
 - lysosomal acid lipase deficiency
-    
 - hypobetalipoproteinemia
-    
 
 **Endokrin/nutrisi**
-
 - TSH bila terdapat indikasi
-    
 - evaluasi malnutrisi atau penurunan berat badan cepat
-    
 
 **Obat/suplemen**
-
 - lakukan anamnesis obat dan suplemen secara rinci
-    
 - perhatikan hubungan temporal dan paparan kumulatif
-    
 
 📌 **MASLD bukan diagnosis “setelah semua penyakit lain disingkirkan”.** Diagnosis MASLD menggunakan **kriteria positif kardiometabolik**, sementara penyebab lain dicari secara paralel.
 
@@ -470,7 +418,9 @@ Ini bagian yang sangat penting karena **fibrosis menentukan prognosis hati**.
 
 Rumus:
 
+$$
 FIB-4=Usia×ASTTrombosit×ALT\text{FIB-4} = \frac{\text{Usia} \times \text{AST}} {\text{Trombosit} \times \sqrt{\text{ALT}}}
+$$
 
 ### Interpretasi
 
