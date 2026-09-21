@@ -220,8 +220,10 @@ EPEC O55:H7 mengalami infeksi oleh **bacteriophage** yang membawa gen pengkode *
 
 # 🧬 INVASI SHIGELLA DAN SALMONELLA
 
-_Shigella_ dan _Salmonella_ dapat melakukan **invasi** ke dalam sel epitel gastrointestinal. Materi juga memperlihatkan spesimen feses penderita shigellosis dengan pewarnaan Wright yang menunjukkan banyak sel polimorfonuklear.
-
+_Shigella_ dan _Salmonella_ dapat melakukan **invasi** ke dalam sel epitel gastrointestinal.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998315000qxdzvd.png)
+Berikut spesimen feses penderita shigellosis dengan pewarnaan Wright yang menunjukkan banyak sel polimorfonuklear.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998367000k0qmat.png)
 Secara klinis, infeksi invasif dapat menyebabkan:
 
 - inflamasi mukosa
