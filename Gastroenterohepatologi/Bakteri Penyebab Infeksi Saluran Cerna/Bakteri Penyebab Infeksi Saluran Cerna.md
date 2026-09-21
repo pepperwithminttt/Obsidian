@@ -1,118 +1,120 @@
-# 🦠 INFEKSI TRAKTUS GASTROINTESTINALIS
+# 1. Gambaran umum dan mekanisme patogenesis
 
-## 1. Anatomi dan bagian traktus gastrointestinal yang dapat terinfeksi
+Bakteri penyebab infeksi saluran cerna dapat menyebabkan penyakit melalui beberapa mekanisme utama:
 
-Bagian traktus gastrointestinal yang memungkinkan terjadinya infeksi mikroba meliputi:
+- **Adherence** → bakteri melekat pada epitel intestinal.
+- **Enterotoxin production** → toksin mengganggu absorpsi atau meningkatkan sekresi cairan dan elektrolit → **watery diarrhea**.
+- **Cytotoxin production** → menyebabkan kerusakan sel dan mukosa.
+- **Invasion** → bakteri masuk ke sel/jaringan mukosa → inflamasi → **dysentery**.
+- **Penetration** → bakteri menembus mukosa dan dapat mencapai sirkulasi → **enteric fever**.
 
-- **Mulut**
-- **Oropharynx**
-- **Esophagus**
-- **Gaster**
-    - **Fundus**: bagian lambung yang melebar, terletak di sebelah kiri dan superior dari tempat masuknya esophagus ke lambung.
-    - **Corpus**: bagian utama/tengah lambung.
-    - **Pylorus**: bagian inferior lambung yang berhubungan dengan duodenum.
-- **Usus halus**
-    - **Duodenum**: bagian pertama, melekat pada ujung pylorus lambung.
-    - **Jejunum**: bagian tengah usus halus.
-    - **Ileum**: bagian distal usus halus.
-- **Kolon**
-    - **Caecum**
-    - **Ascending colon**: berada di sisi kanan abdomen dan berjalan ke arah inferior hepar.
-    - **Transverse colon**: berjalan horizontal melintasi abdomen.
-    - **Descending colon**: berada di sisi kiri abdomen dan berjalan vertikal.
-    - **Sigmoid colon**: berjalan ke arah inferior dan berlanjut menjadi rectum.
-- **Rectum**
-- **Anal canal**
+### 🧠 Pola utama
 
-Dinding usus halus juga berperan penting dalam patogenesis infeksi karena mikroorganisme dapat berinteraksi dengan **epithelium mukosa**, terutama pada struktur **villus** dan jaringan limfoid.
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998222000j7dr1u.png)
-
-### 🧠 Tips hafalan
-
-Urutan usus halus: **D-J-I**  
-**D**uodenum → **J**ejunum → **I**leum
-
-Urutan colon: **A-T-D-S**  
-**A**scending → **T**ransverse → **D**escending → **S**igmoid
+**Enterotoxin → watery diarrhea 💧**
+**Invasion/cytotoxin → dysentery 🩸**
+**Penetration → enteric fever 🌡️**
 
 ---
 
-## 2. Cara mikroorganisme menyebabkan infeksi gastrointestinal
+# 2. Sifat Bakteri Penyebab Infeksi Saluran Cerna
 
-Sebagian besar infeksi gastrointestinal diperoleh melalui **makanan atau minuman yang terkontaminasi**.
+| Organisme                          | Common sources / predisposing condition     | Clinical presentation                       | Predominant pathogenic mechanism                   | Fecal leukocytes                  |
+| ---------------------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------------- | --------------------------------- |
+| **Bacillus cereus**                | Meats, vegetables, rice                     | Intoxication: vomiting atau watery diarrhea | Ingestion of preformed toxin                       | −                                 |
+| **Clostridium botulinum**          | Improperly preserved vegetables, meat, fish | Neuromuscular paralysis                     | Ingestion of preformed toxin                       | −                                 |
+| **Staphylococcus aureus**          | Meats, salads, dairy products               | Intoxication: vomiting                      | Ingestion of preformed toxin                       | −                                 |
+| **Clostridium perfringens**        | Meats, poultry                              | Watery diarrhea                             | Ingestion of organism followed by toxin production | −                                 |
+| **Aeromonas**                      | Water                                       | Watery diarrhea                             | ? Enterotoxin, ? cytotoxin                         | −                                 |
+| **Campylobacter spp.**             | Water, poultry, milk                        | Watery diarrhea atau dysentery              | ? Invasion, ? cytotoxins                           | +/−                               |
+| **Clostridium difficile**          | Antimicrobial therapy                       | Dysentery                                   | Enterotoxin + cytotoxin                            | +                                 |
+| **EPEC**                           | Food, water                                 | Watery diarrhea                             | Adherence / ? invasion without multiplication      | −                                 |
+| **ETEC**                           | Food, water                                 | Watery diarrhea                             | Enterotoxin                                        | −                                 |
+| **EIEC**                           | Food                                        | Dysentery                                   | Invasion + enterotoxin                             | +/−                               |
+| **EHEC**                           | Meats                                       | Dysentery; watery, often bloody diarrhea    | Cytotoxin                                          | +/−                               |
+| **Plesiomonas shigelloides**       | Fresh water, shellfish                      | ? Dysentery                                 | ? Enterotoxin                                      | −                                 |
+| **Salmonella spp. (nontyphoidal)** | Food, water                                 | Dysentery                                   | Invasion                                           | +                                 |
+| **Salmonella Typhi**               | Food, water                                 | Enteric fever                               | Penetration                                        | −                                 |
+| **Shigella spp.**                  | Food, water                                 | Dysentery                                   | Invasion                                           | +                                 |
+| **Shigella dysenteriae**           | Food, water                                 | Dysentery                                   | Invasion + cytotoxin                               | +                                 |
+| **Vibrio cholerae**                | Water                                       | Watery diarrhea                             | Enterotoxin + cytotoxin                            | −                                 |
+| **Yersinia enterocolitica**        | Milk, pork, water                           | Watery diarrhea and/or enteric fever        | ? Invasion, ? penetration                          | +, terutama monocytes, bukan PMNs |
 
-Secara umum:
+Distribusi pada tabel sumber secara umum adalah **worldwide**, dengan beberapa organisme memiliki distribusi yang lebih khas seperti _V. cholerae_ dan _S. Typhi_ di daerah tropis/developing countries.
 
-- **Food infection** → mikroorganisme hidup masuk ke tubuh dan kemudian menyebabkan penyakit.
-    - Bakteri: _Vibrio cholerae_, _E. coli_, _Salmonella_, _Shigella_
-    - Virus: enterovirus, rotavirus, hepatitis A dan E
-    - Parasit: _Giardia lamblia_
-        
-- **Food intoxication** → toksin sudah terbentuk dalam makanan sebelum dikonsumsi.
-    
-    - _Staphylococcus aureus_
-    - _Bacillus cereus_
-    - _Clostridium perfringens_
-    - _Clostridium botulinum_
-
-Mikroorganisme gastrointestinal dapat menyebabkan penyakit terutama melalui beberapa mekanisme berikut:
-
-### A. Produksi toxin
-
-Mikroorganisme menghasilkan toksin yang bekerja pada jaringan gastrointestinal.
-
-**1. Enterotoxin**
-
-- _Vibrio cholerae_
-- _Shigella dysenteriae_
-- Enterotoxigenic _Escherichia coli_ (**ETEC**)
-- _Salmonella_ spp.
-- _Clostridium difficile_ → toxin A
-
-**2. Cytotoxin**
-
-- _Shigella_ spp.
-- _Clostridium difficile_ → toxin B
-- Enterohemorrhagic _E. coli_ (**EHEC**)
-
-**3. Neurotoxin**
-
-- _Clostridium botulinum_
-- _Staphylococcus aureus_
-- _Bacillus cereus_
-
-### B. Attachment/adherence
-
-Mikroorganisme menempel pada atau sangat dekat dengan sel mukosa gastrointestinal.
-
-Contoh:
-
-- Enteropathogenic _E. coli_ (**EPEC**)
-- EHEC
-- _Cryptosporidium parvum_
-- _Isospora belli_
-- Rotavirus
-- Virus hepatitis
-- Norwalk virus
-
-### C. Invasi
-
-Mikroorganisme menginvasi sel atau jaringan mukosa.
-
-Contoh:
-
-- _Shigella_ spp.
-- Enteroinvasive _E. coli_ (**EIEC**)
-- _Entamoeba histolytica_
-- _Balantidium coli_
-- _Campylobacter jejuni_
-- _Plesiomonas shigelloides_
-- _Yersinia enterocolitica_
-- _Edwardsiella tarda_
+> `?` = **questionable/uncertain**  
+> `+/-` = lebih sering negatif, tetapi dapat ditemukan positif sesuai keterangan tabel sumber.
 
 ---
 
-# 🧫 ESCHERICHIA COLI DAN DIARE
+# 3. Food Poisoning / Keracunan Makanan 🍱
+
+Keracunan makanan memiliki karakteristik:
+
+- Bersifat **akut**.
+- Dapat terjadi sebagai **outbreak**.
+- Terdapat riwayat konsumsi makanan yang mengandung toksin yang diproduksi mikroorganisme.
+- Gejala tidak hanya terbatas pada gastrointestinal tract karena terjadi **intoxication**.
+- Dapat memiliki angka kematian tinggi bila tidak segera ditangani.
+
+### Bakteri penting
+
+**Bacillus cereus**
+
+- Sumber: daging, sayur, beras
+- **Preformed toxin**
+- Vomiting / watery diarrhea
+
+**Staphylococcus aureus**
+
+- Sumber: daging, salad, produk susu
+- **Preformed toxin**
+- Intoxication terutama vomiting
+
+**Clostridium botulinum**
+
+- Sumber: improperly preserved vegetables, daging, ikan
+- **Preformed toxin**
+- Neuromuscular paralysis
+
+**Clostridium perfringens** (dulu dikenal sebagai Clostridium welchii)
+
+- Sumber: daging, unggas
+- Organisme masuk → kemudian menghasilkan toxin
+- Watery diarrhea
+
+### 🧠 Bedakan 4 ini
+
+**B. cereus → beras → vomiting/diarrhea** 🍚
+**S. aureus → vomiting** 🤮
+**C. botulinum → paralysis** 💪
+**C. perfringens → watery diarrhea** 💧
+
+- Jarang disebabkan oleh : 
+	- Virus Hepatitis A
+	- Virus Norwalk
+	- Salmonella spp.
+- Keracunan pada **waterborne outbreak**
+	- Shigella spp.
+	- Campylobacter jejuni
+
+**Gejala:**
+
+- Nyeri abdomen
+- Diare
+- Muntah
+- Demam
+
+**Faktor-faktor penyebaran:**
+
+- Usia, terutama **anak-anak lebih rentan**
+- Personal hygiene yang buruk
+- **Open-air defecation**
+- Makanan yang dijual di pinggir jalan
+- Makanan yang tidak ditutup
+
+---
+
+# 4. Diarrheagenic Escherichia coli
 
 Terdapat beberapa tipe _E. coli_ yang menyebabkan diare pada manusia. Perbedaannya terutama terletak pada **mekanisme patogenesis**.
 
@@ -218,121 +220,103 @@ EPEC O55:H7 mengalami infeksi oleh **bacteriophage** yang membawa gen pengkode *
 
 ---
 
-# 🧬 INVASI SHIGELLA DAN SALMONELLA
+# 5. Shigella
 
-_Shigella_ dan _Salmonella_ dapat melakukan **invasi** ke dalam sel epitel gastrointestinal.
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998315000qxdzvd.png)
-Berikut spesimen feses penderita shigellosis dengan pewarnaan Wright yang menunjukkan banyak sel polimorfonuklear.
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998367000k0qmat.png)
-Secara klinis, infeksi invasif dapat menyebabkan:
+## Shigella spp.
 
-- inflamasi mukosa
-    
-- dysentery
-    
-- mukus dan darah dalam feses
-    
-- fecal leukocytes
-    
-- demam
-    
+- Sumber: makanan, air
+- Clinical: **dysentery**
+- Mekanisme: **invasion**
+- Fecal leukocytes: **+**
 
----
+## Shigella dysenteriae
 
-# 💩 TIPE INFEKSI SALURAN PENCERNAAN
+- Clinical: **dysentery**
+- Mekanisme: **invasion + cytotoxin**
+- Fecal leukocytes: **+**
 
-Berdasarkan mekanisme patogenesis, infeksi gastrointestinal dapat dikelompokkan menjadi tiga pola utama.
-
-|Tipe|Mekanisme|Gambaran utama|Contoh|
-|---|---|---|---|
-|**Noninflammatory**|Produksi toksin / gangguan absorpsi|Watery diarrhea, tidak ada fecal leukocytes, biasanya tanpa demam|_V. cholerae_, rotavirus|
-|**Inflammatory / dysentery**|Invasion ± cytotoxin|Diare dengan mukus/darah, fecal leukocytes, demam|_Shigella_, EIEC, _Salmonella enteritidis_, _E. histolytica_|
-|**Enteric fever**|Penetration dengan akses ke bloodstream|Demam dan tanda infeksi sistemik|_Salmonella typhi_, _Yersinia enterocolitica_|
-
-### 🧠 Cara membedakan cepat
-
-**Watery + no leukocyte → toxin/noninflammatory** 💧
-
-**Blood + mucus + leukocyte → invasion/inflammatory** 🩸
-
-**Fever sistemik → bloodstream/enteric fever** 🌡️
+_Shigella_ melakukan invasi ke sel epitel dan menyebabkan inflamasi mukosa. Pada pemeriksaan feses penderita shigellosis dapat ditemukan banyak sel polimorfonuklear.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998315000qxdzvd.png)![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998367000k0qmat.png)
+🧠 **Shigella = invasion → inflammation → dysentery + fecal leukocytes**
 
 ---
 
-# 🍱 KERACUNAN MAKANAN
+# 6. Salmonella
 
-**Food poisoning** pada materi digambarkan sebagai kondisi yang:
+_Salmonella_ dapat menyebabkan:
 
-- Bersifat **akut**
-    
-- Dapat terjadi sebagai **outbreak**
-    
-- Memiliki riwayat konsumsi makanan yang mengandung toksin yang diproduksi mikroorganisme.
-    
-- Umumnya dikaitkan dengan:
-    
-    - _Staphylococcus_ coagulase-positive
-        
-    - _Clostridium perfringens_ / _C. welchii_, yang memiliki spora tahan panas
-        
-    - _Clostridium botulinum_
-        
-- Gejala dapat melampaui traktus gastrointestinal karena terjadi **intoksikasi**.
-    
-- Dapat memiliki angka kematian tinggi jika tidak segera ditangani.
-    
+- **Gastroenteritis**
+- **Enteric fever / typhoid fever**
 
-### Mikroba yang berkaitan
+## Salmonella spp. — Nontyphoidal
 
-**Penghasil neurotoxin:**
+- Sumber: makanan, air
+- Clinical: **dysentery**
+- Mekanisme: **invasion**
+- Fecal leukocytes: **+**
 
-- _Staphylococcus aureus_
-    
-- _Bacillus cereus_
-    
+Karakteristik bakteri:
 
-**Lebih jarang:**
+- Gram-negative rod
+- **Motile**
+- Memiliki **peritrichous flagella**
+- **Non-lactose fermenter**
+- Pada MacConkey agar → koloni **colorless**
 
-- Hepatitis A virus
-    
-- Norwalk virus
-    
-- _Salmonella_ spp.
-    
+Pada **Wilson and Blair medium**, _Salmonella_ menghasilkan koloni **jet black** akibat produksi **H₂S**.
 
-**Waterborne outbreak:**
-
-- _Shigella_ spp.
-    
-- _Campylobacter jejuni_
-    
-
-### 🧠 Tips hafalan
-
-Untuk **food poisoning klasik**, ingat:
-
-**Staph – Bacillus – Clostridium**
-
-🍱 **Makanan → toksin sudah ada → makan → gejala cepat.**
+🧠 **Salmonella = Black on Wilson-Blair → H₂S** ⚫
 
 ---
 
-# 🦠 VIBRIO CHOLERAE — KOLERA
+# 7. Salmonella Typhi — Typhoid Fever 🌡️
 
+Berbeda dari nontyphoidal _Salmonella_, _S. Typhi_ menyebabkan **enteric fever**.
+
+- Sumber: food, water
+- Clinical: **enteric fever**
+- Mekanisme: **penetration**
+- Fecal leukocytes: **−**
+
+### Diagnosis laboratorium
+
+- **PCR**
+- **Blood culture**
+- **Bone marrow culture**
+- Urine/stool culture
+- **Serology**
+    - antibody terhadap **somatic O antigen**
+    - antibody terhadap **flagellar H antigen**
+
+Blood atau bone marrow culture dapat memberikan hasil sekitar **80% selama minggu pertama**.
+
+🧠 **S. Typhi = penetration → bloodstream → enteric fever**
+
+**Tatalaksana:**
+
+- Chloramphenicol
+- Ampicillin
+- Cotrimoxazole
+
+---
+
+# 8. Vibrio cholerae — Cholera 💧
+
+- Sumber utama: **air**
+- Clinical: **watery diarrhea**
+- Mekanisme: **enterotoxin + cytotoxin**
+- Fecal leukocytes: **−**
 ## 1. Karakteristik
 
 _Vibrio cholerae_ merupakan bakteri yang:
 
-- Gram-negative
-    
-- Berbentuk **short curved bacillus** dengan bentuk menyerupai koma.
-    
-- Memiliki **single polar flagellum**.
-    
+- Gram-negatif.
+![gh|284](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790000779000g168og.png)
+- Merupakan **bacillus pendek melengkung** dengan bentuk menyerupai koma.
+![gh|427](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790000815000xysk7d.png)
+- Memiliki **single polar flagellum** (flagel cuma ada di salah satu ujung bakteri).
 - Bersifat **aerobic**.
-    
 - Motilitasnya khas karena flagellum polar sehingga tampak seperti gerakan bergetar.
-    
 
 🧠 **Vibrio = vibratory motility** → ingat gerakannya yang aktif. 🦠💨
 
@@ -343,38 +327,29 @@ _Vibrio cholerae_ merupakan bakteri yang:
 Pada **MacConkey agar**:
 
 - _V. cholerae_ menghasilkan koloni tidak berwarna karena tidak memfermentasi lactose.
-    
 
-Media khusus yang digunakan:
+Media khusus yang digunakan terdiri dari transport media, enrichment media, dan plating media.
 
 ### Transport media
 
 - **VR medium** (_Venkatraman-Ramkrishnan_)
-    
 - **Cary-Blair medium**
-    
-
+![gh|316](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17900013590003qop7w.png)
 ### Enrichment media
 
 - **Alkaline peptone water**
-    
 - **Monsur's taurocholate tellurite peptone water**
-    
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790001384000g4g7s4.png)
 ### Plating media
 
 - **TCBS medium**
-    
     - Thiosulfate
-        
     - Citrate
-        
     - Bile salts
-        
     - Sucrose
-        
 
 🧠 **TCBS = media penting untuk Vibrio.**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790001437000c3mugv.png)
 
 ---
 
@@ -385,42 +360,29 @@ Beberapa pemeriksaan yang tercantum:
 ### String test
 
 Koloni dicampurkan dengan **sodium deoxycholate dalam saline**.
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179000152100021c2iz.png)
 ### Reaksi biokimia
 
 _V. cholerae_:
 
 - Memfermentasi:
-    
     - glucose
-        
     - mannitol
-        
     - maltose
-        
     - mannose
-        
     - sucrose
-        
 - Menghasilkan **indole** yang memberikan warna merah pada **cholera red reaction**.
-    
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17900015590000mhgec.png)
 ### Pemeriksaan spesimen
 
 - Sampel utama: **feses**
-    
 - Sebaiknya diambil **sebelum pemberian antibiotik**.
-    
 - Transport medium digunakan untuk mempertahankan viabilitas bakteri.
-    
 - **Dark-field microscopy** dapat digunakan untuk melihat **darting motility**.
-    
+![gh|278](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790001984000jsu6ga.png)
 - Kultur pada **TCBS**
-    
 - **Slide agglutination test**
-    
 - **String test**
-    
 
 ---
 
@@ -428,20 +390,12 @@ _V. cholerae_:
 
 Kolera terutama menyebabkan diare akibat kerja **cholera toxin**.
 
-Toksin terdiri atas subunit **A dan B**:
-
+Toksin terdiri atas subunit **A dan B**
 1. **Subunit B** berikatan dengan membran sel.
-    
 2. Subunit B mengalami perubahan konformasi sehingga memungkinkan subunit A masuk.
-    
-3. Subunit A kemudian terpisah dan bagian aktifnya mengaktivasi **adenylate cyclase**.
-    
+3. **Subunit A** kemudian terpisah dan bagian aktifnya mengaktivasi **adenylate cyclase**.
 4. Aktivasi tersebut meningkatkan sekresi cairan dan elektrolit ke lumen usus.
-    
 5. Akibatnya terjadi **massive watery diarrhea** dan kehilangan cairan yang sangat besar.
-    
-
-Materi menggambarkan mekanisme cholera toxin melalui ikatan subunit B dan masuknya subunit A ke dalam sel.
 
 💡 **Intinya: cholera toxin → adenylate cyclase ↑ → cairan masuk lumen usus ↑ → diare cair sangat banyak.**
 
@@ -452,17 +406,12 @@ Materi menggambarkan mekanisme cholera toxin melalui ikatan subunit B dan masukn
 Kolera merupakan **acute diarrhoeal illness** dengan karakteristik:
 
 - **Painless diarrhea**
-    
 - Feses khas seperti **rice-water stool** 🍚💧
-    
+![gh|247](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790001789000fmsqvj.png)
 - Muntah dalam jumlah banyak
-    
 - Kehilangan cairan yang sangat besar
-    
 - **Dehydration**
-    
 - Dapat terjadi **extensive water depletion**
-    
 
 ### 🧠 Tips hafalan
 
@@ -470,11 +419,10 @@ Kolera merupakan **acute diarrhoeal illness** dengan karakteristik:
 
 Bayangkan:
 
-💧💧💧 **rice-water stool**
-
+- 💧💧💧 **rice-water stool**
 - 🤮 muntah  
-    = 🚨 **dehidrasi berat**
-    
+
+= 🚨 **dehidrasi berat**
 
 ---
 
@@ -483,134 +431,97 @@ Bayangkan:
 ### Sumber
 
 - Manusia yang terinfeksi.
-    
 
 ### Transmisi
 
 - Air terkontaminasi
-    
 - Makanan terkontaminasi
-    
 
 Penyebaran dapat berbentuk:
 
 - **Sporadic**
-    
 - **Epidemic**
-    
 - **Pandemic**
-    
 
 **Sporadic**
 
 - Kasus berlangsung dalam waktu relatif singkat.
-    
 - Terbatas pada area kecil.
-    
 
 **Epidemic**
 
 - Banyak kasus muncul secara tiba-tiba pada area yang luas.
-    
 
 **Pandemic**
 
 - Penyakit menyebar dalam periode panjang dan melibatkan berbagai benua.
-    
-
-Materi juga mencatat bahwa hingga abad ke-19 kolera terutama terbatas di India, khususnya wilayah dataran Gangga–Bengal, dan menyebutkan tujuh pandemi kolera.
+- Hingga abad ke-19 kolera terutama terbatas di India, khususnya wilayah dataran Gangga–Bengal, secara total ada tujuh pandemi kolera yang telah diidentifikasi.
 
 ---
 
-## 7. Faktor yang membantu penyebaran
-
-Materi mencantumkan:
-
-- Usia, terutama **anak-anak lebih rentan**
-    
-- Personal hygiene yang buruk
-    
-- **Open-air defecation**
-    
-- Makanan yang dijual di pinggir jalan
-    
-- Makanan yang tidak ditutup
-    
-
----
-
-## 8. Tata laksana
+## 7. Tata laksana
 
 Prinsip terpenting adalah:
-
 ### **Replacement of lost fluid** 💧
 
 Karena masalah utama kolera adalah kehilangan cairan dan elektrolit dalam jumlah besar.
 
-Antibiotik merupakan **secondary importance** dalam materi.
-
-Antibiotik yang dicantumkan:
-
-- **Doxycycline**
-    
-
-⚠️ Catatan belajar: bagian terapi ini berasal langsung dari materi kuliah tahun 2021, sehingga jangan otomatis menganggapnya sebagai regimen klinis terkini untuk semua pasien.
+Antibiotik hanyalah tatalaksana sekunder. Contoh: **Doxycycline**
 
 ---
 
-# 🧫 ENTEROBACTERIA
+# 9. Enterobacteria
 
-**Enterobacteria** merupakan kelompok bakteri yang terdapat sebagai flora pada **large intestine**.
+**Enterobacteria** merupakan kelompok bakteri yang terdapat sebagai flora pada **usus besar**.
 
-Dalam materi, klasifikasi awal dilakukan berdasarkan pertumbuhan pada **MacConkey agar**:
+Klasifikasi awal dilakukan berdasarkan pertumbuhan pada **MacConkey agar**:
 
 - **Lactose fermenters**
-    
     - _E. coli_
-        
     - _Klebsiella_
-        
 - **Late lactose fermenters**
-    
     - _Shigella_
-        
 - **Non-lactose fermenters**
-    
     - _Salmonella_
-        
+## MacConkey agar
 
-### MacConkey agar 🧫
+Dasar pembedaannya adalah kemampuan melakukan **lactose fermentation**:
 
-Prinsip sederhananya:
+- **Lactose-positive** → koloni **pink**
+- **Lactose-negative** → koloni **colorless**
 
-- **Lactose-positive** → koloni berwarna **pink**
-    
-- **Lactose-negative** → koloni **tidak berwarna/colorless**
-    
+Contoh:
 
-Pada gambar materi:
+- Lactose fermenters → lactose-positive → koloni pink (contoh: E. coli, Klebsiella)
+- Late lactose fermenters (contoh: Shigella)
+- Non lactose fermenters → lactose-negative → koloni colorless (contoh: Salmonella)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790002571000s9nriv.png)
+## Xylose-Lysine-Deoxycholate — XLD agar
 
-- Organisme lactose-positive menunjukkan koloni pink.
-    
-- _Salmonella enteritidis_ menunjukkan koloni lactose-negative.
-    
-- _Shigella_ juga lactose-negative.
-    
+Di PPT dokter menampilkan perbandingan koloni:
 
+- Organisme lactose-positive (kiri)
+- _Salmonella enteritidis_ → lactose-negative (tengah)
+- _Shigella_ → lactose-negative (kanan)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790003028000bkmwg1.png)
+## Hektoen Enteric — HE agar
+
+Di PPT dokter memperlihatkan perbandingan pertumbuhan:
+
+- Organisme lactose-positive (kiri)
+- _Salmonella enteritidis_ (tengah)
+- _Shigella_ (kanan)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790003398000si3yki.png)
 ---
 
-# 🦠 ESCHERICHIA COLI
+# 10. Escherichia coli
 
 Selain menyebabkan diare, _E. coli_ juga dapat menyebabkan:
 
 - **Urinary tract infection (UTI)**
-    
 - Diare
-    
 - **Pyogenic infections**
-    
 - **Septicemia**
-    
 
 Transmisi yang ditekankan adalah **fecal-oral route**.
 
@@ -625,204 +536,100 @@ Transmisi yang ditekankan adalah **fecal-oral route**.
 
 ---
 
-# 🦠 SALMONELLA
+# 11. Bakteri Lain
 
-## 1. Karakteristik
+### Campylobacter spp.
 
-_Salmonella_ dapat menyebabkan:
+- Air, unggas, susu
+- Watery diarrhea atau dysentery
+- `? Invasion`
+- `? Cytotoxins`
+- Fecal leukocytes `+/-`
 
-- **Gastroenteritis**
-    
-- **Enteric fever / typhoid fever**
-    
+### Clostridium difficile
 
-Karakteristik bakteri:
+- Predisposing condition: **antimicrobial therapy**
+- Dysentery
+- **Enterotoxin + cytotoxin**
+- Fecal leukocytes `+`
 
-- Gram-negative rod
-    
-- **Motile**
-    
-- Memiliki **peritrichous flagella**
-    
-- **Non-lactose fermenter**
-    
-- Pada MacConkey agar → koloni **colorless**
-    
+### Aeromonas
 
-Pada **Wilson and Blair medium**, _Salmonella_ menghasilkan koloni **jet black** akibat produksi **H₂S**.
+- Air
+- Watery diarrhea
+- `? Enterotoxin`
+- `? Cytotoxin`
+- Fecal leukocytes `−`
 
-🧠 **Salmonella = Black on Wilson-Blair → H₂S** ⚫
+### Plesiomonas shigelloides
 
----
+- Fresh water, shellfish
+- `? Dysentery`
+- `? Enterotoxin`
+- Fecal leukocytes `−`
 
-# 🌡️ TYPHOID FEVER
+### Yersinia enterocolitica
 
-**Typhoid fever** disebabkan oleh _Salmonella Typhi_ dan merupakan bentuk **enteric fever**.
-
-Mekanisme infeksi pada kelompok enteric fever adalah **penetration**, kemudian mikroorganisme memperoleh akses ke **bloodstream**, sehingga menyebabkan infeksi sistemik.
-
-Manifestasi dapat berupa:
-
-- Demam
-    
-- Tanda infeksi sistemik
-    
-- Sakit kepala
-    
-- Malaise
-    
-- Sore throat
-    
+- Milk, pork, water
+- Watery diarrhea dan/atau enteric fever
+- `? Invasion`
+- `? Penetration`
+- Fecal leukocytes `+`, terutama **monocytes**, bukan PMNs.
 
 ---
 
-## Diagnosis laboratorium demam tifoid
 
-Materi mencantumkan beberapa metode diagnosis:
+# 🧠 PETA BESAR UNTUK UJIAN
 
-### 1. Polymerase Chain Reaction — PCR
+Kalau semua materi ini mau dihafal, sebenarnya cukup pegang **4 jalur utama**:
 
-Digunakan untuk mendeteksi materi genetik mikroorganisme.
+### 💧 TOXIN → WATERY DIARRHEA
 
-### 2. Culture
+**Vibrio cholerae**  
+**ETEC**  
+**B. cereus**  
+**C. perfringens**  
+**Aeromonas**
 
-Dapat dilakukan kultur:
+### 🩸 INVASION → DYSENTERY (ADA DARAH)
 
-- **Blood**
-    
-- **Bone marrow**
-    
+**Shigella**  
+**EIEC**  
+**Salmonella spp.**  
+**Campylobacter**  
+**EHEC**
 
-Materi mencantumkan bahwa kultur darah atau bone marrow dapat memberikan hasil sekitar **80% pada minggu pertama**.
+### 🌡️ PENETRATION → ENTERIC FEVER
 
-### 3. Urine atau stool culture
+**Salmonella Typhi**  
+**Yersinia enterocolitica** dapat menyebabkan watery diarrhea dan/atau enteric fever.
 
-Kultur urine atau feses dapat dilakukan terutama bila terdapat **characteristic clinical picture**.
+### 🍱 PREFORMED TOXIN → FOOD POISONING
 
-### 4. Serology
+**B. cereus → vomiting/diarrhea**
+**S. aureus → vomiting**
+**C. botulinum → neuromuscular paralysis**
 
-Mendeteksi antibodi terhadap antigen:
+Sedangkan:
 
-- **Somatic antigen (O)**
-    
-- **Flagellar antigen (H)**
-    
+**C. perfringens → organism ingested → toxin produced → watery diarrhea**
 
-🧠 **Typhoid diagnosis = PCR + Culture + Serology**
+Tabel Lengkap:
 
-Untuk kultur:  
-**Blood/Bone marrow → penting terutama awal penyakit.**
-
----
-
-## Tata laksana yang tercantum dalam materi
-
-Antibiotik yang dicantumkan:
-
-- **Chloramphenicol**
-    
-- **Ampicillin**
-    
-- **Co-trimoxazole**
-    
-
-⚠️ Sama seperti bagian kolera, ini merupakan isi slide kuliah dan bukan daftar regimen yang sebaiknya digunakan sebagai panduan terapi klinis terkini.
-
----
-
-# 📊 RINGKASAN BAKTERI PENYEBAB INFEKSI GASTROINTESTINAL
-
-|Mikroorganisme|Mekanisme dominan|Gambaran utama|
-|---|---|---|
-|**V. cholerae**|Enterotoxin|Watery diarrhea|
-|**ETEC**|Enterotoxin|Watery diarrhea|
-|**EAEC**|Adherence + toxin|Watery diarrhea|
-|**EPEC**|Adherence + effacement|Diare, terutama bayi|
-|**EHEC**|Adherence + Shiga toxin|Bloody diarrhea|
-|**EIEC**|Invasion|Dysentery-like diarrhea|
-|**Shigella**|Invasion ± cytotoxin|Dysentery|
-|**Salmonella enteritidis**|Invasion|Dysentery|
-|**Salmonella Typhi**|Penetration → bloodstream|Enteric fever|
-|**Yersinia enterocolitica**|Invasion/penetration|Watery diarrhea / enteric fever|
-|**Campylobacter jejuni**|Invasion|Diare, dapat berupa dysentery|
-|**Clostridium botulinum**|Neurotoxin|Neuromuscular paralysis|
-|**Staphylococcus aureus**|Preformed toxin|Intoxication, vomiting|
-|**Bacillus cereus**|Preformed toxin|Intoxication|
-|**Clostridium perfringens**|Toxin production|Watery diarrhea|
-
----
-
-# 🧠 SUPER QUICK MEMORY MAP
-
-Kalau mau menghafal untuk ujian, jangan hafalkan semua sebagai daftar terpisah. Pakai pola ini:
-
-### 💧 **WATERY DIARRHEA**
-
-Pikirkan **TOXIN / ABSORPTION**
-
-- _Vibrio cholerae_
-    
-- ETEC
-    
-- Rotavirus
-    
-- Norwalk virus
-    
-- _Giardia_
-    
-
-### 🩸 **DYSENTERY**
-
-Pikirkan **INVASION**
-
-- _Shigella_
-    
-- EIEC
-    
-- _Salmonella enteritidis_
-    
-- _Entamoeba histolytica_
-    
-- _Campylobacter_
-    
-
-### 🌡️ **ENTERIC FEVER**
-
-Pikirkan **SYSTEMIC / BLOODSTREAM**
-
-- _Salmonella Typhi_
-    
-- _Yersinia enterocolitica_
-    
-
-### 🧪 **E. COLI**
-
-**ETEC = toxin** 💧  
-**EAEC = aggregates** 👥  
-**EIEC = invasion** 🧬  
-**EPEC = effacement** 🧫  
-**EHEC = Shiga toxin + hemorrhage** 🩸
-
-### 🧫 **MACCONKEY**
-
-**Lactose + = pink 🌸**  
-**Lactose − = colorless**
-
-- _E. coli_ → pink
-    
-- _Klebsiella_ → pink
-    
-- _Salmonella_ → colorless
-    
-- _Shigella_ → colorless
-    
-
-### 🦠 **CHOLERA**
-
-**V. cholerae → cholera toxin → adenylate cyclase ↑ → cairan intestinal ↑ → rice-water stool → dehydration** 💧
-
-### 🌡️ **TYPHOID**
-
-**S. Typhi → enteric fever → bloodstream → blood/bone marrow culture + serology/PCR**.
-
-Materi PDF memang berfokus pada hubungan antara **mikroorganisme, mekanisme patogenesis, gambaran klinis, epidemiologi, kultur, dan diagnosis** infeksi gastrointestinal, sehingga pola-pola di atas merupakan cara paling efisien untuk menghubungkan seluruh isi materi tanpa menghafalnya sebagai daftar acak.
+| Mikroorganisme              | Mekanisme dominan         | Gambaran utama                  |
+| --------------------------- | ------------------------- | ------------------------------- |
+| **V. cholerae**             | Enterotoxin               | Watery diarrhea                 |
+| **ETEC**                    | Enterotoxin               | Watery diarrhea                 |
+| **EAEC**                    | Adherence + toxin         | Watery diarrhea                 |
+| **EPEC**                    | Adherence + effacement    | Diare, terutama bayi            |
+| **EHEC**                    | Adherence + Shiga toxin   | Bloody diarrhea                 |
+| **EIEC**                    | Invasion                  | Dysentery-like diarrhea         |
+| **Shigella**                | Invasion ± cytotoxin      | Dysentery                       |
+| **Salmonella enteritidis**  | Invasion                  | Dysentery                       |
+| **Salmonella Typhi**        | Penetration → bloodstream | Enteric fever                   |
+| **Yersinia enterocolitica** | Invasion/penetration      | Watery diarrhea / enteric fever |
+| **Campylobacter jejuni**    | Invasion                  | Diare, dapat berupa dysentery   |
+| **Clostridium botulinum**   | Neurotoxin                | Neuromuscular paralysis         |
+| **Staphylococcus aureus**   | Preformed toxin           | Intoxication, vomiting          |
+| **Bacillus cereus**         | Preformed toxin           | Intoxication                    |
+| **Clostridium perfringens** | Toxin production          | Watery diarrhea                 
