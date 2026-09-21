@@ -49,7 +49,7 @@ Faktor risiko pada dewasa:
     - BMI ≥25 kg/m²
     - Pada populasi Asia: **BMI ≥23 kg/m²**
     - atau lingkar pinggang meningkat
-- **Gangguan glukosa**
+- **Glikemia**
     - glukosa puasa ≥100 mg/dL
     - glukosa 2 jam ≥140 mg/dL
     - HbA1c ≥5,7%
