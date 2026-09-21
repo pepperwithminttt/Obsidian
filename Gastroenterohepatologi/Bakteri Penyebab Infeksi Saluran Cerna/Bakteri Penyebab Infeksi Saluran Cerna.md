@@ -183,20 +183,15 @@ Karakteristik klinis:
 EPEC:
 
 1. Awalnya melekat pada usus halus dan kolon.
-    
 2. Kemudian melakukan **intimate adherence** pada sel epitel intestinal.
-    
 3. Menyebabkan hilangnya **microvilli enterocyte**, disebut **effacement**.
-    
 
 Gen yang mengatur proses attachment dan effacement berada dalam suatu cluster pada kromosom bakteri.
 
 ### Klinis
 
 - Diare terutama pada **bayi**
-    
 - Terutama dilaporkan pada rumah sakit besar di daerah perkotaan.
-    
 
 🧠 **EPEC = Epithelium + Effacement**
 
@@ -207,17 +202,14 @@ Gen yang mengatur proses attachment dan effacement berada dalam suatu cluster pa
 EHEC:
 
 - Menempel dan menyebabkan **effacement** sel epitel usus dengan mekanisme yang menyerupai EPEC.
-    
 - Selain itu menghasilkan **Shiga toxin**.
-    
 - Berhubungan dengan **bloody diarrhea**.
-    
 
 Salah satu strain penting adalah **E. coli O157:H7**.
 
 ### Asal EHEC O157:H7
 
-Materi menjelaskan hubungan EHEC O157:H7 dengan EPEC O55:H7.
+Di PPT dokter menjelaskan hubungan EHEC O157:H7 dengan EPEC O55:H7.
 
 EPEC O55:H7 mengalami infeksi oleh **bacteriophage** yang membawa gen pengkode **Shiga toxin**, sehingga menghasilkan strain yang memiliki karakteristik EHEC.
 
