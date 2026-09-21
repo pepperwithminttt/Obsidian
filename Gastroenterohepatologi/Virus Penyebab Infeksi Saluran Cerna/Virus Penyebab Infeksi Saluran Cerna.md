@@ -4,19 +4,19 @@
 
 ### Agen virus tersering
 
-|Karakteristik|**Rotavirus**|**Norovirus**|**Adenovirus**|**Sapovirus**|**Astrovirus**|
-|---|---|---|---|---|---|
-|Famili|Reoviridae|Caliciviridae|Adenoviridae|Caliciviridae|Astroviridae|
-|Genom|Segmented dsRNA|ssRNA (+)|Linear dsDNA|ssRNA (+)|ssRNA (+)|
-|Kapsid|Ikosahedral, **3 lapis**|Ikosahedral|Ikosahedral|Ikosahedral|Ikosahedral|
-|Envelope|Tidak ada|Tidak ada|Tidak ada|Tidak ada|Tidak ada|
-|Masa inkubasi|±2 hari|12–48 jam|3–10 hari|Median 1,7 hari|Median 4,5 hari|
-|Durasi penyakit|3–8 hari|1–3 hari|5–12 hari|1–4 hari|2–7 hari|
-|Gejala utama|Diare cair, muntah, demam, nyeri abdomen|Muntah akut, diare cair, kram abdomen, mual|Diare cair, muntah, demam lebih jarang|Diare cair, muntah lebih jarang|Diare cair, muntah lebih jarang|
-|Kelompok berisiko|Bayi/anak kecil, imunokompromais|Semua usia; terutama lingkungan kontak erat|<2 tahun, imunokompromais|<5 tahun, lansia|<2 tahun, imunokompromais|
-|Musiman|Lebih sering bulan dingin|Sepanjang tahun, puncak saat lebih dingin|Sepanjang tahun|Sepanjang tahun|Sepanjang tahun|
-|Contoh tipe|G1P[8], G2P[4], G9P[8]|GII.4, GII.17, GII.2|Adenovirus 40, 41|GI, GII|HAstV-1|
-|Data pada materi|**54,93%** anak rawat inap dengan gastroenteritis|**18,47%** pasien positif|Berkontribusi pada diare anak|7,14% kasus mengalami koinfeksi dengan rotavirus|Ada di Indonesia, lebih jarang|
+| Karakteristik     | **Rotavirus**                                     | **Norovirus**                               | **Adenovirus**                         | **Sapovirus**                                    | **Astrovirus**                  |
+| ----------------- | ------------------------------------------------- | ------------------------------------------- | -------------------------------------- | ------------------------------------------------ | ------------------------------- |
+| Famili            | Reoviridae                                        | Caliciviridae                               | Adenoviridae                           | Caliciviridae                                    | Astroviridae                    |
+| Genom             | Segmented dsRNA                                   | ssRNA (+)                                   | Linear dsDNA                           | ssRNA (+)                                        | ssRNA (+)                       |
+| Kapsid            | Ikosahedral, **3 lapis**                          | Ikosahedral                                 | Ikosahedral                            | Ikosahedral                                      | Ikosahedral                     |
+| Envelope          | Tidak ada                                         | Tidak ada                                   | Tidak ada                              | Tidak ada                                        | Tidak ada                       |
+| Masa inkubasi     | ±2 hari                                           | 12–48 jam                                   | 3–10 hari                              | Median 1,7 hari                                  | Median 4,5 hari                 |
+| Durasi penyakit   | 3–8 hari                                          | 1–3 hari                                    | 5–12 hari                              | 1–4 hari                                         | 2–7 hari                        |
+| Gejala utama      | Diare cair, muntah, demam, nyeri abdomen          | Muntah akut, diare cair, kram abdomen, mual | Diare cair, muntah, demam lebih jarang | Diare cair, muntah lebih jarang                  | Diare cair, muntah lebih jarang |
+| Kelompok berisiko | Bayi/anak kecil, imunokompromais                  | Semua usia; terutama lingkungan kontak erat | <2 tahun, imunokompromais              | <5 tahun, lansia                                 | <2 tahun, imunokompromais       |
+| Musiman           | Lebih sering bulan dingin                         | Sepanjang tahun, puncak saat lebih dingin   | Sepanjang tahun                        | Sepanjang tahun                                  | Sepanjang tahun                 |
+| Contoh tipe       | G1P[8], G2P[4], G9P[8]                            | GII.4, GII.17, GII.2                        | Adenovirus 40, 41                      | GI, GII                                          | HAstV-1                         |
+| Data pada materi  | **54,93%** anak rawat inap dengan gastroenteritis | **18,47%** pasien positif                   | Berkontribusi pada diare anak          | 7,14% kasus mengalami koinfeksi dengan rotavirus | Ada di Indonesia, lebih jarang  |
 
 Urutan hafalan cepat:  
 **Rota = bayi + muntah/diare + 2 hari → 3–8 hari**  
