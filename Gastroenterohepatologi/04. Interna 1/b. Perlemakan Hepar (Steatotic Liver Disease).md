@@ -23,7 +23,7 @@
 |**ALD**|Steatosis terutama didorong oleh konsumsi alkohol|
 |**Specific-cause SLD**|Steatosis akibat penyebab spesifik seperti obat, kelainan genetik/metabolik, nutrisi, endokrin, atau penyakit hati lain|
 |**Cryptogenic SLD**|Steatosis tanpa faktor metabolik, alkohol, atau penyebab spesifik yang dapat diidentifikasi|
-
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179000683100091hbg2.png)
 ## Perubahan nomenklatur 2023
 
 - **NAFLD → MASLD**
@@ -32,6 +32,7 @@
 - **Fatty liver disease → Steatotic Liver Disease (SLD)**
 
 Perubahan istilah terutama merupakan **perubahan nomenklatur**, sedangkan dasar biologis penyakit tetap relevan.
+
 
 ---
 
