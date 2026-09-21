@@ -25,6 +25,7 @@ Bagian traktus gastrointestinal yang memungkinkan terjadinya infeksi mikroba mel
 - **Anal canal**
 
 Dinding usus halus juga berperan penting dalam patogenesis infeksi karena mikroorganisme dapat berinteraksi dengan **epithelium mukosa**, terutama pada struktur **villus** dan jaringan limfoid.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1789998222000j7dr1u.png)
 
 ### 🧠 Tips hafalan
 
@@ -219,7 +220,7 @@ EPEC O55:H7 mengalami infeksi oleh **bacteriophage** yang membawa gen pengkode *
 
 # 🧬 INVASI SHIGELLA DAN SALMONELLA
 
-_Shigella_ dan _Salmonella_ dapat melakukan **invasion** ke dalam sel epitel gastrointestinal. Materi juga memperlihatkan spesimen feses penderita shigellosis dengan pewarnaan Wright yang menunjukkan banyak sel polimorfonuklear.
+_Shigella_ dan _Salmonella_ dapat melakukan **invasi** ke dalam sel epitel gastrointestinal. Materi juga memperlihatkan spesimen feses penderita shigellosis dengan pewarnaan Wright yang menunjukkan banyak sel polimorfonuklear.
 
 Secara klinis, infeksi invasif dapat menyebabkan:
 
