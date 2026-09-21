@@ -83,6 +83,7 @@ Jumlah alkohol perlu dinilai berdasarkan **gram alkohol/minggu**, bukan sekadar 
 
 **Wanita: 140 → 350**  
 **Pria: 210 → 420**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790007420000i9ws07.png)
 
 ---
 
@@ -93,13 +94,9 @@ Jumlah alkohol perlu dinilai berdasarkan **gram alkohol/minggu**, bukan sekadar 
 MASH ditandai oleh:
 
 - steatosis
-    
 - **cedera hepatosit berupa ballooning**
-    
 - **inflamasi lobular**
-    
 - dengan atau tanpa fibrosis
-    
 
 Jadi:
 
@@ -116,45 +113,28 @@ Jadi:
 **Metabolik**
 
 - Obesitas, terutama obesitas sentral/viseral
-    
 - Diabetes melitus tipe 2
-    
 - Prediabetes
-    
 - Dislipidemia
-    
 - Hipertensi
-    
 - Sindrom metabolik
-    
 
 **Gaya hidup**
 
 - Asupan energi berlebihan
-    
 - Makanan ultra-proses
-    
 - Minuman berpemanis
-    
 - Aktivitas fisik rendah/sedentary lifestyle
-    
 - Merokok meningkatkan risiko kardiometabolik secara keseluruhan
-    
 
 **Faktor lain**
 
 - Usia lebih tua
-    
 - Obstructive sleep apnea
-    
 - Riwayat keluarga
-    
 - Kerentanan genetik, misalnya **PNPLA3** dan **TM6SF2**
-    
 - Obat tertentu
-    
 - Gangguan endokrin atau nutrisi
-    
 
 📌 **Lean MASLD tetap dapat terjadi**, termasuk pada populasi Asia. Jadi, **jangan menggunakan ukuran tubuh saja untuk menyingkirkan MASLD.**
 
@@ -163,15 +143,10 @@ Jadi:
 Prioritaskan:
 
 - **Diabetes melitus tipe 2**
-    
 - Obesitas + ≥1 faktor metabolik
-    
 - Beberapa kelainan kardiometabolik sekaligus
-    
 - Pemeriksaan fungsi hati abnormal menetap
-    
 - Steatosis yang ditemukan pada pencitraan
-    
 
 > 💡 Jangan berhenti pada diagnosis **“fatty liver”**. Setelah menemukan steatosis, lanjutkan dengan **FIB-4 untuk menilai risiko fibrosis**.
 
