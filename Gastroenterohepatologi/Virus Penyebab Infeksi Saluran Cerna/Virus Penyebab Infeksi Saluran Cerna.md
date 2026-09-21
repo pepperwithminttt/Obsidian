@@ -48,7 +48,7 @@ Urutan hafalan cepat:
     - Karena lipid bilayer mudah rusak oleh **alkohol, panas, bahan kimia, dan UV**, virus enveloped umumnya lebih mudah diinaktivasi.
 - Contoh:
     - **Enveloped:** influenza virus, SARS-CoV-2.
-    - **Non-enveloped:** norovirus, hepatitis A virus.
+    - **Non-enveloped:** Rotavirus, norovirus, adenovirus, sapovirus, astrovirus, hepatitis A virus.
 
 💡 **Tips hafalan:**  
 **Envelope = “lapisan lemak” → mudah rusak oleh alkohol/deterjen.**  
@@ -59,28 +59,18 @@ Non-enveloped = **“cuma kapsid” → lebih bandel di lingkungan.**
 **ssRNA positive-sense (+)** seperti norovirus, sapovirus, astrovirus dan HCV:
 
 - Genom **+RNA dapat langsung berfungsi sebagai mRNA**.
-    
 - Setelah masuk dan uncoating → **translation** oleh ribosom pejamu.
-    
 - Protein virus yang dihasilkan termasuk RNA-dependent RNA polymerase (**RdRp**).
-    
 - RdRp membuat RNA komplementer negatif sebagai template → menghasilkan genom +RNA baru.
-    
 - Dilanjutkan **assembly → release**.
-    
 
 **ssRNA negative-sense (−)**:
 
 - Genom **−RNA tidak dapat langsung ditranslasi**.
-    
 - Virus harus membawa **RNA-dependent RNA polymerase**.
-    
 - RdRp membuat **+RNA/mRNA** terlebih dahulu.
-    
 - mRNA kemudian ditranslasi → protein virus.
-    
 - Selanjutnya terjadi replikasi genom → assembly → release.
-    
 
 💡 **Hafalan:**  
 **“Plus = langsung baca; Minus = harus dibalik dulu.”**
@@ -88,11 +78,8 @@ Non-enveloped = **“cuma kapsid” → lebih bandel di lingkungan.**
 **Rotavirus** sedikit berbeda karena merupakan **dsRNA**:
 
 - dsRNA tidak langsung digunakan sebagai mRNA.
-    
 - Virus membawa RdRp untuk mentranskripsi RNA positif.
-    
 - +RNA kemudian digunakan sebagai mRNA dan template pembentukan genom dsRNA baru.
-    
 
 ---
 
@@ -101,39 +88,22 @@ Non-enveloped = **“cuma kapsid” → lebih bandel di lingkungan.**
 Rotavirus terutama menginfeksi **enterosit usus halus**.
 
 1. Virus masuk melalui **mulut**, biasanya melalui kontaminasi fecal–oral.
-    
 2. Virus melewati lambung dan mencapai **usus halus**.
-    
 3. Protein **VP4** berperan dalam attachment dan entry ke sel epitel usus.
-    
 4. Setelah masuk, bagian luar virus dilepaskan dan subviral particle masuk ke sitoplasma.
-    
 5. Genom virus mengarahkan pembentukan protein dan ribuan virion baru.
-    
 6. **NSP4** berperan penting dalam terjadinya diare:
-    
     - NSP4 → aktivasi jalur **PLC-dependent**
-        
     - ↑ **Ca²⁺ intraseluler**
-        
     - ↑ sekresi Cl⁻
-        
     - air mengikuti pergerakan elektrolit → **diare sekretorik**
-        
 7. NSP4 juga mengganggu **tight junctions** → meningkatkan permeabilitas epitel.
-    
 8. Kerusakan enterosit menyebabkan:
-    
     - atrofi vili
-        
     - gangguan absorpsi air dan nutrien
-        
     - gangguan fungsi **SGLT1**
-        
 9. Aktivasi **enteric nervous system** dan pelepasan **5-HT (serotonin)** → stimulasi aferen vagal → **mual dan muntah**.
-    
 10. Virion baru dilepaskan dan menginfeksi enterosit lain → siklus berulang → **diare cair profus**.
-    
 
 💡 **Kunci rotavirus:**  
 **VP4 = masuk → NSP4 = diare → Ca²⁺/Cl⁻/air ↑ → muntah + diare.**
@@ -143,27 +113,16 @@ Rotavirus terutama menginfeksi **enterosit usus halus**.
 ## Patogenesis Norovirus
 
 Norovirus terutama menyerang **epitel usus halus** dan mengganggu fungsi absorpsi.
-
 - Virus berinteraksi dengan **histo-blood group antigens (HBGAs)** pada permukaan sel.
-    
 - Infeksi dapat melibatkan sel epitel serta interaksi dengan **M cells, dendritic cells, macrophages, B cells, dan T cells**.
-    
 - Terjadi:
-    
     - gangguan fungsi **brush border**
-        
     - perubahan absorpsi air dan nutrien
-        
     - perubahan permeabilitas usus
-        
     - **villous blunting**
-        
 - Gangguan intestinal menyebabkan **diare**.
-    
 - Gangguan motilitas dan **delayed gastric emptying** berkontribusi terhadap **muntah**.
-    
 - Aktivasi sistem saraf enterik dan aferen vagal turut berperan pada nausea/vomiting.
-    
 
 **Reservoir/transmisi penting:** makanan laut terutama **bivalve molluscs**, serta air yang terkontaminasi sewage.
 
