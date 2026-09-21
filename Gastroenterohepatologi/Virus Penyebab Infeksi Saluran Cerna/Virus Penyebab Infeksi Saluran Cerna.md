@@ -241,7 +241,7 @@ Norovirus terutama menyerang **epitel usus halus** dan mengganggu fungsi absorps
     - memperoleh envelope dan dilepaskan sebagai virion.
 9. Respons imun terhadap hepatosit yang terinfeksi menyebabkan inflamasi dan kerusakan hati.
 
-### Seromarker HBV
+### Seromarker HBV (INGAT!)
 
 |HBsAg|Total anti-HBc|IgM anti-HBc|Anti-HBs|Interpretasi|
 |---|---|---|---|---|
@@ -255,64 +255,40 @@ Norovirus terutama menyerang **epitel usus halus** dan mengganggu fungsi absorps
 **Window period:**
 
 - HBsAg sudah menghilang.
-    
 - Anti-HBs belum muncul.
-    
 - **Anti-HBc, terutama IgM anti-HBc, tetap positif.**
-    
 
 💡 **Hafalan marker:**
 
 - **sAg = surface → virus sedang ada**
-    
 - **anti-HBs = sudah punya antibodi protektif**
-    
 - **anti-HBc = pernah terpapar virus**, karena vaksin HBV **tidak mengandung core antigen**, sehingga vaksinasi tidak menghasilkan anti-HBc.
-    
 
 ---
 
 ## Hepatitis C (HCV)
 
 - Famili: **Flaviviridae**
-    
 - Genom: **ssRNA positive-sense**, ±9,6 kb.
-    
 - Enveloped.
-    
 - Memiliki glikoprotein envelope **E1 dan E2**.
-    
 - Ukuran ±55–65 nm.
-    
 - Genotipe utama: **1–6**.
-    
 - Transmisi terutama melalui **darah**, terutama penggunaan alat suntik terkontaminasi.
-    
 - Inkubasi: **14–180 hari**.
-    
 - Risiko kronisitas sangat tinggi, sekitar **75–85%**.
-    
 
 ### Patogenesis
 
 1. HCV masuk ke hepatosit melalui interaksi envelope glycoproteins dengan reseptor permukaan hepatosit.
-    
 2. Virus mengalami **entry dan uncoating**.
-    
 3. +RNA langsung berfungsi sebagai **mRNA**.
-    
 4. RNA ditranslasi menjadi **polyprotein**.
-    
 5. Polyprotein diproses menjadi protein struktural dan nonstruktural.
-    
 6. Replikasi RNA berlangsung pada **membranous web** di sekitar retikulum endoplasma.
-    
 7. Terbentuk RNA genomik baru.
-    
 8. Virion dirakit dan dilepaskan melalui jalur sekretori.
-    
 9. Persistensi virus + respons imun kronis → inflamasi, fibrosis → **sirosis → HCC**.
-    
 
 ### Diagnosis HCV
 
@@ -333,24 +309,16 @@ Jika pajanan baru dicurigai tetapi antibodi masih negatif → lakukan **HCV RNA*
 ## Hepatitis D (HDV)
 
 - Famili: **Deltaviridae**
-    
 - Genom: **circular ssRNA negative-sense**, ±1,7 kb.
-    
 - Virus enveloped.
-    
 - Ukuran ±36–43 nm.
-    
 - **HDV tidak dapat bereplikasi secara mandiri secara lengkap.**
-    
 - Membutuhkan **HBV**, terutama **HBsAg**, untuk membentuk envelope dan menghasilkan virion infeksius.
-    
 
 ### Bentuk infeksi
 
 - **Coinfection:** HBV dan HDV menginfeksi secara bersamaan.
-    
 - **Superinfection:** HDV menginfeksi seseorang yang sudah mengalami infeksi HBV kronis.
-    
 
 **Superinfection → lebih berat**, dengan risiko progresi cepat menjadi penyakit hati berat dan sirosis.
 
@@ -361,9 +329,7 @@ Tidak ada HBV → HDV tidak dapat mempertahankan siklus infeksinya.
 **Diagnosis:**
 
 - Anti-HDV → menunjukkan paparan.
-    
 - **HDV RNA** → menunjukkan infeksi aktif.
-    
 
 **Pencegahan:** vaksin **HBV** secara tidak langsung mencegah HDV.
 
@@ -372,53 +338,32 @@ Tidak ada HBV → HDV tidak dapat mempertahankan siklus infeksinya.
 ## Hepatitis E (HEV)
 
 - Famili: **Hepeviridae**
-    
 - Genom: **ssRNA positive-sense**, ±7,2 kb.
-    
 - Non-enveloped, ikosahedral.
-    
 - Ukuran ±27–34 nm.
-    
 - Genotipe utama: HEV 1–4.
-    
 - Transmisi:
-    
     - **fecal–oral**, terutama air terkontaminasi
-        
     - konsumsi daging kurang matang untuk genotipe tertentu.
-        
 - Inkubasi: **15–60 hari**.
-    
 - Biasanya menyebabkan hepatitis akut.
-    
 - Kronisitas jarang, tetapi dapat terjadi pada **imunokompromais**.
-    
 - Kehamilan merupakan kelompok berisiko mengalami penyakit berat.
-    
 
 ### Patogenesis dan replikasi
 
 - HEV masuk melalui saluran cerna dan mencapai hati.
-    
 - Virus menginfeksi hepatosit.
-    
 - +RNA berfungsi sebagai mRNA.
-    
 - Terjadi translasi protein virus dan replikasi RNA.
-    
 - Virion dirakit melalui sistem **ER–Golgi/multivesicular bodies** dan dilepaskan.
-    
 - Kerusakan hepatosit terutama berkaitan dengan respons imun terhadap infeksi.
-    
 
 **Diagnosis:**
 
 - **HEV IgM** → infeksi akut.
-    
 - **HEV IgG** → paparan/imunitas.
-    
 - **HEV RNA** dalam darah atau feses → deteksi langsung infeksi.
-    
 
 💡 **HEV mirip HAV:** keduanya terutama **fecal–oral + hepatitis akut**. Bedanya, **HEV dapat menjadi kronis pada imunokompromais dan dapat sangat berat pada kehamilan.**
 
@@ -433,45 +378,28 @@ Terutama penting pada **HBV dan HCV**.
 Mekanismenya melibatkan:
 
 - Respons imun pejamu yang menetap.
-    
 - **Inflamasi kronis**.
-    
 - **Oxidative stress**.
-    
 - Kerusakan DNA hepatosit.
-    
 - Aktivasi proliferasi hepatosit untuk mengganti sel yang rusak.
-    
 - **Apoptosis** dan regenerasi berulang.
-    
 - **Genetic instability** dan perubahan epigenetik.
-    
 
 ### Khusus HBV
 
 - DNA HBV dapat **berintegrasi ke kromosom pejamu**.
-    
 - Ekspresi protein virus yang menetap, termasuk **HBx dan LHBs**, dapat mengganggu regulasi pertumbuhan sel.
-    
 - Integrasi → **insertional mutagenesis**.
-    
 - Gangguan regulasi gen → proliferasi sel dan instabilitas genetik.
-    
 
 ### Khusus HCV
 
 - Tidak perlu integrasi genom seperti HBV.
-    
 - Protein virus seperti **Core, NS3, dan NS5A** serta inflamasi kronis dapat menyebabkan:
-    
     - oxidative stress
-        
     - perubahan jalur proliferasi
-        
     - kerusakan DNA
-        
     - genetic instability.
-        
 
 Akhirnya terjadi **loss of cellular growth control → hepatocellular carcinoma (HCC)**.
 
@@ -497,65 +425,41 @@ Akhirnya terjadi **loss of cellular growth control → hepatocellular carcinoma 
 **HAV**
 
 - Infeksi akut → **anti-HAV IgM ↑**
-    
 - Setelah infeksi → **anti-HAV IgG**
-    
 
 **HEV**
 
 - Infeksi akut → **HEV IgM**
-    
 - Setelah infeksi → **HEV IgG**
-    
 - RNA virus dapat ditemukan di darah dan feses pada fase infeksi.
-    
 
 **HBV**
 
 - **HBsAg** → infeksi HBV sedang berlangsung.
-    
 - **HBeAg** → umumnya menunjukkan replikasi virus dan infektivitas yang lebih tinggi.
-    
 - **IgM anti-HBc** → infeksi baru/akut.
-    
 - **Anti-HBs** → imunitas protektif.
-    
 - **HBV DNA** → mengukur keberadaan dan jumlah virus secara langsung.
-    
 
 **HCV**
 
 - **Anti-HCV** → menunjukkan paparan.
-    
 - **HCV RNA** → menentukan apakah terdapat infeksi aktif.
-    
 
 ---
 
 # Take-Home Messages 🧠
 
 - **Virus merupakan penyebab utama gastroenteritis akut**, terutama pada anak.
-    
 - Penularan gastroenteritis virus terutama melalui **fecal–oral route**, dengan makanan dan air sebagai kendaraan penting.
-    
 - **Non-enveloped virus lebih stabil** di lingkungan; envelope mudah rusak oleh alkohol, panas, bahan kimia, dan UV.
-    
 - **Rotavirus:** bayi/anak kecil → enterosit usus halus → **NSP4 → ↑Ca²⁺ → ↑Cl⁻ + air → diare**.
-    
 - **Norovirus:** semua usia → **muntah akut + diare** → inkubasi 12–48 jam.
-    
 - **HAV dan HEV:** terutama **fecal–oral** dan umumnya menyebabkan hepatitis akut.
-    
 - **HBV, HCV, HDV:** terutama ditularkan melalui darah/cairan tubuh dan dapat menyebabkan penyakit kronis.
-    
 - **HDV membutuhkan HBV**.
-    
 - **HBV:** partially dsDNA dan menggunakan **reverse transcription**.
-    
 - **HCV:** +ssRNA → dapat langsung ditranslasi.
-    
 - **Anti-HCV = paparan; HCV RNA = infeksi aktif.**
-    
 - **HBsAg = infeksi HBV**, sedangkan **anti-HBs = imunitas**.
-    
 - Hepatitis kronis → **inflamasi → fibrosis → sirosis → HCC**.
