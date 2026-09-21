@@ -171,7 +171,6 @@ Karakteristik klinis:
 
 - Dapat menyebabkan **dysentery-like diarrhea**
 - Sulit dibedakan dari _Shigella_ dan strain _E. coli_ lainnya berdasarkan gambaran klinis saja.
-    
 
 🧠 **EIEC = Invasive → mirip Shigella**
 
