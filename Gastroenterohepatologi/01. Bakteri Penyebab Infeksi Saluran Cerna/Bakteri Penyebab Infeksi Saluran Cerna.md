@@ -246,7 +246,7 @@ _Shigella_ melakukan invasi ke sel epitel dan menyebabkan inflamasi mukosa. Pada
 _Salmonella_ dapat menyebabkan:
 
 - **Gastroenteritis**
-- **Enteric fever / typhoid fever**
+- **Enteric fever/typhoid fever**
 
 ## Salmonella spp. — Nontyphoidal
 
@@ -262,14 +262,12 @@ Karakteristik bakteri:
 - Memiliki **peritrichous flagella**
 - **Non-lactose fermenter**
 - Pada MacConkey agar → koloni **colorless**
-
+![gh|413](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790004364000783h2w.png)
 Pada **Wilson and Blair medium**, _Salmonella_ menghasilkan koloni **jet black** akibat produksi **H₂S**.
-
+![gh|486](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790004387000sa43vs.png)
 🧠 **Salmonella = Black on Wilson-Blair → H₂S** ⚫
 
----
-
-# 7. Salmonella Typhi — Typhoid Fever 🌡️
+## Salmonella Typhi — Typhoid Fever 🌡️
 
 Berbeda dari nontyphoidal _Salmonella_, _S. Typhi_ menyebabkan **enteric fever**.
 
@@ -300,7 +298,7 @@ Blood atau bone marrow culture dapat memberikan hasil sekitar **80% selama mingg
 
 ---
 
-# 8. Vibrio cholerae — Cholera 💧
+# 7. Vibrio cholerae — Cholera 💧
 
 - Sumber utama: **air**
 - Clinical: **watery diarrhea**
@@ -470,7 +468,7 @@ Antibiotik hanyalah tatalaksana sekunder. Contoh: **Doxycycline**
 
 ---
 
-# 9. Enterobacteria
+# 8. Enterobacteria
 
 **Enterobacteria** merupakan kelompok bakteri yang terdapat sebagai flora pada **usus besar**.
 
@@ -514,7 +512,7 @@ Di PPT dokter memperlihatkan perbandingan pertumbuhan:
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790003398000si3yki.png)
 ---
 
-# 10. Escherichia coli
+# 9. Escherichia coli
 
 Selain menyebabkan diare, _E. coli_ juga dapat menyebabkan:
 
@@ -536,7 +534,7 @@ Transmisi yang ditekankan adalah **fecal-oral route**.
 
 ---
 
-# 11. Bakteri Lain
+# 10. Bakteri Lain
 
 ### Campylobacter spp.
 
