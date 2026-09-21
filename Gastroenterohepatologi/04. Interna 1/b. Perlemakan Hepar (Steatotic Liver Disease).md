@@ -472,31 +472,18 @@ Pasien dapat memenuhi kriteria MASLD **dan tetap memiliki penyakit hati lain**.
 Pertimbangkan:
 
 - **Alkohol/MetALD/ALD** → hitung gram alkohol/minggu + pola binge
-    
 - **HBV/HCV** → serologi
-    
 - **Drug-induced liver injury/steatosis** → riwayat obat dan suplemen
-    
 - **Autoimmune hepatitis** → ANA, SMA, IgG sesuai indikasi
-    
 - **Penyakit kolestatik** → ALP, AMA, evaluasi kolestatik
-    
 - **Wilson disease** → terutama usia muda/fenotipe tidak khas
-    
 - **Hemochromatosis**
-    
 - **Lysosomal acid lipase deficiency**
-    
 - **Hypobetalipoproteinemia**
-    
 - **Hipotiroidisme**
-    
 - **Cushing syndrome**
-    
 - **Malnutrisi/penurunan berat badan cepat**
-    
 - **Parenteral nutrition**
-    
 
 ---
 
@@ -511,46 +498,24 @@ Prinsip utama:
 Pada pasien overweight/obesitas:
 
 - **≥5%** → mengurangi steatosis
-    
 - **7–10%** → peluang perbaikan MASH lebih besar
-    
 - **≥10%** → peluang perbaikan fibrosis paling besar
-    
-
-💡 **Hafalan: 5 → 7–10 → 10**
-
-- **5 = Fat**
-    
-- **7–10 = Steatohepatitis**
-    
-- **10+ = Fibrosis**
-    
 
 ### Pola makan
 
 - Defisit kalori yang berkelanjutan bila penurunan berat badan diperlukan
-    
 - Pola makan bergaya **Mediterania**
-    
 - Kurangi minuman berpemanis
-    
 - Kurangi makanan ultra-proses
-    
 - Hindari pola makan berlebihan
-    
 - Pertahankan asupan protein yang adekuat
-    
 
 ### Aktivitas fisik
 
 Target:
-
 - **150–300 menit/minggu** aktivitas aerobik intensitas sedang atau ekuivalen
-    
 - Tambahkan **resistance exercise**
-    
 - Kurangi waktu sedentari
-    
 
 🏃 **Jangan hanya mengejar angka timbangan; pertahankan massa otot dengan protein adekuat + latihan resistensi.**
 
@@ -559,43 +524,27 @@ Target:
 ### Kontrol risiko kardiometabolik
 
 **Diabetes tipe 2 + obesitas**
-
 - Pilih terapi yang memiliki manfaat terhadap berat badan dan kardiovaskular bila sesuai secara klinis.
-    
 - Terapi berbasis **GLP-1** dapat dipertimbangkan sesuai indikasi.
-    
 
 **Dislipidemia**
-
 - Gunakan **statin berdasarkan risiko kardiovaskular**.
-    
 - MASLD sendiri **bukan kontraindikasi statin**.
-    
 
 **Hipertensi**
-
 - Kendalikan sesuai target pedoman.
-    
 
 **Risiko ginjal**
-
 - Nilai fungsi ginjal dan albuminuria.
-    
 
 **OSA**
-
 - Identifikasi dan tata laksana bila ada.
-    
 
 **Merokok**
-
 - Anjurkan berhenti merokok.
-    
 
 **Alkohol**
-
 - Kurangi/hindari, terutama bila terdapat fibrosis.
-    
 
 ⚠️ Hindari penggunaan **“hepatoprotektor” atau suplemen yang tidak terbukti**.
 
@@ -610,20 +559,14 @@ Pada pasien tertentu dengan **MASH non-sirosis dan fibrosis F2–F3**, terapi da
 ### Resmetirom
 
 - Agonis **thyroid hormone receptor-β (THR-β)**
-    
 - Menurunkan lemak hati dan memperbaiki endpoint histologis.
-    
 - Digunakan pada dewasa dengan MASH non-sirosis dan fibrosis F2–F3 berdasarkan label AS.
-    
 - Perlu memperhatikan interaksi obat, status tiroid, dan pemeriksaan hati.
-    
 
 ### Semaglutide
 
 - Agonis **GLP-1 receptor**
-    
 - Membantu perbaikan MASH dan fibrosis serta menangani obesitas.
-    
 - Perlu memperhatikan efek gastrointestinal, risiko terkait kandung empedu/pankreas, dan kontraindikasi sesuai label.
     
 
@@ -638,46 +581,29 @@ Pada pasien tertentu dengan **MASH non-sirosis dan fibrosis F2–F3**, terapi da
 **Fibrosis progresif → sirosis**
 
 Pada sirosis dapat terjadi:
-
 - hipertensi portal
-    
 - splenomegali
-    
 - trombositopenia
-    
 - varises
-    
 - perdarahan varises
-    
 - asites
-    
 - ensefalopati hepatik
-    
 - ikterus
-    
 - gangguan fungsi sintesis hati
-    
 
 ### Hepatocellular carcinoma (HCC)
 
-Risiko meningkat terutama pada **fibrosis lanjut/sirosis**.
-
+Risiko meningkat terutama pada **fibrosis lanjut/sirosis**
 HCC juga **dapat, meskipun jarang, terjadi tanpa sirosis**.
 
 ### Komplikasi ekstrahepatik
 
 Morbiditas tidak hanya berasal dari hati:
-
 - **Penyakit kardiovaskular** → penyebab utama morbiditas dan mortalitas yang bersaing
-    
 - **Penyakit ginjal kronik**
-    
 - **Kanker ekstrahepatik**
-    
 - **Frailty dan sarcopenia**
-    
 - Penurunan kualitas hidup
-    
 
 💡 Jadi, pada SLD jangan hanya bertanya **“bagaimana kondisi hati?”**, tetapi juga **“bagaimana risiko kardiovaskular, metabolik, dan ginjal pasien?”**
 
@@ -688,78 +614,47 @@ Morbiditas tidak hanya berasal dari hati:
 ### 🚨 Rujukan segera / same-day
 
 - Asites baru atau memburuk
-    
 - Perdarahan varises
-    
 - Ensefalopati
-    
 - Ikterus berat
-    
 - Dugaan **acute liver failure**: cedera hati akut + koagulopati/INR memanjang ± gangguan kesadaran
-    
 - Perburukan cepat
-    
 - Sepsis atau syok
-    
 - Dugaan cedera hati akibat obat yang berat
-    
 
 ### Rujukan hepatologi terencana
 
 - **FIB-4 >2,67**
-    
 - FIB-4 ≥1,3 dengan VCTE/ELF meningkat atau discordant
-    
 - Dugaan fibrosis lanjut/sirosis
-    
 - Aminotransferase abnormal >6 bulan
-    
 - Trombosit rendah
-    
 - Splenomegali
-    
 - Albumin/INR/bilirubin abnormal
-    
 - Etiologi tidak jelas atau atipikal
-    
 - Usia muda dengan fenotipe tidak khas
-    
 - Riwayat keluarga penyakit hati herediter
-    
 - Dugaan penyakit autoimun/kolestatik/metabolik
-    
 - Membutuhkan biopsi, MRE, terapi MASH spesifik, atau evaluasi transplantasi
-    
 
 ---
 
 # 12. Sirosis dan Follow-up
 
 Jika sudah terdapat sirosis:
-
 - Tentukan **kompensata vs dekompensata**
-    
 - Nilai hipertensi portal dan risiko varises
-    
 - Lakukan **surveilans HCC setiap 6 bulan**
-    
 - Perhatikan nutrisi dan sarcopenia
-    
 - Vaksinasi sesuai kebutuhan pasien penyakit hati kronik
-    
 - Pertimbangkan evaluasi transplantasi bila sudah dekompensasi atau risiko tinggi
-    
 
 ### Follow-up berdasarkan risiko
 
 - **FIB-4 rendah:** evaluasi ulang sekitar **1–3 tahun**, tergantung risiko metabolik
-    
 - **FIB-4 indeterminate/tinggi:** lakukan pemeriksaan noninvasif lini kedua dan rencana spesialis
-    
 - **F2–F3:** pemantauan progresi dan respons terapi oleh tim yang sesuai
-    
 - **F4:** masuk jalur follow-up sirosis dan pencegahan komplikasi
-    
 
 ---
 
@@ -801,49 +696,31 @@ Steatosis + ≥1 faktor kardiometabolik
 
 # 🎯 HIGH-YIELD UNTUK UJIAN
 
-- **SLD = steatosis hepatik dari penyebab apa pun.**
-    
-- **MASLD = steatosis + ≥1 faktor risiko kardiometabolik.**
-    
-- **MASH = steatosis + ballooning hepatosit + inflamasi lobular, dengan atau tanpa fibrosis.**
-    
-- **MetALD = metabolik + alkohol di atas rentang MASLD tetapi belum dominan alkohol.**
-    
-- **ALD = alkohol merupakan pendorong utama.**
-    
-- **Normal ALT ≠ tidak ada MASH/fibrosis.**
-    
-- **Fibrosis adalah penentu prognostik hati yang paling penting.**
-    
-- **FIB-4 adalah pemeriksaan awal untuk stratifikasi risiko fibrosis.**
-    
-- **FIB-4 <1,3 → risiko rendah.**
-    
-- **FIB-4 ≥1,3 → pertimbangkan VCTE/ELF.**
-    
-- **FIB-4 >2,67 → risiko tinggi/rujuk.**
-    
-- **Usia >65 tahun → cutoff bawah sekitar 2,0.**
-    
-- **≥5% penurunan berat badan → mengurangi steatosis.**
-    
-- **7–10% → lebih mungkin memperbaiki MASH.**
-    
-- **≥10% → peluang perbaikan fibrosis paling besar.**
-    
-- Komplikasi utama: **sirosis, hipertensi portal, dekompensasi, HCC**, serta **penyakit kardiovaskular dan CKD**.
-    
+- **SLD** = steatosis hepatik dari penyebab apa pun.
+- **MASLD** = steatosis + ≥1 faktor risiko kardiometabolik.
+- **MASH** = steatosis + ballooning hepatosit + inflamasi lobular, dengan atau tanpa fibrosis.
+- **MetALD** = metabolik + alkohol di atas rentang MASLD tetapi belum dominan alkohol.
+- **ALD** = **alkohol** merupakan pendorong utama.
+- Normal ALT ≠ tidak ada MASH/fibrosis.
+- **Fibrosis** adalah **penentu prognostik hati** yang **paling penting**.
+- **FIB-4** adalah pemeriksaan awal untuk **stratifikasi risiko fibrosis**.
+	- FIB-4 <1,3 → risiko rendah.
+	- FIB-4 ≥1,3 → pertimbangkan VCTE/ELF.
+	- FIB-4 >2,67 → risiko tinggi/rujuk.
+	- Usia >65 tahun → cutoff bawah sekitar 2,0.
+- ≥5% penurunan berat badan → mengurangi steatosis.
+- 7–10% → lebih mungkin memperbaiki MASH.
+- ≥10% → peluang perbaikan fibrosis paling besar.
+- **Komplikasi** utama: sirosis, hipertensi portal, dekompensasi, HCC, serta penyakit kardiovaskular dan CKD.
 
 ### 🧠 Mnemonic super singkat
 
-**SLD = “Lemak → Penyebab → Fibrosis”**
+**SLD** = “Lemak → Penyebab → Fibrosis”
 
-**MASLD = “FAT + METABOLIC”**
+**MASLD** = “FAT + METABOLIC”
 
-**FIB-4 = “1,3 – 2,67”**
+**FIB**-4 = “1,3 – 2,67”
 
-**Weight loss = “5 – 7/10 – 10”**
+**Weight loss** = “5 – 7/10 – 10”
 
-**Work-up = “Steatosis → Cause → Fibrosis”**
-
-Jadi kalau diberikan kasus klinis, urutan berpikirmu jangan langsung **“fatty liver = MASLD”**. Mulai dari **pastikan steatosis → cari faktor metabolik & alkohol → singkirkan/identifikasi penyebab lain → hitung FIB-4 → lanjutkan VCTE/ELF bila perlu → tata laksana berdasarkan risiko fibrosis.**
+**Work-up** = “Steatosis → Cause → Fibrosis”
