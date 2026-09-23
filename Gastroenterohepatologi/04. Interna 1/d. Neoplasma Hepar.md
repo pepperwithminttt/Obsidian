@@ -27,6 +27,8 @@ Tapi beda lagi **kalau hatinya sudah sirosis** itu kebanyakan **tumor ganas sumb
 
 Neoplasma jinak umumnya mengalami **proliferasi lokal** tetapi tetap mempertahankan diferensiasi sel dan tidak melakukan invasi vaskular maupun metastasis.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17901752050009t0ss5.png)
+
 Urutan sederhananya:
 
 **Jaringan hati normal → stimulus hormonal/metabolik/vascular atau perubahan molekuler → proliferasi klonal lokal → diferensiasi relatif tetap terjaga → lesi ekspansil dan berbatas tegas → tidak menginvasi pembuluh/metastasis**
@@ -36,76 +38,48 @@ Urutan sederhananya:
 Contohnya:
 
 - **Hepatocellular adenoma (HCA)**: dipengaruhi faktor hormonal, metabolik, dan perubahan molekuler.
-    
 - **FNH**: terutama merupakan respons hiperplastik terhadap perubahan perfusi vaskular, bukan neoplasma sejati.
-    
 - **Hemangioma**: lesi vaskular jinak.
-    
 
 ### Hepatocellular adenoma (HCA)
 
 Faktor yang berhubungan:
-
 - Kontrasepsi mengandung estrogen.
-    
 - Steroid androgenik anabolik.
-    
 - Obesitas dan penyakit metabolik.
-    
 - Glycogen storage disease.
-    
 
-#### Subtipe molekuler HCA
+#### Subtipe molekuler HCA (Nice to Know)
 
-1. **HNF1A-inactivated HCA** ±30–40%
-    
+1. **HNF1A-inactivated HCA** ±30–40% 
     - Inaktivasi **HNF1A**.
-        
     - Sering menunjukkan steatosis.
-        
-2. **Inflammatory HCA** ±40–50%
-    
+
+2. **Inflammatory HCA** ±40–50% 
     - Aktivasi jalur **IL-6/JAK/STAT**.
-        
     - Menunjukkan gambaran inflamasi.
-        
+
 3. **β-catenin/CTNNB1-activated HCA** ±10%
-    
     - Aktivasi **CTNNB1/β-catenin**.
-        
     - **Risiko transformasi menjadi HCC lebih tinggi.**
-        
 
 ➡️ Jadi, tidak semua HCA memiliki risiko keganasan yang sama.
 
 **Komplikasi utama:**
-
 - **Perdarahan** → terutama pada lesi besar.
-    
 - **Transformasi maligna menjadi HCC** → lebih diperhatikan pada laki-laki, HCA β-catenin-activated, lesi yang tumbuh, dan ukuran ≥5 cm.
-    
 
 **Gambaran pencitraan:**
-
 - Biasanya mengalami **arterial enhancement**.
-    
 - Dapat mengandung lemak.
-    
 - Dapat mengalami perdarahan.
-    
 - Gambaran hepatobiliary phase pada MRI bervariasi sesuai subtipe.
-    
 
 **Prinsip tata laksana:**
-
 - Hentikan paparan hormonal yang berperan.
-    
 - Karakterisasi dengan MRI.
-    
 - Sebagian besar adenoma pada laki-laki dipertimbangkan untuk direseksi.
-    
 - Pada perempuan, lesi **<5 cm dan stabil** dapat diobservasi setelah faktor risiko diperbaiki.
-    
 
 💡 **Hafalan HCA:**  
 **“HCA = Hormone, Hemorrhage, Hepatocarcinoma”**  
@@ -118,31 +92,19 @@ Hormonal exposure → risiko perdarahan → sebagian dapat berubah menjadi HCC.
 FNH merupakan **respons hiperplastik hepatosit terhadap perubahan perfusi arteri**, bukan neoplasma sejati.
 
 Karakteristik:
-
 - Sering pada perempuan usia muda–pertengahan.
-    
 - Tidak memiliki kapsul sejati.
-    
 - Hepatosit relatif mempertahankan fungsi.
-    
 - Umumnya jinak dan tidak mengalami transformasi maligna.
-    
 
 **MRI:**
-
 - Enhancement arteri yang homogen.
-    
 - Dapat memiliki **central scar**.
-    
 - Pada hepatobiliary phase dapat menunjukkan **iso-/hyperintensity** karena hepatosit masih berfungsi.
-    
 
 **Tata laksana:**
-
 - Bila diagnosis sudah yakin → umumnya cukup konservatif.
-    
 - Tidak memerlukan follow-up rutin setelah diagnosis yang benar-benar meyakinkan.
-    
 
 💡 **FNH = “Functional hepatocytes remain”**  
 Masih ada hepatosit yang berfungsi → biasanya dapat mengambil kontras hepatobiliary.
@@ -154,30 +116,18 @@ Masih ada hepatosit yang berfungsi → biasanya dapat mengambil kontras hepatobi
 Merupakan **lesi solid jinak hati yang paling sering ditemukan**.
 
 **Gambaran khas:**
-
 - Sangat hiperintens pada T2 MRI.
-    
 - **Peripheral discontinuous nodular enhancement**.
-    
 - Kemudian terjadi **progressive centripetal fill-in**, yaitu kontras secara bertahap mengisi lesi dari perifer menuju pusat.
-    
 
 **Tata laksana:**
-
 - Bila tipikal, asimtomatik, dan diagnosis yakin → tidak perlu follow-up.
-    
 - Hindari biopsi bila pola vaskular sudah khas karena risiko perdarahan.
-    
 - Rujuk bila:
-    
     - simptomatik,
-        
     - bertambah besar,
-        
     - terdapat koagulopati,
-        
     - atau diagnosis masih meragukan.
-        
 
 ⚠️ **“Giant hemangioma” hanya berarti ukurannya besar, bukan berarti ganas.**
 
@@ -188,36 +138,22 @@ Merupakan **lesi solid jinak hati yang paling sering ditemukan**.
 Dapat ditemukan:
 
 - Simple hepatic cyst
-    
 - Bile duct cyst
-    
 - Ciliated foregut cyst
-    
 - Von Meyenburg complex
-    
 - Peribiliary gland hamartoma
-    
 - Biliary papillomatosis
-    
 - Biliary cystadenoma
-    
 - Infantile hemangioendothelioma
-    
 - Angiomyolipoma
-    
 - Mesenchymal hamartoma
-    
 
 **Simple cyst** secara pencitraan biasanya:
 
 - berisi cairan,
-    
 - dinding tipis,
-    
 - tidak mengalami enhancement,
-    
 - dan tidak memerlukan terapi bila asimtomatik.
-    
 
 ---
 
