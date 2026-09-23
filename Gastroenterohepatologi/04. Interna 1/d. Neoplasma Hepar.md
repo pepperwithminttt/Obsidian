@@ -723,7 +723,7 @@ Karena ukurannya **≥5 cm**, risiko komplikasi menjadi lebih penting dalam mene
 
 **Normal liver ≠ cirrhotic liver**
 
-Pada hati normal, lesi jinak lebih sering masuk differential.  
+Pada hati normal, lesi jinak lebih sering masih ada diferensiasi.  
 Pada **sirosis/HBV**, lesi solid baru harus sangat dicurigai sebagai HCC sampai terkarakterisasi.
 
 ### 2. Bedakan berdasarkan asal sel
