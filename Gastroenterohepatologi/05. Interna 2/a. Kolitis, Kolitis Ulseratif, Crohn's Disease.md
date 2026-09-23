@@ -248,33 +248,24 @@ Pemeriksaan imaging yang bisa dilakukan:
 Komplikasi IBD yang dapat terjadi:
 
 - **Perforasi**
-    
 - **Abses**
-    
 - **Fistula**
-    
 - **Obstruksi**
-    
 - **Anemia**
-    
 - **Osteoporosis**
-    
 - **Perdarahan yang mengancam jiwa**, meskipun jarang
-    
 - **Toxic megacolon**
-    
 - **Colorectal cancer (CRC)**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790187599000x4rpap.png)
 
 ### Toxic megacolon 🚨
 
 Pada keadaan seperti **toxic megacolon atau abses**, dapat ditemukan:
 
 - Distensi abdomen.
-    
 - Rebound tenderness.
-    
 - Tidak terdengar bising usus.
-    
 - Demam tinggi.
 
 > 🧠 **Toxic megacolon = “usus besar melebar + pasien toksik”**  
