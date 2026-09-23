@@ -191,58 +191,35 @@ Namun, definisi ACLF **tidak sepenuhnya sama** antara **EASL, AASLD, dan APASL**
 Pencetus akut bekerja pada hati yang **cadangan fungsinya sudah terbatas**.
 
 **1. Infeksi/sepsis 🦠**
-
 - Spontaneous bacterial peritonitis (SBP).
-    
 - Pneumonia.
-    
 - Infeksi saluran kemih.
-    
 - Bakteremia.
-    
 - Sepsis.
-    
 
 **2. Perdarahan saluran cerna**
-
 - Perdarahan varises.
-    
 - Perdarahan non-varises.
-    
 
 **3. Cedera hati akut**
-
 - Alkohol.
-    
 - DILI.
-    
 - _Flare_ atau reaktivasi HBV.
-    
 
 **4. Gangguan hemodinamik**
-
 - Syok.
-    
 - Hipovolemia.
-    
 - Pembedahan besar.
-    
 
 **5. Tidak teridentifikasi**
-
 - Sebagian pasien tidak memiliki pencetus yang jelas.
-    
 
 💡 **Tips hafalan pencetus ACLF: “I-P-H-H”**
 
 - **I**nfeksi
-    
 - **P**erdarahan
-    
 - **H**ati terkena cedera akut
-    
 - **H**emodinamik terganggu
-    
 
 ---
 
@@ -275,17 +252,11 @@ Keduanya mengaktivasi sistem imun dan memicu pelepasan mediator inflamasi.
 Pada akhirnya dapat terjadi kegagalan:
 
 - hati,
-    
 - ginjal,
-    
 - otak,
-    
 - sistem koagulasi,
-    
 - sirkulasi,
-    
 - respirasi.
-    
 
 💡 **Tips hafalan:**  
 **“ACLF = Chronic liver + Acute trigger + Inflammation + Organ failure.”**
@@ -297,46 +268,27 @@ Pada akhirnya dapat terjadi kegagalan:
 Temuan yang dapat muncul:
 
 - **Ikterus**
-    
 - Koagulopati
-    
 - Ensefalopati hepatik
-    
 - AKI
-    
 - Infeksi/sepsis
-    
 - Asites
-    
 - Perdarahan varises
-    
 - Hipotensi
-    
 - Hipoksemia
-    
 - Kegagalan multiorgan.
-    
 
 Petunjuk adanya penyakit hati kronis:
 
 - Riwayat sirosis/penyakit hati kronis.
-    
 - **Asites**
-    
 - Varises esofagus/gaster.
-    
 - **Splenomegali**
-    
 - Trombositopenia akibat hipersplenisme.
-    
 - Spider angioma.
-    
 - Kolateral abdomen.
-    
 - Riwayat penggunaan diuretik atau NSBB.
-    
 - Hati noduler pada pencitraan.
-    
 
 ⚠️ **Catatan:** hati pada ALF berat dapat tampak noduler pada pencitraan akibat perubahan regeneratif/nekrosis sehingga **tidak otomatis berarti sirosis**. Kronisitas harus dinilai dari keseluruhan riwayat, pemeriksaan, laboratorium, dan pencitraan.
 
@@ -364,11 +316,8 @@ Jumlah dan berat kegagalan organ merupakan faktor penting dalam menentukan **pro
 ## Derajat ACLF menurut EASL-CLIF
 
 - **ACLF-1:** satu kegagalan organ dengan kriteria klinis tertentu.
-    
 - **ACLF-2:** dua kegagalan organ.
-    
 - **ACLF-3:** ≥3 kegagalan organ.
-    
 
 Semakin banyak dan semakin berat kegagalan organ, semakin tinggi risiko mortalitas.
 
@@ -381,57 +330,33 @@ Semakin banyak dan semakin berat kegagalan organ, semakin tinggi risiko mortalit
 Untuk membedakan ACLF dari ALF, cari bukti penyakit hati yang sudah berlangsung lama:
 
 **Anamnesis**
-
 - HBV/HCV.
-    
 - Konsumsi alkohol.
-    
 - MASLD.
-    
 - Penyakit autoimun.
-    
 - Episode dekompensasi sebelumnya.
-    
 
 **Pemeriksaan fisik**
-
 - Spider angioma.
-    
 - Splenomegali.
-    
 - Asites.
-    
 - Kolateral abdomen.
-    
 
 **Laboratorium**
-
 - Trombositopenia.
-    
 - Albumin rendah kronis.
-    
 - Pola hasil laboratorium sebelumnya.
-    
 
 **Pencitraan**
-
 - Hati noduler.
-    
 - Splenomegali.
-    
 - Kolateral.
-    
 - Trombosis vena porta.
-    
 
 **Endoskopi/rekam medis**
-
 - Varises.
-    
 - Riwayat ligasi varises.
-    
 - Penggunaan diuretik atau NSBB.
-    
 
 ---
 
@@ -444,40 +369,27 @@ Prinsip utama:
 **1. Identifikasi dan terapi pencetus**
 
 - Infeksi/sepsis → kultur + antibiotik sesuai dugaan sumber dan pola resistensi lokal + _source control_.
-    
 - Perdarahan varises → obat vasoaktif + antibiotik + endoskopi segera.
-    
 - DILI → hentikan obat/herbal tersangka.
-    
 - Reaktivasi HBV → analog nukleos(t)ida poten.
-    
 - Alkohol → tata laksana sesuai kondisi klinis.
-    
 
 **2. Stabilisasi organ**
 
 - **Sirkulasi:** cairan kristaloid secara hati-hati; norepinefrin bila syok tetap berlangsung.
-    
 - **Ginjal:** hentikan nefrotoksin, evaluasi status volume, albumin sesuai indikasi, RRT/CRRT bila diperlukan.
-    
 - **Otak:** tata laksana ensefalopati; ensefalopati berat dapat membutuhkan proteksi jalan napas.
-    
 - **Respirasi:** dukungan oksigen/ventilasi sesuai kebutuhan.
-    
 - **Koagulasi:** jangan memberikan plasma hanya untuk sekadar menormalkan INR tanpa indikasi klinis.
-    
 
 **3. Penilaian serial**
 
 - Gunakan **CLIF-OF/CLIF-C ACLF** sesuai kerangka yang digunakan.
-    
 - Pantau tren jumlah dan berat kegagalan organ.
-    
 
 **4. Evaluasi transplantasi hati sejak dini**
 
 - Jangan menunggu sampai terjadi **kegagalan multiorgan yang ireversibel** pada pasien yang berpotensi menjadi kandidat transplantasi.
-    
 
 ---
 
