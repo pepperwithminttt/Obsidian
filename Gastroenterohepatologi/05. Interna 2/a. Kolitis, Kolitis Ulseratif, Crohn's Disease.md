@@ -21,21 +21,13 @@ Ciri utama IBD:
 IBD dapat ditemukan di seluruh dunia, tetapi lebih sering ditemukan di negara-negara Barat yang terindustrialisasi.
 
 - Biasanya muncul pada usia relatif muda, sering kali sejak **remaja**.
-    
 - Median usia diagnosis:
-    
     - **Crohn’s disease:** dekade ke-3 kehidupan.
-        
     - **Ulcerative colitis:** dekade ke-4 kehidupan.
-        
-- Pada materi ini disebutkan:
-    
+- Predominansi:
     - **Crohn’s disease:** predominansi perempuan.
-        
     - **Ulcerative colitis:** predominansi laki-laki.
-        
 - Insidensi Crohn’s disease secara umum lebih rendah dan relatif serupa antara laki-laki dan perempuan, kemudian menurun seiring bertambahnya usia.
-    
 - Pada UC, insidensi pada laki-laki relatif konstan dengan bertambahnya usia, sedangkan pada perempuan cenderung menurun.
 
 > 🧠 **Tips hafalan:**  
