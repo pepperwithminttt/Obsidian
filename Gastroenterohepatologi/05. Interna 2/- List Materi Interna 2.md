@@ -1,6 +1,6 @@
 1. Kolitis (3A)
 2. Kolitis ulseratif (1)
-3. Crohn disease (1)
+3. Crohn's disease (1)
 4. IBS (3A)
 5. Divertikulosis/divertikulitis (3A)
 6. Intoleransi makanan (4A)
