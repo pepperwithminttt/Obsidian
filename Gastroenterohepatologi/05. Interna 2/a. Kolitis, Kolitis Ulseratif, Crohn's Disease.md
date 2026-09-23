@@ -47,12 +47,10 @@ Ketiganya berinteraksi pada individu yang secara genetik rentan sehingga terjadi
 Faktor genetik membuat individu lebih rentan mengalami gangguan regulasi:
 
 - Respons imun.
-    
 - Barier mukosa usus.
-    
 - Interaksi antara bakteri dan mukosa.
 
-Materi mencantumkan keterlibatan kromosom, antara lain **kromosom 5 dan 16**.
+Juga ada keterlibatan kromosom, antara lain **kromosom 5 dan 16**.
 
 ### B. Faktor lingkungan 🌱
 
