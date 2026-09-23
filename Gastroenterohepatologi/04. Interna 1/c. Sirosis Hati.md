@@ -77,32 +77,20 @@ Sehingga terbentuk:
 
 Jadi, **nodul regeneratif sebenarnya merupakan usaha hati mempertahankan massa dan fungsi hepatosit**, tetapi karena terbentuk dalam lingkungan fibrosis, akhirnya justru ikut menyebabkan gangguan struktur dan aliran darah hati.
 
----
-
 ### 🟢 Sirosis kompensata
 
 Pada tahap ini:
 
 - Fibrosis dan nodul regeneratif sudah terbentuk.
-    
 - Fungsi hepatosit masih relatif terjaga.
-    
 - Resistensi intrahepatik mulai meningkat.
-    
 - Tubuh masih mampu melakukan mekanisme kompensasi:
-    
     - Pembentukan **kolateral portosistemik**
-        
     - Adaptasi **RAAS, sistem saraf simpatis, dan ADH**
-        
     - Homeostasis imun masih relatif terjaga
-        
 - Manifestasi klinis masih minimal atau tidak ada.
-    
 
 → **Cadangan fungsi hati masih cukup untuk mempertahankan homeostasis.**
-
----
 
 ### 🔴 Progresi menjadi sirosis dekompensata
 
@@ -122,18 +110,13 @@ Fibrosis + distorsi vaskular → resistensi intrahepatik ↑ → tekanan portal 
 
 **2. Disfungsi hepatosit**  
 Fungsi sintesis, metabolisme, detoksifikasi, dan ekskresi menurun:
-
 - Albumin ↓ → edema
-    
 - Faktor koagulasi ↓ → INR ↑
-    
 - Detoksifikasi ↓ → ensefalopati hepatik
-    
 - Ekskresi bilirubin ↓ → ikterus
-    
 
 **3. Disfungsi sirkulasi sistemik**  
-Hipertensi portal → **vasodilatasi splanknik** → effective arterial blood volume ↓  
+Hipertensi portal → [**vasodilatasi splanknik**]{Vasodilatasi splanknik adalah pelebaran pembuluh darah di area organ pencernaan perut (viseral/abdomen). Area splanknik mencakup organ-organ seperti lambung, usus, hati, limpa, dan pankreas, yang disuplai oleh pembuluh darah mesenterika.} → effective arterial blood volume ↓  
 → RAAS + simpatis + ADH ↑  
 → retensi Na⁺ dan air + vasokonstriksi renal  
 → **asites, edema, hiponatremia, AKI/HRS**.
