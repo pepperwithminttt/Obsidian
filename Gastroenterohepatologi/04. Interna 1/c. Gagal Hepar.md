@@ -21,42 +21,28 @@ ALF merupakan **kegawatdaruratan medis** karena kondisi dapat berkembang cepat m
 **1. Obat dan toksin 💊**
 
 - **Parasetamol** merupakan salah satu penyebab penting.
-    
 - DILI (_drug-induced liver injury_) non-parasetamol.
-    
 - Obat herbal dan suplemen.
-    
 
 **2. Infeksi 🦠**
 
 - Hepatitis A (HAV)
-    
 - Hepatitis B (HBV)
-    
 - Hepatitis E (HEV)
-    
 - Herpes simplex virus (HSV) dan varicella-zoster virus (VZV) pada kondisi tertentu.
-    
 
 **3. Imun dan metabolik**
 
 - Hepatitis autoimun.
-    
 - **Penyakit Wilson:** gangguan metabolisme tembaga yang menyebabkan akumulasi tembaga.
-    
 - _Acute fatty liver of pregnancy_ pada kehamilan.
-    
 
 **4. Vaskular dan penyebab lain**
 
 - **Hepatitis iskemik:** cedera hepatosit akibat hipoperfusi/hipoksia berat.
-    
 - **Budd–Chiari syndrome:** obstruksi aliran keluar vena hepatika.
-    
 - Infiltrasi hati oleh keganasan.
-    
 - **Indeterminate:** penyebab tidak dapat ditentukan meskipun sudah dilakukan evaluasi.
-    
 
 ---
 
