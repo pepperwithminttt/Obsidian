@@ -443,12 +443,14 @@ Prinsip utama:
 > **ALF = Acute liver injury + HE**  
 > **ACLF = Chronic liver disease + Acute trigger + Organ failure**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790173499000y72c39.png)
+
+
 ---
 
 # 5. DIAGNOSIS BANDING PENTING 🔎
 
 - **Hepatitis akut berat:** cedera hati akut tetapi belum memenuhi kriteria gagal hati, misalnya belum ada ensefalopati atau INR <1,5.
-    
 - **Dekompensasi sirosis:** muncul asites, ensefalopati, atau perdarahan tanpa memenuhi gambaran kegagalan organ sistemik ACLF.
     
 - **Sepsis-associated liver injury:** gangguan hati terutama akibat sepsis; tetap harus ditentukan apakah terdapat penyakit hati kronis.
