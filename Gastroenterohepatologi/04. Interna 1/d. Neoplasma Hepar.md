@@ -16,7 +16,8 @@
 Tumor ganas yang ditemukan di hati **lebih sering merupakan metastasis** daripada tumor ganas primer hati. Metastasis dapat berasal dari banyak organ, sehingga lesi hati multipel pada pasien dengan kanker ekstrahepatik harus sangat dicurigai sebagai metastasis.
 
 Tapi beda lagi **kalau hatinya sudah sirosis** itu kebanyakan **tumor ganas sumbernya dari hati** itu sendiri.
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17901748800009691d8.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790174853000ltzrik.png)
 
 ---
 
