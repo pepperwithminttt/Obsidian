@@ -698,39 +698,22 @@ INR ≥1,5 + ensefalopati = pikirkan **acute liver failure**.
 Jangan menganggap semua peningkatan aminotransferase sebagai hepatitis virus.
 
 - **Drug-induced liver injury (DILI)**
-    
     - Ada obat/herbal baru.
-        
     - Perhatikan hubungan waktu, pola R ratio, dan eksklusi etiologi lain.
-        
 - **Hepatitis autoimun**
-    
     - Dapat berkaitan dengan penyakit autoimun dan peningkatan IgG.
-        
     - Pemeriksaan: ANA, SMA, IgG; biopsi bila diperlukan.
-        
 - **Hepatitis iskemik**
-    
     - Riwayat syok/hipoksia.
-        
     - AST/ALT dapat sangat tinggi, sering disertai LDH tinggi.
-        
 - **Obstruksi bilier**
-    
     - Nyeri kolik, demam, ALP/GGT dominan.
-        
     - USG; MRCP/ERCP sesuai indikasi.
-        
 - **HEV, EBV, CMV, dengue, leptospirosis**
-    
     - Pertimbangkan berdasarkan epidemiologi dan manifestasi sistemik.
-        
 - **Wilson disease**
-    
     - Terutama pada usia muda dengan gagal hati.
-        
     - Dapat disertai hemolisis dan ALP relatif rendah.
-        
     - Evaluasi ceruloplasmin, tembaga urin, dan spesialis.
 
 ---
