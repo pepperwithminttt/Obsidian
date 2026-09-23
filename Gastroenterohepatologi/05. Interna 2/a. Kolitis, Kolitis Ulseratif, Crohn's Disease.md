@@ -116,21 +116,14 @@ Crohn’s disease pertama kali dideskripsikan pada tahun **1932** oleh **Burrill
 
 - Dapat mengenai **seluruh saluran gastrointestinal**, mulai dari usus halus hingga usus besar; jarang tapi juga dapat mengenai **esofagus dan lambung**.
 - Inflamasi bersifat **transmural**.
-    
 - Lesi dapat bersifat **discontinuous**, dengan area usus yang normal di antara area yang mengalami inflamasi → disebut **skip areas / skip lesions**.
-    
 - **Granuloma** dapat ditemukan, tetapi hanya pada sebagian kecil pasien.
     
 - Nyeri abdomen:
-    
     - Cenderung **konstan**.
-        
     - Sering berada di **right lower quadrant (RLQ)**.
-        
     - Tidak berkurang setelah defekasi.
-        
 - Tinja biasanya **tidak tampak berdarah secara nyata**.
-    
 - Dapat ditemukan **massa abdomen**, terutama di RLQ.
 
 > 🧠 **Kunci CD = “CROHN = Continuous? NO!”**
