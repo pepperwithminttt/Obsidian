@@ -723,57 +723,35 @@ Jangan menganggap semua peningkatan aminotransferase sebagai hepatitis virus.
 ### Rujuk segera / IGD 🚨
 
 - perubahan kesadaran atau asteriksis,
-    
 - INR ≥1,5,
-    
 - perdarahan,
-    
 - hipoglikemia,
-    
 - asidosis,
-    
 - AKI,
-    
 - sepsis,
-    
 - instabilitas hemodinamik,
-    
 - muntah/dehidrasi berat,
-    
 - kehamilan dengan hepatitis berat,
-    
 - kecurigaan gagal hati akut.
 
 ### Rujuk cepat ke spesialis
 
 - HBsAg positif dengan sirosis/fibrosis signifikan,
-    
 - memenuhi kriteria terapi HBV,
-    
 - HCV RNA positif untuk staging dan terapi DAA,
-    
 - koinfeksi HBV/HCV/HDV/HIV,
-    
 - bilirubin atau ALT menetap meningkat,
-    
 - diagnosis tidak jelas,
-    
 - imunosupresi,
-    
 - transplantasi,
-    
 - penyakit ginjal kompleks.
 
 ### Dapat dikelola dengan follow-up terencana
 
 - HAV ringan tanpa red flags dan asupan oral baik,
-    
 - hepatitis akut stabil dengan akses kontrol dan laboratorium,
-    
 - edukasi mengenai penularan,
-    
 - vaksinasi kontak,
-    
 - _safety-netting_.
 
 Tetap rujuk bila kondisi klinis atau hasil laboratorium memburuk.
@@ -783,39 +761,22 @@ Tetap rujuk bila kondisi klinis atau hasil laboratorium memburuk.
 # PENCEGAHAN
 
 - **HAV**
-    
     - vaksin tersedia,
-        
     - keamanan makanan dan air sangat penting,
-        
     - vaksin ± imunoglobulin untuk pascapajanan sesuai indikasi,
-        
     - pencegahan fekal-oral.
-        
 - **HBV**
-    
     - vaksin tersedia,
-        
     - vaksin dosis lahir,
-        
     - HBIG sesuai indikasi,
-        
     - skrining ibu hamil,
-        
     - TDF pada ibu dengan viral load tinggi sesuai kriteria,
-        
     - keamanan darah dan jarum,
-        
     - seks aman.
-        
 - **HCV**
-    
     - belum tersedia vaksin,
-        
     - tidak ada PEP antivirus rutin,
-        
     - lakukan pemeriksaan dan follow-up setelah pajanan,
-        
     - keamanan darah dan jarum merupakan pencegahan utama.
 
 💡 **Tips hafalan pencegahan:**
@@ -828,16 +789,16 @@ Tetap rujuk bila kondisi klinis atau hasil laboratorium memburuk.
 
 # RINGKASAN SUPER CEPAT 🧠
 
-||**HAV**|**HBV**|**HCV**|
-|---|---|---|---|
-|Genom|RNA|DNA|RNA|
-|Selubung|−|+|+|
-|Transmisi utama|Fekal-oral|Darah, seksual, perinatal|Darah|
-|Kronik|Tidak|Bisa|Sering|
-|Diagnosis utama|**IgM anti-HAV**|**Pola serologi + HBV DNA**|**Anti-HCV → HCV RNA**|
-|Terapi|Suportif|Supresi jangka panjang pada pasien terpilih|**DAA, dapat menyembuhkan**|
-|Vaksin|Ada|Ada|Belum ada|
-|Masalah khas|Penyakit akut|**cccDNA**|**Variasi genetik tinggi**|
+| **Aspek**       | **HAV**          | **HBV**                                     | **HCV**                     |
+| --------------- | ---------------- | ------------------------------------------- | --------------------------- |
+| Genom           | RNA              | DNA                                         | RNA                         |
+| Selubung        | −                | +                                           | +                           |
+| Transmisi utama | Fekal-oral       | Darah, seksual, perinatal                   | Darah                       |
+| Kronik          | Tidak            | Bisa                                        | Sering                      |
+| Diagnosis utama | **IgM anti-HAV** | **Pola serologi + HBV DNA**                 | **Anti-HCV → HCV RNA**      |
+| Terapi          | Suportif         | Supresi jangka panjang pada pasien terpilih | **DAA, dapat menyembuhkan** |
+| Vaksin          | Ada              | Ada                                         | Belum ada                   |
+| Masalah khas    | Penyakit akut    | **cccDNA**                                  | **Variasi genetik tinggi**  |
 
 ### 🧠 Cara menghafal keseluruhan
 
