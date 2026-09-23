@@ -176,34 +176,22 @@ HCC paling sering berkembang pada **latar belakang cedera hati kronik**, terutam
 ### Perubahan molekuler penting
 
 - **TERT promoter activation** → mempertahankan aktivitas telomerase dan mendukung proliferasi sel.
-    
 - **TP53 inactivation** → hilangnya fungsi tumor suppressor.
-    
 - **CTNNB1/Wnt-β-catenin activation** → meningkatkan proliferasi dan perubahan diferensiasi.
-    
 - Gangguan **chromatin remodeling**, misalnya ARID1A dan ARID2.
-    
 - Perubahan epigenetik.
-    
 - **Chromosomal instability**.
-    
 
 ### Perkembangan tumor
 
 **Dysplastic nodule → early HCC → progressed HCC**
 
 Semakin lanjut:
-
 - diferensiasi semakin buruk,
-    
 - angiogenesis meningkat,
-    
 - invasi vaskular dapat terjadi,
-    
 - terjadi penyebaran intrahepatik,
-    
 - dapat terjadi metastasis ekstrahepatik.
-    
 
 ### Mengapa HCC menjadi sangat vaskular?
 
@@ -216,11 +204,8 @@ Akibatnya tumor membentuk dan memanfaatkan pembuluh darah baru untuk mempertahan
 Selain angiogenesis, HCC juga mengalami:
 
 - **immune escape** → tumor menghindari penghancuran oleh sistem imun.
-    
 - **tumor microenvironment remodeling** → perubahan fibroblas, extracellular matrix (ECM), sitokin, dan sel imun.
-    
 - **vascular invasion** → terutama ke vena porta atau vena hepatika.
-    
 
 💡 **Hafalan progresi HCC:**  
 **Cedera → Inflamasi → Regenerasi → Fibrosis → Displasia → HCC → Invasi → Metastasis**
@@ -234,15 +219,10 @@ Selain angiogenesis, HCC juga mengalami:
 Lesi jinak cukup sering ditemukan. Pertimbangkan:
 
 - hemangioma,
-    
 - FNH,
-    
 - adenoma,
-    
 - metastasis,
-    
 - tumor primer yang lebih jarang.
-    
 
 ### Hati berisiko
 
@@ -261,13 +241,9 @@ Pada **sirosis atau HBV kronik**, munculnya lesi solid baru memiliki probabilita
 Terutama:
 
 - pasien dengan sirosis yang masih dapat menerima terapi HCC,
-    
 - Child-Pugh A atau B,
-    
 - sebagian pasien Child-Pugh C yang menunggu transplantasi,
-    
 - pasien HBV kronik tanpa sirosis berdasarkan risiko individual, misalnya usia, jenis kelamin, wilayah, riwayat keluarga, dan skor risiko.
-    
 
 Strategi AASLD:  
 **USG + AFP setiap 6 bulan.**
@@ -275,15 +251,10 @@ Strategi AASLD:
 ### Jika ditemukan nodul
 
 - **USG negatif** → ulang surveillance 6 bulan.
-    
 - **Lesi <1 cm** → USG + AFP ulang dalam 3–6 bulan.
-    
 - **Lesi ≥1 cm** → multiphasic CT atau contrast-enhanced MRI.
-    
 - Bila masih indeterminate → pencitraan alternatif, follow-up interval, atau biopsi.
-    
 - Bila definite HCC → staging dan diskusi MDT.
-    
 
 ---
 
@@ -292,21 +263,13 @@ Strategi AASLD:
 Pada pasien **at-risk**, HCC dapat didiagnosis secara noninvasif bila ditemukan karakteristik pencitraan yang sesuai.
 
 Kriteria penting:
-
 - pasien termasuk populasi berisiko,
-    
 - lesi ≥1 cm,
-    
 - **nonrim arterial phase hyperenhancement**,
-    
 - diikuti salah satu karakteristik seperti:
-    
     - washout,
-        
     - enhancing capsule,
-        
     - threshold growth.
-        
 
 ### Mengapa HCC mengalami washout?
 
@@ -326,14 +289,10 @@ Kemudian:
 
 Fase utama:
 
-1. **Noncontrast**
-    
+1. **Noncontrast**    
 2. **Arterial**
-    
 3. **Portal venous**
-    
 4. **Delayed**
-    
 
 Pada HCC tipikal:
 
@@ -348,19 +307,12 @@ Pencitraan multiphasic penting karena **pola perubahan enhancement antar-fase le
 LI-RADS merupakan sistem standar untuk mengklasifikasikan kemungkinan HCC pada pasien berisiko.
 
 - **LR-1** = definitely benign
-    
 - **LR-2** = probably benign
-    
 - **LR-3** = intermediate probability
-    
 - **LR-4** = probably HCC
-    
 - **LR-5** = definitely HCC
-    
 - **LR-M** = malignant, tetapi bukan karakteristik spesifik HCC
-    
 - **LR-TIV** = tumor in vein
-    
 
 💡 **Hafalan:**  
 **1–2 jinak → 3 abu-abu → 4–5 makin kuat HCC.**  
@@ -386,55 +338,38 @@ LI-RADS merupakan sistem standar untuk mengklasifikasikan kemungkinan HCC pada p
 **1. Resection**
 
 - Untuk HCC lokal dengan fungsi hati cukup baik dan sisa hati setelah operasi memadai.
-    
 - Portal hypertension dan komorbiditas memengaruhi pemilihan pasien.
-    
 
 **2. Ablation**
-
 - Berpotensi kuratif untuk tumor kecil.
-    
 - Thermal ablation paling efektif pada lesi sekitar **≤3 cm** dengan akses yang aman.
-    
 
 **3. Liver transplantation**
 
 - Mengatasi **tumor sekaligus penyakit hati yang mendasarinya**.
-    
 - **Milan criteria** menjadi salah satu benchmark utama.
-    
 - Bridging atau downstaging dapat digunakan pada pasien tertentu untuk mempertahankan kelayakan transplantasi.
-    
 
 ### Terapi locoregional
 
 - **TACE** = transarterial chemoembolization  
     Kemoterapi intraarterial + embolisasi pembuluh tumor.
-    
 - **TARE/radioembolization** = pemberian radiasi intraarterial, misalnya yttrium-90.
-    
 - **External-beam radiotherapy** = radiasi eksternal yang diarahkan secara konformal ke tumor.
-    
 - Kombinasi ablasi dapat digunakan pada kasus tertentu.
-    
 
 ### Terapi sistemik
 
 Pada HCC lanjut yang memenuhi syarat, kombinasi berbasis imunoterapi menjadi pilihan penting, misalnya:
 
 - **Atezolizumab + bevacizumab**
-    
 - **Durvalumab + tremelimumab**
-    
 
 Sebelum bevacizumab:
 
 - nilai risiko perdarahan,
-    
 - evaluasi varises,
-    
 - perhatikan kondisi komorbid.
-    
 
 Selalu nilai:  
 **Child-Pugh + ECOG + fungsi ginjal + komorbiditas + status transplantasi.**
@@ -450,91 +385,64 @@ Selalu nilai:
 Dapat berhubungan dengan:
 
 - primary sclerosing cholangitis (PSC),
-    
 - choledochal cyst,
-    
 - liver flukes,
-    
 - penyakit hati kronik.
-    
 
 Namun, **banyak pasien tidak memiliki faktor risiko yang jelas.**
 
 ### Gambaran klinis
 
 - Penurunan berat badan.
-    
 - Nyeri.
-    
 - Parameter kolestasis dapat meningkat.
-    
 
 **CA 19-9** dapat mendukung diagnosis, tetapi **tidak dapat menegakkan diagnosis sendiri**.
 
 CA 19-9 juga dapat meningkat pada:
 
 - kolestasis,
-    
 - infeksi.
-    
 
 ### Pencitraan
 
 Biasanya berupa **mass-forming lesion** dengan:
 
 - peripheral rim enhancement,
-    
 - progressive delayed enhancement,
-    
 - capsular retraction,
-    
 - kadang dilatasi bilier.
-    
 
 ### Diagnosis
 
 - Staging dengan CT/MRI berkualitas baik.
-    
 - Pada sebagian besar kasus, diperlukan **tissue diagnosis** sebelum terapi sistemik.
-    
 - Pada penyakit lanjut dilakukan **molecular profiling** untuk mencari target terapi.
-    
 
 ### Tata laksana
 
 **Resektabel**
 
 - Hepatic resection + evaluasi/kelenjar limfe.
-    
 - Adjuvant capecitabine sering dipertimbangkan.
-    
 
 **Tidak resektabel tetapi terbatas di hati**
 
 - Terapi sistemik.
-    
 - Terapi locoregional tertentu atau clinical trial pada pasien terpilih.
-    
 
 **Advanced disease**
 
 - **Gemcitabine + cisplatin + durvalumab** merupakan salah satu standar lini pertama penting.
-    
 
 Perubahan molekuler tertentu dapat membuka terapi target:
 
 - **FGFR2 fusion/rearrangement**
-    
 - **IDH1 mutation**
-    
 - **BRAF V600E**
-    
 - **HER2**
-    
 - **NTRK**
-    
 - **MSI-H/dMMR**
-    
 
 💡 **Bedakan cepat:**  
 **HCC → hepatosit**  
@@ -549,110 +457,68 @@ Metastasis hati terjadi ketika sel kanker dari **tumor primer di organ lain** me
 Metastasis hati **lebih sering daripada keganasan primer hati**.
 
 Sumber yang sering:
-
 - kolorektal,
-    
 - pankreas,
-    
 - payudara,
-    
 - paru,
-    
 - neuroendokrin,
-    
 - melanoma,
-    
 - gastrointestinal dan traktus biliaris.
-    
 
 ## Patomekanisme metastasis
 
 Prosesnya merupakan **multistep metastatic cascade**:
 
 **1. Primary tumor invasion**
-
 - Sel tumor kehilangan adhesi.
-    
 - **E-cadherin ↓**
-    
 - **MMPs ↑** → mendegradasi extracellular matrix.
-    
 - **EMT ↑** → sel memperoleh karakter lebih invasif.
-    
 - Tumor menginvasi jaringan sekitar.
-    
 
 **2. Intravasation**
-
 - Sel tumor masuk ke pembuluh darah atau limfe.
-    
 
 **3. Circulation**
-
 - Sel tumor yang beredar disebut **circulating tumor cells (CTCs)**.
-    
 - Sebagian membentuk **CTC clusters**.
-    
 - Platelet dapat melapisi sel tumor sehingga membantu:
-    
     - perlindungan mekanik,
-        
     - immune evasion,
-        
     - survival dalam sirkulasi.
-        
 
 **4. Sampai ke hati**  
 Tergantung lokasi tumor primer:
-
 - Tumor kolorektal/GI → **vena porta → hati**
-    
 - Tumor payudara/paru/dan lainnya → sirkulasi sistemik → **arteri hepatika → hati**
-    
 
 **5. Hepatic sinusoidal arrest**
-
 - CTC mengalami penahanan mekanik dan adhesi di sinusoid hati.
-    
 - Berinteraksi dengan **liver sinusoidal endothelial cells (LSEC)**.
-    
 
 **6. Extravasation**
-
 - Sel tumor melewati endotel sinusoid dan masuk ke parenkim hati.
-    
 
 **7. Metastatic niche + immune escape**
-
 - Sel tumor berinteraksi dengan:
-    
     - Kupffer cells,
-        
     - hepatic stellate cells,
-        
     - cancer-associated fibroblasts,
-        
     - sel imun,
-        
     - ECM,
-        
     - sitokin dan kemokin.
-        
 - Banyak sel tumor mati akibat imunitas innate dan adaptive.
-    
 - Hanya klon yang mampu beradaptasi yang bertahan.
-    
 
 **8. Angiogenesis + pertumbuhan**
-
 - Klon yang bertahan berkembang menjadi **micrometastasis**.
-    
 - Kemudian mengalami:  
     **clonal expansion + angiogenesis/vessel co-option → macrometastasis**
-    
 
 💡 **Hafalan metastasis:**  
 **Invade → Intravasate → Circulate → Arrive → Arrest → Extravasate → Escape → Expand**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790175855000mctj4h.png)
 
 ---
 
@@ -661,13 +527,9 @@ Tergantung lokasi tumor primer:
 Karena hati memiliki:
 
 - aliran darah yang sangat besar,
-    
 - sistem vena porta yang langsung menerima darah dari gastrointestinal,
-    
 - sinusoid yang memudahkan interaksi sel tumor dengan sel hati,
-    
 - lingkungan imunologis dan stromal yang dapat mendukung kolonisasi tumor.
-    
 
 ### Gambaran metastasis hati
 
