@@ -1,4 +1,4 @@
-# HEPATITIS VIRUS A, B, DAN C
+# OVERVIEW HEPATITIS VIRUS A, B, DAN C
 
 > **Prinsip utama:** pada hepatitis virus, **cedera hepatosit terutama disebabkan oleh respons imun terhadap sel yang terinfeksi**, bukan efek sitopatik virus secara langsung.
 
@@ -17,22 +17,18 @@ Tiga virus ini memiliki pola penyakit yang berbeda:
     
 2. **Virus menginfeksi hepatosit dan bereplikasi**
     - HAV: terutama di **sitoplasma**.
-    - HBV: genom DNA masuk ke **nukleus** dan membentuk **cccDNA**.
+    - HBV: genom DNA masuk ke **nukleus** dan membentuk cccDNA.
     - HCV: replikasi RNA terutama berlangsung di **sitoplasma**.
     
 3. **Respons imun innate dan adaptif aktif**
     - Sel Kupffer, sel NK, sitokin inflamasi, dan terutama **sel T CD8+** berperan dalam eliminasi sel terinfeksi.
     
 4. **Terjadi inflamasi dan kematian hepatosit**
-    
     - Menyebabkan peningkatan **AST dan ALT**.
-        
     - Pada penyakit berat, fungsi sintesis hati dapat terganggu sehingga **INR meningkat, glukosa turun, dan dapat terjadi ensefalopati**.
-        
-5. **Nasib penyakit bergantung pada keberhasilan eliminasi virus**
     
+5. **Nasib penyakit bergantung pada keberhasilan eliminasi virus**
     - **Infeksi akut:** respons imun efektif, virus dieliminasi, inflamasi mereda, hati beregenerasi.
-        
     - **Infeksi kronik:** virus menetap, inflamasi berlangsung lama, terjadi aktivasi sel stelata, fibrosis, sirosis, dan peningkatan risiko **hepatocellular carcinoma (HCC)**.
 
 💡 **Ingat:**  
@@ -42,31 +38,19 @@ Tiga virus ini memiliki pola penyakit yang berbeda:
 ### Akut vs kronik
 
 - **Hepatitis akut**
-    
     - Virus biasanya berhasil dieliminasi.
-        
     - Respons sel T CD8+ relatif kuat dan efektif.
-        
     - Cedera hepatosit berlangsung terbatas.
-        
     - Inflamasi bersifat sementara.
-        
     - Fibrosis biasanya minimal atau tidak ada.
-        
     - Umumnya berakhir dengan pemulihan.
-        
-- **Hepatitis kronik**
     
+- **Hepatitis kronik**
     - Virus menetap.
-        
     - Aktivasi imun berlangsung terus tetapi tidak efektif mengeliminasi virus.
-        
     - Terjadi cedera hepatosit berulang.
-        
     - Sitokin profibrotik seperti **TGF-β** dan **PDGF** mengaktivasi sel stelata hati.
-        
     - Sel stelata berubah menjadi **miofibroblas** dan menghasilkan matriks ekstraseluler, terutama kolagen.
-        
     - Terjadi fibrosis progresif, kemudian **bridging fibrosis**, sirosis, dan dapat berkembang menjadi HCC.
 
 ⚠️ **Penting:** derajat AST/ALT menunjukkan **cedera hepatosit**, bukan langsung menunjukkan seberapa baik atau buruk fungsi hati. Untuk fungsi hati, lebih penting menilai **INR, glukosa, status mental, dan pada kondisi berat laktat**.
@@ -78,29 +62,17 @@ Tiga virus ini memiliki pola penyakit yang berbeda:
 ## Karakteristik dan patomekanisme
 
 - HAV merupakan virus **RNA, tidak berselubung (non-enveloped)**.
-    
 - Transmisi terutama melalui **fekal-oral**.
-    
 - Sumber utama:
-    
     - makanan atau air yang terkontaminasi,
-        
     - kontak serumah,
-        
     - wabah komunitas,
-        
     - sanitasi buruk,
-        
     - perjalanan ke daerah endemik,
-        
     - kontak seksual oral-anal.
-        
 - Setelah tertelan, HAV masuk melalui saluran cerna, kemudian mencapai aliran darah dan hati.
-    
 - HAV bereplikasi dalam hepatosit dan virus kemudian diekskresikan melalui empedu ke feses.
-    
 - Cedera hati terutama disebabkan oleh **respons imun terhadap hepatosit yang terinfeksi**.
-    
 - Respons imun berhasil membersihkan virus sehingga penyakit biasanya **sembuh sempurna dan tidak menjadi kronik**.
 
 ### Perjalanan infeksi
@@ -114,49 +86,29 @@ Ekskresi virus dalam feses paling tinggi **sebelum timbul ikterus**, sehingga pa
 Hepatitis A akut biasanya melalui beberapa fase:
 
 - **Inkubasi**
-    
     - Umumnya asimtomatik.
-        
     - Virus bereplikasi.
-        
 - **Prodromal**
-    
     - Demam
-        
     - Malaise
-        
     - Anoreksia
-        
     - Mual dan muntah
-        
     - Nyeri kuadran kanan atas
-        
 - **Ikterik**
-    
     - Ikterus
-        
     - Urin gelap
-        
     - Feses pucat
-        
     - Pruritus
-        
     - Demam sering mulai mereda ketika ikterus muncul.
-        
 - **Konvalesen**
-    
     - Gejala dan bilirubin berangsur membaik.
-        
     - Fungsi hati kembali pulih.
 
 Pemeriksaan fisik dapat menunjukkan:
 
 - ikterus sklera,
-    
 - hepatomegali atau nyeri tekan hati,
-    
 - tanda dehidrasi,
-    
 - pada pasien dengan penyakit hati sebelumnya, dapat ditemukan tanda penyakit hati kronik.
 
 ⚠️ **Asteriksis atau perubahan kesadaran** menunjukkan kemungkinan ensefalopati hepatik dan merupakan tanda bahaya.
@@ -166,31 +118,20 @@ Pemeriksaan fisik dapat menunjukkan:
 **Paparan HAV:**
 
 - makanan/air tercemar,
-    
 - kontak serumah dengan penderita,
-    
 - wabah,
-    
 - sanitasi buruk,
-    
 - perjalanan ke daerah endemik,
-    
 - kontak seksual oral-anal,
-    
 - penggunaan narkoba,
-    
 - tunawisma.
 
 Risiko penyakit berat meningkat pada:
 
 - usia lebih tua,
-    
 - penyakit hati kronik, termasuk HBV/HCV,
-    
 - imunosupresi,
-    
 - komorbid berat,
-    
 - dehidrasi atau tidak mampu mempertahankan asupan oral.
 
 HAV dapat menyebabkan penyakit yang berkepanjangan atau relaps pada sebagian kecil pasien, tetapi **tidak menyebabkan hepatitis kronik**.
@@ -200,23 +141,14 @@ HAV dapat menyebabkan penyakit yang berkepanjangan atau relaps pada sebagian kec
 Pemeriksaan utama adalah **IgM anti-HAV**.
 
 - **IgM anti-HAV positif**
-    
     - Mendukung infeksi HAV akut atau baru.
-        
     - Hasil perlu dikorelasikan dengan gejala dan konteks klinis karena dapat terjadi hasil positif palsu.
-        
 - **IgG anti-HAV positif**
-    
     - Menunjukkan imunitas akibat infeksi sebelumnya atau vaksinasi.
-        
     - Menetap dalam jangka panjang dan memberikan imunitas.
-        
 - **Total anti-HAV positif + IgM negatif**
-    
     - Biasanya menunjukkan infeksi lama atau imunitas akibat vaksinasi.
-        
 - **Total anti-HAV negatif + IgM negatif**
-    
     - Tidak ada bukti infeksi maupun imunitas.
 
 💡 **Tips hafalan HAV:**  
