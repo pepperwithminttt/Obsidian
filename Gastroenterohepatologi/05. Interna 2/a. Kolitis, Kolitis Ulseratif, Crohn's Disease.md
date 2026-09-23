@@ -37,9 +37,7 @@ IBD dapat ditemukan di seluruh dunia, tetapi lebih sering ditemukan di negara-ne
 Patogenesis IBD melibatkan **3 faktor utama**:
 
 1. **Genetic susceptibility**
-    
 2. **Environmental triggers**
-    
 3. **Immune activation**
 
 Ketiganya berinteraksi pada individu yang secara genetik rentan sehingga terjadi respons imun mukosa yang tidak teratur terhadap antigen dari **normal commensal microbiota** di usus.
