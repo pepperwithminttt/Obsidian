@@ -195,28 +195,18 @@ Temuan klinis dapat dikelompokkan menjadi:
 - Eritema palmar
 ![gh|246](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167044000sqrgxc.png)
 - Spider angioma
-    
 - Ginekomastia
-    
 - Atrofi testis
-    
 
 > Stigmata tersebut **mendukung diagnosis**, tetapi **tidak spesifik** untuk sirosis.
 
 **4. Nilai frailty**
-
 - Kekuatan genggam
-    
 - Massa otot
-    
 - Aktivitas sehari-hari
-    
 - Dukungan sosial
-    
 
 Frailty penting karena memengaruhi prognosis dan kemampuan pasien menghadapi penyakit kronik.
-
----
 
 ### B. Alur diagnosis awal
 
@@ -229,123 +219,73 @@ Frailty penting karena memengaruhi prognosis dan kemampuan pasien menghadapi pen
 Nilai apakah bukti **klinis + struktur + fungsi** konsisten dengan sirosis.
 
 **Jika konsisten:**
-
 - Tentukan etiologi
-    
 - Tentukan stadium
-    
 - Cari komplikasi
-    
 - Rencanakan surveilans
-    
 - Tentukan kebutuhan rujukan
-    
 
 **Jika belum konsisten:**
-
 - Tinjau diagnosis banding
-    
 - Tambahkan pemeriksaan etiologi
-    
 - Pertimbangkan biopsi bila hasilnya akan mengubah keputusan klinis
-    
-
----
 
 ### C. Pemeriksaan laboratorium
 
 Laboratorium menjawab 4 masalah utama:
 
 **1. Cedera hati/kolestasis**
-
 - AST
-    
 - ALT
-    
 - ALP
-    
 - GGT
-    
 - Bilirubin
-    
 
 ⚠️ **AST/ALT dapat normal pada sirosis lanjut**, sehingga enzim hati normal **tidak menyingkirkan sirosis**.
 
 **2. Cadangan fungsi hati**
-
 - Albumin
-    
 - Bilirubin
-    
 - INR
-    
 
 Mencerminkan kemampuan sintesis hati dan digunakan dalam penilaian prognosis.
 
 **3. Hipertensi portal**
-
 - Trombosit rendah
-    
 - Splenomegali
-    
 
 Tren pemeriksaan lebih informatif dibandingkan hanya satu nilai.
 
 **4. Disfungsi organ**
-
 - Kreatinin
-    
 - Natrium
-    
 - Kalium
-    
 - Glukosa
-    
 - Darah lengkap
-    
 
 Digunakan untuk mendeteksi komplikasi dan menentukan urgensi penanganan.
-
----
 
 ### D. USG dan elastografi
 
 **Ultrasonografi abdomen**  
 Cari:
-
 - Kontur hati noduler
-    
 - Parenkim kasar
-    
 - Splenomegali
-    
 - Asites
-    
 - Diameter vena porta
-    
 - Aliran darah dengan Doppler
-    
 - Lesi fokal hati
-    
 
 **Elastografi**
-
 - Mengukur **liver stiffness/kekakuan hati**.
-    
 - Peningkatan kekakuan mendukung **cACLD (compensated advanced chronic liver disease)**.
-    
 - Harus diinterpretasikan bersama:
-    
     - etiologi
-        
     - inflamasi
-        
     - kolestasis
-        
     - kongesti
-        
     - kondisi puasa
-        
 
 ### Non-invasive assessment untuk CSPH
 
@@ -354,18 +294,13 @@ Cari:
 Pada kelompok pasien yang kriterianya tervalidasi:
 
 - **LSM ≤15 kPa + trombosit ≥150.000/μL** → membantu **menyingkirkan CSPH**
-    
 - **LSM ≥25 kPa** → membantu **menetapkan CSPH**
-    
 - Nilai di antara kedua ambang → perlu kombinasi parameter lain dan keputusan klinis.
-    
 
 💡 **Hafalan angka:**  
 **≤15 + ≥150 = rule out**  
 **≥25 = rule in**  
 **15–25 = zona abu-abu**
-
----
 
 ### E. Asites baru → lakukan parasentesis diagnostik
 
@@ -373,99 +308,62 @@ Pada kelompok pasien yang kriterianya tervalidasi:
 → lakukan **parasentesis diagnostik**.
 
 Periksa:
-
 - Hitung sel dan diferensial
-    
 - Albumin asites
-    
 - Protein total
-    
 - Kultur bila dicurigai infeksi
-    
 
 #### 1. PMN ≥250 sel/mm³
 
 → **Diagnosis SBP (Spontaneous Bacterial Peritonitis) sampai terbukti sebaliknya.**
 
 Perlu:
-
 - Terapi sesuai protokol
-    
 - Penilaian fungsi ginjal
-    
 
 #### 2. SAAG
 
 **SAAG = albumin serum − albumin asites**
-
 - **SAAG ≥1,1 g/dL**  
     → mendukung **hipertensi portal**  
     → pertimbangkan:
-    
     - sirosis
-        
     - gagal jantung
-        
     - Budd-Chiari
-        
 - **SAAG <1,1 g/dL**  
     → lebih mengarah ke penyebab non-hipertensi portal:
-    
     - keganasan peritoneal
-        
     - tuberkulosis peritoneal
-        
     - pankreatitis
-        
     - penyebab lain
-        
 
 💡 **Hafalan:**  
 **SAAG tinggi = Portal pressure tinggi**  
 **SAAG rendah = cari penyebab lain**
-
----
 
 ### F. Diagnosis sirosis menggunakan “triangulasi bukti” 🔺
 
 Diagnosis tidak bergantung pada satu pemeriksaan saja.
 
 **1. Klinis**
-
 - Faktor risiko
-    
 - Tanda hipertensi portal
-    
 - Dekompensasi
-    
 - Perjalanan penyakit
-    
 
 **2. Struktur**
-
 - US/Doppler
-    
 - Elastografi
-    
 - Endoskopi
-    
 - Pencitraan lanjutan bila diperlukan
-    
 
 **3. Fungsi**
-
 - Trombosit
-    
 - Albumin
-    
 - Bilirubin
-    
 - INR
-    
 - Kreatinin
-    
 - Natrium
-    
 
 Jika ketiga domain memberikan pola yang konsisten → diagnosis semakin kuat.
 
