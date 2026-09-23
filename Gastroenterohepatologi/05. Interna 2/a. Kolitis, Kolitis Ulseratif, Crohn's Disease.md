@@ -90,26 +90,17 @@ UC pertama kali dideskripsikan oleh **Wilks dan Moxon pada tahun 1875**.
 ### Karakteristik utama UC
 
 - Hanya mengenai **kolon**.
-    
 - Inflamasi terutama terbatas pada **mukosa**.
-    
 - Lesi bersifat **kontinu**, dimulai dari **rektum** dan dapat meluas ke bagian kolon yang lebih proksimal.
-    
 - Gejala khas berupa **bloody diarrhea / tinja berdarah**.
-    
 - Nyeri abdomen umumnya:
-    
     - Bersifat **crampy** atau seperti kram.
-        
     - Terutama di abdomen bagian bawah.
-        
     - Dapat **berkurang setelah defekasi**.
-        
 - Umumnya **tidak terdapat massa abdomen**.
-    
 - Granuloma bukan gambaran khas UC.
 
-> 🧠 **Kunci UC = “U = Usus besar, Uniform, hanya mukosa”**
+> 🧠 **Kunci UC = “U = Usus besar, Uniform (maksudnya difus), hanya mukosa”**
 > 
 > **U**C → **U**ntuk kolon saja → lesi **U**niform/continuous → **mukosa**.
 
