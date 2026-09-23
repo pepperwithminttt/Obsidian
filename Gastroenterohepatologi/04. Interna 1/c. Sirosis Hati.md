@@ -67,7 +67,7 @@ Namun, regenerasi terjadi di antara **septa fibrosis**, sehingga susunan hepatos
 
 **Fibrosis + nodul regeneratif → distorsi arsitektur hati dan pembuluh darah intrahepatik.**
 
-### Kenapa disebut “nodul”?
+### Terus kenapa disebut “nodul”?
 
 Karena jaringan fibrotik membentuk **septa/sekat fibrosa** yang mengelilingi dan membagi jaringan hati menjadi kelompok-kelompok hepatosit.
 
@@ -76,8 +76,6 @@ Sehingga terbentuk:
 **Nodul hepatosit regeneratif + septa fibrosis → arsitektur hati menjadi noduler.**
 
 Jadi, **nodul regeneratif sebenarnya merupakan usaha hati mempertahankan massa dan fungsi hepatosit**, tetapi karena terbentuk dalam lingkungan fibrosis, akhirnya justru ikut menyebabkan gangguan struktur dan aliran darah hati.
-
-
 
 ---
 
