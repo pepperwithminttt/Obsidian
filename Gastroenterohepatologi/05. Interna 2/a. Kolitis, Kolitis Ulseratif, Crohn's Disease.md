@@ -7,16 +7,13 @@ IBD terutama terdiri atas dua penyakit utama:
 - **Ulcerative colitis (UC) / kolitis ulseratif**
 - **Crohn’s disease (CD) / penyakit Crohn**
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17901861290008zn554.png)
+![gh|441](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17901861290008zn554.png)
 
 Ciri utama IBD:
 
 - Inflamasi kronis pada usus.
-    
 - Bersifat **relaps-remisi**, yaitu gejala dapat kambuh (_relapse_) kemudian membaik atau menghilang (_remission_).
-    
 - Melibatkan interaksi antara faktor **genetik, lingkungan, mikrobiota usus, dan sistem imun**.
-    
 - Secara klinis terutama terbagi menjadi UC dan CD.
 
 ## 1. Epidemiologi
