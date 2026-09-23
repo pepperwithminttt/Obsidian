@@ -301,11 +301,8 @@ Pada fase **window period**:
 💡 **Tips hafalan serologi HBV:**
 
 - **S = Surface = HBsAg → virus sedang ada**
-    
 - **Core = pernah ketemu virus → anti-HBc**
-    
 - **Anti-S = sudah punya perlindungan → anti-HBs**
-    
 - **Vaksin → anti-HBs (+), anti-HBc (−)**
 
 ⚠️ **HBsAg positif saja belum cukup untuk menentukan diagnosis lengkap.** Harus ditentukan apakah akut/kronik, seberapa aktif replikasi virus, derajat fibrosis, serta ada tidaknya komplikasi.
@@ -315,31 +312,18 @@ Pada fase **window period**:
 Setelah HBsAg positif, lakukan penilaian:
 
 1. **Akut atau kronik**
-    
-    - IgM anti-HBc
-        
+    - IgM anti-HBc (klo IgM positif berarti akut)
     - riwayat pemeriksaan sebelumnya
-        
     - persistensi HBsAg.
-        
 2. **Aktivitas virus**
-    
     - HBV DNA
-        
     - HBeAg/anti-HBe
-        
     - ALT.
-        
 3. **Fibrosis**
-    
     - platelet
-        
     - APRI/FIB-4
-        
     - elastografi
-        
     - USG.
-        
 4. **Komorbid dan koinfeksi**
     
     - HIV
