@@ -640,18 +640,12 @@ Gunakan **R ratio**:
 **R = (ALT / ULN ALT) ÷ (ALP / ULN ALP)**
 
 - **R ≥5:** pola hepatoseluler
-    
 - **R ≤2:** pola kolestatik
-    
 - **R 2–5:** pola campuran
-
-💡 **Hafalan:**  
-**5 = Hepato, 2 = Kolestasis, tengah = Mixed.**
 
 ### Cedera hati ≠ gagal hati
 
 - **AST/ALT tinggi** = menunjukkan **cedera hepatosit**.
-    
 - **INR meningkat, hipoglikemia, ensefalopati** = menunjukkan **gangguan fungsi hati**.
 
 ⚠️ Bilirubin tinggi menunjukkan gangguan ekskresi bilirubin, tetapi penurunan AST/ALT yang cepat **tidak selalu berarti pasien membaik**. Pada gagal hati berat, jumlah hepatosit yang masih mampu melepaskan enzim dapat berkurang sementara fungsi hati justru memburuk.
@@ -669,47 +663,28 @@ Kriteria penting:
 Tanda bahaya lain:
 
 - perubahan kesadaran,
-    
 - asteriksis,
-    
 - hipoglikemia,
-    
 - asidosis atau laktat meningkat,
-    
 - perdarahan,
-    
 - infeksi/sepsis,
-    
 - instabilitas hemodinamik,
-    
 - kreatinin meningkat atau oliguria,
-    
 - bilirubin/INR memburuk cepat,
-    
 - kehamilan dengan hepatitis berat,
-    
 - komorbid berat.
 
 ### Tindakan
 
 - Rawat intensif sesuai kondisi.
-    
 - Konsultasi hepatologi sedini mungkin.
-    
 - Hubungi pusat transplantasi bila dicurigai ALF.
-    
 - Monitor:
-    
     - kesadaran,
-        
     - glukosa,
-        
     - INR,
-        
     - elektrolit,
-        
     - fungsi ginjal.
-        
 - Hindari sedatif dan obat hepatotoksik yang tidak diperlukan.
 
 💡 **Red flag utama:**  
