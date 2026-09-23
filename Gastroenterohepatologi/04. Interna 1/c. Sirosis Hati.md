@@ -132,6 +132,8 @@ Pada sirosis lanjut, terjadi gangguan sawar usus + **bacterial translocation** �
 💡 **Hafalan dekompensasi:**  
 **Portal – Hepatosit – Sirkulasi – Imun** → **PH-SI**.
 
+### Manifestasi klinis sesuai patomekanisme yang terjadi
+
 | Mekanisme                                                    | Konsekuensi                                             | Temuan klinis                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- |
 | **Fibrosis + nodul regeneratif** mendistorsi arsitektur hati | ↑ resistensi aliran portal → **hipertensi portal**      | Splenomegali, trombositopenia, varises                        |
