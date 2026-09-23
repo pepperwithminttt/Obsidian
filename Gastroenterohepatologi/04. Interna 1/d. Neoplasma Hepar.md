@@ -604,23 +604,14 @@ Perhatikan:
 Perlu evaluasi lebih lanjut bila terdapat:
 
 - kanker ekstrahepatik yang sudah diketahui,
-    
 - sirosis atau HBV kronik,
-    
 - penurunan berat badan tanpa sebab,
-    
 - demam atau nyeri persisten,
-    
 - obstruksi bilier,
-    
 - invasi vaskular,
-    
 - AFP atau CA 19-9 meningkat,
-    
 - lesi mengalami pertumbuhan pada follow-up,
-    
 - pola enhancement atipikal.
-    
 
 ---
 
