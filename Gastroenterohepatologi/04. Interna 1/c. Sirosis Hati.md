@@ -122,7 +122,7 @@ Hipertensi portal → [**vasodilatasi splanknik**]{Vasodilatasi splanknik adalah
 → **asites, edema, hiponatremia, AKI/HRS**.
 
 **4. Disfungsi inflamasi & imun**  
-Gangguan sawar usus + **bacterial translocation** → inflamasi sistemik dan imunitas terganggu  
+Pada sirosis lanjut, terjadi gangguan sawar usus + **bacterial translocation** → inflamasi sistemik dan imunitas terganggu  
 → ↑ risiko **SBP dan sepsis**.
 
 ### 🧠 Alur yang wajib dipahami
