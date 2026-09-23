@@ -166,9 +166,6 @@ Penemuan satu faktor risiko **tidak berarti evaluasi etiologi selesai**, karena 
 |**Autoimun/kolestatik**|Penyakit autoimun, pruritus, IBD|ANA, ASMA, IgG; AMA, IgM; MRCP sesuai indikasi|
 |**Genetik/vaskular/obat**|Usia muda, riwayat keluarga, gagal jantung, trombosis, obat/jamu|Ferritin/TSAT, ceruloplasmin, A1AT, Doppler atau ekokardiografi sesuai konteks|
 
-💡 **Cara berpikir:**  
-**Virus – Metabolik – Alkohol – Autoimun – Genetik/Vaskular/Obat**
-
 ---
 
 ## 4. PEMERIKSAAN & DIAGNOSIS
@@ -180,30 +177,24 @@ Temuan klinis dapat dikelompokkan menjadi:
 **1. Tanda hipertensi portal**
 
 - Splenomegali
-    
 - Trombositopenia
-    
 - Kolateral vena dinding abdomen
-    
 - Varises
-    
 - Asites
-    
+
+![gh|246](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167044000sqrgxc.png)
+
 
 **2. Tanda gagal fungsi hati**
 
 - Ikterus
-    
 - Edema
-    
 - Mudah memar
-    
 - Sarkopenia
-    
 - Ensefalopati hepatik
-    
 - Asteriksis
-    
+
+![gh|245](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167083000c8g6sh.png)
 
 **3. Stigmata penyakit hati kronik**
 
