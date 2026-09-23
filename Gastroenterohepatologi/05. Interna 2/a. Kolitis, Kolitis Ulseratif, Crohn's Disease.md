@@ -114,8 +114,7 @@ Crohn’s disease pertama kali dideskripsikan pada tahun **1932** oleh **Burrill
 
 ### Karakteristik utama CD
 
-- Dapat mengenai **seluruh saluran gastrointestinal**, mulai dari usus halus hingga usus besar; materi juga menyebutkan bahwa secara jarang dapat mengenai **esofagus dan lambung**.
-    
+- Dapat mengenai **seluruh saluran gastrointestinal**, mulai dari usus halus hingga usus besar; jarang tapi juga dapat mengenai **esofagus dan lambung**.
 - Inflamasi bersifat **transmural**.
     
 - Lesi dapat bersifat **discontinuous**, dengan area usus yang normal di antara area yang mengalami inflamasi → disebut **skip areas / skip lesions**.
