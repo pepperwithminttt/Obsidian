@@ -46,14 +46,15 @@
 
 ## 2. PATOMEKANISME → MENGAPA TANDA & GEJALA MUNCUL?
 
-|Mekanisme|Konsekuensi|Temuan klinis|
-|---|---|---|
-|**Fibrosis + nodul regeneratif** mendistorsi arsitektur hati|↑ resistensi aliran portal → **hipertensi portal**|Splenomegali, trombositopenia, varises|
-|**Vasodilatasi splanknik**|Aktivasi **RAAS** dan **ADH** → retensi natrium dan air|Asites, edema, hiponatremia, AKI/HRS|
-|**Penurunan sintesis hepatik**|↓ albumin, gangguan faktor koagulasi → INR memanjang|Edema, mudah memar, cadangan fungsi hati menurun|
-|**Gangguan ekskresi bilirubin**|Bilirubin terakumulasi dalam darah|Ikterus, urin gelap|
-|**Penurunan detoksifikasi + portosystemic shunting**|↑ toksin neuroaktif mencapai otak|Gangguan tidur, kebingungan, asteriksis, ensefalopati hepatik|
-|**Perubahan imunitas dan metabolisme**|↑ risiko infeksi + ↑ katabolisme|SBP/sepsis, sarkopenia, frailty|
+| Mekanisme                                                    | Konsekuensi                                             | Temuan klinis                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- |
+| **Fibrosis + nodul regeneratif** mendistorsi arsitektur hati | ↑ resistensi aliran portal → **hipertensi portal**      | Splenomegali, trombositopenia, varises                        |
+| **Vasodilatasi splanknik**                                   | Aktivasi **RAAS** dan **ADH** → retensi natrium dan air | Asites, edema, hiponatremia, AKI/HRS                          |
+| **Penurunan sintesis hepatik**                               | ↓ albumin, gangguan faktor koagulasi → INR memanjang    | Edema, mudah memar, cadangan fungsi hati menurun              |
+| **Gangguan ekskresi bilirubin**                              | Bilirubin terakumulasi dalam darah                      | Ikterus, urin gelap                                           |
+| **Penurunan detoksifikasi + portosystemic shunting**         | ↑ toksin neuroaktif mencapai otak                       | Gangguan tidur, kebingungan, asteriksis, ensefalopati hepatik |
+| **Perubahan imunitas dan metabolisme**                       | ↑ risiko infeksi + ↑ katabolisme                        | SBP/sepsis, sarkopenia, frailty                               |
+
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790165168000cp20be.png)
 
 ### 🔑 Pahami asites
