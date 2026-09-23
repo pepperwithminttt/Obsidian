@@ -46,6 +46,111 @@
 
 ## 2. PATOMEKANISME → MENGAPA TANDA & GEJALA MUNCUL?
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790165168000cp20be.png)
+### SYA MALAS LIAT GAMBAR, JDI KUTAMBAH DI SINI TEKS PATOMEKANISME SIROSIS HATI (ISINYA SAMA KYK YG GAMBAR DI ATAS)
+
+**Cedera hati kronik**  
+Bisa karena HBV/HCV, alkohol, MASLD, autoimun, penyakit kolestatik, obat/toksin, genetik, dll.  
+↓  
+**Cedera dan kematian hepatosit berulang**  
+↓  
+**Aktivasi hepatic stellate cell**  
+Sel stellata yang normalnya _quiescent_ berubah menjadi **myofibroblast** → menghasilkan kolagen dan extracellular matrix (ECM) berlebihan  
+↓  
+**Fibrosis hati** (sumber segala masalah)
+
+### 🔸 Nodul regeneratif
+
+Kerusakan hepatosit merangsang hati untuk **memperbaiki diri**. Hepatosit yang masih hidup mengalami proliferasi sehingga terbentuk **nodul regeneratif**, yaitu kumpulan hepatosit yang beregenerasi.
+
+Namun, regenerasi terjadi di antara **septa fibrosis**, sehingga susunan hepatosit tidak kembali normal.
+
+**Fibrosis + nodul regeneratif → distorsi arsitektur hati dan pembuluh darah intrahepatik.**
+
+### Kenapa disebut “nodul”?
+
+Karena jaringan fibrotik membentuk **septa/sekat fibrosa** yang mengelilingi dan membagi jaringan hati menjadi kelompok-kelompok hepatosit.
+
+Sehingga terbentuk:
+
+**Nodul hepatosit regeneratif + septa fibrosis → arsitektur hati menjadi noduler.**
+
+Jadi, **nodul regeneratif sebenarnya merupakan usaha hati mempertahankan massa dan fungsi hepatosit**, tetapi karena terbentuk dalam lingkungan fibrosis, akhirnya justru ikut menyebabkan gangguan struktur dan aliran darah hati.
+
+
+
+---
+
+### 🟢 Sirosis kompensata
+
+Pada tahap ini:
+
+- Fibrosis dan nodul regeneratif sudah terbentuk.
+    
+- Fungsi hepatosit masih relatif terjaga.
+    
+- Resistensi intrahepatik mulai meningkat.
+    
+- Tubuh masih mampu melakukan mekanisme kompensasi:
+    
+    - Pembentukan **kolateral portosistemik**
+        
+    - Adaptasi **RAAS, sistem saraf simpatis, dan ADH**
+        
+    - Homeostasis imun masih relatif terjaga
+        
+- Manifestasi klinis masih minimal atau tidak ada.
+    
+
+→ **Cadangan fungsi hati masih cukup untuk mempertahankan homeostasis.**
+
+---
+
+### 🔴 Progresi menjadi sirosis dekompensata
+
+Cedera hati terus berlangsung  
+→ inflamasi dan fibrosis semakin progresif  
+→ distorsi vaskular semakin berat  
+→ cadangan hepatosit semakin menurun  
+→ **mekanisme kompensasi gagal**  
+→ dekompensasi.
+
+Ada **4 proses utama**:
+
+**1. Hipertensi portal**  
+Fibrosis + distorsi vaskular → resistensi intrahepatik ↑ → tekanan portal ↑  
+→ **varises, splenomegali, trombositopenia, asites**  
+→ varises dapat pecah → **perdarahan varises**.
+
+**2. Disfungsi hepatosit**  
+Fungsi sintesis, metabolisme, detoksifikasi, dan ekskresi menurun:
+
+- Albumin ↓ → edema
+    
+- Faktor koagulasi ↓ → INR ↑
+    
+- Detoksifikasi ↓ → ensefalopati hepatik
+    
+- Ekskresi bilirubin ↓ → ikterus
+    
+
+**3. Disfungsi sirkulasi sistemik**  
+Hipertensi portal → **vasodilatasi splanknik** → effective arterial blood volume ↓  
+→ RAAS + simpatis + ADH ↑  
+→ retensi Na⁺ dan air + vasokonstriksi renal  
+→ **asites, edema, hiponatremia, AKI/HRS**.
+
+**4. Disfungsi inflamasi & imun**  
+Gangguan sawar usus + **bacterial translocation** → inflamasi sistemik dan imunitas terganggu  
+→ ↑ risiko **SBP dan sepsis**.
+
+### 🧠 Alur yang wajib dipahami
+
+> **Cedera kronik → aktivasi stellate cell → fibrosis → regenerasi hepatosit → nodul regeneratif → distorsi arsitektur & vaskular → hipertensi portal + cadangan hati menurun → kompensata → kompensasi gagal → dekompensata.**
+
+💡 **Hafalan dekompensasi:**  
+**Portal – Hepatosit – Sirkulasi – Imun** → **PH-SI**.
+
 | Mekanisme                                                    | Konsekuensi                                             | Temuan klinis                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- |
 | **Fibrosis + nodul regeneratif** mendistorsi arsitektur hati | ↑ resistensi aliran portal → **hipertensi portal**      | Splenomegali, trombositopenia, varises                        |
@@ -54,8 +159,6 @@
 | **Gangguan ekskresi bilirubin**                              | Bilirubin terakumulasi dalam darah                      | Ikterus, urin gelap                                           |
 | **Penurunan detoksifikasi + portosystemic shunting**         | ↑ toksin neuroaktif mencapai otak                       | Gangguan tidur, kebingungan, asteriksis, ensefalopati hepatik |
 | **Perubahan imunitas dan metabolisme**                       | ↑ risiko infeksi + ↑ katabolisme                        | SBP/sepsis, sarkopenia, frailty                               |
-
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790165168000cp20be.png)
 
 ### 🔑 Pahami asites
 
