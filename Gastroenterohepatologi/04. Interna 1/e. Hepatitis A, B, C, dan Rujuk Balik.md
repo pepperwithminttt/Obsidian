@@ -16,9 +16,9 @@ Tiga virus ini memiliki pola penyakit yang berbeda:
     - Melalui viremia atau vena porta.
     
 2. **Virus menginfeksi hepatosit dan bereplikasi**
-    - HAV: terutama di sitoplasma.
-    - HBV: genom DNA masuk ke nukleus dan membentuk **cccDNA**.
-    - HCV: replikasi RNA terutama berlangsung di sitoplasma.
+    - HAV: terutama di **sitoplasma**.
+    - HBV: genom DNA masuk ke **nukleus** dan membentuk **cccDNA**.
+    - HCV: replikasi RNA terutama berlangsung di **sitoplasma**.
     
 3. **Respons imun innate dan adaptif aktif**
     - Sel Kupffer, sel NK, sitokin inflamasi, dan terutama **sel T CD8+** berperan dalam eliminasi sel terinfeksi.
