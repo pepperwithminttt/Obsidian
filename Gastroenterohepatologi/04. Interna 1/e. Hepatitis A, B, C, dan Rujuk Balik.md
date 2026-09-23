@@ -325,21 +325,13 @@ Setelah HBsAg positif, lakukan penilaian:
     - elastografi
     - USG.
 4. **Komorbid dan koinfeksi**
-    
     - HIV
-        
     - HCV
-        
     - HDV
-        
     - penyakit ginjal
-        
     - diabetes
-        
     - alkohol.
-        
 5. **Komplikasi**
-    
     - USG ± AFP untuk surveilans HCC sesuai risiko.
 
 ## Tatalaksana HBV
@@ -347,7 +339,6 @@ Setelah HBsAg positif, lakukan penilaian:
 ### Hepatitis B akut
 
 - Sebagian besar hepatitis B akut tanpa gagal hati ditangani **suportif**.
-    
 - Antivirus dapat dipertimbangkan pada hepatitis akut yang berat atau berkepanjangan melalui konsultasi spesialis.
 
 ### Hepatitis B kronik
@@ -357,25 +348,17 @@ Tujuan terapi adalah **menekan replikasi HBV dan mencegah progresi fibrosis, sir
 Menurut kriteria WHO 2024, terapi direkomendasikan pada kondisi seperti:
 
 - sirosis atau fibrosis signifikan, terlepas dari ALT dan HBV DNA,
-    
 - HBV DNA >2.000 IU/mL disertai ALT di atas batas normal,
-    
 - koinfeksi HIV/HCV/HDV,
-    
 - riwayat keluarga sirosis/HCC,
-    
 - imunosupresi,
-    
 - komorbid atau manifestasi ekstrahepatik tertentu,
-    
 - ALT abnormal persisten ketika HBV DNA tidak tersedia setelah penyebab lain dievaluasi.
 
 Pilihan utama:
 
 - **Tenofovir disoproxil fumarate (TDF)**
-    
 - **Entecavir**
-    
 - **Tenofovir alafenamide (TAF)** dapat dipertimbangkan pada pasien dengan pertimbangan risiko ginjal/tulang sesuai ketersediaan dan pedoman.
 
 💡 **HBV = Suppress, bukan langsung eradicate.**  
@@ -386,11 +369,8 @@ Masalah utamanya adalah **cccDNA**.
 Pada setiap kehamilan:
 
 - periksa **HBsAg sedini mungkin**.
-    
 - Bila HBsAg positif:
-    
     - periksa HBV DNA,
-        
     - lakukan evaluasi penyakit hati.
 
 Jika **HBV DNA ≥200.000 IU/mL**:
@@ -400,57 +380,34 @@ Jika **HBV DNA ≥200.000 IU/mL**:
 Bayi dari ibu HBsAg positif:
 
 - vaksin HepB dosis lahir sesegera mungkin, idealnya **≤24 jam**,
-    
 - HBIG diberikan sesuai program/pedoman,
-    
 - lanjutkan seri vaksin,
-    
 - lakukan pemeriksaan pascavaksinasi sesuai jadwal.
 
 ⚠️ Jangan menunda profilaksis bayi hanya karena hasil HBV DNA ibu belum tersedia.
 
 ## Tatalaksana awal pasien HBsAg positif
 
-1. Nilai kegawatan:
-    
+1. **Nilai kegawatan:**
     - kesadaran,
-        
     - INR,
-        
     - glukosa,
-        
     - fungsi ginjal/AKI.
-        
-2. Tentukan akut atau kronik:
-    
+2. **Tentukan akut atau kronik:**
     - IgM anti-HBc,
-        
     - riwayat HBsAg sebelumnya.
-        
-3. Lakukan staging:
-    
+3. **Lakukan staging:**
     - HBV DNA,
-        
     - ALT,
-        
     - fibrosis.
-        
-4. Cegah transmisi:
-    
+4. **Cegah transmisi:**
     - periksa pasangan dan keluarga,
-        
     - vaksinasi orang yang rentan.
-        
-5. Rujuk untuk keputusan terapi, terutama bila:
-    
+5. **Rujuk untuk keputusan terapi, terutama bila:**
     - sirosis,
-        
     - fibrosis signifikan,
-        
     - hamil,
-        
     - imunosupresi,
-        
     - memenuhi kriteria terapi.
 
 ---
@@ -460,37 +417,23 @@ Bayi dari ibu HBsAg positif:
 ## Karakteristik dan patomekanisme
 
 - HCV merupakan virus **RNA berselubung (enveloped)**.
-    
 - Transmisi terutama melalui **darah**.
-    
 - Risiko seksual dan perinatal lebih rendah dibandingkan transmisi darah, tetapi meningkat pada kondisi tertentu.
-    
 - HCV sering tidak menimbulkan gejala selama bertahun-tahun.
-    
 - Sekitar **55–85%** infeksi dapat menjadi kronik tanpa terapi.
 
 ### Patomekanisme
 
 1. HCV masuk ke hepatosit melalui berbagai reseptor.
-    
 2. RNA virus diterjemahkan menjadi satu **poliprotein**.
-    
 3. Poliprotein diproses menjadi protein virus.
-    
 4. Terbentuk kompleks replikasi yang melibatkan protein seperti:
-    
     - NS3/4A,
-        
     - NS5A,
-        
     - NS5B.
-        
 5. HCV memiliki variasi genetik yang sangat tinggi sehingga terbentuk **quasispecies**, yaitu populasi virus dengan banyak varian genetik yang mirip tetapi tidak identik.
-    
 6. Variasi ini membantu virus menghindari respons imun.
-    
 7. Infeksi persisten menyebabkan inflamasi kronik dan aktivasi sel stelata.
-    
 8. Terjadi fibrosis progresif, sirosis, dan peningkatan risiko HCC.
 
 💡 **Tips HCV:**  
@@ -503,27 +446,18 @@ DAA bekerja dengan menghambat protein virus tertentu dan dapat menghasilkan **su
 Terutama paparan darah:
 
 - pernah menggunakan narkoba suntik atau berbagi alat,
-    
 - transfusi/produk darah sebelum skrining efektif,
-    
 - tindakan medis tidak steril,
-    
 - tato/piercing tidak steril,
-    
 - hemodialisis,
-    
 - pajanan jarum,
-    
 - HIV,
-    
 - anak dari ibu dengan HCV.
 
 Risiko seksual meningkat terutama pada:
 
-- HIV,
-    
+- HIV,  
 - praktik seksual traumatik,
-    
 - infeksi menular seksual tertentu.
 
 🩺 Anamnesis sebaiknya dilakukan tanpa stigma agar pasien lebih terbuka mengenai kemungkinan paparan.
@@ -531,17 +465,11 @@ Risiko seksual meningkat terutama pada:
 ### Kapan melakukan pemeriksaan meskipun tanpa gejala?
 
 - Riwayat paparan darah.
-    
 - Risiko berkelanjutan.
-    
 - Peningkatan aminotransferase tanpa penyebab jelas.
-    
 - Manifestasi ekstrahepatik, misalnya **cryoglobulinemia**.
-    
 - Sebelum terapi imunosupresif tertentu.
-    
 - Evaluasi donor.
-    
 - Sesuai kebijakan skrining populasi nasional.
 
 ## Diagnosis HCV
@@ -553,21 +481,15 @@ Diagnosis dilakukan dengan urutan:
 ### Interpretasi
 
 - **Anti-HCV nonreaktif**
-    
     - Tidak ada bukti paparan HCV.
-        
     - Pengecualian: _window period_ atau pasien mengalami imunosupresi.
-        
+    
 - **Anti-HCV reaktif + HCV RNA positif**
-    
     - **Infeksi HCV aktif.**
-        
-- **Anti-HCV reaktif + HCV RNA negatif**
     
+- **Anti-HCV reaktif + HCV RNA negatif**
     - Dapat berarti infeksi lama yang sudah sembuh,
-        
     - sudah berhasil diterapi,
-        
     - atau hasil antibodi positif palsu.
 
 ⚠️ **Anti-HCV positif tidak sama dengan infeksi aktif.**  
