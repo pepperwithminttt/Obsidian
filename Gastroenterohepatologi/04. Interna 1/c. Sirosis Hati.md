@@ -113,7 +113,7 @@ Fungsi sintesis, metabolisme, detoksifikasi, dan ekskresi menurun:
 - Albumin ↓ → edema
 - Faktor koagulasi ↓ → [INR ↑]{**INR** (_International Normalized Ratio_) adalah tes darah untuk mengukur berapa lama waktu yang dibutuhkan darah untuk membeku.}
 - Detoksifikasi ↓ → ensefalopati hepatik
-- Ekskresi bilirubin ↓ → ikterus
+- [Ekskresi bilirubin ↓]{Secara normal, **hati bertugas mengubah bilirubin mentah (indirek) menjadi bentuk yang larut dalam air (direk)** agar bisa dibuang. Saat gagal hati, sel-sel hati rusak parah dan tidak sanggup melakukan proses pengolahan ini. Hati yang rusak juga **tidak mampu mengalirkan bilirubin ke dalam saluran empedu untuk dibuang** bersama tinja dan urine. Karena tidak terolah dan tidak terbuang, bilirubin mengalir bebas dan menumpuk di dalam darah.} → ikterus
 
 **3. Disfungsi sirkulasi sistemik**  
 Hipertensi portal → [**vasodilatasi splanknik**]{Vasodilatasi splanknik adalah pelebaran pembuluh darah di area organ pencernaan perut (viseral/abdomen). Area splanknik mencakup organ-organ seperti lambung, usus, hati, limpa, dan pankreas, yang disuplai oleh pembuluh darah mesenterika.} → [effective arterial blood volume]{Karena darah terperangkap (splanknik pooling), menurunkan aliran balik vena sehingga ujung-ujungnya menurunkan curah jantung.} ↓  
