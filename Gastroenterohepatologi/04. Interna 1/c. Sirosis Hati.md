@@ -54,6 +54,7 @@
 |**Gangguan ekskresi bilirubin**|Bilirubin terakumulasi dalam darah|Ikterus, urin gelap|
 |**Penurunan detoksifikasi + portosystemic shunting**|↑ toksin neuroaktif mencapai otak|Gangguan tidur, kebingungan, asteriksis, ensefalopati hepatik|
 |**Perubahan imunitas dan metabolisme**|↑ risiko infeksi + ↑ katabolisme|SBP/sepsis, sarkopenia, frailty|
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790165168000cp20be.png)
 
 ### 🔑 Pahami asites
 
