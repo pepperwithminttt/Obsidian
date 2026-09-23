@@ -228,22 +228,18 @@ Meliputi:
 ### 4. Endoskopi
 
 - **Lower gastrointestinal endoscopy**
-    
 - Disertai **mucosal biopsy**
 
 Biopsi mukosa membantu menilai gambaran inflamasi dan membedakan karakteristik penyakit.
 
 ### 5. Imaging
 
-Pemeriksaan imaging yang tercantum:
+Pemeriksaan imaging yang bisa dilakukan:
 
 - **Plain abdominal X-ray**
-    
 - **CT abdomen**
-    
 - **CT enterography-colonography**
-
-**Barium enema tidak boleh dilakukan** menurut materi kuliah ini.
+- **Barium** enema **tidak boleh** dilakukan.
 
 ---
 
