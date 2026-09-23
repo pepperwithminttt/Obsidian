@@ -10,50 +10,32 @@
 
 ## 1. KONSEP DASAR & KLASIFIKASI
 
-**Sirosis hati** adalah perubahan struktur hati berupa **fibrosis difus dan pembentukan nodul regeneratif** yang menyebabkan distorsi arsitektur hati, peningkatan resistensi aliran portal, serta gangguan fungsi hepatosit.
+**Sirosis hati** adalah perubahan struktur hati berupa **fibrosis difus dan pembentukan nodul regeneratif** yang menyebabkan **distorsi arsitektur hati, peningkatan resistensi aliran portal, serta gangguan fungsi hepatosit**.
 
 ### Spektrum klinis
 
 - **Sirosis kompensata**
-    
-    - Belum pernah mengalami komplikasi utama akibat kegagalan hati/hipertensi portal:
-        
-        - asites
-            
+    - Belum pernah mengalami komplikasi utama akibat kegagalan hati/hipertensi portal seperti berikut:
+        - [asites]{**Asites** adalah kondisi medis berupa penumpukan cairan secara berlebihan di rongga peritoneum}
         - perdarahan varises
-            
         - ensefalopati hepatik
-            
         - ikterus akibat gagal hati
-            
     - Dapat berlangsung lama dengan gejala minimal atau tanpa gejala.
-        
+
 - **Sirosis dekompensata**
-    
     - Sudah muncul ≥1 komplikasi utama, terutama:
-        
         - **asites**
-            
         - **perdarahan varises**
-            
         - **ensefalopati hepatik**
-            
         - **ikterus progresif**
-            
         - komplikasi infeksi/organ lainnya
-            
     - Menandakan **cadangan fungsi hati menurun dan prognosis memburuk**.
-        
     - Memerlukan evaluasi spesialis lebih lanjut.
-        
+
 - **ACLF (Acute-on-Chronic Liver Failure)**
-    
     - **Dekompensasi akut pada penyakit hati kronik yang disertai kegagalan organ**.
-        
     - Memiliki risiko mortalitas jangka pendek yang tinggi.
-        
     - Perlu identifikasi pencetus, penilaian kegagalan organ, dan pertimbangan **ICU/transplantasi** sejak dini.
-        
 
 💡 **Hafalan:**  
 **Kompensata = belum ada komplikasi utama**  
