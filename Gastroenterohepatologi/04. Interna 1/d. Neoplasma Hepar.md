@@ -536,28 +536,19 @@ Karena hati memiliki:
 Sering:
 
 - **multiple**,
-    
 - mengenai kedua lobus (**bilobar**),
-    
 - dapat menunjukkan **rim enhancement**,
-    
 - sebagian metastasis bersifat hypervascular,
-    
 - diffusion restriction dapat meningkatkan kontras lesi.
-    
 
 ### Prinsip klinis
 
 Jika ditemukan metastasis:
 
 1. Cari **tumor primer**.
-    
 2. Tentukan luas penyakit ekstrahepatik.
-    
 3. Biopsi jika diagnosis belum pasti dan hasilnya akan mengubah terapi.
-    
 4. Metastasis tertentu, terutama **kolorektal atau neuroendokrin**, dapat dipertimbangkan untuk terapi liver-directed dengan tujuan kuratif pada pasien terpilih.
-    
 
 ---
 
@@ -568,66 +559,41 @@ Setiap lesi fokal hati dapat dipikirkan dengan **4 pertanyaan utama**:
 ### 1. Siapa pasiennya?
 
 - Usia.
-    
 - Jenis kelamin.
-    
 - Kemungkinan kehamilan.
-    
 - Riwayat kanker.
-    
 - Penggunaan hormon.
-    
 - Steroid androgenik anabolik.
-    
 
 ### 2. Bagaimana background hatinya?
 
 - Sirosis?
-    
 - HBV?
-    
 - MASLD?
-    
 - Alkohol?
-    
 - Penyakit kolestatik?
-    
 
 ### 3. Bagaimana gambaran imaging?
 
 Perhatikan:
 
 - jumlah,
-    
 - ukuran,
-    
 - pola vaskular,
-    
 - lemak,
-    
 - perdarahan,
-    
 - scar,
-    
 - kapsul,
-    
 - dilatasi bilier.
-    
 
 ### 4. Apakah biologinya mendukung keganasan?
 
 - AFP.
-    
 - CA 19-9.
-    
 - CEA.
-    
 - Liver function tests.
-    
 - Gejala.
-    
 - Pertumbuhan lesi dari waktu ke waktu.
-    
 
 💡 **Hafalan: “PASIEN → HATI → GAMBAR → BIOLOGI”**
 
