@@ -295,9 +295,7 @@ Marker tambahan:
 Pada fase **window period**:
 
 - HBsAg sudah negatif,
-    
 - anti-HBs belum muncul,
-    
 - **IgM anti-HBc masih positif**.
 
 💡 **Tips hafalan serologi HBV:**
