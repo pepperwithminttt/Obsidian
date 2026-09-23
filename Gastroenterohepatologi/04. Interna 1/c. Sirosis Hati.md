@@ -148,7 +148,7 @@ Pada sirosis lanjut, terjadi gangguan sawar usus + **bacterial translocation** �
 Asites pada sirosis **bukan terutama karena hipoalbuminemia**.
 
 Mekanisme utamanya:  
-**Hipertensi portal + vasodilatasi splanknik → aktivasi RAAS/ADH → retensi natrium dan air → asites.**
+**Hipertensi portal + vasodilatasi splanknik → arterial blood flow turun → aktivasi RAAS/ADH sebagai usaha menaikkan arterial blood flow → retensi natrium dan air → asites.**
 
 Jadi kalau ditanya _“mengapa pasien sirosis mengalami asites?”_, jangan hanya menjawab **albumin turun**. 🧠
 
