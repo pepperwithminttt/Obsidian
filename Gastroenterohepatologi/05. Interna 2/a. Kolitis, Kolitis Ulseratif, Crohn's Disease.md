@@ -54,12 +54,10 @@ Juga ada keterlibatan kromosom, antara lain **kromosom 5 dan 16**.
 
 ### B. Faktor lingkungan 🌱
 
-Faktor lingkungan dapat memodifikasi risiko dan perjalanan penyakit. Materi mencantumkan:
+Faktor lingkungan dapat memodifikasi risiko dan perjalanan penyakit. Contohnya:
 
 - **Tobacco**
-    
 - **Oral contraceptive pills (OCPs)**
-    
 - **Appendectomy**
 
 ### C. Mikrobiota usus 🦠
@@ -75,18 +73,11 @@ Secara sederhana alurnya:
 Respons inflamasi dapat melibatkan:
 
 - **Th1**
-    
 - **Th2**
-    
 - **Th17**
-    
 - **T-regulatory response**
 
 Interaksi antara mikrobiota dan mukosa usus merupakan bagian penting dalam patogenesis IBD.
-
-> 🧠 **Cara menghafal patogenesis:**  
-> **G-E-I → M-I-T-C**  
-> **G**enetik + **E**nvironment + **I**mmune → **M**icrobiota → **I**nflammation → **T**issue injury → **C**linical symptoms.
 
 ---
 
