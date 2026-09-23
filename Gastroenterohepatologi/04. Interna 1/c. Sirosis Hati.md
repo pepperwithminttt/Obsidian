@@ -111,7 +111,7 @@ Fibrosis + distorsi vaskular → resistensi intrahepatik ↑ → tekanan portal 
 **2. Disfungsi hepatosit**  
 Fungsi sintesis, metabolisme, detoksifikasi, dan ekskresi menurun:
 - Albumin ↓ → edema
-- Faktor koagulasi ↓ → INR ↑
+- Faktor koagulasi ↓ → [INR ↑]{**INR** (_International Normalized Ratio_) adalah tes darah untuk mengukur berapa lama waktu yang dibutuhkan darah untuk membeku.}
 - Detoksifikasi ↓ → ensefalopati hepatik
 - Ekskresi bilirubin ↓ → ikterus
 
