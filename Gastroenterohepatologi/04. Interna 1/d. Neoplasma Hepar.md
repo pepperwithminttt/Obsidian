@@ -769,9 +769,7 @@ Mass-forming + **rim enhancement → progressive delayed enhancement**
 🧠 **“Tumor – Liver – Patient”**
 
 - **Tumor burden**
-    
 - **Liver function**
-    
 - **Performance status**
 
 → menentukan apakah terapi **kuratif, locoregional, sistemik, atau paliatif**.
