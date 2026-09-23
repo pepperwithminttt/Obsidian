@@ -1,7 +1,7 @@
 # LIVER NEOPLASMS
 **Level Kompetensi 2
 
-## 1. Klasifikasi Neoplasma Hati
+# 1. Klasifikasi Neoplasma Hati
 
 **Neoplasma hati** adalah pertumbuhan sel abnormal di hati yang dapat berasal dari hepatosit, epitel bilier, sel endotel, atau jaringan mesenkimal.
 
@@ -11,12 +11,16 @@
 | **Ganas primer**   | Hepatocellular carcinoma (HCC), fibrolamellar HCC, combined HCC-cholangiocarcinoma, hepatoblastoma, cholangiocarcinoma, angiosarcoma |
 | **Ganas sekunder** | Metastasis dari kolorektal, pankreas, payudara, paru, neuroendokrin, melanoma, dan tumor gastrointestinal lainnya                    |
 
-💡 **Poin penting:**  
+💡 **Poin penting:**
+
 Tumor ganas yang ditemukan di hati **lebih sering merupakan metastasis** daripada tumor ganas primer hati. Metastasis dapat berasal dari banyak organ, sehingga lesi hati multipel pada pasien dengan kanker ekstrahepatik harus sangat dicurigai sebagai metastasis.
+
+Tapi beda lagi **kalau hatinya sudah sirosis** itu kebanyakan **tumor ganas sumbernya dari hati** itu sendiri.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17901748800009691d8.png)
 
 ---
 
-## 2. BENIGN LIVER NEOPLASMS — Neoplasma Hati Jinak
+# 2. BENIGN LIVER NEOPLASMS — Neoplasma Hati Jinak
 
 ### Konsep dasar dan patomekanisme
 
@@ -302,6 +306,8 @@ Lesi jinak cukup sering ditemukan. Pertimbangkan:
     
 
 ### Hati berisiko
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790174853000ltzrik.png)
 
 Pada **sirosis atau HBV kronik**, munculnya lesi solid baru memiliki probabilitas HCC yang jauh lebih tinggi dan harus dikarakterisasi dengan tepat.
 
