@@ -620,67 +620,46 @@ Perlu evaluasi lebih lanjut bila terdapat:
 ### USG
 
 - Deteksi awal dan surveillance.
-    
 - Doppler untuk menilai pembuluh.
-    
 - Contrast-enhanced US bila tersedia.
-    
 
 ### Multiphasic CT
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790177196000gykc2t.png)
+
 - Cepat dan tersedia luas.
-    
 - Menilai fase arterial, portal venous, dan delayed.
-    
 - Dapat digunakan untuk staging thoraks dan abdomen.
-    
 
 ### MRI
 
 Memberikan **karakterisasi jaringan paling baik**, terutama untuk:
 
 - lemak,
-    
 - darah,
-    
 - scar,
-    
 - diffusion,
-    
 - karakteristik vaskular.
-    
 
 **Hepatobiliary contrast agent** dapat membantu membedakan lesi berdasarkan fungsi hepatosit.
 
 ### Biopsi
 
 Dilakukan bila:
-
 - imaging tetap indeterminate,
-    
 - diagnosis histologis akan mengubah tata laksana,
-    
 - pasien tidak termasuk populasi yang memenuhi kriteria diagnosis HCC noninvasif,
-    
 - dicurigai LR-M atau mixed tumor,
-    
 - diperlukan jaringan untuk terapi sistemik atau molecular profiling.
-    
 
 ⚠️ Biopsi bukan sekadar untuk “memastikan”, tetapi harus menjawab **pertanyaan klinis yang memengaruhi manajemen**.
 
 Pertimbangkan:
-
 - risiko perdarahan,
-    
 - vaskularitas lesi,
-    
 - rute biopsi,
-    
 - sampling error,
-    
 - tumor heterogeneity.
-    
 
 ---
 
@@ -704,54 +683,35 @@ Pertimbangkan:
 Laki-laki 58 tahun dengan **HBV cirrhosis**, lesi 2,4 cm.
 
 - AFP 48 ng/mL
-    
 - Child-Pugh A
-    
 - ECOG 0
-    
 - MRI: nonrim arterial hyperenhancement + washout + capsule
-    
 - Tidak ada vascular invasion
-    
 
 ➡️ Pada pasien **at-risk** dengan lesi ≥1 cm dan pola imaging khas, diagnosis HCC dapat ditegakkan **tanpa biopsi**.
 
 Selanjutnya tentukan:
 
 - tumor burden,
-    
 - fungsi hati,
-    
 - performance status,
-    
 - ada/tidaknya vascular invasion,
-    
 - pilihan resection, ablation, atau transplantation.
-    
 
 ### Kasus 2 — Hepatocellular adenoma
 
 Perempuan 32 tahun, lesi hati 6,2 cm.
-
 - Tidak ada penyakit hati kronik.
-    
 - Menggunakan kontrasepsi estrogen.
-    
 - Arterial enhancement.
-    
 - Intralesional fat.
-    
 - Perdarahan.
-    
 - AFP normal.
-    
 
 ➡️ Paling sesuai dengan **hepatocellular adenoma**, dengan perhatian terhadap:
 
 - **hemorrhage**, dan
-    
 - **malignant transformation**.
-    
 
 Karena ukurannya **≥5 cm**, risiko komplikasi menjadi lebih penting dalam menentukan tata laksana.
 
@@ -813,6 +773,5 @@ Mass-forming + **rim enhancement → progressive delayed enhancement**
 - **Liver function**
     
 - **Performance status**
-    
 
 → menentukan apakah terapi **kuratif, locoregional, sistemik, atau paliatif**.
