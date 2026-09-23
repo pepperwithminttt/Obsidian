@@ -500,9 +500,7 @@ Jika pajanan terjadi dalam **6 bulan terakhir**, HCV RNA dapat dipertimbangkan m
 💡 **Tips hafalan:**
 
 - **Anti-HCV = pernah terpapar**
-    
 - **RNA HCV = virus masih ada**
-    
 - Jadi: **"Antibodi = pernah, RNA = sekarang."**
 
 ## Evaluasi sebelum terapi DAA
@@ -510,57 +508,31 @@ Jika pajanan terjadi dalam **6 bulan terakhir**, HCV RNA dapat dipertimbangkan m
 Sebelum memulai terapi, nilai:
 
 1. **Konfirmasi viremia**
-    
     - HCV RNA kuantitatif.
-        
 2. **Stadium penyakit hati**
-    
     - FIB-4/APRI,
-        
     - elastografi,
-        
     - platelet,
-        
     - USG.
-        
 3. **Fungsi dan keamanan**
-    
     - CBC,
-        
     - AST/ALT,
-        
     - bilirubin,
-        
     - albumin,
-        
     - INR,
-        
     - eGFR.
-        
 4. **Koinfeksi**
-    
     - HBsAg,
-        
     - anti-HBc,
-        
     - anti-HBs,
-        
     - HIV.
-        
 5. **Interaksi obat**
-    
     - seluruh obat,
-        
     - termasuk herbal.
-        
 6. **Kondisi khusus**
-    
     - kehamilan,
-        
     - sirosis dekompensata,
-        
     - transplantasi,
-        
     - riwayat terapi sebelumnya.
 
 ⚠️ **Protease inhibitor tidak digunakan pada sirosis dekompensata.**
@@ -570,13 +542,11 @@ Sebelum memulai terapi, nilai:
 Prinsip saat ini adalah **treat all**:
 
 - Hampir semua pasien dengan **HCV RNA terdeteksi** direkomendasikan mendapat terapi.
-    
 - Ini termasuk infeksi akut maupun kronik, kecuali harapan hidup sangat terbatas dan tidak akan membaik dengan terapi.
 
 Pada dewasa yang belum pernah mendapat terapi dan **tanpa sirosis**, regimen pangenotipik yang umum antara lain:
 
 - **Glecaprevir/pibrentasvir selama 8 minggu**, diminum bersama makanan.
-    
 - **Sofosbuvir/velpatasvir selama 12 minggu.**
 
 Pada sirosis kompensata, pilihan regimen dan pemeriksaan tambahan mengikuti kondisi pasien serta pedoman yang berlaku.
@@ -586,17 +556,11 @@ Pada sirosis kompensata, pilihan regimen dan pemeriksaan tambahan mengikuti kond
 Jangan menggunakan jalur terapi sederhana pada:
 
 - sirosis dekompensata,
-    
 - kehamilan,
-    
 - transplantasi,
-    
 - HCC aktif,
-    
 - kegagalan terapi DAA,
-    
 - interaksi obat kompleks,
-    
 - HBsAg positif yang membutuhkan pemantauan risiko reaktivasi.
 
 ## SVR12
@@ -608,21 +572,14 @@ SVR12 menunjukkan **kesembuhan virologis**.
 Setelah SVR:
 
 - **Tanpa sirosis**
-    
     - umumnya tidak memerlukan pemantauan hati khusus bila tidak ada penyakit hati lain.
-        
     - ulang HCV RNA bila terdapat risiko reinfeksi berkelanjutan atau ALT meningkat.
-        
     - anti-HCV tetap dapat positif.
-        
     - reinfeksi tetap mungkin.
         
 - **Dengan sirosis**
-    
     - tetap memerlukan surveilans HCC setiap 6 bulan.
-        
     - pantau komplikasi hipertensi portal sesuai indikasi.
-        
     - kendalikan faktor metabolik dan alkohol.
 
 💡 **Ingat:**  
@@ -638,75 +595,42 @@ Antibodi dapat tetap positif walaupun virus sudah tidak ada.
 Sindrom hepatitis akut dapat terdiri dari:
 
 - demam,
-    
 - malaise,
-    
 - anoreksia,
-    
 - mual/muntah,
-    
 - nyeri kuadran kanan atas,
-    
 - ikterus,
-    
 - urin gelap,
-    
 - feses pucat,
-    
 - pruritus.
 
 Pada pasien dengan dugaan hepatitis:
 
 1. **Nilai kegawatan terlebih dahulu**
-    
     - ABC,
-        
     - glukosa,
-        
     - status mental,
-        
     - tanda perdarahan,
-        
     - hemodinamik.
-        
 2. **Nilai pola cedera hati**
-    
     - AST,
-        
     - ALT,
-        
     - ALP,
-        
     - GGT,
-        
     - bilirubin.
-        
 3. **Nilai fungsi hati**
-    
     - PT/INR,
-        
     - glukosa,
-        
     - status mental,
-        
     - laktat bila berat.
-        
 4. **Cari etiologi**
-    
     - HAV,
-        
     - HBV,
-        
     - HCV,
-        
     - serta penyebab non-virus.
-        
 5. **Lakukan USG hepatobilier** bila:
-    
     - pola kolestatik,
-        
     - nyeri kuadran kanan atas,
-        
     - atau perlu menyingkirkan obstruksi bilier.
 
 ### Hepatoseluler vs kolestatik
