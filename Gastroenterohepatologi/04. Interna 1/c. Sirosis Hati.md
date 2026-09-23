@@ -368,15 +368,9 @@ Diagnosis tidak bergantung pada satu pemeriksaan saja.
 Jika ketiga domain memberikan pola yang konsisten → diagnosis semakin kuat.
 
 **Biopsi hati**
-
 - Dipertimbangkan jika **etiologi atau stadium masih tidak pasti**
-    
 - Dilakukan jika hasilnya **akan mengubah terapi/keputusan klinis**
-    
 - **Bukan pemeriksaan rutin pada setiap pasien.**
-    
-
----
 
 ## 5. DIAGNOSIS BANDING
 
@@ -395,8 +389,6 @@ Diagnosis banding ditentukan berdasarkan gambaran klinis yang paling dominan.
 
 Ada penyebab hipertensi portal yang bukan akibat sirosis, sehingga penyebabnya tetap harus dicari.
 
----
-
 ## 6. MENILAI KEGAWATAN, STADIUM & PROGNOSIS
 
 ### A. Red flags → evaluasi rumah sakit 🚨
@@ -404,130 +396,81 @@ Ada penyebab hipertensi portal yang bukan akibat sirosis, sehingga penyebabnya t
 Satu saja red flag sudah cukup untuk mempercepat evaluasi rumah sakit.
 
 - **Perdarahan**
-    
     - Hematemesis
-        
     - Melena
-        
     - Sinkop
-        
     - Instabilitas hemodinamik
-        
-- **Gangguan kesadaran**
-    
-    - Kebingungan baru
-        
-    - Somnolen
-        
-    - Penurunan proteksi jalan napas
-        
-- **Infeksi/SBP**
-    
-    - Demam
-        
-    - Nyeri abdomen
-        
-    - Hipotensi
-        
-    - Perburukan tanpa sebab jelas
-        
-- **AKI/oliguria**
-    
-    - Kreatinin meningkat
-        
-    - Produksi urin menurun
-        
-    - Penggunaan obat nefrotoksik
-        
-- **Gangguan respirasi**
-    
-    - Asites tegang disertai sesak
-        
-    - Hipoksemia
-        
-    - Gagal organ lain
-        
-- **Ikterus cepat memburuk**
-    
-    - Pertimbangkan:
-        
-        - hepatitis akut
-            
-        - obstruksi
-            
-        - infeksi
-            
-        - ACLF
-            
 
----
+- **Gangguan kesadaran**
+    - Kebingungan baru
+    - Somnolen
+    - Penurunan proteksi jalan napas
+
+- **Infeksi/SBP**
+    - Demam
+    - Nyeri abdomen
+    - Hipotensi
+    - Perburukan tanpa sebab jelas
+
+- **AKI/oliguria**
+    - Kreatinin meningkat
+    - Produksi urin menurun
+    - Penggunaan obat nefrotoksik
+
+- **Gangguan respirasi**
+    - Asites tegang disertai sesak
+    - Hipoksemia
+    - Gagal organ lain
+
+- **Ikterus cepat memburuk**
+    - Pertimbangkan:
+        - hepatitis akut
+        - obstruksi
+        - infeksi
+        - ACLF
 
 ### B. Stadium dan skor prognosis
 
-**Stadium klinis**
+#### Stadium klinis
 
 1. Kompensata tanpa CSPH
-    
 2. Kompensata dengan CSPH
-    
 3. Dekompensasi pertama
-    
 4. Dekompensasi berulang/ACLF
-    
 
-### Child-Pugh
+#### Child-Pugh
 
 Menggunakan:
-
 - Albumin
-    
 - Bilirubin
-    
 - INR
-    
 - Asites
-    
 - Ensefalopati
-    
 
 Hasil:
-
 - **Kelas A**
-    
 - **Kelas B**
-    
 - **Kelas C**
-    
 
 Menggambarkan **cadangan fungsi hati**.
 
-### MELD 3.0
+#### MELD 3.0
 
 Menggunakan:
-
 - Bilirubin
-    
 - INR
-    
 - Kreatinin
-    
 - Natrium
-    
 - Albumin
-    
 - Jenis kelamin
-    
 
 Digunakan untuk:
-
 - Penilaian mortalitas
-    
 - Penilaian kebutuhan/prioritas transplantasi sesuai sistem setempat
-    
 
 💡 **Hafalan:**  
-**Child-Pugh = cadangan hati**  
-**MELD = mortalitas + transplantasi**
+**Child-Pugh = utk menilai cadangan hati**  
+**MELD = utk menilai mortalitas + butuh ato tdk transplantasi**
 
 > Skor membantu pengambilan keputusan, tetapi **kondisi akut dan komplikasi tetap menentukan urgensi**.
 
@@ -546,119 +489,68 @@ Digunakan untuk:
 Kemudian lakukan 4 hal:
 
 **1. Etiologi**
-
 - Terapi penyebab
-    
 - Vaksinasi sesuai indikasi
-    
 - Hindari alkohol
-    
 - Hindari obat hepatotoksik
-    
 
 **2. Hipertensi portal**
-
 - Nilai CSPH
-    
 - Tentukan kebutuhan endoskopi
-    
 - Profilaksis sesuai pedoman
-    
 
 **3. Surveilans**
-
 - **US hati ± AFP setiap 6 bulan** pada populasi berisiko untuk surveilans HCC
-    
 - Pantau komplikasi
-    
 
 **4. Nutrisi**
-
 - Nilai malnutrisi
-    
 - Sarkopenia
-    
 - Aktivitas fisik
-    
 - Dukungan sosial
-    
-
----
 
 ### B. Dekompensasi akut → stabilisasi + cari pencetus 🚨
 
 Kondisi pencetus dapat berupa:
-
 - Asites baru/bertambah
-    
 - Perdarahan
-    
 - Ensefalopati
-    
 - Ikterus
-    
 - AKI
-    
 - Infeksi
-    
 
 Langkah awal:  
 **ABC → akses IV → glukosa → monitoring → hentikan obat berisiko**
 
 Kemudian cari:
-
 - Pencetus dekompensasi
-    
 - Kegagalan organ
-    
 - Infeksi
-    
 - Perdarahan
-    
 - Gangguan ginjal
-    
 
 **Perdarahan**
-
 - Resusitasi
-    
 - Obat vasoaktif
-    
 - Antibiotik
-    
 - Endoskopi segera sesuai protokol
-    
 
 **Infeksi/SBP**
-
 - Kultur
-    
 - Antibiotik dini
-    
 - Parasentesis bila terdapat asites
-    
 
 **AKI/HRS**
-
 - Hentikan nefrotoksin
-    
 - Nilai status volume
-    
 - Terapi berdasarkan penyebab
-    
 
 **Ensefalopati**
-
 - Cari dan koreksi pencetus
-    
 - Lindungi jalan napas bila diperlukan
-    
 - Berikan terapi sesuai protokol
-    
 
 → Selalu nilai kemungkinan **ACLF** dan kebutuhan **ICU/evaluasi transplantasi sejak dini**.
-
----
 
 ### C. Kapan harus dirujuk?
 
@@ -694,27 +586,27 @@ Kemudian cari:
 
 ### **PATOMEKANISME PALING PENTING**
 
-**Fibrosis → ↑ resistensi portal → hipertensi portal → splenomegali + trombositopenia + varises**
+Fibrosis → ↑ resistensi portal → hipertensi portal → splenomegali + trombositopenia + varises
 
-**Vasodilatasi splanknik → RAAS/ADH ↑ → retensi Na⁺/air → asites + edema + hiponatremia**
+Vasodilatasi splanknik → RAAS/ADH ↑ → retensi Na⁺/air → asites + edema + hiponatremia
 
-**Sintesis hati ↓ → albumin ↓ + INR ↑ → edema + gangguan cadangan hati**
+Sintesis hati ↓ → albumin ↓ + INR ↑ → edema + gangguan cadangan hati
 
-**Ekskresi bilirubin ↓ → bilirubin ↑ → ikterus + urin gelap**
+Ekskresi bilirubin ↓ → bilirubin ↑ → ikterus + urin gelap
 
-**Detoksifikasi/shunt ↓ → toksin neuroaktif ↑ → ensefalopati + asteriksis**
+Detoksifikasi/shunt ↓ → toksin neuroaktif ↑ → ensefalopati + asteriksis
 
 ### **ANGKA YANG WAJIB INGAT 🔢**
 
-- **PMN ≥250 sel/mm³ → SBP**
+- PMN ≥250 sel/mm³ → SBP
     
-- **SAAG ≥1,1 g/dL → mendukung hipertensi portal**
+- SAAG ≥1,1 g/dL → mendukung hipertensi portal
     
-- **LSM ≤15 kPa + trombosit ≥150.000 → membantu rule out CSPH**
+- LSM ≤15 kPa + trombosit ≥150.000 → membantu rule out CSPH
     
-- **LSM ≥25 kPa → membantu rule in CSPH**
+- LSM ≥25 kPa → membantu rule in CSPH
     
-- **Surveilans HCC: US ± AFP tiap 6 bulan**
+- Surveilans HCC: US ± AFP tiap 6 bulan
     
 
 ### **KATA KUNCI BESAR**
