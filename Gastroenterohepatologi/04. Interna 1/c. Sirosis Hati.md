@@ -116,7 +116,7 @@ Fungsi sintesis, metabolisme, detoksifikasi, dan ekskresi menurun:
 - Ekskresi bilirubin ↓ → ikterus
 
 **3. Disfungsi sirkulasi sistemik**  
-Hipertensi portal → [**vasodilatasi splanknik**]{Vasodilatasi splanknik adalah pelebaran pembuluh darah di area organ pencernaan perut (viseral/abdomen). Area splanknik mencakup organ-organ seperti lambung, usus, hati, limpa, dan pankreas, yang disuplai oleh pembuluh darah mesenterika.} → effective arterial blood volume ↓  
+Hipertensi portal → [**vasodilatasi splanknik**]{Vasodilatasi splanknik adalah pelebaran pembuluh darah di area organ pencernaan perut (viseral/abdomen). Area splanknik mencakup organ-organ seperti lambung, usus, hati, limpa, dan pankreas, yang disuplai oleh pembuluh darah mesenterika.} → [effective arterial blood volume]{Karena darah terperangkap (splanknik pooling), menurunkan aliran balik vena sehingga ujung-ujungnya menurunkan curah jantung.} ↓  
 → RAAS + simpatis + ADH ↑  
 → retensi Na⁺ dan air + vasokonstriksi renal  
 → **asites, edema, hiponatremia, AKI/HRS**.
