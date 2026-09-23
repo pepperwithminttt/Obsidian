@@ -151,28 +151,23 @@ Pemeriksaan utama adalah **IgM anti-HAV**.
 - **Total anti-HAV negatif + IgM negatif**
     - Tidak ada bukti infeksi maupun imunitas.
 
-💡 **Tips hafalan HAV:**  
-**A = Acute + Anti-HAV IgM**  
-Kalau ditanya **"tes untuk HAV akut?" → IgM anti-HAV.**
+💡 **Tips hafalan HAV:**  **A = Acute**
 
 ### Perjalanan serologi HAV
 
 - **IgM anti-HAV** dapat muncul sekitar 5–10 hari sebelum gejala klinis dan biasanya bertahan hingga sekitar 6 bulan.
-    
 - **IgG anti-HAV** mulai terdeteksi sekitar onset penyakit dan menetap untuk memberikan imunitas jangka panjang.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790183737000ivntbs.png)
 
 ## Tatalaksana HAV
 
 Tidak ada antivirus spesifik untuk HAV.
 
 Terapi terutama **suportif**:
-
 - cukup cairan dan nutrisi,
-    
 - antiemetik bila diperlukan,
-    
 - hentikan alkohol,
-    
 - hindari herbal dan obat hepatotoksik yang tidak diperlukan,
     
 - pantau bilirubin, INR, glukosa, dan fungsi ginjal sesuai derajat penyakit,
