@@ -381,8 +381,6 @@ Terapi dilakukan secara **sequential**, yaitu:
 - **25%** dapat ditangani dengan terapi medis pada UC.
 - Terdapat risiko **colorectal cancer (CRC)** setelah sekitar **8–10 tahun**.
 
-> ⚠️ Angka prognosis di atas merupakan angka yang tercantum dalam materi kuliah dan tidak diberi konteks populasi atau periode waktu pada slide, sehingga sebaiknya digunakan sebagai **angka hafalan materi kuliah**, bukan sebagai estimasi risiko individual pasien.
-
 ---
 
 # 🧠 RINGKASAN SUPER HIGH-YIELD
