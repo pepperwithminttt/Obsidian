@@ -312,7 +312,7 @@ Pada fase **window period**:
 Setelah HBsAg positif, lakukan penilaian:
 
 1. **Akut atau kronik**
-    - IgM anti-HBc (klo IgM positif berarti akut)
+    - IgM anti-HBc (klo **IgM positif** berarti **akut**)
     - riwayat pemeriksaan sebelumnya
     - persistensi HBsAg.
 2. **Aktivitas virus**
