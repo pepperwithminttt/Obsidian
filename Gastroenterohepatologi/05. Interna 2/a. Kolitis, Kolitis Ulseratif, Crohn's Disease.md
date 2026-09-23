@@ -320,33 +320,21 @@ Karena gejala IBD dapat menyerupai banyak penyakit lain, diagnosis banding melip
 Prinsip terapi IBD bergantung pada beberapa faktor:
 
 - **Lokasi penyakit**, misalnya:
-    
     - Ileocecal
-        
     - Kolonik
-        
     - Proktitis
-        
     - Pancolitis
-        
 - **Derajat keparahan**:
-    
     - Ringan
-        
     - Sedang
-        
     - Berat
-        
 - Adanya **komplikasi**.
-    
 - Respons simptomatik pasien sebelumnya.
-    
 - Toleransi pasien terhadap terapi tertentu.
 
 Terapi dilakukan secara **sequential**, yaitu:
 
 1. Mengendalikan **acute disease**.
-    
 2. Mempertahankan **remission**.
 
 ### 1. Diet dan nutrisi 🍽️
@@ -357,30 +345,24 @@ Terapi dilakukan secara **sequential**, yaitu:
 
 **5-Aminosalicylates (5-ASA):**
 
-- **Sulfasalazine:** 1–4 g/hari, 2× sehari.
-    
+- **Sulfasalazine:** 1–4 g/hari, 2× sehari.  
 - **Mesalamine:** 2–4 g/hari, 3–4× sehari.
-    
 - **Olsalazine:** 1–3 g/hari, 2× sehari.
 
 **Kortikosteroid** — terutama dicantumkan untuk Crohn’s disease:
 
 - **Budesonide:** 9 mg/hari.
-    
 - **Prednisone / methylprednisolone:** 40–60 mg/hari.
 
 **Antibiotik** — terutama pada CD dengan penyakit perianal:
 
 - **Ciprofloxacin:** 500 mg, 2× sehari.
-    
 - **Metronidazole:** 1–1,5 g/hari.
 
 **Immunomodulators:**
 
 - **Azathioprine:** 2–2,5 mg/kg/hari.
-    
 - **Mercaptopurine:** 1–1,5 mg/kg/hari.
-    
 - **Methotrexate:** 15–25 mg IM, tercantum untuk kondisi _chronic active_ dan _steroid-dependent_.
 
 **Anti-tumor necrosis factor (anti-TNF):**
