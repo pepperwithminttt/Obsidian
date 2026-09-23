@@ -789,69 +789,34 @@ Tetap rujuk bila kondisi klinis atau hasil laboratorium memburuk.
 
 # RINGKASAN SUPER CEPAT 🧠
 
-| **Aspek**       | **HAV**          | **HBV**                                     | **HCV**                     |
-| --------------- | ---------------- | ------------------------------------------- | --------------------------- |
-| Genom           | RNA              | DNA                                         | RNA                         |
-| Selubung        | −                | +                                           | +                           |
-| Transmisi utama | Fekal-oral       | Darah, seksual, perinatal                   | Darah                       |
-| Kronik          | Tidak            | Bisa                                        | Sering                      |
-| Diagnosis utama | **IgM anti-HAV** | **Pola serologi + HBV DNA**                 | **Anti-HCV → HCV RNA**      |
-| Terapi          | Suportif         | Supresi jangka panjang pada pasien terpilih | **DAA, dapat menyembuhkan** |
-| Vaksin          | Ada              | Ada                                         | Belum ada                   |
-| Masalah khas    | Penyakit akut    | **cccDNA**                                  | **Variasi genetik tinggi**  |
+| **Aspek**                   | **HAV**                                                 | **HBV**                                                                           | **HCV**                                                                                |
+| --------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Genom                       | RNA                                                     | DNA                                                                               | RNA                                                                                    |
+| Selubung                    | −                                                       | +                                                                                 | +                                                                                      |
+| Transmisi utama             | Fekal-oral                                              | Darah, seksual, perinatal                                                         | Terutama darah                                                                         |
+| Inkubasi tipikal            | 15–50 hari                                              | 30–180 hari                                                                       | 2–12 minggu                                                                            |
+| Kronisitas                  | Tidak menjadi kronik                                    | Tergantung usia saat infeksi; tinggi pada neonatus                                | Sering, sekitar 55–85% tanpa terapi                                                    |
+| Patogenesis utama           | Cedera hepatosit terutama dimediasi respons imun        | Cedera hepatosit terutama dimediasi respons imun; cccDNA mempertahankan infeksi   | Cedera hepatosit terutama dimediasi respons imun; variasi genetik membantu persistensi |
+| Lokasi replikasi utama      | Sitoplasma                                              | Nukleus + sitoplasma                                                              | Sitoplasma                                                                             |
+| Masalah khas                | Tidak membentuk infeksi kronik                          | **cccDNA** sebagai reservoir intrahepatik                                         | **Quasispecies** dan variasi genetik tinggi                                            |
+| Diagnosis utama             | **IgM anti-HAV**                                        | **Pola serologi + HBV DNA**                                                       | **Anti-HCV → HCV RNA**                                                                 |
+| Marker utama                | IgM anti-HAV = infeksi akut; IgG anti-HAV = imunitas    | HBsAg = infeksi sedang berlangsung; anti-HBc = paparan alami; anti-HBs = imunitas | Anti-HCV = pernah terpapar; HCV RNA = infeksi aktif                                    |
+| Marker infeksi akut         | **IgM anti-HAV**                                        | **IgM anti-HBc**                                                                  | HCV RNA; antibodi dapat belum terbentuk pada fase awal                                 |
+| Marker infeksi kronik       | Tidak ada                                               | **HBsAg ≥6 bulan**                                                                | **HCV RNA menetap**                                                                    |
+| Pemeriksaan aktivitas virus | Tidak diperlukan untuk menentukan kronisitas            | **HBV DNA**, HBeAg/anti-HBe, ALT                                                  | **HCV RNA kuantitatif**                                                                |
+| Tatalaksana utama           | Suportif                                                | Supresi replikasi dengan antivirus pada pasien terpilih                           | **DAA**                                                                                |
+| Tujuan terapi               | Mengatasi gejala dan mendukung pemulihan                | Menekan replikasi dan mencegah sirosis/HCC                                        | Eradikasi virologis dan mencapai **SVR**                                               |
+| Efek terapi terhadap virus  | Virus dibersihkan oleh respons imun                     | Replikasi ditekan, tetapi cccDNA tidak seluruhnya dieliminasi                     | DAA dapat menghasilkan eradikasi virologis                                             |
+| Vaksin                      | Ada                                                     | Ada                                                                               | Belum ada                                                                              |
+| Pencegahan utama            | Keamanan makanan/air, kebersihan tangan, vaksinasi      | Vaksinasi, keamanan darah/jarum, seks aman, pencegahan transmisi perinatal        | Keamanan darah/jarum dan pencegahan pajanan darah                                      |
+| Pascapajanan                | Vaksin ± imunoglobulin sesuai indikasi, ideal ≤2 minggu | Vaksin ± HBIG sesegera mungkin sesuai status paparan                              | Tidak ada PEP antivirus rutin; lakukan testing dan follow-up                           |
+| Risiko perinatal            | Bukan rute utama                                        | **Penting**                                                                       | Ada, tetapi lebih rendah                                                               |
+| Risiko seksual              | Relevan terutama pada paparan fekal-oral                | **Penting**                                                                       | Lebih rendah, meningkat pada kondisi tertentu                                          |
+| Risiko menjadi sirosis      | Tidak                                                   | Ya, bila kronik                                                                   | Ya, terutama bila kronik                                                               |
+| Risiko HCC                  | Tidak bermakna sebagai konsekuensi hepatitis kronik     | **Ada; dapat terjadi bahkan tanpa sirosis**                                       | Meningkat terutama setelah terjadi fibrosis/sirosis                                    |
+| Hasil akhir tipikal         | Sembuh dan imunitas jangka panjang                      | Sembuh atau menjadi kronik                                                        | Sembuh dengan terapi atau menjadi kronik bila tidak diterapi                           |
+### Kunci serologi:
 
-### 🧠 Cara menghafal keseluruhan
-
-**HAV = A = Acute**
-
-- Fekal-oral
-    
-- Akut
-    
-- IgM anti-HAV
-    
-- Tidak kronik
-    
-- Suportif
-    
-- Ada vaksin
-
-**HBV = B = Blood, Birth, cccDNA**
-
-- Darah, seksual, perinatal
-    
-- Bisa kronik
-    
-- HBsAg + anti-HBc + anti-HBs
-    
-- cccDNA membuat virus sulit dieliminasi
-    
-- Terapi terutama **supresi**
-    
-- Ada vaksin
-
-**HCV = C = Chronic + Cure**
-
-- Terutama darah
-    
-- Sering menjadi kronik
-    
-- Anti-HCV hanya menunjukkan paparan
-    
-- **HCV RNA = infeksi aktif**
-    
-- DAA dapat menghasilkan **SVR12**
-    
-- Tidak ada vaksin
-
-### 🎯 Tiga kalimat yang paling penting untuk ujian
-
-> **HAV akut → IgM anti-HAV → suportif.**
-
-> **HBV → baca pola serologi, kemudian nilai HBV DNA + ALT + fibrosis untuk menentukan stadium dan terapi.**
-
-> **HCV → anti-HCV menunjukkan paparan, HCV RNA membuktikan infeksi aktif → terapi DAA dapat menyembuhkan.**
-
-**Dan untuk semua hepatitis:**  
-**Nilai derajat berat sebelum sibuk mencari etiologi.**  
-AST/ALT = **cedera**, sedangkan INR, glukosa, dan status mental = **fungsi/gagal hati**. 🚨
+- **HAV:** `IgM = acute`
+- **HBV:** `HBsAg = virus sedang ada`, `anti-HBc = pernah kena`, `anti-HBs = kebal`
+- **HCV:** `Anti-HCV = pernah terpapar`, `RNA = masih terinfeksi`
