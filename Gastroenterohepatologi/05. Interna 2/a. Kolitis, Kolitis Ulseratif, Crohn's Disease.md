@@ -151,6 +151,8 @@ Crohn’s disease pertama kali dideskripsikan pada tahun **1932** oleh **Burrill
 > **UC = Colon + Continuous + Mucosal + Bloody stool**  
 > **CD = Anywhere + Skip + Transmural + Granuloma**
 
+![gh|460](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17901872990005kqr4y.png)
+
 ---
 
 # MANIFESTASI KLINIS IBD
@@ -158,21 +160,15 @@ Crohn’s disease pertama kali dideskripsikan pada tahun **1932** oleh **Burrill
 Gejala umum IBD meliputi:
 
 - **Diare kronis**
-    
 - **Nyeri dan kram abdomen**
-    
 - **Darah dalam tinja**
-    
 - **Penurunan nafsu makan**
-    
 - **Penurunan berat badan**
-    
 - **Demam**
 
 Pada anak atau remaja dapat ditemukan:
 
 - **Growth retardation**, yaitu gangguan pertumbuhan.
-    
 - Kegagalan mencapai **kematangan seksual**.
 
 ### Pemeriksaan fisik
@@ -180,15 +176,10 @@ Pada anak atau remaja dapat ditemukan:
 Pasien dapat tampak:
 
 - Kurus dan kurang nutrisi.
-    
 - **Anemia**.
-    
 - **Takikardia**.
-    
 - Demam ringan.
-    
 - Nyeri tekan abdomen ringan–sedang, terutama pada UC.
-    
 - Massa abdomen yang nyeri tekan di RLQ, terutama pada CD.
 
 ### Manifestasi ekstraintestinal
@@ -196,20 +187,11 @@ Pasien dapat tampak:
 IBD juga dapat memberikan manifestasi di luar saluran gastrointestinal, antara lain pada:
 
 - **Hepatobilier**
-    
 - **Kulit**
-    
 - **Rongga mulut**
-    
 - **Mata**
-    
 - **Muskuloskeletal**
-    
 - **Hematologis**
-
-> 🧠 **Hafalan:**  
-> IBD bukan hanya “penyakit usus”. Ingat **H-K-M-M-M-H**:  
-> **H**epatobilier – **K**ulit – **M**ulut – **M**ata – **M**uskuloskeletal – **H**ematologi.
 
 ---
 
@@ -222,13 +204,9 @@ Diagnosis IBD dilakukan berdasarkan kombinasi **anamnesis, pemeriksaan fisik, pe
 Yang perlu ditanyakan:
 
 - Tanda dan gejala.
-    
 - Onset gejala.
-    
 - Perjalanan penyakit.
-    
 - Gangguan pertumbuhan.
-    
 - Kegagalan perkembangan kematangan seksual.
 
 ### 2. Pemeriksaan laboratorium
@@ -236,15 +214,11 @@ Yang perlu ditanyakan:
 Meliputi:
 
 - **Complete blood count (CBC)**
-    
 - **Urinalysis**
-    
 - **Serum chemistry**
-    
+
 - Pemeriksaan serologi:
-    
     - **ANCA** (_antineutrophil cytoplasmic antibodies_)
-        
     - **ASCA** (_anti-Saccharomyces cerevisiae antibodies_)
 
 ### 3. Pemeriksaan feses
