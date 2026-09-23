@@ -1,6 +1,5 @@
 # HEPATITIS VIRUS A, B, DAN C
 
-> **Fokus:** patomekanisme, faktor risiko, manifestasi klinis, diagnosis, tatalaksana awal, pencegahan, dan kriteria rujukan.  
 > **Prinsip utama:** pada hepatitis virus, **cedera hepatosit terutama disebabkan oleh respons imun terhadap sel yang terinfeksi**, bukan efek sitopatik virus secara langsung.
 
 ## Gambaran umum
