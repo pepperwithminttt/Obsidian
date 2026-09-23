@@ -161,6 +161,8 @@ Dapat ditemukan:
 
 ## Patomekanisme
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790175557000yl1srh.png)
+
 HCC paling sering berkembang pada **latar belakang cedera hati kronik**, terutama:
 
 **HBV / HCV / alkohol / MASLD-MASH → inflamasi kronik + oxidative stress → kematian hepatosit berulang + regenerasi → fibrosis/cirrhosis → akumulasi perubahan genetik dan epigenetik → clonal selection → dysplastic nodule → early HCC → progressed HCC → invasi dan metastasis**
