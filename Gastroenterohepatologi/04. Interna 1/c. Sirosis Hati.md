@@ -1,4 +1,4 @@
-# SIROSIS HATI 🫀
+# SIROSIS HATI
 
 **Kuliah Interna 1 — Level Kompetensi 2**  
 **Dr. dr. Fardah Akil, SpPD-KGEH | Pembaruan September 2026**
