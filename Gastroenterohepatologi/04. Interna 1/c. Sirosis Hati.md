@@ -175,31 +175,25 @@ Penemuan satu faktor risiko **tidak berarti evaluasi etiologi selesai**, karena 
 Temuan klinis dapat dikelompokkan menjadi:
 
 **1. Tanda hipertensi portal**
-
 - Splenomegali
 - Trombositopenia
 - Kolateral vena dinding abdomen
 - Varises
 - Asites
 
-![gh|246](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167044000sqrgxc.png)
-
-
 **2. Tanda gagal fungsi hati**
-
 - Ikterus
+![gh|245](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167083000c8g6sh.png)
 - Edema
 - Mudah memar
 - Sarkopenia
 - Ensefalopati hepatik
 - Asteriksis
 
-![gh|245](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167083000c8g6sh.png)
-
 **3. Stigmata penyakit hati kronik**
 
 - Eritema palmar
-    
+![gh|246](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790167044000sqrgxc.png)
 - Spider angioma
     
 - Ginekomastia
