@@ -165,25 +165,20 @@ Pemeriksaan utama adalah **IgM anti-HAV**.
 Tidak ada antivirus spesifik untuk HAV.
 
 Terapi terutama **suportif**:
+
 - cukup cairan dan nutrisi,
 - antiemetik bila diperlukan,
 - hentikan alkohol,
 - hindari herbal dan obat hepatotoksik yang tidak diperlukan,
-    
 - pantau bilirubin, INR, glukosa, dan fungsi ginjal sesuai derajat penyakit,
-    
 - rawat inap bila tidak mampu minum atau terdapat tanda bahaya.
 
 ### Pencegahan penularan
 
 - Cuci tangan dengan baik.
-    
 - Jaga keamanan makanan dan air.
-    
 - Hindari menyiapkan makanan untuk orang lain selama masih infeksius.
-    
 - Vaksinasi HAV.
-    
 - Pascapajanan: vaksin HAV diberikan sesegera mungkin, idealnya **≤2 minggu**, dengan imunoglobulin pada kelompok yang memiliki indikasi sesuai pedoman.
 
 💡 **Kunci HAV:**  
@@ -196,15 +191,10 @@ Terapi terutama **suportif**:
 ## Karakteristik dan patomekanisme
 
 - HBV merupakan virus **DNA berselubung (enveloped)**.
-    
 - Transmisi:
-    
     - darah,
-        
     - seksual,
-        
     - perinatal.
-        
 - HBV dapat menyebabkan **hepatitis akut maupun kronik**.
 
 Hal penting pada HBV adalah **cccDNA (covalently closed circular DNA)**.
@@ -212,19 +202,12 @@ Hal penting pada HBV adalah **cccDNA (covalently closed circular DNA)**.
 ### Siklus HBV dalam hepatosit
 
 1. HBV masuk ke hepatosit melalui reseptor **NTCP**.
-    
 2. DNA virus berbentuk relaxed circular DNA (rcDNA) masuk ke nukleus.
-    
 3. rcDNA diperbaiki menjadi **cccDNA**.
-    
 4. cccDNA berfungsi sebagai cetakan untuk transkripsi RNA virus.
-    
 5. Dibentuk **pregenomic RNA (pgRNA)** dan protein virus.
-    
 6. pgRNA mengalami _reverse transcription_ menjadi DNA virus.
-    
 7. Virion baru dilepaskan.
-    
 8. Sebagian nukleokapsid kembali ke nukleus untuk mempertahankan reservoir cccDNA.
 
 **cccDNA adalah alasan utama HBV sulit benar-benar dieliminasi dengan terapi saat ini.**
@@ -236,9 +219,7 @@ Nukleos(t)ida dapat menekan replikasi HBV, tetapi tidak menghilangkan seluruh cc
 HBV sendiri bukan terutama virus yang menyebabkan kerusakan hepatosit secara langsung. Kerusakan terutama terjadi akibat **respons imun terhadap hepatosit yang mengandung antigen HBV**.
 
 - Respons imun efektif → virus dapat dikendalikan dan infeksi akut dapat sembuh.
-    
 - Respons tidak mampu mengeliminasi virus → HBV menetap.
-    
 - Infeksi persisten → inflamasi kronik → aktivasi sel stelata → fibrosis → sirosis → HCC.
 
 ⚠️ **HCC dapat terjadi pada HBV bahkan tanpa sirosis**, antara lain karena integrasi DNA virus ke genom hepatosit dan efek protein virus seperti **HBx**.
@@ -248,9 +229,7 @@ HBV sendiri bukan terutama virus yang menyebabkan kerusakan hepatosit secara lan
 Semakin muda usia ketika terinfeksi, semakin tinggi kemungkinan infeksi menjadi kronik:
 
 - **Perinatal:** sekitar **90%** menjadi kronik.
-    
 - **Usia 1–5 tahun:** sekitar **25–30%** menjadi kronik.
-    
 - **Dewasa:** **<5%** menjadi kronik.
 
 💡 **Tips hafalan:**  
@@ -262,19 +241,14 @@ Perinatal ≈ **90%**, anak ≈ **25–30%**, dewasa **<5%**.
 ### Transmisi darah
 
 - penggunaan jarum bersama,
-    
 - tato/piercing tidak steril,
-    
 - pajanan jarum pada tenaga kesehatan,
-    
 - hemodialisis,
-    
 - transfusi darah lama sebelum skrining efektif.
 
 ### Transmisi seksual
 
 - hubungan seksual tanpa proteksi,
-    
 - pasangan seksual yang terinfeksi.
 
 ### Transmisi perinatal
@@ -286,40 +260,26 @@ Perinatal ≈ **90%**, anak ≈ **25–30%**, dewasa **<5%**.
 Skrining dasar menggunakan **triple panel**:
 
 1. **HBsAg**
-    
     - Menunjukkan infeksi HBV yang sedang berlangsung.
-        
     - Dapat ditemukan pada infeksi akut maupun kronik.
-        
 2. **Total anti-HBc**
-    
     - Menunjukkan pernah atau sedang terinfeksi secara alami.
-        
     - Tidak muncul hanya karena vaksinasi.
-        
     - Menetap seumur hidup.
-        
 3. **Anti-HBs**
-    
     - Menunjukkan imunitas.
-        
     - Dapat berasal dari vaksinasi atau pemulihan setelah infeksi.
 
 Marker tambahan:
 
 - **IgM anti-HBc:** mendukung infeksi baru/akut; juga dapat positif pada flare berat.
-    
 - **HBeAg:** umumnya menunjukkan replikasi virus dan infektivitas lebih tinggi, meskipun tidak selalu.
-    
 - **HBV DNA:** mengukur jumlah virus secara langsung dan sangat penting untuk menentukan aktivitas replikasi serta keputusan terapi.
-    
 - **ALT:** menilai aktivitas cedera hepatosit.
-    
 - **Platelet, APRI, FIB-4, elastografi:** membantu menilai fibrosis.
-    
 - **Anti-HDV:** dipertimbangkan pada pasien HBsAg positif.
 
-### Pola serologi yang sering keluar di soal
+### Pola serologi yang sering keluar di soal (Ingat!)
 
 |HBsAg|Total anti-HBc|IgM anti-HBc|Anti-HBs|Interpretasi|
 |---|---|---|---|---|
