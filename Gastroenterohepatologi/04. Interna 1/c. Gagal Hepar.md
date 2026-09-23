@@ -137,7 +137,6 @@ Pendekatan diagnosis dapat diingat sebagai:
     - ALP relatif rendah,
     - pemeriksaan tembaga.
 - **HSV PCR** bila terdapat faktor risiko atau kecurigaan klinis.
-    
 
 ---
 
@@ -146,51 +145,30 @@ Pendekatan diagnosis dapat diingat sebagai:
 ALF harus ditangani sebagai kegawatdaruratan dan idealnya melibatkan **ICU serta pusat transplantasi hati**.
 
 **1. Stabilisasi**
-
 - **ABC:** _airway, breathing, circulation_.
-    
 - Akses vaskular dan monitoring ketat.
-    
 - Koreksi hipoglikemia.
-    
 - Evaluasi dan dukung fungsi organ.
-    
 
 **2. N-asetilsistein (NAC)**
-
 - Segera diberikan pada **keracunan parasetamol**.
-    
 - Juga dapat diberikan pada ALF dengan etiologi yang belum jelas sesuai pertimbangan klinis.
-    
 
 **3. Cari dan obati penyebab**
-
 - Hentikan obat/herbal tersangka DILI.
-    
 - Terapi antivirus pada kondisi tertentu.
-    
 - Antibiotik bila terdapat infeksi.
-    
 - Terapi spesifik sesuai etiologi.
-    
 
 **4. Cegah dan tangani komplikasi**
-
 - **Edema serebri:** elevasi kepala, monitoring neurologis dan tekanan intrakranial bila diperlukan.
-    
 - Hipoglikemia: koreksi glukosa.
-    
 - AKI: optimalkan kondisi hemodinamik dan pertimbangkan terapi pengganti ginjal.
-    
 - Infeksi: identifikasi dan terapi dini.
-    
 
 **5. Evaluasi transplantasi hati secara dini**
-
 - Prognosis dinilai menggunakan **King's College Criteria (KCC)** dan parameter klinis/laboratorium lainnya.
-    
 - Transplantasi emergensi dipertimbangkan bila kemungkinan pemulihan spontan rendah.
-    
 
 ---
 
