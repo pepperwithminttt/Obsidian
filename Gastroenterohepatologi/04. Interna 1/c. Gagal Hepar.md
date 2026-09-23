@@ -1,4 +1,4 @@
-# 1. ACUTE LIVER FAILURE (ALF) 🫀
+# 1. ACUTE LIVER FAILURE (ALF)
 
 ## Definisi dan konsep dasar
 
@@ -67,15 +67,10 @@ ALF merupakan **kegawatdaruratan medis** karena kondisi dapat berkembang cepat m
 - **Hepatosit rusak/nekrosis** → jumlah sel yang mampu menjalankan fungsi hati turun drastis.
 - **Fungsi detoksifikasi menurun** → amonia tidak dapat dimetabolisme secara adekuat → **hiperamonemia** → ensefalopati hepatik.
 - **Fungsi sintesis menurun** → produksi faktor koagulasi berkurang → **INR meningkat**.
-    
 - **Glukoneogenesis dan penyimpanan glikogen terganggu** → **hipoglikemia**.
-    
 - Metabolisme laktat terganggu → **laktat meningkat**.
-    
 - Hiperamonemia dan berbagai mediator inflamasi menyebabkan **astrosit membengkak** → **edema serebri** → dapat menyebabkan **hipertensi intrakranial**.
-    
 - Kerusakan sistemik yang berat akhirnya dapat menyebabkan **kegagalan multiorgan**.
-    
 
 💡 **Tips hafalan ALF:**  
 **“ALF = Acute → Ammonia → Brain.”**  
@@ -88,34 +83,21 @@ Cedera akut → amonia naik → otak mengalami ensefalopati/edema serebri.
 Temuan yang dapat muncul:
 
 - **Ikterus** akibat peningkatan bilirubin.
-    
 - **Koagulopati** dengan INR meningkat.
-    
 - **Ensefalopati hepatik**, mulai dari perubahan perilaku/konsentrasi hingga koma.
-    
 - **Hipoglikemia**.
-    
 - **AKI (acute kidney injury)**.
-    
 - Infeksi.
-    
 - **Edema serebri dan hipertensi intrakranial**, merupakan komplikasi penting ALF.
-    
 - Hipotensi dan gangguan sirkulasi pada kondisi berat.
-    
 
 Petunjuk yang mendukung ALF:
 
 - Onset cepat, umumnya dalam **hari–minggu**.
-    
 - Tidak terdapat riwayat penyakit hati kronis atau stigmata sirosis.
-    
 - Hipoglikemia.
-    
 - Ensefalopati.
-    
 - Edema serebri.
-    
 
 ⚠️ **AST/ALT sangat tinggi menunjukkan adanya cedera hepatosit, tetapi tidak secara langsung menunjukkan seberapa baik fungsi hati.**  
 Fungsi hati lebih dinilai melalui parameter seperti **INR, bilirubin, glukosa, ensefalopati, dan kondisi organ lain**.
@@ -129,56 +111,31 @@ Pendekatan diagnosis dapat diingat sebagai:
 **Kenali gagal hati → tentukan latar hati → cari penyebab → nilai organ lain → tentukan lokasi perawatan.**
 
 **1. Menilai beratnya gagal hati dan fungsi organ**
-
 - PT/INR
-    
 - Bilirubin
-    
 - Albumin
-    
 - Glukosa serial
-    
 - Gas darah
-    
 - Laktat
-    
 - Ureum dan kreatinin
-    
 - Natrium dan kalium
-    
 - Amonia arteri bila tersedia
-    
 - Darah lengkap
-    
 - Kultur bila dicurigai infeksi
-    
 - **USG Doppler hati** untuk menilai struktur hati dan aliran vaskular.
-    
 
 **2. Mencari etiologi**
-
 - Kadar parasetamol + anamnesis obat, herbal, dan suplemen.
-    
 - **IgM anti-HAV**
-    
 - **HBsAg**
-    
 - **IgM anti-HBc**
-    
 - **Anti-HEV** sesuai konteks.
-    
 - ANA, ASMA, IgG untuk hepatitis autoimun.
-    
 - Tes kehamilan pada perempuan usia reproduktif.
-    
 - Evaluasi penyakit Wilson, terutama bila dicurigai:
-    
     - hemolisis,
-        
     - ALP relatif rendah,
-        
     - pemeriksaan tembaga.
-        
 - **HSV PCR** bila terdapat faktor risiko atau kecurigaan klinis.
     
 
