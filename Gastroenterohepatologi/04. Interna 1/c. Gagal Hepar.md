@@ -62,12 +62,10 @@ ALF merupakan **kegawatdaruratan medis** karena kondisi dapat berkembang cepat m
 ↓  
 **Kegagalan multiorgan**
 
-**Apa yang sebenarnya terjadi?**
+### Apa yang sebenarnya terjadi?
 
 - **Hepatosit rusak/nekrosis** → jumlah sel yang mampu menjalankan fungsi hati turun drastis.
-    
 - **Fungsi detoksifikasi menurun** → amonia tidak dapat dimetabolisme secara adekuat → **hiperamonemia** → ensefalopati hepatik.
-    
 - **Fungsi sintesis menurun** → produksi faktor koagulasi berkurang → **INR meningkat**.
     
 - **Glukoneogenesis dan penyimpanan glikogen terganggu** → **hipoglikemia**.
