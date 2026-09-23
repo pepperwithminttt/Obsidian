@@ -30,11 +30,6 @@ IBD dapat ditemukan di seluruh dunia, tetapi lebih sering ditemukan di negara-ne
 - Insidensi Crohn’s disease secara umum lebih rendah dan relatif serupa antara laki-laki dan perempuan, kemudian menurun seiring bertambahnya usia.
 - Pada UC, insidensi pada laki-laki relatif konstan dengan bertambahnya usia, sedangkan pada perempuan cenderung menurun.
 
-> 🧠 **Tips hafalan:**  
-> **CD = 3rd decade**  
-> **UC = 4th decade**  
-> Jadi, **Crohn lebih muda, UC sedikit lebih tua.**
-
 ---
 
 ## 2. Patogenesis IBD
