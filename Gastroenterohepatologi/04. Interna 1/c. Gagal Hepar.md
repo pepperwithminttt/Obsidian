@@ -452,15 +452,10 @@ Prinsip utama:
 
 - **Hepatitis akut berat:** cedera hati akut tetapi belum memenuhi kriteria gagal hati, misalnya belum ada ensefalopati atau INR <1,5.
 - **Dekompensasi sirosis:** muncul asites, ensefalopati, atau perdarahan tanpa memenuhi gambaran kegagalan organ sistemik ACLF.
-    
 - **Sepsis-associated liver injury:** gangguan hati terutama akibat sepsis; tetap harus ditentukan apakah terdapat penyakit hati kronis.
-    
 - **Hepatitis iskemik:** biasanya terdapat syok/hipoksia dan AST/ALT sangat tinggi.
-    
 - **Obstruksi bilier/kolangitis:** dominan pola kolestatik, dapat disertai demam, nyeri, dan dilatasi saluran empedu.
-    
 - **Penyebab lain gangguan kesadaran:** hipoglikemia, stroke, intoksikasi, uremia, hiperkapnia, dan lain-lain.
-    
 
 ---
 
@@ -471,19 +466,12 @@ Prinsip utama:
 Prognosis terutama dipengaruhi oleh:
 
 - Etiologi.
-    
 - Derajat ensefalopati.
-    
 - INR.
-    
 - Laktat.
-    
 - Amonia.
-    
 - AKI.
-    
 - Tren klinis.
-    
 
 **King's College Criteria** dapat membantu menentukan kebutuhan transplantasi.
 
@@ -492,44 +480,27 @@ Prognosis terutama dipengaruhi oleh:
 Prognosis terutama dipengaruhi oleh:
 
 - **Jumlah kegagalan organ.**
-    
 - Beratnya masing-masing kegagalan organ.
-    
 - Infeksi dan inflamasi sistemik.
-    
 - Perubahan kondisi setelah terapi pencetus.
-    
 
 Digunakan antara lain **CLIF-C ACLF** untuk penilaian prognosis.
 
 ### Kapan harus segera ICU/rujuk? 🚑
 
 - Ensefalopati baru atau semakin berat.
-    
 - **INR ≥1,5 pada cedera hati akut.**
-    
 - Hipoglikemia.
-    
 - Laktat meningkat.
-    
 - Amonia tinggi.
-    
 - Kejang atau tanda edema serebri.
-    
 - AKI atau oliguria.
-    
 - Hipotensi/kebutuhan vasopresor.
-    
 - Hipoksemia atau kebutuhan ventilasi.
-    
 - Dugaan **Wilson-ALF**.
-    
 - ALF terkait kehamilan.
-    
 - Etiologi tidak jelas.
-    
 - ACLF dengan ≥1 kegagalan organ ekstrahepatik.
-    
 
 **Semua ALF harus dianggap sebagai kegawatdaruratan medis.**
 
@@ -537,26 +508,30 @@ Digunakan antara lain **CLIF-C ACLF** untuk penilaian prognosis.
 
 # 7. CONTOH KASUS 🩺
 
+Laki-laki 58 tahun dengan sirosis HBV datang karena demam, asites memburuk, dan kebingungan. TD 82/50 mmHg, SpO2 88%, bilirubin 18 mg/dL, INR 2,1, kreatinin 2,8 mg/dL. Kultur darah kemudian menunjukkan E. coli.
+
+Tentukan diagnosis, pencetus, dan organ yang gagal.
+
+Pilihan jawaban:
+
+A. ALF akibat HBV
+B. ACLF akibat infeksi
+C. Hepatitis akut tanpa gagal hati
+D. Sirosis kompensata
+
+## Pembahasan:
+
 **Laki-laki 58 tahun** dengan sirosis HBV mengalami:
 
 - Demam.
-    
 - Asites memburuk.
-    
 - Kebingungan/ensefalopati.
-    
 - TD 82/50 mmHg.
-    
 - SpO₂ 88%.
-    
 - Bilirubin 18 mg/dL.
-    
 - INR 2,1.
-    
 - Kreatinin 2,8 mg/dL.
-    
 - Kultur darah: **E. coli**.
-    
 
 ### Diagnosis
 
@@ -570,17 +545,11 @@ Kemudian terjadi **infeksi akut** → inflamasi sistemik → terjadi kegagalan b
 ### Organ yang mengalami kegagalan/disfungsi
 
 - 🫀 **Hati:** bilirubin 18 mg/dL.
-    
 - 🧠 **Otak:** ensefalopati/kebingungan.
-    
 - 🫘 **Ginjal:** kreatinin 2,8 mg/dL.
-    
 - 🩸 **Koagulasi:** INR 2,1.
-    
 - ❤️ **Sirkulasi:** hipotensi 82/50 mmHg.
-    
 - 🫁 **Respirasi:** SpO₂ 88%.
-    
 
 **Prioritas:** terapi infeksi dan _source control_, stabilisasi sirkulasi/respirasi, dukungan organ, penilaian CLIF-OF, dan evaluasi transplantasi secara dini.
 
@@ -609,10 +578,10 @@ Kemudian terjadi **infeksi akut** → inflamasi sistemik → terjadi kegagalan b
 ### Prioritas tatalaksana:
 
 **ALF:**  
-**ABC → NAC/terapi etiologi → proteksi otak → ICU → transplantasi**
+ABC → NAC/terapi etiologi → proteksi otak → ICU → transplantasi
 
 **ACLF:**  
-**Cari pencetus → obati pencetus → dukung organ → CLIF-OF serial → transplantasi dini**
+Cari pencetus → obati pencetus → dukung organ → CLIF-OF serial → transplantasi dini
 
 **Kalimat kunci:**  
-🧠 **“ALF menyelamatkan otak; ACLF menyelamatkan banyak organ.”**
+🧠 “ALF menyelamatkan otak; ACLF menyelamatkan banyak organ.”
