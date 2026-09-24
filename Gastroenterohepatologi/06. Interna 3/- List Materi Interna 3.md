@@ -5,3 +5,5 @@
 5. Koledokolitiasis (2)
 6. Kolangitis
 7. Cholangioca
+
+Utk interna 3 kurasa bagus pptnya dokter sih jdi bisa baca itu jga.
