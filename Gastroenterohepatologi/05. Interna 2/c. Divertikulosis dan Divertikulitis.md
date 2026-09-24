@@ -4,11 +4,15 @@
 
 **Diverticular disease (DD)** adalah kondisi ketika **mukosa dan submukosa kolon mengalami herniasi melalui area dinding kolon yang relatif lemah**, terutama pada lokasi masuknya **vasa recta** melalui dinding kolon.
 
+![gh|310](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790210891000ktkhdp.png)
+
 - **Diverticulum** → satu kantong/lonjolan (_bulging sac_) pada dinding kolon.
 - **Diverticula** → bentuk jamak dari _diverticulum_, yaitu lebih dari satu divertikulum.
 - **Diverticulosis** → keadaan terdapatnya divertikula di kolon, **tanpa harus disertai inflamasi**.
 - **Prediverticular** → herniasi mukosa/submukosa yang masih berada di dalam dinding kolon dan belum membentuk divertikulum yang sempurna.
 - **Diverticulitis** → inflamasi dan/atau infeksi divertikulum, terutama ketika divertikulum mengalami ruptur dan proses inflamasi menyebar ke jaringan sekitar kolon, mesenterium, organ sekitar, atau menyebabkan perforasi bebas ke rongga peritoneum.
+
+![gh|376](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790210841000qxmdhr.png)
 
 💡 **Ingat:**  
 **-osis = ada divertikula** → _diverticulosis_  
