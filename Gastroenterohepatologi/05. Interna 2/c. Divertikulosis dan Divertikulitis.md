@@ -1,6 +1,6 @@
 # Diverticular Disease of the Colon
 
-## 1. Definisi dan Terminologi
+# 1. Definisi dan Terminologi
 
 **Diverticular disease (DD)** adalah kondisi ketika **mukosa dan submukosa kolon mengalami herniasi melalui area dinding kolon yang relatif lemah**, terutama pada lokasi masuknya **vasa recta** melalui dinding kolon.
 
@@ -18,7 +18,7 @@
 **-osis = ada divertikula** → _diverticulosis_  
 **-itis = inflamasi** → _diverticulitis_
 
-## 2. Epidemiologi dan Distribusi
+# 2. Epidemiologi dan Distribusi
 
 - Divertikula dapat muncul di seluruh kolon, tetapi paling sering ditemukan di **kolon sigmoid**, terutama bagian distal kolon kiri.
 - Prevalensi lebih tinggi di negara maju, sekitar **30–55%**, sedangkan jauh lebih rendah di wilayah Asia dan Afrika.
@@ -32,7 +32,7 @@
     - **50–70 tahun:** laki-laki masih lebih banyak
     - **>70 tahun:** perempuan > laki-laki
 
-### Distribusi divertikula
+## Distribusi divertikula
 
 - **Kolon sigmoid:** 95%
 - Hanya pada sigmoid: 65%
@@ -44,16 +44,16 @@
 
 > **Sigmoid → 95%**
 
-## 3. Klasifikasi
+# 3. Klasifikasi
 
 Berdasarkan asalnya:
 
 - **Acquired pseudodiverticula** → divertikula didapat dan merupakan herniasi **mukosa + submukosa** melalui lapisan dinding yang lemah.
 - **Congenital true diverticula** → divertikula kongenital yang melibatkan seluruh lapisan dinding usus.
 
-## 4. Etiologi dan Patogenesis
+# 4. Etiologi dan Patogenesis
 
-### Faktor utama: diet rendah serat
+## Faktor utama: diet rendah serat
 
 Serat berfungsi untuk:
 
@@ -73,7 +73,7 @@ Serat berfungsi untuk:
 
 ![gh|261](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790211291000qc4str.png)
 
-### Faktor lain
+## Faktor lain
 
 - **Usia:** perubahan struktur kolagen menyebabkan perubahan mekanik dan penurunan kekuatan dinding kolon.
 - **Diet tinggi daging**
@@ -81,7 +81,7 @@ Serat berfungsi untuk:
 - **Merokok**
 - **NSAIDs** → terutama berhubungan dengan peningkatan risiko komplikasi.
 
-## 5. Manifestasi Klinis
+# 5. Manifestasi Klinis
 
 Sebagian besar divertikulosis tidak menimbulkan gejala:
 
@@ -92,9 +92,9 @@ Sebagian besar divertikulosis tidak menimbulkan gejala:
     - leukositosis.
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790210963000wpt0n4.png)
 
-## 6. Diagnosis
+# 6. Diagnosis
 
-### Temuan awal
+## Temuan awal
 
 **Diverticular disease asimtomatik** sering ditemukan secara kebetulan saat pemeriksaan untuk penyakit lain, misalnya melalui:
 
@@ -110,14 +110,14 @@ Pada divertikulitis, temuan yang mendukung meliputi:
 - nyeri LLQ;
 - massa abdomen yang teraba;
 - leukositosis.
-### Pemeriksaan fisik
+## Pemeriksaan fisik
 
 - Umumnya tidak ditemukan kelainan fisik bermakna.
 - Dapat ditemukan **nyeri tekan abdomen kiri bawah**.
 - **Rebound tenderness** menunjukkan iritasi/inflamasi peritoneum, terutama akibat mikro- atau makroperforasi.
 - **Massa abdomen teraba** dapat menunjukkan penyebaran proses inflamasi menjadi _localized phlegmon_ atau abses.
 - Bila abses atau inflamasi menyebar luas → dapat berkembang menjadi **peritonitis generalisata**.
-### Pemeriksaan penunjang
+## Pemeriksaan penunjang
 
 **1. Foto X-ray abdomen**
 
@@ -173,9 +173,9 @@ Sensitivitas **62–94%**, dengan _false negative_ sekitar **2–15%**.
 🧠 **Tips hafalan diagnosis:**  
 **CT = lihat divertikulum + lemak sekitar + dinding kolon + abses/phlegmon.**
 
-## 7. Tatalaksana
+# 7. Tatalaksana
 
-### Diverticular disease tanpa komplikasi
+## Diverticular disease tanpa komplikasi
 
 **Modifikasi diet:**
 
@@ -185,17 +185,17 @@ Sensitivitas **62–94%**, dengan _false negative_ sekitar **2–15%**.
 - Kurangi konsumsi daging dan makanan tinggi lemak.
 - Tingkatkan konsumsi buah dan sayuran.
 
-### Divertikulitis akut
+## Divertikulitis akut
 
 - Hindari asupan oral.
 - Berikan **cairan dan elektrolit intravena**.
 - Berikan **antibiotik spektrum luas**.
 
-### Pembedahan
+## Pembedahan
 
 Indikasi pada materi: **divertikulitis akut dengan komplikasi yang menetap/berkelanjutan**.
 
-## 8. Komplikasi
+# 8. Komplikasi
 
 - **Phlegmon** → massa inflamasi akibat proses peradangan yang menyebar dan menyebabkan jaringan sekitar saling melekat.
 - **Abses** → sekitar 30–50% kasus komplikasi.
@@ -211,7 +211,7 @@ Indikasi pada materi: **divertikulitis akut dengan komplikasi yang menetap/berke
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790212068000l75446.png)
 
-### Perforasi Divertikulum — Klasifikasi Hinchey
+## Perforasi Divertikulum — Klasifikasi Hinchey
 
 Klasifikasi Hinchey menggambarkan derajat keparahan perforasi dan penyebaran infeksi:
 
@@ -233,7 +233,7 @@ Klasifikasi Hinchey menggambarkan derajat keparahan perforasi dan penyebaran inf
 
 Jadi semakin tinggi stadium → **semakin luas kontaminasi rongga peritoneum**.
 
-## 9. Diagnosis Banding
+# 9. Diagnosis Banding
 
 Diagnosis banding bergantung pada lokasi dan manifestasi klinis:
 
@@ -245,7 +245,7 @@ Diagnosis banding bergantung pada lokasi dan manifestasi klinis:
 - **Inflamasi pelvis**
 - **Hemoroid**
 
-## 🧠 Ringkasan super cepat
+# 🧠 Ringkasan super cepat
 
 **Diverticular disease = herniasi mukosa + submukosa melalui titik lemah dinding kolon → paling sering sigmoid → meningkat dengan usia.**
 
@@ -255,13 +255,13 @@ Diagnosis banding bergantung pada lokasi dan manifestasi klinis:
 **Diverticulitis** = divertikulum mengalami inflamasi/infeksi.  
 **Komplikasi** = abses, phlegmon, obstruksi, perforasi, fistula, perdarahan.
 
-#### Gejala utama divertikulitis:
+### Gejala utama divertikulitis:
 → **LLQ pain + fever + leukocytosis**
 
-#### Pemeriksaan utama:
+### Pemeriksaan utama:
 → **CT abdomen**
 
-#### Tatalaksana:
+### Tatalaksana:
 
 **Diverticular disease tanpa komplikasi:**
 - Diet tinggi serat/**cereal bran**
