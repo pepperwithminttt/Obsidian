@@ -81,7 +81,7 @@ Serat berfungsi untuk:
 - **Merokok**
 - **NSAIDs** → terutama berhubungan dengan peningkatan risiko komplikasi.
 
-## 5. Manifestasi Klinis dan Komplikasi
+## 5. Manifestasi Klinis
 
 Sebagian besar divertikulosis tidak menimbulkan gejala:
 
@@ -91,26 +91,6 @@ Sebagian besar divertikulosis tidak menimbulkan gejala:
     - demam;
     - leukositosis.
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790210963000wpt0n4.png)
-
-### Komplikasi
-
-- **Phlegmon** → massa inflamasi akibat proses peradangan yang menyebar dan menyebabkan jaringan sekitar saling melekat.
-- **Abses** → sekitar 30–50% kasus komplikasi.
-- **Obstruksi** → sekitar 10%.
-- **Perforasi mikro maupun makro**.
-- **Fistula** → sekitar 2%, dapat berupa:
-    - _colovesical_ → kolon–vesika urinaria;
-    - _colovaginal_ → kolon–vagina;
-    - _colocutaneous_ → kolon–kulit.
-- **Perdarahan** → sekitar 5–15%.
-
-### Pemeriksaan fisik
-
-- Umumnya tidak ditemukan kelainan fisik bermakna.
-- Dapat ditemukan **nyeri tekan abdomen kiri bawah**.
-- **Rebound tenderness** menunjukkan iritasi/inflamasi peritoneum, terutama akibat mikro- atau makroperforasi.
-- **Massa abdomen teraba** dapat menunjukkan penyebaran proses inflamasi menjadi _localized phlegmon_ atau abses.
-- Bila abses atau inflamasi menyebar luas → dapat berkembang menjadi **peritonitis generalisata**.
 
 ## 6. Diagnosis
 
@@ -130,7 +110,13 @@ Pada divertikulitis, temuan yang mendukung meliputi:
 - nyeri LLQ;
 - massa abdomen yang teraba;
 - leukositosis.
+### Pemeriksaan fisik
 
+- Umumnya tidak ditemukan kelainan fisik bermakna.
+- Dapat ditemukan **nyeri tekan abdomen kiri bawah**.
+- **Rebound tenderness** menunjukkan iritasi/inflamasi peritoneum, terutama akibat mikro- atau makroperforasi.
+- **Massa abdomen teraba** dapat menunjukkan penyebaran proses inflamasi menjadi _localized phlegmon_ atau abses.
+- Bila abses atau inflamasi menyebar luas → dapat berkembang menjadi **peritonitis generalisata**.
 ### Pemeriksaan penunjang
 
 **1. Foto X-ray abdomen**
@@ -142,6 +128,8 @@ Pada sekitar 30–50% kasus dapat ditemukan:
 
 **2. Ultrasonografi abdomen**
 
+![gh|420](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790211567000yn4js9.png)
+
 Dapat menunjukkan:
 
 - penebalan dinding usus **hipoekoik**;
@@ -149,6 +137,8 @@ Dapat menunjukkan:
 - hiperekoik di sekitar dinding usus.
 
 **3. CT abdomen**
+
+![gh|421](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902115930007m6mlk.png)
 
 Merupakan **pemeriksaan definitif**, dengan:
 
@@ -164,9 +154,13 @@ Temuan:
 
 **4. Enema dengan kontras intravena**
 
-Pada materi disebutkan sensitivitas **62–94%**, dengan _false negative_ sekitar **2–15%**.
+![gh|219](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790211618000lnep74.png)
+
+Sensitivitas **62–94%**, dengan _false negative_ sekitar **2–15%**.
 
 **5. Kolonoskopi**
+
+![gh|356](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790211640000wr130h.png)
 
 - Relatif **dikontraindikasikan pada divertikulitis akut** karena risiko perforasi.
 - Pada perdarahan, dapat dilakukan setelah perdarahan berhenti selama sekitar **12–24 jam**.
@@ -174,7 +168,7 @@ Pada materi disebutkan sensitivitas **62–94%**, dengan _false negative_ sekita
 **6. Angiografi selektif**
 
 - Dapat digunakan pada perdarahan dengan laju sedang.
-- Pada materi disebutkan deteksi perdarahan minimal sekitar **1–1,3 mL/menit**.
+- Deteksi perdarahan minimal sekitar **1–1,3 mL/menit**.
 
 🧠 **Tips hafalan diagnosis:**  
 **CT = lihat divertikulum + lemak sekitar + dinding kolon + abses/phlegmon.**
@@ -201,16 +195,34 @@ Pada materi disebutkan sensitivitas **62–94%**, dengan _false negative_ sekita
 
 Indikasi pada materi: **divertikulitis akut dengan komplikasi yang menetap/berkelanjutan**.
 
-## 8. Perforasi Divertikulum — Klasifikasi Hinchey
+## 8. Komplikasi
+
+- **Phlegmon** → massa inflamasi akibat proses peradangan yang menyebar dan menyebabkan jaringan sekitar saling melekat.
+- **Abses** → sekitar 30–50% kasus komplikasi.
+- **Obstruksi** → sekitar 10%.
+- **Perforasi mikro maupun makro**.
+- **Fistula** → sekitar 2%, dapat berupa:
+    - _colovesical_ → kolon–vesika urinaria;
+    - _colovaginal_ → kolon–vagina;
+    - _colocutaneous_ → kolon–kulit.
+- **Perdarahan** → sekitar 5–15%.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790212025000nt8hoj.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790212068000l75446.png)
+
+### Perforasi Divertikulum — Klasifikasi Hinchey
 
 Klasifikasi Hinchey menggambarkan derajat keparahan perforasi dan penyebaran infeksi:
 
-|Stadium|Temuan|
-|---|---|
-|**Hinchey I**|**Abses perikolik** yang masih terlokalisasi|
-|**Hinchey II**|**Abses jauh**, misalnya retroperitoneal atau pelvis|
-|**Hinchey III**|**Peritonitis generalisata** akibat ruptur abses perikolik/pelvik; tidak berkomunikasi dengan lumen usus karena leher divertikulum mengalami obliterasi akibat inflamasi|
-|**Hinchey IV**|**Peritonitis fekal** akibat perforasi bebas divertikulum yang berkomunikasi dengan lumen usus|
+| Stadium         | Temuan                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Hinchey I**   | **Abses perikolik** yang masih **terlokalisasi**                                                                                                                         |
+| **Hinchey II**  | **Abses jauh**, misalnya retroperitoneal atau pelvis                                                                                                                     |
+| **Hinchey III** | **Peritonitis generalisata** akibat ruptur abses perikolik/pelvik; tidak berkomunikasi dengan lumen usus karena leher divertikulum mengalami obliterasi akibat inflamasi |
+| **Hinchey IV**  | **Peritonitis fekal** akibat perforasi bebas divertikulum yang berkomunikasi dengan lumen usus                                                                           |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790212100000h6cghh.png)
 
 🧠 **Cara menghafal Hinchey:**
 
@@ -233,7 +245,7 @@ Diagnosis banding bergantung pada lokasi dan manifestasi klinis:
 - **Inflamasi pelvis**
 - **Hemoroid**
 
-### 🧠 Ringkasan super cepat
+## 🧠 Ringkasan super cepat
 
 **Diverticular disease = herniasi mukosa + submukosa melalui titik lemah dinding kolon → paling sering sigmoid → meningkat dengan usia.**
 
@@ -243,14 +255,21 @@ Diagnosis banding bergantung pada lokasi dan manifestasi klinis:
 **Diverticulitis** = divertikulum mengalami inflamasi/infeksi.  
 **Komplikasi** = abses, phlegmon, obstruksi, perforasi, fistula, perdarahan.
 
-**Gejala utama divertikulitis:**  
+#### Gejala utama divertikulitis:
 → **LLQ pain + fever + leukocytosis**
 
-**Pemeriksaan utama:**  
+#### Pemeriksaan utama:
 → **CT abdomen**
 
+#### Tatalaksana:
+
+**Diverticular disease tanpa komplikasi:**
+- Diet tinggi serat/**cereal bran**
+- Kurangi konsumsi daging dan makanan tinggi lemak.
+- Tingkatkan konsumsi buah dan sayuran.
+
 **Divertikulitis akut:**  
-→ **hindari oral + IV fluid/electrolyte + broad-spectrum antibiotic**
+→ hindari nutrisi oral + IV fluid/electrolyte + broad-spectrum antibiotic
 
 **Hinchey:**  
 → **I lokal → II jauh → III peritonitis purulen → IV peritonitis fekal** 🧠✨
