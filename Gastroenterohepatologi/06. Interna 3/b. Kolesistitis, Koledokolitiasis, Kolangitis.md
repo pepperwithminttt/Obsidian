@@ -111,6 +111,8 @@ Jika serangan khas berulang → **laparoscopic cholecystectomy** dapat dilakukan
 
 ### C-GALL
 
+**C-Gall** adalah sebuah studi atau uji klinis kedokteran besar di Britania Raya (UK) yang membandingkan efektivitas operasi pengangkatan kantung empedu (_laparoscopic cholecystectomy_) dengan penanganan konservatif atau tanpa operasi (_conservative/medical management_) bagi pasien yang mengalami gejala batu empedu tanpa komplikasi.
+
 Pada orang dewasa dengan **batu empedu simptomatik tanpa komplikasi**, studi C-GALL menunjukkan bahwa tata laksana konservatif tidak menghasilkan perbedaan bermakna dalam nyeri keseluruhan pada 18 bulan dibandingkan kolesistektomi, dengan tata laksana konservatif lebih sederhana dan lebih murah.
 
 Namun, temuan tersebut **tidak berlaku** untuk pasien dengan:
