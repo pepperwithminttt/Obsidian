@@ -1,28 +1,27 @@
 # Amoebic Liver Abscess (ALA)
 
-**Amoebic Liver Abscess (ALA)** adalah lesi nekrotik fokal pada hati akibat invasi _**Entamoeba histolytica**_ melalui sirkulasi portal. Meskipun disebut “abscess”, pada tahap awal lesi sebenarnya **bersifat steril** dan terutama terdiri atas jaringan hati yang mengalami nekrosis. Kondisi ini penting terutama di daerah tropis serta pada individu dengan paparan fekal-oral atau oral-anal.
+**Amoebic Liver Abscess (ALA)** adalah **lesi nekrotik fokal** pada hati akibat invasi _Entamoeba histolytica_ melalui sirkulasi portal. Meskipun disebut “abscess”, pada tahap awal lesi sebenarnya **bersifat steril** dan terutama terdiri atas jaringan hati yang mengalami nekrosis. Kondisi ini penting terutama di daerah tropis serta pada individu dengan paparan fekal-oral atau oral-anal.
 
 > **Konsep inti:** _E. histolytica_ → kolon → masuk vena porta → hati → nekrosis → **amoebic liver abscess** 🦠➡️🫀
 
-## Siklus Hidup _Entamoeba histolytica_ 🔄
+# Siklus Hidup _Entamoeba histolytica_ 🔄
 
 - Manusia memperoleh infeksi terutama dengan **menelan kista matang (mature cyst)** melalui makanan, air, tangan yang terkontaminasi, atau kontak seksual dengan transmisi fekal-oral.
 - **Excystation** terjadi di usus halus → satu kista melepaskan **trophozoites**.
 - Trophozoites kemudian menuju dan mengkolonisasi **kolon**.
 - Sebagian trophozoites menginvasi mukosa kolon → masuk ke **venula mesenterika** → mencapai hati melalui **vena porta**.
 - Di hati, trophozoites menyebabkan **nekrosis hepatosit** yang dapat berupa nekrosis koagulatif maupun likuefaktif → terbentuk lesi nekrotik yang secara klinis disebut ALA.
-- **Lobus kanan hati** lebih sering terkena karena aliran vena porta dan ukuran parenkimnya lebih besar.
+- **Lobus kanan hati lebih sering terkena** karena aliran vena porta dan ukuran parenkimnya lebih besar.
 - Sebagian organisme kembali mengalami encystation di kolon → **kista dikeluarkan bersama feses** → menjadi sumber penularan berikutnya.
 - Jadi, bentuk penting:
     - **Cyst** → bentuk infektif dan tahan lingkungan.
     - **Trophozoite** → bentuk invasif yang menyebabkan kerusakan jaringan.
     - **Metacyst** → tahap transisi setelah excystation.
 
-💡 **Hafalan:**  
-**“Cyst = Come in”** → masuk lewat mulut.  
-**“Trophozoite = Tissue invasion”** → menginvasi jaringan.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790219794000zw53op.png)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902199420006ee943.png)
 
-## Faktor Risiko
+# Faktor Risiko
 
 - Tinggal atau bepergian ke daerah dengan **sanitasi buruk**.
 - Paparan makanan atau air yang terkontaminasi.
@@ -38,7 +37,7 @@
 💡 **Poin penting:**  
 **Tidak ada diare ≠ bukan ALA.** Infeksi dapat bermanifestasi terutama sebagai penyakit ekstraintestinal di hati.
 
-## Manifestasi Klinis 🩺
+# Manifestasi Klinis 🩺
 
 Gambaran klasik berupa penyakit **subakut**, terutama:
 
@@ -59,22 +58,26 @@ Manifestasi tambahan:
     - superinfeksi,
     - atau diagnosis lain.
 
+![gh|412](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790220054000xqzi83.png)
+
 ### 🚨 Red flags
 
 **Curiga komplikasi/ruptur bila terdapat:**
 
 - **Shock**, penurunan kesadaran, peningkatan laktat, atau disfungsi organ.
 - Nyeri abdomen mendadak, rigiditas, tanda **peritonitis**, distensi abdomen, atau udara bebas → curiga **ruptur intraperitoneal**.
-- Sesak, hipoksemia, hemoptisis, efusi besar/empiema → curiga **ekstensi pleuropulmoner**.
+- Sesak, hipoksemia, hemoptisis, efusi besar atau empiema → curiga **ekstensi pleuropulmoner**.
 - Nyeri prekordial, tamponade, atau aritmia pada lesi lobus kiri → curiga **ruptur ke perikardium**.
 - Ikterus progresif.
 - Perdarahan.
 - Trombosis vena hepatika, porta, atau vena cava.
 - **Pseudoaneurysm**.
 
-## Pendekatan Diagnosis 🔬
+![gh|364](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902201220002qfxyl.png)
 
-### Pemeriksaan Laboratorium
+# Pendekatan Diagnosis 🔬
+
+## Pemeriksaan Laboratorium
 
 Temuan yang dapat dijumpai:
 
@@ -97,7 +100,7 @@ Pada pasien dengan demam/sepsis, lakukan:
 - Glukosa.
 - **Blood culture sebelum antibiotik**, bila memungkinkan.
 
-### Imaging
+## Imaging
 
 **1. Ultrasonografi (USG) — pemeriksaan lini pertama**
 
@@ -124,7 +127,7 @@ Pada pasien dengan demam/sepsis, lakukan:
 **ALA = Right + Solitary + Subcapsular**  
 → lobus kanan, biasanya soliter, sering subkapsular.
 
-### Pemeriksaan Etiologi
+## Pemeriksaan Etiologi
 
 **Serologi anti-_E. histolytica_**
 
@@ -154,7 +157,7 @@ Jika cairan abses diperoleh:
 - Tidak dapat membedakan secara andal _E. histolytica_ dari spesies yang secara morfologis identik.
 - Trophozoites yang mengandung eritrosit yang tertelan (**ingested erythrocytes**) mendukung diagnosis, tetapi tidak sepenuhnya spesifik.
 
-## Diagnosis Banding
+# Diagnosis Banding
 
 ### Pyogenic Liver Abscess
 
@@ -200,9 +203,9 @@ Pertimbangkan bila terdapat:
 
 Memerlukan evaluasi onkologis dan terapi sesuai etiologi.
 
-## Tata Laksana 💊
+# Tata Laksana 💊
 
-### Penilaian Awal
+## Penilaian Awal
 
 Pada pasien dengan kondisi toksik/sepsis:
 
@@ -219,11 +222,11 @@ Pada pasien dengan kondisi toksik/sepsis:
 - Setelah data mikrobiologis dan respons klinis tersedia → **de-escalate/adjust therapy**.
 - Tambahkan terapi antiamoeba bila ALA kemungkinan besar.
 
-### Terapi Antiameba
+## Terapi Antiameba
 
 Prinsip terapi ALA adalah **dua tahap: tissue amebicide → luminal amebicide**.
 
-#### 1. Tissue amebicide
+### 1. Tissue amebicide
 
 **Metronidazole**
 
@@ -239,7 +242,7 @@ Prinsip terapi ALA adalah **dua tahap: tissue amebicide → luminal amebicide**.
 - Sering lebih mudah ditoleransi.
 - Ketersediaan dapat berbeda menurut negara/formularium.
 
-#### 2. Luminal amebicide
+### 2. Luminal amebicide
 
 Diberikan **setelah nitroimidazole** untuk eradikasi kista intraluminal.
 
@@ -267,7 +270,7 @@ atau
 
 Pada kehamilan/menyusui, penyakit hati berat, penggunaan antikoagulan, atau interaksi obat penting → sesuaikan terapi dengan informasi produk lokal dan konsultasi terkait bila diperlukan.
 
-## Drainage: Kapan Diperlukan? 🩸
+# Drainage: Kapan Diperlukan? 🩸
 
 **Terapi antibiotik/antiameba saja merupakan standar pada ALA tanpa komplikasi.**
 
@@ -301,7 +304,7 @@ Pertimbangkan drainage bila:
 **ALA uncomplicated → obat dulu.**  
 **Large + complicated + uncertain + non-response → pikirkan drainage.**
 
-## Peran Operasi
+# Peran Operasi
 
 Operasi **jarang diperlukan**.
 
@@ -316,7 +319,7 @@ Indikasi antara lain:
 
 Jika memungkinkan dan tersedia keahlian yang sesuai, **laparoskopi** dapat dipertimbangkan.
 
-## Algoritme Klinis ALA 🧠
+# Algoritme Klinis ALA 🧠
 
 **Curiga ALA**
 
@@ -386,9 +389,9 @@ Jika memungkinkan dan tersedia keahlian yang sesuai, **laparoskopi** dapat diper
 
 ⚠️ **Jangan menunggu lesi menghilang sepenuhnya pada imaging untuk menentukan respons awal.** Perbaikan klinis biasanya terjadi lebih dahulu daripada resolusi radiologis.
 
-## Monitoring dan Follow-up
+# Monitoring dan Follow-up
 
-### Respons Klinis
+## Respons Klinis
 
 Pantau:
 
@@ -400,7 +403,7 @@ Pantau:
 
 **Demam biasanya membaik dalam 3–5 hari.**
 
-### Laboratorium
+## Laboratorium
 
 Pantau sesuai derajat penyakit:
 
@@ -412,7 +415,7 @@ Pantau sesuai derajat penyakit:
 - Elektrolit
 - INR
 
-### Imaging Follow-up
+## Imaging Follow-up
 
 USG/CT ulang dipertimbangkan bila:
 
@@ -423,7 +426,7 @@ USG/CT ulang dipertimbangkan bila:
 
 **Residual cavity dapat menetap cukup lama**, sehingga harus dikorelasikan dengan kondisi klinis dan hasil laboratorium. Jangan memperpanjang terapi hanya karena kavitas belum sepenuhnya menghilang pada imaging.
 
-### Setelah Terapi
+## Setelah Terapi
 
 - Selesaikan metronidazole/tinidazole.
 - Pastikan **luminal amebicide** diberikan.
@@ -431,7 +434,7 @@ USG/CT ulang dipertimbangkan bila:
 - Pencegahan transmisi fekal-oral.
 - Perhatikan kontak dekat yang berisiko.
 
-## Populasi Khusus
+# Populasi Khusus
 
 Penatalaksanaan harus diindividualisasi pada:
 
@@ -449,7 +452,7 @@ Pertimbangan terapi harus disesuaikan dengan:
 - interaksi obat,
 - serta risiko komplikasi.
 
-## Komplikasi 🚨
+# Komplikasi 🚨
 
 Komplikasi ALA meliputi:
 
@@ -468,7 +471,7 @@ Komplikasi ALA meliputi:
     - vena cava.
 - **Cerebral spread**, meskipun jarang.
 
-## Prognosis
+# Prognosis
 
 Secara umum, prognosis ALA **baik dengan diagnosis dan terapi yang tepat**.
 
@@ -486,7 +489,7 @@ Faktor yang berhubungan dengan prognosis lebih buruk:
 💡 **Hafalan faktor prognosis buruk:**  
 **“Besar + Kiri + Kuning + Albumin turun + Ginjal/DM/Organ terganggu”**.
 
-## Controversies & Evidence Gaps
+# Controversies & Evidence Gaps
 
 - Batas ukuran lesi untuk menentukan drainage **belum universal**.
 - Meta-analisis mengenai drainage sering menggabungkan **amoebic dan pyogenic abscess**, sehingga hasilnya perlu diterapkan pada ALA dengan hati-hati.
@@ -494,7 +497,7 @@ Faktor yang berhubungan dengan prognosis lebih buruk:
 - PCR/antigen tidak selalu tersedia atau mudah diakses.
 - Resistensi terhadap **metronidazole** telah dilaporkan dalam penelitian eksperimental maupun klinis.
 
-## 🧠 High-Yield Points untuk Ujian
+# 🧠 High-Yield Points untuk Ujian
 
 - **Etiologi:** _Entamoeba histolytica_
 - **Rute:** fecal-oral → kolon → vena porta → hati.
@@ -516,7 +519,7 @@ Faktor yang berhubungan dengan prognosis lebih buruk:
 - **Residual cavity dapat menetap** meskipun pasien sudah membaik secara klinis.
 - **Kultur bakteri positif** lebih mengarah ke pyogenic abscess atau superinfeksi.
 
-### 🧠 Mnemonic paling penting
+## 🧠 Mnemonic paling penting
 
 **“ALA = RIGHT + TWO-STAGE”**
 
