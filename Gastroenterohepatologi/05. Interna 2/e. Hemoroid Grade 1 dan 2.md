@@ -254,7 +254,7 @@ Karakteristik:
 
 - Biasanya hanya **1–2 kuadran** yang dilakukan setiap kunjungan.
 - Umumnya **tidak memerlukan anestesi**.
-- Materi mencantumkan keberhasilan jangka pendek sekitar **99%** dan jangka panjang sekitar **80%**, dengan komplikasi sekitar **1–3%**.
+- Keberhasilan jangka pendek sekitar **99%** dan jangka panjang sekitar **80%**, dengan komplikasi sekitar **1–3%**.
 - Hasilnya disebut lebih baik dibandingkan **injeksi skleroterapi**.
 
 🧠 **RBL = “Rubber → Restrict → Scar”**  
