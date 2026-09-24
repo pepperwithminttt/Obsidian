@@ -1,8 +1,6 @@
 # Food Allergy & Food Intolerance
 
-# Food Allergy
-
-## 1. Pengertian dan klasifikasi
+## Pengertian dan klasifikasi
 
 - **Adverse reactions to food (reaksi merugikan terhadap makanan)** adalah istilah payung untuk reaksi abnormal setelah konsumsi makanan. Secara mekanisme dibagi menjadi:
     - **Food allergy** → dimediasi oleh **sistem imun**.
@@ -14,7 +12,13 @@
     - mekanisme kimiawi;
     - atau bersifat **idiopatik** (penyebab tidak diketahui).
 
-## 2. Epidemiologi
+### Klasifikasi "Reaksi Merugikan terhadap Makanan" oleh EAACI berdasarkan patomekanismenya
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790212956000xry5uk.png)
+
+# Food Allergy
+
+## Epidemiologi
 
 - Keluhan gastrointestinal setelah konsumsi makanan cukup sering ditemukan pada populasi umum, tetapi hanya sebagian kecil yang benar-benar disebabkan oleh mekanisme imunologis.
 - Insidensi **food allergy yang dimediasi imun**:
@@ -29,7 +33,7 @@
 **Anak = S-T-G-K** → **S**usu, **T**elur, **G**andum, **K**edelai.  
 **Dewasa = Laut + Kacang** → seafood, peanut, tree nuts.
 
-## 3. Antigen yang dapat berperan
+## Antigen yang dapat berperan
 
 **Antigen dari makanan:**
 
@@ -55,7 +59,7 @@
 - obat
 - lainnya.
 
-## 4. Patofisiologi
+## Patofisiologi
 
 - Faktor risiko berasal dari kombinasi **faktor genetik dan lingkungan**.
 - Faktor individual, termasuk **konstitusi psikologis** dan berbagai faktor neuronal, dapat memengaruhi terbentuknya reaksi alergi.
@@ -72,10 +76,14 @@
     - pelindung terhadap patogen dan alergen yang masuk;
     - sensor terhadap lingkungan lumen, termasuk nutrien dan cairan.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790213298000urj38f.png)
+
 🧠 **Konsep kunci:**  
 **Barrier usus = “satpam”** 🛡️ → harus membiarkan nutrien dan bakteri komensal tetap ada, tetapi mencegah alergen dan patogen memicu respons imun yang berlebihan.
 
-## 5. Diagnosis
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790213340000kk1agv.png)
+
+## Diagnosis
 
 **A. Anamnesis**
 
@@ -107,7 +115,7 @@
 - ultrasonografi abdomen;
 - histologi spesimen biopsi.
 
-## 6. Manifestasi klinis
+## Manifestasi klinis
 
 Organ yang paling sering terkena pada reaksi alergi akibat makanan adalah:
 
@@ -127,16 +135,16 @@ Organ yang paling sering terkena pada reaksi alergi akibat makanan adalah:
 - diare atau obstipasi.
 - Gejala umumnya muncul **segera setelah konsumsi makanan**, sehingga hubungan dengan makanan pencetus relatif lebih mudah dikenali.
 
-## 7. Tata laksana
+## Tata laksana
 
 - **Prinsip utama = menghindari paparan terhadap makanan pencetus.**
-- Bahkan sejumlah kecil alergen dapat memicu **reaksi anafilaksis berat**, sehingga penghindaran alergen sangat penting.
+- Bahkan sejumlah kecil alergen dapat memicu reaksi anafilaksis berat, sehingga **penghindaran alergen** sangat penting.
 - Edukasi pasien mencakup:
     - menghindari situasi berisiko tinggi;
-    - cara menggunakan **suntikan epinefrin** apabila terjadi anafilaksis berat;
+    - cara menggunakan **suntikan epinefrin** untuk jaga-jaga apabila terjadi anafilaksis berat;
     - membaca label makanan kemasan dengan benar;
     - konseling diet individual.
-- Efektivitas **desensitisasi oral, imunoterapi injeksi, dan obat profilaksis** masih dinyatakan belum jelas dalam materi.
+- Efektivitas **desensitisasi oral, imunoterapi injeksi, dan obat profilaksis** masih dinyatakan belum jelas.
 
 🧠 **Hafalan:**  
 **Food allergy → Avoid + Educate + Epinephrine** 🚫🍤 → 📖 → 💉
@@ -145,7 +153,7 @@ Organ yang paling sering terkena pada reaksi alergi akibat makanan adalah:
 
 # Food Intolerance
 
-## 1. Pengertian
+## Pengertian
 
 - **Food intolerance** adalah reaksi merugikan terhadap makanan atau kelompok makanan yang terjadi **tanpa keterlibatan langsung sistem imun**.
 - Berbeda dengan **food poisoning**:
@@ -158,13 +166,13 @@ Organ yang paling sering terkena pada reaksi alergi akibat makanan adalah:
     - konstipasi;
     - sakit kepala;
     - batuk nonproduktif.
-- Materi menyebutkan prevalensinya sekitar **20–30% populasi negara industri**.
+- Prevalensinya sekitar **20–30% populasi negara industri**.
 
 ---
 
-# Lactose Intolerance
+## Contoh Food Intolerance: Lactose Intolerance
 
-## 1. Pengertian dan mekanisme
+### Pengertian dan mekanisme
 
 - **Lactose intolerance** merupakan bentuk food intolerance yang paling sering ditemukan.
 - Disebabkan oleh **defisiensi enzim laktase**.
@@ -177,7 +185,7 @@ Organ yang paling sering terkena pada reaksi alergi akibat makanan adalah:
     - galaktosa.
 - Laktase terutama terdapat pada permukaan apikal **enterosit jejunum**.
 
-## 2. Epidemiologi dan tipe
+### Epidemiologi dan tipe
 
 Terdapat **3 tipe lactose intolerance**:
 
@@ -214,7 +222,7 @@ Terdapat **3 tipe lactose intolerance**:
 **Secondary = usus rusak → laktase turun**  
 **Congenital = dari lahir → sangat langka**
 
-## 3. Patofisiologi dan manifestasi klinis
+### Patofisiologi dan manifestasi klinis
 
 **Defisiensi laktase → laktosa tidak terhidrolisis → tidak terserap → masuk kolon → difermentasi bakteri** 🥛➡️🦠
 
@@ -244,7 +252,7 @@ Terdapat **3 tipe lactose intolerance**:
 **Laktase ↓ → Laktosa ↑ di lumen → Osmosis ↑ → Air ↑ → Diare** 💧  
 **Laktosa → bakteri → gas ↑ → kembung/flatus** 💨
 
-## 4. Diagnosis
+### Diagnosis
 
 - Pemeriksaan yang disebut sebagai **tes paling andal untuk mengonfirmasi lactose intolerance dan carbohydrate intolerance lainnya** adalah **hydrogen breath test**.
 - Keunggulannya:
@@ -264,7 +272,7 @@ Terdapat **3 tipe lactose intolerance**:
 
 ⚠️ **Catatan:** Timbulnya gejala setelah pemberian 50 g laktosa tidak berarti pasien pasti tidak dapat mentoleransi semua laktosa. Pasien masih mungkin mentoleransi **jumlah laktosa yang lebih kecil**.
 
-## 5. Work-up dugaan fructose/lactose intolerance
+### Work-up dugaan fructose/lactose intolerance
 
 **A. Anamnesis klinis yang jelas**
 
@@ -301,7 +309,7 @@ Terdapat **3 tipe lactose intolerance**:
 - kondisi yang memengaruhi flora intestinal, misalnya penggunaan antibiotik;
 - tidak adanya bakteri penghasil hidrogen.
 
-## 6. Terapi
+### Terapi
 
 - **Tidak selalu perlu menghilangkan laktosa secara total.**
 - Sebagian besar pasien dengan lactose intolerance masih dapat mentoleransi **sejumlah kecil laktosa**.
