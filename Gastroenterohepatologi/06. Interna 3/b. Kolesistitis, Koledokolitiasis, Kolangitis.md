@@ -341,7 +341,7 @@ Untuk batu besar atau sulit:
 
 # Kolangitis Akut 🦠🟡
 
-**Kolangitis akut** adalah **infeksi sistem biliaris akibat obstruksi**, sehingga masalahnya bukan sekadar “ada batu”, tetapi **infeksi + saluran empedu yang tersumbat**.
+**Kolangitis akut** adalah **infeksi sistem biliaris akibat obstruksi saluran empedu** *(bedanya dari yg kolesistitis tadi, klo yg kolesistitis itu infeksi dan inflamasinya di kantong empedu, klo ini kolangitis di saluran empedu)*, sehingga masalahnya bukan sekadar “ada batu”, tetapi **infeksi + saluran empedu yang tersumbat**.
 
 Gambaran:
 
