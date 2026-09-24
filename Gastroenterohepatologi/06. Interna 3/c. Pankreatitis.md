@@ -159,6 +159,8 @@ Jangan menegakkan diagnosis hanya berdasarkan tingginya enzim pankreas; **deraja
     - Dilatasi saluran empedu.
 - Dapat diulang bila pemeriksaan awal tidak konklusif.
 
+![gh|409](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790261144000o0szj3.png)
+
 ### Contrast-enhanced CT
 
 Tidak harus dilakukan rutin saat awal bila diagnosis sudah jelas.
@@ -176,6 +178,8 @@ Dapat menunjukkan:
 - Fluid collection.
 - Nekrosis.
 
+![gh|438](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902611770003yt986.png)
+
 ### MRI / MRCP
 
 Berguna untuk:
@@ -185,6 +189,8 @@ Berguna untuk:
 - Choledocholithiasis.
 - Variasi anatomi duktus.
 - Kondisi ketika CT tidak ideal/kontraindikasi.
+
+![gh|382](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790261242000b67h9i.png)
 
 ### EUS (endoscopic ultrasound)
 
@@ -196,6 +202,8 @@ Sangat sensitif untuk:
 - Lesi pankreas kecil.
 
 Sangat berguna pada **idiopathic atau recurrent pancreatitis**.
+
+![gh|398](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902612780005ae41f.png)
 
 > 🧠 **US = cari batu.**  
 > **CT = lihat pankreas + komplikasi.**  
@@ -774,7 +782,7 @@ Pantau:
 - Evaluasi harus mengintegrasikan **faktor risiko + manifestasi klinis + fungsi + morphology**.
 - Waspadai perubahan pola nyeri, penurunan berat badan baru, dan jaundice sebagai tanda yang memerlukan evaluasi lebih lanjut.
 
-## 🧠 Ringkasan Hafalan Super Cepat
+# 🧠 Ringkasan Hafalan Super Cepat
 
 **ACUTE PANCREATITIS**
 
