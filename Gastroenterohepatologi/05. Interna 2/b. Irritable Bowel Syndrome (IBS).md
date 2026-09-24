@@ -58,15 +58,14 @@ Kalau salah satu terganggu, gejala IBS dapat muncul. 🧠↔️🦠
 - Onset gejala setidaknya **6 bulan**.
 ### Subtipe IBS
 
-Menurut klasifikasi yang tercantum pada PPT, subtipe IBS didasarkan terutama pada **konsistensi feses**, bukan frekuensi BAB, urgensi, atau mengejan:
+Subtipe IBS didasarkan terutama pada **konsistensi feses**, bukan frekuensi BAB, urgensi, atau mengejan:
 
 1. **IBS with constipation (IBS-C)** → dominan konstipasi.
-    
 2. **IBS with diarrhea (IBS-D)** → dominan diare.
-    
 3. **Mixed IBS (IBS-M)** → terdapat pola konstipasi dan diare.
-    
 4. **Unsubtyped IBS (IBS-U)** → tidak memenuhi kriteria untuk tiga subtipe di atas.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790209850000s843vv.png)
 
 💡 **Hafalan:**  
 **C = Constipation**  
@@ -81,15 +80,10 @@ Diagnosis terutama berdasarkan **gejala dan tanda klinis**, kemudian pemeriksaan
 ### Pemeriksaan yang dapat dipertimbangkan
 
 - **CBC/FBC** → menilai kelainan hematologis.
-    
 - **Thyroid function / TSH** → mengevaluasi gangguan tiroid yang dapat memengaruhi pola BAB.
-    
 - **Serologi**, termasuk **celiac serology** bila sesuai.
-    
 - **Stool studies** → pemeriksaan feses bila diperlukan.
-    
 - **ESR dan CRP** → menilai adanya proses inflamasi.
-    
 - **Fecal occult blood** → mendeteksi darah samar dalam feses.
     
 - **Endoskopi saluran cerna bagian bawah (lower gastrointestinal endoscopy)** bila terdapat indikasi.
