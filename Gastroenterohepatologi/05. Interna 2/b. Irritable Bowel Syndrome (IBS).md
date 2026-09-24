@@ -25,7 +25,6 @@ Berdasarkan **Rome IV criteria**, diagnosis IBS ditandai oleh:
 - Paling banyak terjadi pada **usia 20–40 tahun**.
 - Gejala dapat berlangsung **intermiten maupun terus-menerus selama bertahun-tahun**, sehingga dapat memberikan dampak negatif yang signifikan terhadap **quality of life (QOL)**.
 - Sekitar **20% pasien berkonsultasi ke dokter**, dan hanya sebagian kecil yang berkonsultasi ke gastroenterolog.
-    
 - Lebih dari **60% pasien memiliki gangguan psikologis**, seperti:
     
     - kecemasan (_anxiety_)
