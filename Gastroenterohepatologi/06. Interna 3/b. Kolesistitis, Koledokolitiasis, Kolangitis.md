@@ -216,8 +216,8 @@ Contoh parameter disfungsi organ:
 
 **Pemeriksaan awal:**
 
-- Anamnesis: lokasi, durasi, penjalaran nyeri, demam/menggigil, ikterus, urin gelap, feses pucat, muntah, episode sebelumnya, riwayat ERCP/operasi, kehamilan, hemolisis, penyakit ileum, obat, komorbid, dan status antikoagulasi.
-- Pemeriksaan fisik:
+- **Anamnesis:** lokasi, durasi, penjalaran nyeri, demam/menggigil, ikterus, urin gelap, feses pucat, muntah, episode sebelumnya, riwayat ERCP/operasi, kehamilan, hemolisis, penyakit ileum, obat, komorbid, dan status antikoagulasi.
+- **Pemeriksaan fisik:**
     - tanda vital dan status mental
     - ikterus
     - nyeri tekan kuadran kanan atas
