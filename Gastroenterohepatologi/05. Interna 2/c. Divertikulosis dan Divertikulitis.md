@@ -57,13 +57,15 @@ Berdasarkan asalnya:
 
 Serat berfungsi untuk:
 
-- meningkatkan **volume massa feses** sehingga feses lebih besar dan transit kolon lebih singkat;
+- **meningkatkan volume massa feses** sehingga feses lebih besar dan transit kolon lebih singkat;
 - menurunkan **tekanan intraluminal kolon**;
 - menjadi substrat fermentasi bakteri yang menghasilkan **short-chain fatty acids (SCFA)** sebagai sumber energi mukosa;
 - membantu meningkatkan sirkulasi darah mukosa;
 - membantu mengurangi nyeri.
 
 **Diet rendah serat → feses kecil dan keras → transit kolon lambat → absorpsi air meningkat → tekanan intraluminal meningkat → kontraksi/segmentasi otot sirkular kolon meningkat → tekanan tinggi pada segmen kolon → mukosa + submukosa mengalami herniasi → divertikulum.**
+
+![gh|444](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790211070000m1mg5n.png)
 
 🧠 **Rantai hafalan:**
 
@@ -86,6 +88,7 @@ Sebagian besar divertikulosis tidak menimbulkan gejala:
     - nyeri **kuadran kiri bawah abdomen (left lower quadrant/LLQ)**;
     - demam;
     - leukositosis.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790210963000wpt0n4.png)
 
 ### Komplikasi
 
