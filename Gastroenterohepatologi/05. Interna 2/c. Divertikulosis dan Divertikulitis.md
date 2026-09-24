@@ -69,7 +69,9 @@ Serat berfungsi untuk:
 
 🧠 **Rantai hafalan:**
 
-**Low fiber → hard stool → slow transit → ↑ water absorption → ↑ pressure → herniation → diverticulum**
+**Low fiber** → **hard stool** → **slow transit** → **↑ water absorption** → **↑ pressure** → **herniation** → **diverticulum**
+
+![gh|261](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790211291000qc4str.png)
 
 ### Faktor lain
 
