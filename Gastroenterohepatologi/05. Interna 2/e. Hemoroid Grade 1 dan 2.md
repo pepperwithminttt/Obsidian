@@ -1,10 +1,12 @@
 # 1. Gambaran Umum
 
+![gh|509](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902140710005e2opp.png)
+
 - **Hemoroid (hemorrhoids)** adalah pelebaran dan pembengkakan jaringan vena di sekitar anus atau rektum bagian bawah. Istilah lain yang digunakan adalah **piles**.
 - Dapat terjadi pada **laki-laki maupun perempuan** dan tidak terbatas pada usia tertentu, tetapi lebih dominan pada usia **>50 tahun**.
-- Hemoroid memiliki kecenderungan **berulang (rekurensi)**; materi mencantumkan angka sekitar **25%**, termasuk kekambuhan dalam 7 bulan hingga 2 tahun setelah operasi.
+- Hemoroid memiliki kecenderungan **berulang (rekurensi)** dengan angka sekitar **25%**, termasuk kekambuhan dalam 7 bulan hingga 2 tahun setelah operasi.
 - Prevalensi sebenarnya kemungkinan lebih tinggi daripada yang terdeteksi secara klinis karena terdapat **iceberg phenomenon**: banyak kasus tidak datang berobat.
-- Materi juga mencantumkan _rule over fifty_: **>50% populasi berusia >50 tahun** pernah mengalami hemoroid.
+- Ada juga _rule over fifty_, yaitu **>50% populasi berusia >50 tahun** pernah mengalami hemoroid.
 - Sekitar **1 dari 3 pasien** dapat mengalami serangan hemoroid berulang akibat penatalaksanaan episode sebelumnya yang tidak optimal.
 
 > 🧠 **Ingat:** _Hemorrhoid = venous dilatation + supporting tissue failure + prolapse/bleeding._
@@ -26,6 +28,10 @@ Struktur yang berkaitan dengan hemoroid meliputi:
 - **External sphincter** → sfingter ani eksterna.
 - **Conjoint longitudinal layer** dan **Park's ligament** → bagian dari struktur penunjang kanalis analis.
 - **Muscularis submucosa / Treitz muscle** → lapisan otot submukosa.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790214527000qwaiu9.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790214549000loptqv.png)
 
 ## Faktor risiko
 
@@ -60,6 +66,8 @@ Prosesnya dapat berlangsung sebagai berikut:
 → **prolaps, perdarahan, nyeri, edema, pruritus, tenesmus, discharge, dan eritema**.
 
 **Anal cushions** normalnya membantu mempertahankan penutupan anus. Ketika jaringan penunjangnya mengalami degenerasi dan kehilangan fiksasi, bantalan tersebut dapat bergeser ke bawah dan mengalami **prolaps**, sehingga terbentuk penyakit hemoroid.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790214944000u8u6xw.png)
 
 🧠 **Tips hafalan patofisiologi:**
 
