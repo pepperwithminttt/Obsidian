@@ -624,9 +624,9 @@ Pada **sirosis dekompensata**, diperlukan perencanaan individual dan diskusi mul
 > **Batu → Kolik → Kolesistitis → CBD → Kolangitis → Pankreatitis**
 
 - **Kolik:** obstruksi sementara.
-- **Kolesistitis:** inflamasi kandung empedu.
+- **Kolesistitis:** inflamasi kandung empedu, tidak ada ikterus.
 - **Koledokolitiasis:** batu di CBD.
-- **Kolangitis:** infeksi + obstruksi.
+- **Kolangitis:** infeksi + obstruksi, ada ikterus.
 - **Pankreatitis bilier:** batu/migrasi batu → pankreas.
 
 **2. TG18 kolesistitis**
