@@ -244,17 +244,17 @@ Contoh parameter disfungsi organ:
 - **USG:** pemeriksaan lini pertama; melihat batu, sludge, penebalan dinding, distensi, cairan perikolesistik, Murphy sonografik, dan diameter duktus.
 - **CT abdomen:** berguna untuk komplikasi seperti perforasi, gangren, perubahan emfisematosa, abses, dan diagnosis alternatif.
 - **HIDA/scintigraphy:** membantu mendeteksi obstruksi duktus sistikus bila USG tidak konklusif.
-- **MRCP:** pemetaan noninvasif sistem biliaris dan batu duktus.
-- **EUS:** sangat sensitif untuk batu/sludge kecil.
-- **ERCP:** terutama untuk **terapi**, bukan pemeriksaan diagnostik rutin.
-- **IOC/IUS:** evaluasi intraoperatif duktus biliaris dan anatomi.
+- [MRCP:]{**MRCP** (_Magnetic Resonance Cholangiopancreatography_) adalah jenis pemeriksaan medis menggunakan teknologi MRI khusus untuk menampilkan gambar detail dari saluran empedu, kantong empedu, dan pankreas.} pemetaan noninvasif sistem biliaris dan batu duktus.
+- **EUS:** (Endoscopic Ulstrasound) sangat sensitif untuk batu/sludge kecil.
+- [ERCP: ]{**ERCP** (_Endoscopic Retrograde Cholangiopancreatography_) adalah prosedur medis yang menggabungkan penggunaan endoskopi (selang lentur berkamera) dan pencitraan sinar-X (rontgen) untuk mendiagnosis serta mengatasi gangguan pada saluran empedu, hati, kandung empedu, dan pankreas.}terutama untuk **terapi**, bukan pemeriksaan diagnostik rutin.
+- [IOC/LUS:]{**IOC/LUS** adalah dua metode pencitraan intraoperatif (pencitraan saat operasi berlangsung) yang digunakan oleh dokter bedah untuk mendeteksi batu empedu dan memetakan anatomi saluran empedu selama prosedur **laparoscopic cholecystectomy** (operasi pengangkatan kantung empedu). IOC = _Intraoperative Cholangiography_ dan LUS = _Laparoscopic Ultrasonography_.} evaluasi intraoperatif duktus biliaris dan anatomi.
 
 ### Tata laksana
 
 Untuk pasien yang dapat dioperasi:
 
 - **Laparoscopic cholecystectomy dini** merupakan terapi pilihan pada sebagian besar pasien operabel.
-- WSES menganjurkan operasi dini, idealnya dalam **7 hari sejak masuk rumah sakit** dan dalam **10 hari sejak onset gejala**.
+- [WSES]{WSES = World Society of Emergency Surgery} menganjurkan operasi dini, idealnya dalam **7 hari sejak masuk rumah sakit** dan dalam **10 hari sejak onset gejala**.
 - Bila kolesistektomi dini tidak dapat dilakukan, operasi dapat ditunda sampai fase akut mereda, biasanya >6 minggu.
 - Derajat TG18 **tidak boleh menjadi satu-satunya penentu** tata laksana; pertimbangkan cadangan fisiologis, komorbid, frailty, disfungsi organ yang reversibel, pengalaman operator, ketersediaan ICU, dan kemampuan melakukan prosedur _bailout_.
 
