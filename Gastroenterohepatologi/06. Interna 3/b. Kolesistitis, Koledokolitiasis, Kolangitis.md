@@ -276,7 +276,7 @@ Situasi khusus:
 Batu CBD dapat:
 
 - asimtomatik,
-- menyebabkan ikterus obstruktif,
+- menyebabkan ikterus obstruktif **(karna yg trsumbat itu duktus koledokus yg merupakan saluran keluar empedu yg utama, jdi empedu yg isinya bilirubin nd bisa keluar ke usus jadinya bocor kembali ke pembuluh darah jadinya ikterus. Klo di kolesistitis itu yg tersumbat duktus sistikus ji sja (jalur khusus empedu ji sja) jdi duktus koledokus masih aman, jdi hati masi bisa membuang bilirubin secara normal langsung ke usus makanya ndd ikterus)**,
 - menyebabkan kolangitis,
 - atau menyebabkan pankreatitis bilier.
 
