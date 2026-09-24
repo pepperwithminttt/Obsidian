@@ -4,6 +4,6 @@
 4. Karsinoma pankreas (2)
 5. Koledokolitiasis (2)
 6. Kolangitis
-7. Cholangioca
+7. Cholangiocarcinoma
 
 Utk interna 3 kurasa bagus pptnya dokter sih jdi bisa baca itu jga.
