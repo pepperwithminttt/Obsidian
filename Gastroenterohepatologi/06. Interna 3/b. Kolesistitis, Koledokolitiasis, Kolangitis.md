@@ -63,11 +63,15 @@ Batu empedu terbentuk ketika **komposisi dan aliran empedu menjadi tidak seimban
 > 💡 **Hafalan faktor risiko:** **“Demografi – Metabolik – Hormon – Makan/BB – Disease – Drugs.”**  
 > Yang paling gampang diingat: **perempuan + estrogen + obesitas/metabolik + perubahan berat badan cepat + stasis/penyakit tertentu**.
 
+# Spektrum Klinis Gallstone Disease
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790229027000vqhr5a.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790229049000xd260r.png)
+
 ---
 
-# Kolelitiasis Asimtomatik & Kolik Bilier 🪨
-
-### Kolelitiasis asimtomatik
+# Kolelitiasis Asimtomatik
 
 Sebagian besar batu empedu **tetap asimtomatik**. Gejala dan komplikasi terutama muncul ketika batu menyebabkan obstruksi duktus sistikus atau CBD, atau memicu inflamasi.
 
@@ -76,7 +80,7 @@ Sebagian besar batu empedu **tetap asimtomatik**. Gejala dan komplikasi terutama
 - Umumnya ditangani dengan **observasi**.
 - Pasien perlu diedukasi mengenai gejala dan tanda bahaya.
 
-### Kolik bilier
+# Kolik Bilier 🪨
 
 **Kolik bilier** terjadi akibat **obstruksi sementara duktus sistikus oleh batu**.
 
