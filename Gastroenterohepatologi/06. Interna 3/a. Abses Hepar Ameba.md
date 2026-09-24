@@ -129,7 +129,7 @@ Pada pasien dengan demam/sepsis, lakukan:
 
 ## Pemeriksaan Etiologi
 
-**Serologi anti-_E. histolytica_**
+**Serologi anti-**_E. histolytica_
 
 - Sensitivitas tinggi untuk ALA, terutama **setelah minggu pertama**.
 - Jika awalnya negatif, dapat menjadi positif dalam **7–10 hari**.
@@ -139,8 +139,8 @@ Pada pasien dengan demam/sepsis, lakukan:
 
 **Antigen/PCR dari feses**
 
-- Spesifik untuk _**E. histolytica**_.
-- Membantu membedakan _**E. histolytica**_ dari _**E. dispar**_.
+- Spesifik untuk _E. histolytica_.
+- Membantu membedakan _E. histolytica_ dari _E. dispar_.
 - Sensitivitas dapat menurun setelah terapi.
 
 **PCR/antigen dari aspirat**
