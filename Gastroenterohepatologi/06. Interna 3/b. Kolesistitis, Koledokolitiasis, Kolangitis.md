@@ -71,7 +71,7 @@ Batu empedu terbentuk ketika **komposisi dan aliran empedu menjadi tidak seimban
 
 Sebagian besar batu empedu **tetap asimtomatik**. Gejala dan komplikasi terutama muncul ketika batu menyebabkan obstruksi duktus sistikus atau CBD, atau memicu inflamasi.
 
-- Batu ditemukan secara insidental melalui ultrasonografi atau pemeriksaan pencitraan lain.
+- Batu **ditemukan secara insidental** melalui ultrasonografi atau pemeriksaan pencitraan lain.
 - Tidak terdapat gejala bilier.
 - Umumnya ditangani dengan **observasi**.
 - Pasien perlu diedukasi mengenai gejala dan tanda bahaya.
