@@ -431,7 +431,7 @@ Pendekatan drainase:
 
 # Pankreatitis Bilier 🟠
 
-**Pankreatitis bilier** adalah pankreatitis akut yang berkaitan dengan batu empedu, biasanya karena batu bermigrasi menuju ampula dan mengganggu aliran pankreatobilier.
+**Pankreatitis bilier** adalah **pankreatitis akut** yang berkaitan dengan batu empedu, biasanya **karena batu bermigrasi menuju ampula** dan **mengganggu aliran pankreatobilier**.
 
 Gambaran:
 
