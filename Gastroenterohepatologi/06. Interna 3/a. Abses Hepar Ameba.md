@@ -200,6 +200,8 @@ Pertimbangkan bila terdapat:
 
 Memerlukan evaluasi onkologis dan terapi sesuai etiologi.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790222862000vdfrvd.png)
+
 # Tata Laksana 💊
 
 ## Penilaian Awal
@@ -297,6 +299,8 @@ Pertimbangkan drainage bila:
 
 **Needle aspiration** dapat cukup untuk tujuan diagnostik atau pada lesi kecil tertentu.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790223058000rmg6ec.png)
+
 💡 **Ingat:**  
 **ALA uncomplicated → obat dulu.**  
 **Large + complicated + uncertain + non-response → pikirkan drainage.**
@@ -307,14 +311,16 @@ Operasi **jarang diperlukan**.
 
 Indikasi antara lain:
 
-- Peritonitis yang membutuhkan eksplorasi.
-- Kegagalan atau ketidakmungkinan drainage perkutan.
-- Abses multilokulasi yang sulit ditangani secara perkutan.
-- Nekrosis luas.
-- Patologi intraabdomen lain yang membutuhkan koreksi.
-- Akses perkutan yang sulit.
+- **Peritonitis** yang membutuhkan eksplorasi.
+- **Kegagalan** atau ketidakmungkinan **drainage** perkutan.
+- **Abses multilokulasi** yang sulit ditangani secara perkutan.
+- **Nekrosis luas**.
+- **Patologi intraabdomen lain** yang membutuhkan koreksi.
+- **Akses perkutan** yang **sulit**.
 
 Jika memungkinkan dan tersedia keahlian yang sesuai, **laparoskopi** dapat dipertimbangkan.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790223088000emoa38.png)
 
 # Algoritme Klinis ALA 🧠
 
