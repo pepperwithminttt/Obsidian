@@ -298,7 +298,7 @@ Tujuannya bukan mengikat seperti RBL, tetapi **membentuk fibrosis agar mukosa ke
 | **III** | Modifikasi diet & gaya hidup, obat, RBL pada kasus terpilih, prosedur non-eksisional/operatif sesuai kondisi |
 | **IV**  | Modifikasi diet & gaya hidup + terapi definitif, termasuk prosedur operatif                                  |
 
-**Diet dan modifikasi gaya hidup + medikamentosa** dapat digunakan pada semua derajat dan dapat dikombinasikan dengan prosedur. Materi mencantumkan **MPFF sebagai terapi lini pertama**.
+**Diet dan modifikasi gaya hidup + medikamentosa** dapat digunakan pada semua derajat dan dapat dikombinasikan dengan prosedur. **MPFF sebagai terapi lini pertama**.
 
 ## 🧠 Super ringkas untuk ujian
 
