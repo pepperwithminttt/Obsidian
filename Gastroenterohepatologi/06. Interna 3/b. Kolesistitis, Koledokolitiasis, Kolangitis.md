@@ -433,6 +433,8 @@ Pendekatan drainase:
 
 **Pankreatitis bilier** adalah **pankreatitis akut** yang berkaitan dengan batu empedu, biasanya **karena batu bermigrasi menuju ampula** dan **mengganggu aliran pankreatobilier**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790257573000jmpc7w.png)
+
 Gambaran:
 
 - nyeri epigastrium, sering menjalar ke punggung
