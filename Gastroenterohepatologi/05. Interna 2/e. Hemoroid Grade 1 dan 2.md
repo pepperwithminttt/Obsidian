@@ -300,7 +300,7 @@ Tujuannya bukan mengikat seperti RBL, tetapi **membentuk fibrosis agar mukosa ke
 
 **Diet dan modifikasi gaya hidup + medikamentosa** dapat digunakan pada semua derajat dan dapat dikombinasikan dengan prosedur. **MPFF sebagai terapi lini pertama**.
 
-## 🧠 Super ringkas untuk ujian
+# 🧠 Super ringkas untuk ujian
 
 > **Hemoroid = anal cushions kehilangan penyangga → prolaps + kongesti/inflamasi.**
 
