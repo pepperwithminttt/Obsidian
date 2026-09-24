@@ -89,6 +89,8 @@ Prosesnya dapat berlangsung sebagai berikut:
 - Merupakan pelebaran **pleksus v. hemoroidalis inferior**.
 - Berada **distal terhadap garis mukokutan/dentate line**.
 
+![gh|542](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902153210006qllkk.png)
+
 🧠 **Kunci:**  
 **Interna = superior = di atas dentate line**  
 **Eksterna = inferior = di bawah/distal dentate line**
@@ -167,6 +169,9 @@ Derajat hemoroid interna ditentukan terutama berdasarkan **prolaps dan apakah pr
 |**Grade III**|Prolaps saat defekasi dan harus **direduksi secara manual**|
 |**Grade IV**|Prolaps menetap dan **tidak dapat direduksi/terinkarserasi**|
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790218065000f3dy0q.png)
+
+
 🧠 **Tips hafalan:**
 
 > **I = In** → masih di dalam  
@@ -175,6 +180,9 @@ Derajat hemoroid interna ditentukan terutama berdasarkan **prolaps dan apakah pr
 > **IV = keluar, tidak bisa kembali**
 
 Jadi, **grade 1–2** adalah hemoroid interna dengan prolaps minimal atau tanpa prolaps menetap, sehingga umumnya dapat ditangani terlebih dahulu dengan terapi non-operatif.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17902183070006bq1vv.png)
+
 
 ---
 
@@ -197,7 +205,7 @@ Serat + cairan → feses lebih lunak dan mudah dikeluarkan → mengejan berkuran
 
 ## Obat oral
 
-Materi mencantumkan **Micronized Purified Flavonoid Fraction (MPFF)** yang terdiri dari:
+**Micronized Purified Flavonoid Fraction (MPFF)** yang terdiri dari:
 
 - **90% diosmin**
 - **10% hesperidin**
@@ -226,6 +234,8 @@ Namun, penggunaan berkepanjangan dapat menyebabkan **reaksi alergi atau sensitis
 
 ## Rubber Band Ligation (RBL)
 
+![gh|444](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790218609000d35mug.png)
+
 RBL merupakan prosedur yang paling sering digunakan untuk hemoroid interna **grade I–II**, dan dapat digunakan pada kasus grade III tertentu.
 
 Mekanisme:
@@ -235,6 +245,10 @@ Mekanisme:
 3. Karet menyebabkan **strangulasi jaringan**.
 4. Jaringan mengalami nekrosis dan kemudian membentuk **jaringan parut (scarring)**.
 5. Jaringan parut membantu mencegah **perdarahan dan prolaps lebih lanjut**.
+
+![gh|232](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790218633000gsw9ab.png)
+
+![gh|335](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790218650000rizqi4.png)
 
 Karakteristik:
 
@@ -275,12 +289,12 @@ Tujuannya bukan mengikat seperti RBL, tetapi **membentuk fibrosis agar mukosa ke
 
 # 9. Ringkasan Pemilihan Terapi Berdasarkan Grade
 
-|Grade|Terapi yang tercantum dalam materi|
-|---|---|
-|**I**|Modifikasi diet & gaya hidup, obat, **skleroterapi**, **RBL**|
-|**II**|Modifikasi diet & gaya hidup, obat, **skleroterapi**, **RBL**|
-|**III**|Modifikasi diet & gaya hidup, obat, RBL pada kasus terpilih, prosedur non-eksisional/operatif sesuai kondisi|
-|**IV**|Modifikasi diet & gaya hidup + terapi definitif, termasuk prosedur operatif|
+| Grade   | Terapi                                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------------------ |
+| **I**   | Modifikasi diet & gaya hidup, obat, **skleroterapi**, **RBL**                                                |
+| **II**  | Modifikasi diet & gaya hidup, obat, **skleroterapi**, **RBL**                                                |
+| **III** | Modifikasi diet & gaya hidup, obat, RBL pada kasus terpilih, prosedur non-eksisional/operatif sesuai kondisi |
+| **IV**  | Modifikasi diet & gaya hidup + terapi definitif, termasuk prosedur operatif                                  |
 
 **Diet dan modifikasi gaya hidup + medikamentosa** dapat digunakan pada semua derajat dan dapat dikombinasikan dengan prosedur. Materi mencantumkan **MPFF sebagai terapi lini pertama**.
 
