@@ -146,10 +146,7 @@ Pada pasien dengan demam/sepsis, lakukan:
 **PCR/antigen dari aspirat**
 
 - Berguna bila diagnosis masih tidak pasti atau ketika dilakukan drainase.
-
-Jika cairan abses diperoleh:
-
-- Lakukan **kultur bakteri aerob dan anaerob**.
+- Lakukan **kultur bakteri aerob dan anaerob** jika cairan abses sudah diperoleh.
 
 **Mikroskopi feses**
 
