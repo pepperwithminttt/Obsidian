@@ -26,15 +26,10 @@ Berdasarkan **Rome IV criteria**, diagnosis IBS ditandai oleh:
 - Gejala dapat berlangsung **intermiten maupun terus-menerus selama bertahun-tahun**, sehingga dapat memberikan dampak negatif yang signifikan terhadap **quality of life (QOL)**.
 - Sekitar **20% pasien berkonsultasi ke dokter**, dan hanya sebagian kecil yang berkonsultasi ke gastroenterolog.
 - Lebih dari **60% pasien memiliki gangguan psikologis**, seperti:
-    
     - kecemasan (_anxiety_)
-        
     - gangguan somatoform
-        
     - gangguan kepribadian
-        
     - sindrom nyeri kronis
-        
 - Pada perempuan, sekitar **35% memiliki riwayat kekerasan seksual**.
 
 💡 **Hafalan:** IBS banyak pada **♀ usia muda–dewasa + faktor psikologis**.
@@ -44,15 +39,10 @@ Berdasarkan **Rome IV criteria**, diagnosis IBS ditandai oleh:
 IBS bersifat **multifaktorial**, dengan beberapa mekanisme yang saling berinteraksi:
 
 - **Disturbed bowel motility** → gangguan motilitas usus menyebabkan perubahan pola transit intestinal sehingga muncul konstipasi atau diare.
-    
 - **Visceral hypersensitivity** → peningkatan sensitivitas terhadap rangsangan dari organ viseral, sehingga distensi usus yang normal dapat dirasakan sebagai nyeri atau tidak nyaman.
-    
 - **Brain–gut axis disorder** → gangguan komunikasi dua arah antara sistem saraf pusat dan sistem saraf enterik/usus. Faktor psikologis dapat memengaruhi fungsi gastrointestinal dan sebaliknya.
-    
 - **Enteric neurotransmitter disorder** → gangguan neurotransmiter pada sistem saraf enterik yang memengaruhi motilitas dan sensasi visceral.
-    
 - **Bacterial overgrowth / post-infective IBS** → IBS dapat muncul setelah infeksi gastrointestinal, termasuk infeksi oleh _Shigella_, _Salmonella_, dan _Campylobacter_.
-    
 - **Stress response / psychological problems** → stres dan masalah psikologis dapat memengaruhi fungsi sumbu otak–usus dan memperberat gejala IBS.
 
 💡 **Cara memahami patogenesis:**  
@@ -64,11 +54,8 @@ Kalau salah satu terganggu, gejala IBS dapat muncul. 🧠↔️🦠
 ### Gejala utama
 
 - **Nyeri atau rasa tidak nyaman abdomen** yang berhubungan dengan fungsi usus/defekasi.
-    
 - Tidak ditemukan kelainan **biokimia maupun struktural** yang dapat menjelaskan gejala.
-    
-- Pada PPT disebutkan awitan gejala setidaknya **6 bulan**.
-
+- Onset gejala setidaknya **6 bulan**.
 ### Subtipe IBS
 
 Menurut klasifikasi yang tercantum pada PPT, subtipe IBS didasarkan terutama pada **konsistensi feses**, bukan frekuensi BAB, urgensi, atau mengejan:
