@@ -456,7 +456,7 @@ Sebagian besar pasien dapat membaik dengan terapi suportif.
 Jika batu masih dicurigai tetapi tidak terdapat kolangitis/ikterus:
 
 - gunakan **MRCP atau EUS** untuk konfirmasi,
-- hindari ERCP hanya sebagai pemeriksaan diagnostik.
+- hindari ERCP hanya sebagai pemeriksaan diagnostik **karena ERCP bisa menyebabkan pankreatitis, perdarahan, perforasi, dan infeksi**. #Ingat
 
 ### Kolesistektomi
 
