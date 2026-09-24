@@ -21,6 +21,8 @@ Sistem biliaris terutama melibatkan **hati, kandung empedu, duktus biliaris komu
 - Saat puasa, empedu terutama diarahkan ke kandung empedu. Epitel kandung empedu menyerap air dan elektrolit sehingga empedu menjadi lebih pekat.
 - **Sirkulasi enterohepatik:** asam empedu direabsorpsi terutama di **terminal ileum** melalui transport aktif → masuk ke vena porta → kembali ke hati → disekresikan kembali ke empedu.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790228514000fl3ei7.png)
+
 > 💡 **Cara hafal aliran empedu:**  
 > **Hati → Kandung empedu → CBD → Ampula Vater → Duodenum**  
 > Kalau makan lemak → **CCK = Contract gallbladder + relax Oddi**.
