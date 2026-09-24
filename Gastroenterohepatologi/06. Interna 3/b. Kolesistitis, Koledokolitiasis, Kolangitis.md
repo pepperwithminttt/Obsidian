@@ -138,7 +138,7 @@ Gambaran klinis:
 - Nyeri menetap di kuadran kanan atas.
 - Dapat disertai demam.
 - Mual/muntah.
-- **Murphy sign** positif.
+- [Murphy sign]{**Murphy sign** adalah pemeriksaan fisik sederhana untuk mendeteksi gangguan pada kantong empedu, khususnya peradangan akut atau kolesistitis. **Cara Pemeriksaan:** Pasien diminta berbaring telentang di tempat tidur pemeriksaan, lalu dokter meraba atau menekan perlahan area perut kanan atas tepat di bawah tulang rusuk. Pasien lalu diminta menarik napas dalam-dalam secara perlahan. Hasil dinyatakan **positif** jika pasien tiba-tiba menghentikan tarikan napasnya atau merasa **nyeri tajam** saat kantong empedu yang meradang menyentuh tangan pemeriksa.} positif.
 - Leukositosis dapat ditemukan.
 - Inflamasi bersifat lokal dan dapat berkembang menjadi sistemik.
 - Komplikasi dapat berupa gangren, abses perikolesistik, perforasi, atau peritonitis bilier.
