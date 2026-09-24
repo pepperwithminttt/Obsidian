@@ -266,13 +266,15 @@ Merupakan pilihan terapi untuk **hemoroid derajat I–II**.
 
 **Prinsip:** menyuntikkan bahan kimia ke **submukosa** sehingga terjadi **fibrosis**, yang menyebabkan mukosa melekat/fiksasi terhadap otot di bawahnya.
 
-Bahan sklerosan yang dicantumkan:
+![gh|382](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790218762000gbucyi.png)
+
+Bahan sklerosan:
 
 - **5% fenol** dalam minyak almond atau minyak _Arachis_,
 - sodium morrhuate,
 - quinine urea.
 
-Dosis yang disebutkan:
+Dosis:
 
 - **1–3 mL** bahan sklerosan pada masing-masing hemoroid.
 - Maksimal **3 kali injeksi**, dengan interval **6 minggu** dalam satu fase terapi.
