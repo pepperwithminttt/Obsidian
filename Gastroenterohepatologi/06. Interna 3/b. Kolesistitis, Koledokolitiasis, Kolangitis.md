@@ -131,7 +131,7 @@ dan tidak mendukung menunda kolesistektomi pada pasien dengan **kolik bilier tip
 
 # Kolesistitis Akut 🟢🔥
 
-**Kolesistitis akut** adalah inflamasi akut kandung empedu, paling sering akibat obstruksi duktus sistikus oleh batu.
+**Kolesistitis akut** adalah **inflamasi akut kandung empedu**, paling sering **akibat obstruksi duktus sistikus** oleh batu.
 
 Gambaran klinis:
 
