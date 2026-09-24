@@ -463,7 +463,7 @@ Jika batu masih dicurigai tetapi tidak terdapat kolangitis/ikterus:
 - **Pankreatitis bilier ringan:** lakukan **laparoscopic cholecystectomy selama perawatan yang sama**, sebelum pasien pulang.
 - **Pankreatitis berat** dengan nekrosis atau _local collections_: tunda operasi sampai inflamasi membaik dan koleksi stabil atau mengalami perbaikan.
 
-> 🧠 **Hafalan:**  
+> 🧠 **Hafalan:**  #Ingat
 > **Biliary pancreatitis tanpa cholangitis → No routine ERCP.**  
 > **Dengan cholangitis/obstruksi persisten → ERCP.**  
 > **Ringan → cholecystectomy sebelum pulang.**
@@ -587,7 +587,7 @@ Pada **sirosis dekompensata**, diperlukan perencanaan individual dan diskusi mul
 
 **Kasus:**
 
-- perempuan 67 tahun
+- perempuan 67 tahun (67 wak wkwkwk)
 - nyeri kuadran kanan atas selama 24 jam
 - demam 38,7°C
 - ikterus
