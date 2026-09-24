@@ -128,19 +128,12 @@ Tatalaksana IBS bersifat **symptom-based**, yaitu disesuaikan dengan gejala domi
 Beberapa kondisi yang dapat memberikan gejala menyerupai IBS:
 
 - **Lactose intolerance**
-    
 - **Food intolerance**
-    
 - **Infeksi gastrointestinal**
-    
 - **Celiac disease**
-    
 - **Tropical sprue**
-    
 - **Small intestinal bacterial overgrowth (SIBO)**
-    
 - **Inflammatory bowel disease (IBD)**
-    
 - **Microscopic colitis**
 
 💡 **Kunci:** IBS adalah diagnosis yang terutama berdasarkan pola gejala, tetapi **penyakit organik harus dipikirkan bila ada tanda bahaya atau temuan yang tidak sesuai**.
@@ -150,13 +143,9 @@ Beberapa kondisi yang dapat memberikan gejala menyerupai IBS:
 Setelah diagnosis dan terapi:
 
 - Jelaskan kepada pasien mengenai IBS dan tata laksana gejala utama.
-    
 - Rencanakan **kunjungan ulang**.
-    
 - Evaluasi apakah muncul **gejala baru**.
-    
 - Evaluasi kembali adanya **alarm features**.
-    
 - Teruskan atau modifikasi terapi sesuai respons pasien.
 
 ## 9. Komplikasi
@@ -164,28 +153,25 @@ Setelah diagnosis dan terapi:
 IBS tidak terutama menyebabkan kerusakan struktural usus, tetapi dapat memberikan dampak besar terhadap kehidupan pasien:
 
 - **Penurunan quality of life (QOL)**.
-    
 - Kehilangan waktu dari **pekerjaan atau sekolah**.
-    
 - Peningkatan pengeluaran pribadi untuk **obat dan kunjungan dokter**.
-    
 - **Masalah psikologis**, terutama depresi dan kecemasan.
 
 ### 🧠 Ringkasan cepat IBS
 
-**IBS = nyeri abdomen berulang + perubahan pola BAB + tidak ada kelainan struktural/biokimia yang menjelaskan gejala.**
+IBS = **nyeri abdomen berulang + perubahan pola BAB + tidak ada kelainan struktural/biokimia yang menjelaskan gejala.**
 
-**Patogenesis:**  
+Patogenesis:  
 **Motilitas + visceral hypersensitivity + brain–gut axis + neurotransmiter + post-infeksi + stres**
 
-**Subtipe:**  
+Subtipe:  
 **C – D – M – U**
 
-**Alarm:**  
+Alarm:  
 **Usia ≥50, BB turun, gejala malam, darah, demam, massa, asites, lab abnormal 🚨**
 
-**Diagnosis:** terutama klinis → pemeriksaan untuk menyingkirkan kondisi lain bila diperlukan.
+Diagnosis: terutama klinis → pemeriksaan untuk menyingkirkan kondisi lain bila diperlukan.
 
-**Terapi:** **berdasarkan gejala** → diet, serat, psikoterapi, obat simptomatik.
+Terapi: **berdasarkan gejala** → diet, serat, psikoterapi, obat simptomatik.
 
-**Diagnosis banding:** **lactose/food intolerance, infeksi, celiac, tropical sprue, SIBO, IBD, microscopic colitis.**
+Diagnosis banding: **lactose/food intolerance, infeksi, celiac, tropical sprue, SIBO, IBD, microscopic colitis.**
