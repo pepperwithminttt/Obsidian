@@ -122,6 +122,8 @@ Sebagian besar divertikulosis tidak menimbulkan gejala:
 - endoskopi;
 - CT scan.
 
+![gh|391](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179021144600056v1ec.png)
+
 Pada divertikulitis, temuan yang mendukung meliputi:
 
 - demam;
@@ -148,7 +150,7 @@ Dapat menunjukkan:
 
 **3. CT abdomen**
 
-Merupakan pemeriksaan definitif pada materi ini, dengan:
+Merupakan **pemeriksaan definitif**, dengan:
 
 - sensitivitas **69–95%**;
 - spesifisitas **75–100%**.
