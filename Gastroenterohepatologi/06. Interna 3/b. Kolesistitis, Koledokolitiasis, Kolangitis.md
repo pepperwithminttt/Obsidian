@@ -41,6 +41,8 @@ Batu empedu terbentuk ketika **komposisi dan aliran empedu menjadi tidak seimban
 
 **Supersaturasi → nukleasi → hipomotilitas/stasis → pertumbuhan & agregasi kristal → batu makroskopis**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790228745000wxankv.png)
+
 1. **Supersaturasi:** sekresi kolesterol melebihi kemampuan asam empedu dan fosfolipid untuk melarutkannya.
 2. **Nukleasi:** terbentuk kristal kolesterol monohidrat yang terperangkap dalam mukus.
 3. **Hipomotilitas:** pengosongan kandung empedu terganggu → terjadi stasis → kristal semakin terkumpul.
