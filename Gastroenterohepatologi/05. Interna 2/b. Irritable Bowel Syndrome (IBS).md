@@ -85,66 +85,39 @@ Diagnosis terutama berdasarkan **gejala dan tanda klinis**, kemudian pemeriksaan
 - **Stool studies** → pemeriksaan feses bila diperlukan.
 - **ESR dan CRP** → menilai adanya proses inflamasi.
 - **Fecal occult blood** → mendeteksi darah samar dalam feses.
-    
 - **Endoskopi saluran cerna bagian bawah (lower gastrointestinal endoscopy)** bila terdapat indikasi.
 
 ### Alarm features 🚨
 
 Adanya _alarm features_ meningkatkan kecurigaan bahwa keluhan **bukan sekadar IBS**, sehingga perlu dilakukan evaluasi lebih lanjut.
 
-Yang tercantum pada PPT:
-
 - Usia **≥50 tahun**
-    
 - **Unintended weight loss** → penurunan berat badan yang tidak disengaja
-    
 - **Nocturnal symptoms** → gejala yang membangunkan pasien pada malam hari
-    
 - **Blood in stools** → darah dalam feses
-    
 - **Loss of appetite** → penurunan nafsu makan
-    
 - **Fever** → demam
-    
 - **Abdominal mass** → massa abdomen
-    
 - **Ascites** → asites
-    
 - **Abnormal laboratory tests** → hasil pemeriksaan laboratorium abnormal.
-
-💡 **Hafalan alarm features:**  
-**Usia tua + BB turun + malam hari + darah + demam + massa + asites + lab abnormal = jangan langsung bilang IBS 🚨**
 
 ## 6. Tatalaksana
 
 Tatalaksana IBS bersifat **symptom-based**, yaitu disesuaikan dengan gejala dominan pasien.
 
 - **Dietary modification** → modifikasi pola makan sesuai gejala dan toleransi pasien.
-    
 - **Fiber supplements** → suplementasi serat.
-    
 - **Psychotherapy** → terutama bila terdapat komponen psikologis yang bermakna.
-    
 - **Farmakologis**, sesuai gejala:
-    
     - **Antidiarrheal** → untuk gejala diare.
-        
     - **Anticonstipation** → untuk konstipasi, termasuk:
-        
         - enema
-            
         - suppositoria
-            
         - laxative
-            
     - **Antispasmodics** → membantu mengurangi spasme dan nyeri abdomen.
-        
     - **Tricyclic antidepressants (TCA)**.
-        
     - **Selective serotonin reuptake inhibitors (SSRIs)**, misalnya **citalopram** dan **fluoxetine**.
-        
     - **Serotonin receptor agents**.
-        
     - **Probiotics**.
 
 💡 **Prinsip utama:**  
