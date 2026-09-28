@@ -126,8 +126,8 @@ Diare dapat menyebabkan kehilangan cairan dan elektrolit sehingga terjadi **keti
 
 **Kalium = Kontraksi ⚡**
 
-- **Hipokalemia → kalium darah kurang karna masuk ke sel → otot lebih sulit distimulasi** → kelemahan, kram, paralisis.
-- **Hiperkalemia → sel lebih mudah distimulasi** → tetapi bila berat dapat menyebabkan gangguan konduksi jantung hingga **asistol**.
+- **Hipokalemia** → darah kurang kalium jdi kalium dri dalam sel yg kluar ke darah utk kompensasi → kalium (K+) itu ion positif, jdi klo kluar, muatan selnya jdi trlalu negatif (hiperpolarisasi) → butuh lebi besar potensial aksi utk memicu impuls → sel otot lebih sulit distimulasi → **kelemahan, kram, paralisis**.
+- **Hiperkalemia** → darah kelebihan kalium jdi banyak yg masuk ke sel → muatan sel jdi lebih positif → butuh lebi kecil potensial aksi utk memicu impuls → sel lebih mudah distimulasi → tetapi **bila berat** dapat menyebabkan **gangguan konduksi jantung** hingga **asistol**.
 
 💡 **Mnemonic:**
 
