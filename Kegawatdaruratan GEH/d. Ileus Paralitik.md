@@ -1,4 +1,4 @@
-# Ileus Paralitik
+# Ileus
 
 ## 1. Pendahuluan
 
