@@ -130,7 +130,7 @@ Pada **12–24 jam**, cairan dan Na⁺ semakin banyak menumpuk di usus proksimal
 
 Keluhan utama:
 
-- **Kolik abdomen (-)** → nyeri kolik biasanya tidak ditemukan.
+- **Kolik abdomen (-)** → nyeri [kolik]{**Kolik abdomen** adalah **nyeri perut hebat dan melilit** yang datang secara tiba-tiba dan bersifat hilang-timbul. Kondisi ini **bukan sebuah penyakit tunggal**, melainkan sebuah gejala akibat kontraksi otot, penyumbatan (obstruksi), atau peradangan pada organ berongga di dalam rongga perut} biasanya tidak ditemukan.
 - **Mual**
 - **Anoreksia** → kehilangan nafsu makan.
 - **Obstipasi** → kesulitan/tidak dapat defekasi yang disertai gangguan pengeluaran gas.
@@ -238,15 +238,14 @@ Pada ileus paralitik dapat ditemukan:
 - **Air-fluid level** → batas antara udara dan cairan dalam lumen usus.
 - Air-fluid level pada ileus paralitik tersusun **segaris/line-up**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790604234000stvpnj.png)
+
 🔎 **Perbedaan dengan ileus obstruktif:**
 
 - **Ileus paralitik → line-up** → air-fluid level cenderung tersusun segaris.
 - **Ileus obstruktif → stepladder** → air-fluid level tampak seperti anak tangga.
 
-🧠 **Tips hafalan:**
-
-> **Paralitik = P = Paralel → LINE-UP**  
-> **Obstruktif = O = Overlap/bertumpuk → STEPLADDER**
+![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790604252000xcz1rn.png)
 
 ## 8. Penatalaksanaan
 
