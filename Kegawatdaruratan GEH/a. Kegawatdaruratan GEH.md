@@ -117,7 +117,7 @@ Diare dapat menyebabkan kehilangan cairan dan elektrolit sehingga terjadi **keti
 |**Hipokalemia**|Kalium ↓|Diperlukan stimulasi yang lebih besar untuk memicu impuls pada sel saraf/otot|Kram dan kelemahan otot, paralisis, gagal jantung, disritmia, interval QT memanjang, gelombang T mendatar|
 |**Hiperkalemia**|Kalium ↑|Diperlukan stimulasi yang lebih kecil untuk memicu impuls pada sel saraf/otot|Kelemahan dan kram otot, bradikardia, asistol, interval QT memendek, gelombang T meninggi/meruncing|
 
-### 🧠 Tips Menghafal
+### 🧠 Cara Nalarnya Gini Guys
 
 **Di mana ada NATRIUM, di situ ada AIR!**
 
