@@ -106,6 +106,35 @@ Pada kegawatan gastrointestinal, dapat disebabkan oleh:
 **Muntah + diare = volume cairan ↓ → elektrolit ikut kacau.**  
 **Perdarahan = volume ↓ + syok → pikirkan resusitasi.**
 
+### Ketidakseimbangan Elektrolit akibat Diare ⚡
+
+Diare dapat menyebabkan kehilangan cairan dan elektrolit sehingga terjadi **ketidakseimbangan natrium dan kalium**.
+
+|Kondisi|Perubahan|Efek fisiologis|Tanda & gejala|
+|---|---|---|---|
+|**Hiponatremia**|Natrium ↓|Pembengkakan sel|Kelemahan otot, kram, koma, kejang|
+|**Hipernatremia**|Natrium ↑|Penyusutan sel akibat kehilangan air berlebihan|Koma, kejang|
+|**Hipokalemia**|Kalium ↓|Diperlukan stimulasi yang lebih besar untuk memicu impuls pada sel saraf/otot|Kram dan kelemahan otot, paralisis, gagal jantung, disritmia, interval QT memanjang, gelombang T mendatar|
+|**Hiperkalemia**|Kalium ↑|Diperlukan stimulasi yang lebih kecil untuk memicu impuls pada sel saraf/otot|Kelemahan dan kram otot, bradikardia, asistol, interval QT memendek, gelombang T meninggi/meruncing|
+
+### 🧠 Tips Menghafal
+
+**Di mana ada NATRIUM, di situ ada AIR!**
+
+- **Hiponatremia** → darah kurang Na, darah jdi hipoosmolar, sel normal Na, sel jdi hiperosmolar → air masuk ke sel → **sel membengkak**💦
+- **Hipernatremia** → darah kelebihan Na, darah jdi hiperosmolar, sel normal Na, sel jdi hipoosmolar → air keluar dri sel  → **sel menyusut**🏜️
+
+**Kalium = Kontraksi ⚡**
+
+- **Hipokalemia → kalium darah kurang karna masuk ke sel → otot lebih sulit distimulasi** → kelemahan, kram, paralisis.
+- **Hiperkalemia → sel lebih mudah distimulasi** → tetapi bila berat dapat menyebabkan gangguan konduksi jantung hingga **asistol**.
+
+💡 **Mnemonic:**
+
+> **Na ↓ = Cell Swell**  
+> **Na ↑ = Cell Shrink**  
+> **K ↓ = sulit firing**  
+> **K ↑ = mudah firing**
 # Perdarahan Gastrointestinal
 
 Perdarahan GI merupakan salah satu kegawatan abdomen yang terutama perlu dinilai dari dampaknya terhadap **sirkulasi dan hemodinamika**.
