@@ -129,12 +129,46 @@ Diare dapat menyebabkan kehilangan cairan dan elektrolit sehingga terjadi **keti
 - **Hipokalemia** → darah kurang kalium jdi kalium dri dalam sel yg kluar ke darah utk kompensasi → kalium (K+) itu ion positif, jdi klo kluar, muatan selnya jdi trlalu negatif (hiperpolarisasi) → butuh lebi besar potensial aksi utk memicu impuls → sel otot lebih sulit distimulasi → **kelemahan, kram, paralisis**.
 - **Hiperkalemia** → darah kelebihan kalium jdi banyak yg masuk ke sel → muatan sel jdi lebih positif → butuh lebi kecil potensial aksi utk memicu impuls → sel lebih mudah distimulasi → tetapi **bila berat** dapat menyebabkan **gangguan konduksi jantung** hingga **asistol**.
 
+### Trus, kenapa klo hipo/hiperkalemia kaliumnya yg pindah, tpi klo hipo/hipernatremia malah air yg pindah dan bkan natrium?
+
+**Alasan utamanya adalah karena perbedaan mencolok pada jumlah (konsentrasi) awal mereka di dalam sel.**
+
+Zat kimia atau ion selalu ingin berpindah dari tempat yang **padat/banyak** ke tempat yang **sepi/sedikit** (hukum difusi). Ingat:
+
+- **Kalium (K⁺) adalah penguasa DALAM sel.** Jumlah kalium di dalam sel **35 kali lipat lebih banyak** dibanding di luar sel (darah).
+- **Natrium (Na⁺) adalah penguasa LUAR sel.** Jumlah natrium di dalam sel itu **sangat amat sedikit** (hampir kosong), karena 90-95% natrium tubuh berada di luar sel (darah).
+
+Berdasarkan perbedaan peta konsentrasi tersebut, berikut alasan mengapa perilaku keduanya berbeda saat kadarnya di darah menurun:
+
+#### *Kenapa Saat Hipokalemia, Kalium Keluar Sel?*
+
+Saat kadar kalium di darah turun (hipokalemia), di luar sel menjadi sangat sepi kalium. Karena di dalam sel stok kaliumnya **sangat melimpah (padat)**, kalium di dalam sel dengan mudah mengalir **keluar sel** melewati pintu gerbangnya (saluran bocor kalium/ _potassium leak channels_) untuk mengisi kekosongan di luar.
+
+#### *Kenapa Saat Hiponatremia, Natrium di Dalam Sel Tidak Keluar?*
+
+Saat kadar natrium di darah turun (hiponatremia), di luar sel memang kekurangan natrium. Namun, natrium dari dalam sel **tidak bisa keluar untuk membantu, karena di dalam sel sendiri stok natriumnya sudah hampir tidak ada**. Tidak ada stok natrium di dalam sel yang bisa dialirkan keluar.
+
+#### *Lalu, Kenapa Malah Air yang Bergerak Saat Hiponatremia?*
+
+Karena natrium di dalam sel tidak bisa keluar, alam semesta punya cara lain untuk menyamakan kepekatan cairan, yaitu melalui **Osmosis** (perpindahan air).
+
+Ketika natrium darah turun, cairan di luar sel menjadi terlalu encer, sedangkan cairan di dalam sel menjadi terasa lebih pekat. Karena ion natriumnya tidak bisa berpindah, maka **air yang mengalah**. Air dari luar sel akan tersedot **masuk ke dalam sel** untuk mengencerkan bagian dalam sel agar kepekatannya seimbang dengan luar sel.
+
+**Kesimpulan Singkat:**
+
+- Kalium bisa keluar sel karena **stoknya di dalam sel sangat melimpah**.
+- Natrium tidak bisa keluar sel karena **di dalam sel memang tidak ada stok natrium**. Akibatnya, air yang terpaksa bergerak masuk.
+- **INGAT!** Pada kondisi **normal**:
+	- **natrium** banyak di **luar sel**
+	- **kalium** banyak di **dalam sel**.
+
 💡 **Mnemonic:**
 
 > **Na ↓ = Cell Swell**  
 > **Na ↑ = Cell Shrink**  
 > **K ↓ = sulit firing**  
 > **K ↑ = mudah firing**
+
 # Perdarahan Gastrointestinal
 
 Perdarahan GI merupakan salah satu kegawatan abdomen yang terutama perlu dinilai dari dampaknya terhadap **sirkulasi dan hemodinamika**.
@@ -184,9 +218,7 @@ Bila sirkulasi terganggu akibat perdarahan, **resusitasi cairan menjadi penting*
 - Sekitar **1/3 kasus** datang dengan perforasi apendiks atau massa abdomen bawah.
 - Diagnosis klinis tidak selalu mudah:
     - **11–32%** dapat memberikan hasil positif palsu sebelum operasi.
-    -   
-        
-        > 50% pasien dapat mengalami kondisi abdomen yang ternyata bukan apendisitis yang memerlukan pembedahan.
+    - >50% pasien dapat mengalami kondisi abdomen yang ternyata bukan apendisitis yang memerlukan pembedahan.
 
 🧠 **Hafalan klasik:**  
 **Apendisitis = nyeri periumbilikal + muntah + demam → pikirkan apendiks.**
@@ -195,7 +227,7 @@ Bila sirkulasi terganggu akibat perdarahan, **resusitasi cairan menjadi penting*
 
 **Divertikulitis** = inflamasi divertikulum kolon.
 
-Mekanisme yang dijelaskan:
+Mekanisme:
 
 - Proliferasi bakteri di dalam divertikulum kolon.
 - Menyebabkan **mikroperforasi**.
@@ -208,17 +240,14 @@ Mekanisme yang dijelaskan:
 
 **Pankreatitis akut** = inflamasi akut pankreas.
 
-Menurut materi, di Amerika Serikat sekitar **90% kasus pankreatitis akut** berkaitan dengan:
+Di Amerika Serikat sekitar **90% kasus pankreatitis akut** berkaitan dengan:
 
 - **Kolelitiasis** (batu empedu)
 - **Penyalahgunaan alkohol**
 
-🧠 **Hafalan:**  
-**Pankreatitis → 2 besar: batu empedu + alkohol.**
-
 # Kolitis Ulseratif
 
-**Kolitis ulseratif** = penyakit inflamasi pada kolon yang menyebabkan inflamasi luas pada mukosa/kolon.
+**Kolitis ulseratif** = penyakit inflamasi pada kolon yang menyebabkan inflamasi luas (difus) pada mukosa/kolon.
 
 ### Patofisiologi
 
