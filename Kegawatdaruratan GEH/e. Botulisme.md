@@ -112,8 +112,8 @@ Prinsip utama terapi:
 - Untuk makanan tertentu, sumber menyebutkan penggunaan **pressure cooker pada 250°F (121°C) selama 20–100 menit**, bergantung pada jenis makanannya.
 - Sumber juga menyebutkan mempertimbangkan **merebus makanan selama 10 menit sebelum disajikan**.
 
-> 🧠 **Ringkasan super cepat — BOTULISME**
-> 
+# 🧠 Ringkasan super cepat — BOTULISME
+
 > **C. botulinum → botulinum toxin → ↓ ACh → paralisis**
 > 
 > **Klinis:**  
