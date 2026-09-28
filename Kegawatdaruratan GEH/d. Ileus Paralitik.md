@@ -13,11 +13,24 @@
 
 ## 2. Klasifikasi Ileus
 
-- **Ileus mekanik/obstruktif** → pasase isi usus terganggu karena terdapat **sumbatan mekanik**.
-- **Ileus neurogenik** → berkaitan dengan [gangguan persarafan/pergerakan usus.]{Dapat menjadi salah satu etiologi yang mendasari ileus paralitik.}
-- **Ileus vaskuler** → terjadi akibat [gangguan vaskularisasi usus.]{Biasanya masuk ke kategori ileus mekanik karena ada proses strangulasi di sini.}
+### Ileus mekanik/obstruktif
 
-> **Fokus materi: Ileus paralitik**, yaitu bentuk **ileus adinamik/non-mekanik**.
+- Pasase isi usus terganggu karena terdapat **obstruksi mekanik**.
+
+### Ileus neurogenik/paralitik
+
+- Kondisi terjadi **kegagalan neurogenik** atau hilangnya peristaltik usus tanpa adanya obstruksi mekanik.
+
+### Ileus vaskuler
+
+- Terjadi akibat adanya **sumbatan pada arteri dan vena mesentrika superior** maupun cabang-cabangnya **oleh thrombus dan embolus** sehingga terjadi:
+	- gangren,
+	- nekrosis,
+	- perforasi,
+	- dan dapat dengan cepat menjadi toksemia.
+- Terjadinya ileus vaskuler juga dihubungkan dengan penderita infark miokard dan atrium fibrilasi.
+
+> **Fokus materi kali ini yaitu Ileus paralitik**, yaitu bentuk **ileus adinamik/non-mekanik**.
 
 # Ileus Paralitik
 
@@ -25,7 +38,7 @@
 
 **Ileus paralitik (adinamik/non-mekanik)** adalah keadaan ketika usus gagal atau tidak mampu melakukan kontraksi peristaltik yang adekuat untuk menyalurkan isinya.
 
-- Tidak terdapat sumbatan mekanik sebagai penyebab utama.
+- [Tidak terdapat sumbatan mekanik]{Jadi bukan ileus mekanik.} sebagai penyebab utama.
 - Peristaltik usus terhambat, antara lain akibat pengaruh **toksin atau trauma** yang memengaruhi kontrol otonom pergerakan usus.
 
 🧠 **Kunci:**  
