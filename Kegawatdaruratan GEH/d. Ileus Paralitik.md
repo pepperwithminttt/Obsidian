@@ -65,34 +65,20 @@ Kontraksi sepanjang saluran pencernaan dikendalikan oleh:
 
 ## 3. Patofisiologi
 
-Ileus paralitik merupakan salah satu manifestasi **stimulasi sistem saraf simpatis** yang menyebabkan aktivitas traktus gastrointestinal terhambat.
+Ileus paralitik terjadi ketika **aktivitas sistem saraf simpatis meningkat**, sehingga motilitas gastrointestinal terhambat. Norepinefrin menghambat pergerakan usus melalui dua cara, yaitu **efek langsung pada otot polos usus** dan **efek inhibitorik pada neuron sistem saraf enterik**. Akibatnya, kontraksi dan peristaltik usus menurun.
 
-Sistem simpatis menghambat motilitas usus melalui:
+**Penurunan peristaltik usus kemudian menyebabkan:**  
+→ isi usus tidak terdorong dengan baik  
+→ **gas + cairan + Na⁺ menumpuk di lumen**  
+→ **distensi usus**
 
-1. **Efek langsung norepinefrin pada otot polos usus.**
-2. **Efek inhibitorik norepinefrin pada neuron sistem saraf enterik.**
+Gas berasal dari udara yang tertelan dan produksi gas di dalam usus, sedangkan cairan dan Na⁺ berasal dari asupan serta sekresi saluran cerna. Normalnya, cairan dan Na⁺ akan terus diserap kembali oleh usus. Pada ileus paralitik, gangguan motilitas menyebabkan isi lumen tertahan dan penyerapan kembali tidak mencukupi, sehingga cairan dan Na⁺ semakin terakumulasi di dalam lumen.
 
-Penjelasan:
-
-Saat sistem saraf simpatis terangsang, **norepinefrin** menghambat motilitas usus melalui dua jalur. Pertama, norepinefrin bekerja **langsung pada otot polos usus**, sehingga kontraksi otot polos berkurang. Kedua, norepinefrin bekerja pada **neuron sistem saraf enterik** dengan memberikan efek inhibitorik, sehingga sinyal saraf yang biasanya merangsang kontraksi dan peristaltik ikut berkurang. Akibat akhirnya adalah **kontraksi dan peristaltik usus menurun → isi usus tidak terdorong → terjadi ileus paralitik**.
-
-➡️ Stimulasi simpatis yang kuat → **pergerakan makanan di usus terhambat**.
-
-### Akibat penurunan peristaltik
-
-Etiologi **→** penurunan peristaltik usus **→** akumulasi [gas + cairan]{Cairan berasal dari **sekresi saluran cerna dan cairan yang masuk bersama makanan/minuman**, sedangkan gas berasal dari **udara yang tertelan dan proses fermentasi bakteri usus**. Normalnya, semuanya didorong oleh peristaltik dan sebagian cairan diserap kembali. Saat peristaltik menurun, **isi, gas, dan cairan tidak terdorong maju sehingga menumpuk di lumen** → usus mengalami distensi.} dalam lumen **→** penurunan perpindahan cairan dari lumen ke darah
-
-- **12–24 jam:** cairan dan [natrium]{Kenapa bisa tiba-tiba ada natrium? Natrium sebenarnya **memang sudah ada di dalam cairan saluran cerna**, bukan tiba-tiba muncul. Cairan yang masuk dan disekresikan ke usus mengandung elektrolit, termasuk **Na⁺**. Normalnya Na⁺ dan air akan terus diserap kembali oleh usus. Pada ileus paralitik, gangguan motilitas menyebabkan cairan dan Na⁺ **tertahan/menumpuk di lumen usus**, sehingga tubuh kehilangan Na⁺ bersama cairan tersebut. Jadi, **bukan usus membuat natrium baru**, tetapi natrium yang seharusnya kembali diserap malah tertahan di lumen.} semakin menumpuk di usus bagian proksimal.
-- **>24 jam:** pergerakan cairan dan natrium semakin mengarah ke lumen.
-- Akibatnya tubuh kehilangan **cairan dan elektrolit**.
-- Dapat berkembang menjadi:
-    - **hipovolemia** → volume darah intravaskular menurun,
-    - **insufisiensi renal** → fungsi ginjal menurun,
-    - **syok** → kegagalan sirkulasi yang menyebabkan perfusi jaringan tidak adekuat.
+Pada **12–24 jam**, cairan dan Na⁺ semakin banyak menumpuk di usus proksimal. Setelah **>24 jam**, perpindahan cairan dan Na⁺ semakin mengarah ke lumen. Akibatnya, tubuh kehilangan cairan dan elektrolit → **hipovolemia → insufisiensi renal → dapat berkembang menjadi syok**.
 
 🧠 **Alur hafalan:**
 
-> **Peristaltik ↓ → Gas + cairan ↑ → cairan tubuh ↓ → hipovolemia → ginjal terganggu → syok**
+> **Simpatis ↑ → norepinefrin ↑ → peristaltik ↓ → isi usus tertahan → gas + cairan + Na⁺ ↑ → distensi → cairan tubuh ↓ → hipovolemia → insufisiensi renal/syok**
 
 ## 4. Etiologi
 
