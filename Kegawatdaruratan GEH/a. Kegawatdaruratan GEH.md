@@ -286,7 +286,7 @@ Hiperresponsivitas otot polos dapat menyebabkan:
 - Kembung
 - Diare
 
-Menurut materi, IBS biasanya mulai sejak masa kanak-kanak dan dapat dipicu berbagai rangsangan.
+IBS biasanya mulai sejak masa kanak-kanak dan dapat dipicu berbagai rangsangan.
 
 🧠 **Hafalan:**  
 **IBS = usus terlalu sensitif + terlalu responsif → spasme → konstipasi/diare/kembung.**
