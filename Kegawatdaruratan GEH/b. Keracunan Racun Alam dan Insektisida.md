@@ -189,7 +189,7 @@ Prioritas awal mengikuti **ABC-RE**:
 - **Perkutan:** cuci dengan air dan sabun.
     - Jangan menggunakan pelarut organik/lemak.
 - **Inhalasi:** pindahkan korban ke tempat bebas pajanan.
-- **Ingesti:** metode yang tercantum dalam materi meliputi induksi muntah, bilas lambung, pencahar, dan absorben; pemilihannya bergantung pada zat yang tertelan dan kondisi pasien.
+- **Ingesti:** induksi muntah, bilas lambung, pencahar, dan absorben; pemilihannya bergantung pada zat yang tertelan dan kondisi pasien.
 
 ### Tata cara dekontaminasi gastrointestinal
 
