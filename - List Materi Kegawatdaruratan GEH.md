@@ -1,0 +1,5 @@
+1. Keracunan Racun Alam (3B)
+2. Keracunan Insektisida (3B)
+3. Keracunan Makanan (4)
+4. Ileus Paralitik (3A)
+5. Botulisme (3B)
