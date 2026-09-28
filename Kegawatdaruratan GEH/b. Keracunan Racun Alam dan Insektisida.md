@@ -156,7 +156,7 @@ Prioritas awal mengikuti **ABC-RE**:
 
 **Arang aktif (**_**activated charcoal**_**)**
 
-- Dalam materi disebut sebagai terapi pilihan untuk sebagian besar ingesti.
+- Merupakan terapi pilihan untuk sebagian besar ingesti.
 - Paling efektif bila diberikan dalam **1 jam pertama**.
 - Kontraindikasi:
     - kesadaran terganggu,
