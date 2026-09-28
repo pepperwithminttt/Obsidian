@@ -54,7 +54,7 @@
 
 Botulisme secara klasik ditandai oleh:
 
-1. **Paralisis flaksid desenden yang simetris**
+1. **Paralisis flaksid desenden yang simetris** dengan **bulbar palsy** yang menonjol.
     - **Flaksid** = otot mengalami kelemahan dengan tonus otot menurun.
     - **Desenden** = paralisis berlangsung dari bagian tubuh atas ke bawah.
     - **Simetris** = sisi kanan dan kiri terkena secara relatif sama.
@@ -63,7 +63,12 @@ Botulisme secara klasik ditandai oleh:
 3. **Kesadaran tetap jernih (_clear sensorium_)**
     - Fungsi kesadaran tetap baik meskipun terjadi paralisis.
 
-## Keterlibatan saraf kranialis: **4 D** 👀🗣️
+## Bulbar Palsy - Keterlibatan saraf kranialis: **4 D** 👀🗣️
+
+**Bulbar palsy** adalah **kelemahan atau kelumpuhan otot-otot yang dikendalikan oleh saraf kranialis di bagian “bulbar”**, terutama yang berperan dalam **berbicara, menelan, dan menggerakkan otot tenggorokan serta lidah**.
+### Kenapa disebut “bulbar”? 🧠
+
+Istilah **bulbar** mengacu pada **medulla oblongata**, karena nukleus beberapa saraf kranialis yang mengatur fungsi tersebut berada di daerah ini.
 
 Bulbar palsy pada botulisme dapat diingat dengan **4D**:
 
