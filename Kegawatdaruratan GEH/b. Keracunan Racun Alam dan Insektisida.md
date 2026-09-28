@@ -141,16 +141,17 @@
 
 ### Prinsip umum penatalaksanaan
 
-Prioritas awal mengikuti **ABC**:
+Prioritas awal mengikuti **ABC-RE**:
 
 - **A — Airway:** pastikan jalan napas terbuka.
 - **B — Breathing:** nilai dan dukung pernapasan.
 - **C — Circulation:** nilai dan dukung sirkulasi.
 - **Removal of poison:** lakukan eliminasi/dekontaminasi racun bila diperlukan.
+- **Emesis**
 
 **Emesis (induksi muntah):**
 
-- Tidak memiliki peran rutin di rumah sakit menurut materi.
+- Tidak rutin dilakukan di rumah sakit.
 - Jangan dilakukan sembarangan karena dapat meningkatkan risiko aspirasi.
 
 **Arang aktif (**_**activated charcoal**_**)**
