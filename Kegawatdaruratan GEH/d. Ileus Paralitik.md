@@ -53,6 +53,8 @@
 - Ileum
 - Kolon
 
+![gh|437](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790602426000ngmc4o.png)
+
 ### Pengendalian kontraksi saluran cerna
 
 Kontraksi sepanjang saluran pencernaan dikendalikan oleh:
@@ -70,11 +72,15 @@ Sistem simpatis menghambat motilitas usus melalui:
 1. **Efek langsung norepinefrin pada otot polos usus.**
 2. **Efek inhibitorik norepinefrin pada neuron sistem saraf enterik.**
 
+Penjelasan:
+
+Saat sistem saraf simpatis terangsang, **norepinefrin** menghambat motilitas usus melalui dua jalur. Pertama, norepinefrin bekerja **langsung pada otot polos usus**, sehingga kontraksi otot polos berkurang. Kedua, norepinefrin bekerja pada **neuron sistem saraf enterik** dengan memberikan efek inhibitorik, sehingga sinyal saraf yang biasanya merangsang kontraksi dan peristaltik ikut berkurang. Akibat akhirnya adalah **kontraksi dan peristaltik usus menurun → isi usus tidak terdorong → terjadi ileus paralitik**.
+
 ➡️ Stimulasi simpatis yang kuat → **pergerakan makanan di usus terhambat**.
 
 ### Akibat penurunan peristaltik
 
-**Etiologi → ↓ peristaltik usus → akumulasi gas + cairan dalam lumen → ↓ perpindahan cairan dari lumen ke darah**
+Etiologi **→** penurunan peristaltik usus **→** akumulasi [gas + cairan]{Cairan berasal dari **sekresi saluran cerna dan cairan yang masuk bersama makanan/minuman**, sedangkan gas berasal dari **udara yang tertelan dan proses fermentasi bakteri usus**. Normalnya, semuanya didorong oleh peristaltik dan sebagian cairan diserap kembali. Saat peristaltik menurun, **isi, gas, dan cairan tidak terdorong maju sehingga menumpuk di lumen** → usus mengalami distensi.} dalam lumen **→** penurunan perpindahan cairan dari lumen ke darah
 
 - **12–24 jam:** cairan dan natrium semakin menumpuk di usus bagian proksimal.
 - **>24 jam:** pergerakan cairan dan natrium semakin mengarah ke lumen.
