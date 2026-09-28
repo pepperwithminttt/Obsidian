@@ -8,14 +8,14 @@
     - hormon intestinal,
     - sistem saraf simpatis dan parasimpatis,
     - keseimbangan elektrolit.
-- **Ileus** adalah kondisi ketika pergerakan atau kontraksi normal dinding usus terganggu sehingga **pasase isi usus terganggu** dan memerlukan pertolongan atau tindakan segera.
+- **Ileus** adalah kondisi ketika pergerakan atau kontraksi normal dinding usus terganggu sehingga **pasase (passage) isi usus terganggu** dan memerlukan pertolongan atau tindakan segera.
 - Ileus merupakan salah satu **kegawatdaruratan abdomen** dan mencakup sekitar 60–70% kasus abdomen akut non-apendisitis.
 
 ## 2. Klasifikasi Ileus
 
 - **Ileus mekanik/obstruktif** → pasase isi usus terganggu karena terdapat **sumbatan mekanik**.
-- **Ileus neurogenik** → berkaitan dengan gangguan persarafan/pergerakan usus.
-- **Ileus vaskuler** → terjadi akibat gangguan vaskularisasi usus.
+- **Ileus neurogenik** → berkaitan dengan [gangguan persarafan/pergerakan usus.]{Dapat menjadi salah satu etiologi yang mendasari ileus paralitik.}
+- **Ileus vaskuler** → terjadi akibat [gangguan vaskularisasi usus.]{Biasanya masuk ke kategori ileus mekanik karena ada proses strangulasi di sini.}
 
 > **Fokus materi: Ileus paralitik**, yaitu bentuk **ileus adinamik/non-mekanik**.
 
