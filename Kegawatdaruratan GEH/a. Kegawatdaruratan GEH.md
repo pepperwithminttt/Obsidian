@@ -277,7 +277,7 @@ Pasien sering menunjukkan:
 
 - **Hipersensitivitas reseptor nyeri usus** → rangsangan normal lebih mudah dirasakan sebagai nyeri.
 - **Hiperresponsivitas otot polos usus** → usus lebih mudah mengalami spasme.
-- Terdapat hubungan dengan **gangguan psikiatri** menurut materi.
+- Terdapat hubungan dengan **gangguan psikiatri**.
 
 Hiperresponsivitas otot polos dapat menyebabkan:
 
