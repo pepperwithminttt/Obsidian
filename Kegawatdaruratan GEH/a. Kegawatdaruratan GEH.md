@@ -158,7 +158,7 @@ Bila sirkulasi terganggu akibat perdarahan, **resusitasi cairan menjadi penting*
     - Leher kandung empedu
     - Duktus sistikus
     - Duktus biliaris komunis/_common bile duct_
-- Materi menggunakan mnemonic **Six F's**:
+- Tips hafal: Mnemonic **Six F's**:
     - **Female**
     - **Fertile**
     - **Fair**
