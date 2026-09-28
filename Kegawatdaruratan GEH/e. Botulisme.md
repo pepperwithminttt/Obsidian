@@ -44,8 +44,7 @@
 
 ## 2. Botulisme akibat makanan (_food-borne botulism_) 🍱
 
-- Sumber yang sering adalah **makanan kalengan rumahan dengan keasaman rendah**, misalnya:
-    - kacang hijau.
+- Sumber yang sering adalah **makanan kalengan rumahan dengan keasaman rendah**, misalnya kacang hijau.
 - Di Alaska, sumber yang umum adalah **makanan laut yang difermentasi**.
 - Setelah seseorang mengonsumsi makanan yang mengandung toksin, toksin mengganggu fungsi saraf sehingga menyebabkan **paralisis**.
 
