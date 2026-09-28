@@ -89,9 +89,6 @@ Pada **12–24 jam**, cairan dan Na⁺ semakin banyak menumpuk di usus proksimal
 - Kerusakan medula spinalis
 - Keracunan timbal
 - Kolik ureter
-- Cedera tulang:
-    - patah tulang rusuk,
-    - retak tulang vertebra.
 
 ### Metabolik
 
@@ -116,7 +113,10 @@ Pada **12–24 jam**, cairan dan Na⁺ semakin banyak menumpuk di usus proksimal
 
 ### Penyebab lain
 
-- Iskemia usus.
+- Iskemia usus
+- Cedera tulang:
+    - patah tulang rusuk
+    - retak tulang vertebra.
 
 🧠 **Tips hafalan etiologi: "N-M-O-I-I"**
 
