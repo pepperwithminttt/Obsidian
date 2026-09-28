@@ -304,9 +304,6 @@ IBS biasanya mulai sejak masa kanak-kanak dan dapat dipicu berbagai rangsangan.
     - Pelemahan segmen usus, terutama usus halus
 - Penyempitan dapat menyebabkan **obstruksi usus**.
 
-🧠 **Hafalan:**  
-**Crohn = “dari mulut sampai anus” → serangan berulang → scar → stenosis → obstruksi.**
-
 # Infeksi Akut Gastrointestinal
 
 Infeksi GI dapat terjadi ketika:
@@ -367,8 +364,13 @@ Jika kerusakan menyebabkan isi saluran cerna keluar ke jaringan sekitar:
 
 Dapat disebabkan oleh berbagai mikroorganisme dan umumnya masuk melalui **rute fekal-oral**, yaitu transmisi patogen dari kontaminasi tinja ke mulut melalui makanan, air, tangan, atau benda yang terkontaminasi.
 
-🧠 **Hafalan:**  
-**F-O = Feces → Oral.**
+### Organisme Penyebab Gastroenteritis 🦠
+
+| Jenis organisme | Organisme penyebab                                                                                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Virus** 🦠    | **Norovirus (Norwalk virus)**, **Rotavirus**                                                                                                   |
+| **Parasit** 🪱  | **Giardia lamblia** _(protozoa)_, **Cryptosporidium parvum**, **Cyclospora cayetanensis**                                                      |
+| **Bakteri** 🧫  | **Escherichia coli**, **Klebsiella pneumoniae**, **Enterobacter**, **Campylobacter jejuni**, **Vibrio cholerae**, **Shigella**, **Salmonella** |
 
 # Abses Rektal/Perianal
 
@@ -376,7 +378,7 @@ Dapat disebabkan oleh berbagai mikroorganisme dan umumnya masuk melalui **rute f
 
 ### Patofisiologi
 
-- Duktus yang membawa mukus ke daerah rektal mengalami sumbatan.
+- Duktus kelenjar yang membawa mukus ke daerah rektal mengalami sumbatan.
 - Sumbatan memungkinkan bakteri berkembang.
 - Infeksi kemudian menyebar menuju anus.
 
@@ -387,22 +389,15 @@ Dapat disebabkan oleh berbagai mikroorganisme dan umumnya masuk melalui **rute f
 
 **Sirosis** = penyakit hati kronis dengan kerusakan dan perubahan struktur hati yang progresif hingga mengganggu fungsi hati.
 
-Materi menekankan tanda gangguan fungsi hati yang dapat muncul pada fase awal kegagalan hati:
+Tanda gangguan fungsi hati yang dapat muncul pada fase awal kegagalan hati:
 
 - **Hipertensi portal** → peningkatan tekanan dalam sistem vena porta.
 - **Gangguan koagulasi** → kemampuan pembekuan darah menurun.
 - **Penurunan detoksifikasi** → kemampuan hati menetralkan/memproses zat toksik menurun.
 
-🧠 **Hafalan:**  
-**Sirosis → Portal ↑ + Koagulasi ↓ + Detoksifikasi ↓.**
-
 # Ensefalopati Hepatik 🧠
 
 **Ensefalopati hepatik** = disfungsi otak/neuropsikiatrik yang terjadi akibat gangguan fungsi hati akut.
-
-Materi mendefinisikannya sebagai:
-
-> **Neuropsychiatric/brain dysfunction resulting from acute hepatic dysfunction.**
 
 Intinya:  
 **gangguan fungsi hati → gangguan fungsi otak → perubahan neurologis/neuropsikiatrik.**
@@ -460,23 +455,19 @@ Setelah lokasi obstruksi diketahui, terapi dapat diarahkan sesuai penyebabnya.
 
 **Hernia** = penonjolan isi rongga melalui titik lemah atau defek pada dinding yang membatasinya.
 
-Lokasi yang disebutkan:
+Lokasinya bisa di bagian tubuh yang dekat dengan usus:
 
 - Diafragma
 - Umbilikus
 - Inguinal
 - Internal
 
-Hernia internal jarang ditemukan secara klinis dan sering ditemukan saat autopsi; lokasi yang disebutkan dalam materi meliputi daerah **mesokolon** dan **paraduodenum**.
+Hernia internal jarang ditemukan secara klinis dan sering ditemukan saat autopsi; lokasi paling sering di daerah **mesokolon** dan **paraduodenum**.
 
 Pada kegawatan, perlu diperhatikan terutama hernia yang mengalami:
 
 - **Inkarserasi** → isi hernia terjebak dan tidak dapat direposisi.
 - **Strangulasi** → suplai darah isi hernia terganggu sehingga dapat menyebabkan iskemia dan nekrosis.
-
-🚨 **Hafalan:**  
-**Inkarserata = “terjebak”**  
-**Strangulata = “terjebak + aliran darah terganggu”**
 
 # Benda Asing Rektal
 
