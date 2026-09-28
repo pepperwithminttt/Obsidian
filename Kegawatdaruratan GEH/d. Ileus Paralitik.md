@@ -252,10 +252,34 @@ Diagnosis banding utama ileus paralitik meliputi **pseudo-obstruksi** dan **obst
 🧠 **Kunci membedakan:**
 
 - **Ileus paralitik** → usus **diam** → _silent abdomen_ 🤫
-    
 - **Pseudo-obstruksi** → terutama **dilatasi usus besar** tanpa sumbatan mekanik.
-    
 - **Obstruksi mekanikal** → terdapat **sumbatan**, dengan gambaran radiografi khas seperti **stepladder** dan berkurangnya gas di kolon distal.
+
+### Perbandingan Klinis Berbagai Ileus
+
+|**Jenis ileus**|**Nyeri**|**Distensi**|**Muntah**|**Bising usus**|**Ketegangan abdomen**|
+|---|--:|--:|--:|---|:-:|
+|**Obstruksi simple tinggi**|++|+|+++|Borborigmi|Meningkat|
+|**Obstruksi simple rendah**|+++|+++|+|Borborigmi|Meningkat|
+|**Obstruksi strangulasi**|++++|++|+++|Tak tentu|+|
+|**Ileus paralitik**|+|++++|+|Menurun|−|
+|**Oklusi vaskuler**|+++++|+++|+++|Menurun|+|
+
+Karakteristik nyeri:
+
+- **Obstruksi simple tinggi:** nyeri **kolik**.
+- **Obstruksi simple rendah:** nyeri **kolik**, dapat berkembang lebih lambat dan bersifat fekal.
+- **Obstruksi strangulasi:** nyeri **terus-menerus**, biasanya meningkat dan terlokalisasi.
+- **Ileus paralitik:** nyeri relatif ringan (**+**).
+- **Oklusi vaskuler:** nyeri paling berat (**+++++**).
+
+🧠 Kunci cepat:
+
+- **Paralitik → distensi paling menonjol + bising usus menurun + ketegangan abdomen (−)**.
+- **Strangulasi → nyeri terus-menerus dan terlokalisasi**.
+- **Oklusi vaskuler → nyeri paling berat + bising usus menurun**.
+- **Obstruksi simple → nyeri kolik + borborigmi + ketegangan abdomen meningkat.**
+
 ## 9. Penatalaksanaan
 
 ### A. Konservatif
