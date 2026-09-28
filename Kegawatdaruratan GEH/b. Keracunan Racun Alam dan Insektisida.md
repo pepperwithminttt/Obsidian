@@ -193,14 +193,14 @@ Prioritas awal mengikuti **ABC-RE**:
 
 ### Tata cara dekontaminasi gastrointestinal
 
-|Tindakan|Tata cara dalam materi|Kontraindikasi/perhatian|
-|---|---|---|
-|Induksi muntah|Stimulasi mekanis orofaring|Zat sangat korosif/asing|
-|Pengenceran|Air dingin atau susu ±250 mL|Perlu mempertimbangkan jenis zat|
-|Aspirasi & bilas lambung|Posisi Trendelenburg + _left lateral decubitus_, pasang NGT, aspirasi, bilas 200–300 mL sampai bersih, kemudian karbon aktif 50 g|Kesadaran turun, kejang, apnea, paparan >4 jam, zat korosif, hidrokarbon|
-|Arang aktif|Dosis tunggal 30–50 g + 240 mL air|Kesadaran turun tanpa intubasi, gangguan menelan/napas, zat korosif/hidrokarbon|
-|Irigasi usus|Polietilen glikol + elektrolit hingga 1 L|Ileus/obstruksi GIT|
-|Bedah|Sesuai indikasi|—|
+| Tindakan                 | Tata cara                                                                                                                         | Kontraindikasi/perhatian                                                        |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Induksi muntah           | Stimulasi mekanis orofaring                                                                                                       | Zat sangat korosif/asing                                                        |
+| Pengenceran              | Air dingin atau susu ±250 mL                                                                                                      | Perlu mempertimbangkan jenis zat                                                |
+| Aspirasi & bilas lambung | Posisi Trendelenburg + _left lateral decubitus_, pasang NGT, aspirasi, bilas 200–300 mL sampai bersih, kemudian karbon aktif 50 g | Kesadaran turun, kejang, apnea, paparan >4 jam, zat korosif, hidrokarbon        |
+| Arang aktif              | Dosis tunggal 30–50 g + 240 mL air                                                                                                | Kesadaran turun tanpa intubasi, gangguan menelan/napas, zat korosif/hidrokarbon |
+| Irigasi usus             | Polietilen glikol + elektrolit hingga 1 L                                                                                         | Ileus/obstruksi GIT                                                             |
+| Bedah                    | Sesuai indikasi                                                                                                                   | —                                                                               |
 
 ### Antidotum beberapa zat racun
 
