@@ -4,5 +4,5 @@
 4. Neoplasma hepar (2)
 5. Hepatitis A (4A)
 6. Hepatitis B (3A)
-7. Hepatitis C (2)
-8. Rujuk balik hepatitis
+7. Hepatitis C (3A)
+8. Rujuk balik hepatitis B (4)
