@@ -362,7 +362,7 @@ Operasi terutama dipertimbangkan bila terdapat **peritonitis/komplikasi yang mem
 
 - Distensi lambung + usus halus + kolon
 - **Air-fluid level → LINE-UP**
-- Banding obstruksi → **STEPLADDER**
+- Diagnosis banding: obstruksi → **STEPLADDER**
 
 ### 🔑 Tata laksana
 
