@@ -48,9 +48,6 @@
 - Di Alaska, sumber yang umum adalah **makanan laut yang difermentasi**.
 - Setelah seseorang mengonsumsi makanan yang mengandung toksin, toksin mengganggu fungsi saraf sehingga menyebabkan **paralisis**.
 
-> 🧠 **Cara hafal penyebab:**  
-> **Luka + Makanan** → bakteri/toksin masuk → **saraf diblok** → paralisis.
-
 # Gambaran Klinis 🩺
 
 ## Trias klasik
