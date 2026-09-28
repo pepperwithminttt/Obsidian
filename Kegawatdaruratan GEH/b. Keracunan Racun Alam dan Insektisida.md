@@ -204,32 +204,32 @@ Prioritas awal mengikuti **ABC-RE**:
 
 ### Antidotum beberapa zat racun
 
-|Zat|Antidotum yang tercantum|
-|---|---|
-|Sianida|Nitrit + natrium tiosulfat; dikobalt edetat pada kasus berat|
-|Metanol/etilen glikol|Etanol, 4-metilpirazol|
-|Timbal|EDTA|
-|Merkuri|Asam 2,3-dimerkaptosuksinat, penisilamin, BAL|
-|Arsenik|D-penisilamin, BAL, DMPS/asam 2,3-dimerkaptosuksinat|
-|Na hipoklorit|Natrium tiosulfat|
-|Talium|Kalium ferik/Prussian blue|
-|Organofosfat|Atropin sulfat, pralidoksim|
-|Besi (Fe)|Desferrioksamin|
-|Amfetamin|Lorazepam|
-|Digoksin|Fab fragment/antibodi spesifik|
-|Isoniazid|Piridoksin|
-|Opioid|Nalokson|
-|Parasetamol|N-asetilsistein, metionin|
-|Warfarin|Vitamin K1, FFP|
-|Propranolol|Isoproterenol, adrenalin, glukagon|
-|Datura/kecubung|Fisostigmin salisilat|
-|_Amanita phalloides_|Silibinin, benzilpenisilin|
-|Oleander|Kolestiramin|
-|Kalajengking|Antivenin/antivenom|
-|Ubur-ubur|Antivenom|
-|Ular berbisa|Antivenin polivalen/SABU|
-|Jengkol|Natrium bikarbonat|
-|Botulinum|Antitoksin tipe A, B, E|
+| Zat                   | Antidotum                                                    |
+| --------------------- | ------------------------------------------------------------ |
+| Sianida               | Nitrit + natrium tiosulfat; dikobalt edetat pada kasus berat |
+| Metanol/etilen glikol | Etanol, 4-metilpirazol                                       |
+| Timbal                | EDTA                                                         |
+| Merkuri               | Asam 2,3-dimerkaptosuksinat, penisilamin, BAL                |
+| Arsenik               | D-penisilamin, BAL, DMPS/asam 2,3-dimerkaptosuksinat         |
+| Na hipoklorit         | Natrium tiosulfat                                            |
+| Talium                | Kalium ferik/Prussian blue                                   |
+| Organofosfat          | Atropin sulfat, pralidoksim                                  |
+| Besi (Fe)             | Desferrioksamin                                              |
+| Amfetamin             | Lorazepam                                                    |
+| Digoksin              | Fab fragment/antibodi spesifik                               |
+| Isoniazid             | Piridoksin                                                   |
+| Opioid                | Nalokson                                                     |
+| Parasetamol           | N-asetilsistein, metionin                                    |
+| Warfarin              | Vitamin K1, FFP                                              |
+| Propranolol           | Isoproterenol, adrenalin, glukagon                           |
+| Datura/kecubung       | Fisostigmin salisilat                                        |
+| _Amanita phalloides_  | Silibinin, benzilpenisilin                                   |
+| Oleander              | Kolestiramin                                                 |
+| Kalajengking          | Antivenin/antivenom                                          |
+| Ubur-ubur             | Antivenom                                                    |
+| Ular berbisa          | Antivenin polivalen/SABU                                     |
+| Jengkol               | Natrium bikarbonat                                           |
+| Botulinum             | Antitoksin tipe A, B, E                                      |
 
 ### Dialisis peritoneal
 
