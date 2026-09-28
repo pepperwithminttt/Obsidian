@@ -118,14 +118,6 @@ Pada **12–24 jam**, cairan dan Na⁺ semakin banyak menumpuk di usus proksimal
     - patah tulang rusuk
     - retak tulang vertebra.
 
-🧠 **Tips hafalan etiologi: "N-M-O-I-I"**
-
-- **N** = Neurogenik
-- **M** = Metabolik
-- **O** = Obat
-- **I** = Infeksi/inflamasi/iritasi
-- **I** = Iskemia
-
 ## 5. Manifestasi Klinis
 
 Keluhan utama:
@@ -183,7 +175,7 @@ Pada ileus paralitik, **rangsangan peritoneal/nyeri tekan dan nyeri lepas umumny
 
 - **Bising usus lemah**
 - Dapat **menghilang sama sekali → silent abdomen**
-- Dapat ditemukan **borborigmi** → suara gemuruh akibat pergerakan gas dan cairan dalam usus.
+- Dapat ditemukan **borborigmi** → suara gemuruh akibat pergerakan gas dan cairan dalam usus (tapi harusnya tidak ada karena ususnya tidak peristaltik)
 
 ### Pemeriksaan colok dubur
 
@@ -247,7 +239,24 @@ Pada ileus paralitik dapat ditemukan:
 
 ![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790604252000xcz1rn.png)
 
-## 8. Penatalaksanaan
+## 8. Diagnosis Banding
+
+Diagnosis banding utama ileus paralitik meliputi **pseudo-obstruksi** dan **obstruksi mekanikal**.
+
+|**Aspek**|**Ileus Paralitik**|**Pseudo-obstruksi**|**Obstruksi Mekanikal**|
+|---|---|---|---|
+|**Gejala**|Sakit perut, kembung, mual, muntah, konstipasi|Nyeri kram perut, konstipasi, obstipasi, mual, muntah, anoreksia|Nyeri kram perut, konstipasi, obstipasi, mual, muntah, anoreksia|
+|**Pemeriksaan fisik**|_Silent abdomen_, kembung, timpani|Borborigmi, timpani, gelombang peristaltik, bising usus hiperaktif atau hipoaktif, distensi, nyeri terlokalisasi|Borborigmi, timpani, gelombang peristaltik, bising usus hiperaktif atau hipoaktif, distensi, nyeri terlokalisasi|
+|**Radiografi**|Dilatasi usus kecil dan besar, diafragma meninggi|Dilatasi usus besar yang terlokalisir, diafragma meninggi|_Bow-shaped loops_, pola _stepladder_, berkurangnya gas kolon distal, diafragma agak tinggi, _air-fluid level_|
+
+🧠 **Kunci membedakan:**
+
+- **Ileus paralitik** → usus **diam** → _silent abdomen_ 🤫
+    
+- **Pseudo-obstruksi** → terutama **dilatasi usus besar** tanpa sumbatan mekanik.
+    
+- **Obstruksi mekanikal** → terdapat **sumbatan**, dengan gambaran radiografi khas seperti **stepladder** dan berkurangnya gas di kolon distal.
+## 9. Penatalaksanaan
 
 ### A. Konservatif
 
@@ -298,7 +307,7 @@ Pasien dirawat di rumah sakit dengan prinsip:
 **Paralitik ≠ otomatis operasi.**  
 Operasi terutama dipertimbangkan bila terdapat **peritonitis/komplikasi yang membutuhkan tindakan bedah**.
 
-## 9. Prognosis
+## 10. Prognosis
 
 - Prognosis ileus bergantung pada **penyebab yang mendasarinya**.
 - Bila terjadi setelah operasi abdomen, kondisi biasanya **sementara** dan berlangsung sekitar **24–72 jam**.
