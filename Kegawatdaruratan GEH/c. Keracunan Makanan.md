@@ -266,9 +266,6 @@ Jika tidak segera ditangani, kejengkolan dapat menyebabkan **gagal ginjal akut (
     - **Tidak diberikan secara rutin**.
     - Hanya diberikan apabila terdapat **infeksi sekunder**.
 
-**6. Kesimpulan:**  
-Kejengkolan merupakan kondisi keracunan ginjal akibat **kristalisasi asam jengkolat** dalam urin yang bersifat asam. Gejala dapat sangat serius hingga mengancam fungsi ginjal. Dengan penanganan cepat dan pengolahan jengkol yang tepat, risiko dapat diminimalisir. Pemahaman mengenai batas konsumsi dan cara pengolahan aman sangat penting bagi pecinta jengkol agar tetap mendapatkan manfaat gizinya tanpa menimbulkan gangguan kesehatan.
-
 > 🧠 **Hafalan kejengkolan:**  
 > **JENGKOL → nyeri pinggang → urine sedikit/berdarah → gangguan ginjal → bau jengkol.** 🚨
 
@@ -295,13 +292,9 @@ Kejengkolan merupakan kondisi keracunan ginjal akibat **kristalisasi asam jengko
 
 ### Pertolongan Pertama
 
-Materi mencantumkan:
-
 - Usahakan agar muntah.
 - Jika tidak dapat bernapas → berikan **napas buatan**.
 - Tangani **syok** bila terdapat tanda-tanda syok.
-
-> ⚠️ Untuk catatan kuliah, ini adalah langkah yang tercantum pada slide.
 
 ---
 
@@ -362,20 +355,17 @@ Metode pengawetan yang tercantum:
 - Pengasinan
 - Memaniskan.
 
-> 🧠 **Hafalan:**  
-> **Dingin – Asap – Ragi – Asam – Kering – Asin – Manis.**
-
 ---
 
 # Hubungan Waktu–Suhu 🌡️⏱️
 
 Hubungan waktu–suhu menjelaskan hubungan antara **suhu, mikroorganisme dalam bahan makanan, dan waktu pemanasan**.
 
-|Kelompok mikroorganisme|Suhu optimum dalam materi|
-|---|---|
-|**Termofilik**|**45–60°C**|
-|**Mesofilik**|**20–45°C**|
-|**Psikrofilik**|**0–20°C**|
+| Kelompok mikroorganisme | Suhu optimum |
+| ----------------------- | ------------ |
+| **Termofilik**          | **45–60°C**  |
+| **Mesofilik**           | **20–45°C**  |
+| **Psikrofilik**         | **0–20°C**   |
 
 ### Thermal Death Time
 
