@@ -750,7 +750,7 @@ Temuan:
 
 - **Striktur esofagus**.
 - Kanker esofagus:
-    - materi menyebut risiko meningkat hingga **1.000 kali lipat**.
+    - Risiko meningkat hingga **1.000 kali lipat**.
     - surveilans endoskopi dimulai **15 tahun setelah ingesti**, setiap **1–3 tahun**.
 
 **🧠 Alur hafalan keracunan korosif:**  
@@ -762,9 +762,7 @@ Temuan:
 
 - **Varises esofagus** adalah vena yang mengalami dilatasi dan menonjol ke dalam lumen esofagus sehingga permukaan mukosa tampak tidak rata seperti cacing.
 - Merupakan komplikasi **hipertensi portal**.
-- Menurut materi:
-    - terdapat pada sekitar **30% pasien sirosis kompensata**,
-    - sekitar **60% pasien sirosis dekompensata**.
+- Terdapat pada sekitar **30% pasien sirosis kompensata** dan sekitar **60% pasien sirosis dekompensata**.
 
 ## Patofisiologi
 
@@ -781,6 +779,9 @@ Temuan:
     - **red wale marks**,
     - **cherry-red spots**,
     - **hematocystic spots**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790696665000h2fxea.png)
+
 - Tanda merah tersebut pada dasarnya merupakan varises kecil pada permukaan varises besar.
 - Dekompensasi hepar yang dinilai menggunakan:
     - **Child-Turcotte-Pugh (CTP)**,
@@ -797,7 +798,7 @@ Temuan:
 
 ## Identifikasi Varises Esofagus Risiko Tinggi
 
-Parameter yang tercantum:
+Parameter:
 
 - Jumlah trombosit **≤100.000/mm³**.
 - Diameter bipolar limpa **≥135 mm**.
