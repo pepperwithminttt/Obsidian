@@ -197,10 +197,9 @@ Beberapa bahan makanan dapat mengandung toksin:
 
 # Kejengkolan 🌱
 
-- Materi menyebut jengkol sebagai _**Pethelolobium labatum**_ dan mencantumkan bahwa jengkol mengandung **vitamin B1**.
-- **Asam jengkolat** dikaitkan dengan pengaruh kondensasi **formaldehida dan sistein (cysteine)**.
+- Jengkol (_Pethelolobium labatum_) merupakan bahan makanan yang mengandung **vitamin B1**.
+- **Asam jengkolat** (asam jengkol) dikaitkan dengan pengaruh kondensasi **formaldehida dan sistein (cysteine)**.
 - Asam jengkolat sukar larut dalam air dingin.
-- Materi menghubungkan kondisi tersebut pada sekitar **30°C** dengan fungsi ginjal yang kurang baik.
 
 ### Manifestasi Klinis
 
