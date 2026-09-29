@@ -426,7 +426,7 @@ Tiga prasyarat:
 
 ## Manifestasi Klinis
 
-- **Disfagia terhadap makanan padat dan cair**; pada materi disebut paling sering makanan padat.
+- **Disfagia terhadap makanan padat dan cair**; paling sering makanan padat.
 - **Regurgitasi** pada 60–90% pasien:
     - terutama ketika membungkuk atau dalam posisi berbaring,
     - dapat terbangun pada malam hari karena makanan dari makan malam sebelumnya berada di mulut.
@@ -444,19 +444,19 @@ Tiga prasyarat:
 
 - Esofagus atonik dan mengalami dilatasi.
 - Penyempitan pada gastroesophageal junction.
-- Gambaran khas **"bird's beak" 🐦**.
+- Gambaran khas **"bird's beak" 🐦** atau "rat tail".
+
+![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17906947420002l0929.png)
 
 **Manometri esofagus**
 
 - Tidak terdapat peristalsis distal pada tubuh esofagus.
 - Relaksasi LES tidak lengkap:
     - residual pressure >8 mmHg.
-- Tekanan LES saat istirahat tinggi:
-    -   
-        
-        > 45 mmHg.
-        
+- Tekanan LES saat istirahat tinggi (>45 mmHg).
 - High-resolution manometry menunjukkan aktivitas kontraktil esofagus distal yang abnormal, aktivitas proksimal yang sedikit, serta peningkatan tekanan intrabolus di bagian proksimal LES yang tidak mengalami relaksasi.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790694893000aubptg.png)
 
 **Endoskopi saluran cerna atas**
 
@@ -465,6 +465,8 @@ Tiga prasyarat:
     - makanan yang tertahan,
     - dilatasi esofagus,
     - sensasi/temuan seperti "pop" saat melewati gastroesophageal junction.
+
+![gh|220](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17906949320006mh9a2.png)
 
 ## Diagnosis Banding
 
@@ -479,8 +481,13 @@ Tiga prasyarat:
         - usia lebih tua,
         - durasi gejala singkat,
         - penurunan berat badan cepat.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790695020000bhrq8h.png)
+
 - **Spasme esofagus**:
     - pada pemeriksaan barium dapat memberikan gambaran **corkscrew** akibat kontraksi simultan nonpropulsif di berbagai tingkat esofagus.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790695037000xxbfza.png)
 
 ## Tatalaksana
 
