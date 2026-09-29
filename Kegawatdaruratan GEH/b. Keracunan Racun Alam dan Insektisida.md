@@ -391,7 +391,7 @@ Terjadi terutama pada **neuromuscular junction**:
 
 **Intermediate syndrome**
 
-- Setelah gejala awal membaik, biasanya **24–96 jam**, dapat terjadi gagal napas mendadak pada keracunan beberapa jenis organofosfat.
+- Setelah gejala awal membaik, biasanya **24–96 jam**, dapat terjadi **gagal napas mendadak** pada keracunan beberapa jenis organofosfat.
 - Kondisi ini disebut **intermediate syndrome**.
 
 **3. Efek SSP**
@@ -422,9 +422,8 @@ Terjadi terutama pada **neuromuscular junction**:
 - Bebaskan jalan napas dan berikan bantuan napas bila diperlukan.
 - Pada pajanan kulit/mukosa → bersihkan dengan air.
 - **Hindari induksi muntah/bilas lambung bila pelarutnya minyak tanah.**
-- Dalam materi:
-    - bila pelarut berbasis air → dapat dilakukan rangsangan muntah/bilas lambung.
-- **Atropin sulfat:** 0,04 mg/kgBB IV; materi mencantumkan pemberian 8 ampul.
+- Bila pelarut berbasis air → dapat dilakukan rangsangan muntah/bilas lambung.
+- **Atropin sulfat:** 0,04 mg/kgBB IV; pemberian 8 ampul.
 - 1 ampul = ¼ mg atropin sulfat.
 - Atropin diberikan hingga tercapai **atropinisasi**, ditandai:
     - wajah merah,
@@ -459,7 +458,7 @@ Terjadi terutama pada **neuromuscular junction**:
 
 ### Patofisiologi dan gambaran klinis
 
-- Karbamat menurut materi **tidak dapat menembus sawar darah-otak**, sehingga efek sentral tidak menonjol.
+- Karbamat **tidak dapat menembus sawar darah-otak**, sehingga efek sentral tidak menonjol.
 - Lebih mudah diserap melalui kulit.
 - Manifestasi dapat timbul **sangat cepat** karena absorpsi melalui kulit.
 - Gejalanya menyerupai keracunan organofosfat, tetapi **tanpa tanda sentral** yang khas.
