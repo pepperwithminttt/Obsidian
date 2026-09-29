@@ -10,9 +10,9 @@ Penyebabnya dapat berupa:
 - **Mikroba**
 - **Toksin** → zat yang bersifat racun.
 
-### KLB Keracunan Makanan 🚨 (MBG wak)
+### KLB Keracunan Makanan 🚨 (MBG wak :v)
 
-**Kejadian Luar Biasa (KLB) keracunan makanan** adalah kejadian ketika terdapat **≥2 orang** yang mengalami sakit dengan gejala yang sama atau hampir sama setelah mengonsumsi sesuatu, dan berdasarkan **analisis epidemiologi** terbukti bahwa makanan tersebut merupakan sumber keracunan.
+**Kejadian Luar Biasa (KLB) keracunan makanan** adalah kejadian ketika terdapat **≥2 orang** yang mengalami **sakit dengan gejala yang sama** atau hampir sama **setelah mengonsumsi sesuatu**, dan berdasarkan **analisis epidemiologi** terbukti bahwa makanan tersebut merupakan **sumber keracunan**.
 
 > 🧠 **Hafalan KLB:**  
 > **≥2 orang + gejala sama/hampir sama + makan sesuatu + terbukti secara epidemiologis.**
@@ -34,7 +34,7 @@ Segitiga epidemiologi Gordon terdiri atas:
 
 ### Faktor Penyebab Keracunan Makanan
 
-Menurut materi, sebagian besar keracunan berkaitan dengan kesalahan dalam pengolahan makanan, yaitu:
+Menurut Center of Disease Control (CDC), sebagian besar keracunan berkaitan dengan kesalahan dalam pengolahan makanan, yaitu:
 
 1. Tempat pengolahan makanan
 2. Tenaga pengolah/penjamah makanan
@@ -62,14 +62,15 @@ Distribusi penyebab keracunan makanan dalam materi:
 - **Virus → 2%**
 - **Lain-lain → 5%**
 
-> 🧠 **Hafalan angka:** **70–20–3–2–5**  
-> Bakteri paling besar dalam data yang tercantum di materi.
+> 🧠 **Bakteri merupakan penyebab terbesar**.
 
 ---
 
 # Keracunan Makanan oleh Bakteri 🦠
 
 ## _Bacillus cereus_
+
+![gh|220](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790651097000p0pqyg.png)
 
 - Bakteri berbentuk **batang**.
 - Bersifat **aerobik** → dapat hidup/tumbuh dengan adanya oksigen.
@@ -80,14 +81,14 @@ Distribusi penyebab keracunan makanan dalam materi:
 
 ### Gejala berdasarkan toksin
 
-Terdapat dua pola dalam materi:
+Terdapat dua pola:
 
 |Jenis toksin|Saluran cerna terkait|Onset|
 |---|---|---|
 |**Toksin penyebab diare**|Saluran pencernaan bagian bawah|**8–16 jam** setelah konsumsi|
 |**Toksin penyebab muntah**|Saluran pencernaan bagian atas|**1–6 jam** setelah konsumsi|
 
-Pangan yang disebutkan sebagai pencemar toksin _B. cereus_:
+Pangan yang menjadi pencemar toksin _B. cereus_:
 
 - Pangan berbahan **pati**
 - Sayuran
@@ -99,6 +100,8 @@ Pangan yang disebutkan sebagai pencemar toksin _B. cereus_:
 ---
 
 ## _Staphylococcus aureus_
+
+![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790651249000s3zx1p.png)
 
 - Bakteri berbentuk **bulat (kokus)**.
 - Bersifat **aerobik**.
@@ -119,11 +122,10 @@ Pangan yang dapat mengalami pencemaran:
 
 ## _Salmonella_
 
-- Bakteri berbentuk **tongkat** yang dalam materi disebut menyebabkan tifoid.
-- Kontaminasi _Salmonella_ tidak selalu menyebabkan perubahan pada:
-    - Warna
-    - Aroma
-    - Rasa makanan.
+![gh|277](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790651314000by874g.png)
+
+- Bakteri berbentuk **tongkat** yang menyebabkan tifoid.
+- Kontaminasi _Salmonella_ **tidak selalu** menyebabkan perubahan pada warna, aroma, maupun rasa makanan.
 
 ### Penyebab keracunan
 
@@ -151,30 +153,32 @@ Pangan yang dapat mengalami pencemaran:
 
 ## _Escherichia coli_
 
+![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790651413000x6j1ad.png)
+
 - Secara normal terdapat di saluran pencernaan:
     - Manusia
     - Hewan
-- Mudah mencemari air.
-- **Kontaminasi air** menjadi poin utama yang ditekankan dalam materi.
+- Mudah **mencemari air**.
 
 ### Kontaminan
 
-Slide **“Kontaminan”** pada halaman 22–23 berupa ilustrasi/gambar dan tidak memiliki teks tambahan yang dapat dibaca melalui ekstraksi maupun OCR. Karena itu, tidak ada daftar kontaminan tambahan yang dapat dituliskan secara aman dari slide tersebut.
+- Daging
+- Susu
+- Telur
+- Air
+- Makanan kaleng
 
 ---
 
 # Keracunan Makanan Kimiawi ☣️
 
-Sumber keracunan/ kontaminasi kimiawi yang dicantumkan:
+Sumber keracunan/ kontaminasi kimiawi:
 
 - Sisa penyemprotan **pestisida**
 - Bahan pembersih
 - Wadah penyimpanan makanan
 - Air yang tercemar **logam berat**
 - Polusi udara.
-
-> 🧠 **Hafalan:**  
-> **Pestisida – Pembersih – Wadah – Logam berat – Polusi.**
 
 ---
 
