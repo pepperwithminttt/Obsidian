@@ -115,6 +115,8 @@ Interpretasi:
 - **3–4** → risiko sedang
 - **≥8** → mortalitas tinggi.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17907037520007v846e.png)
+
 > 🧠 **Tips:**  
 > **GBS = kondisi pasien sebelum endoskopi** → darah, tekanan, nadi, melena, sinkop, komorbid.  
 > **Rockall = tambah hasil endoskopi** → usia + syok + komorbid + diagnosis + stigmata.
