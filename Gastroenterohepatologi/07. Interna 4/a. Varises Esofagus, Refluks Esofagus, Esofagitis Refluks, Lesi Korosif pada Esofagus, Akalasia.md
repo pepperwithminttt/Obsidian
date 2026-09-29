@@ -413,7 +413,7 @@ Tiga prasyarat:
 ## Etiologi
 
 - Penyebab masih belum diketahui secara pasti.
-- Materi mengaitkan dengan:
+- Diduga terkait dengan:
     - infeksi virus, termasuk herpes,
     - gangguan autoimun.
 
