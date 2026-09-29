@@ -120,7 +120,7 @@ Manifestasi bergantung pada lokasi tumor.
 - **Kolangitis** merupakan keadaan gawat darurat.
 
 > *Kenapa urin gelap tapi feses malah pucat?*
-> Karna bilirubin yg dri empedu harusnya masuk ke usus yg nnti mmberikan warna coklat ke usus, **tpi karna duktus biliaris tersumbat oleh tumor, bilirubin nd bisa ke usus, jdi feses kehilangan bilirubin, jdinya pucat**. Bilirubin dri empedu tdi nd bisa masuk ke usus jdi dia kembali ke sirkulasi darah, jdi nnti klo darahnya melewati ginjal, kemudian jdi urin, ada kelebihan bilirubin di situ, makanya urin malah jdi gelap.
+> Karna bilirubin yg dri empedu harusnya masuk ke usus yg nnti mmberikan warna coklat ke usus, **tpi karna duktus biliaris tersumbat oleh tumor, bilirubin nd bisa ke usus, jdi feses kehilangan bilirubin, jdinya pucat**. **Bilirubin dri empedu tdi nd bisa masuk ke usus jdi dia kembali ke sirkulasi darah**, jdi nnti klo darahnya melewati ginjal, kemudian jdi urin, ada kelebihan bilirubin di situ, **makanya urin malah jdi gelap**.
 ### Tumor korpus/ekor pankreas
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790658610000pq3w73.png)
