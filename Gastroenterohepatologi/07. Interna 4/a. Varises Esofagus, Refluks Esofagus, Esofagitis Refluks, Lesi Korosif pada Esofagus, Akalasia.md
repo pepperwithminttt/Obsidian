@@ -38,6 +38,9 @@
     - serta faktor yang merusak mukosa esofagus.
 - **tLESR** = relaksasi LES sementara yang tidak berkaitan langsung dengan proses menelan. Jika terlalu sering/berkepanjangan, isi lambung lebih mudah naik ke esofagus.
 - Refluks menjadi patologis ketika paparan isi lambung terhadap esofagus menimbulkan **gejala atau kerusakan mukosa**.
+- Bahan-bahan yang memodulasi Tekanan Lower Esophageal Sphincter (LES):
+
+![gh|466](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790690362000sf5ppe.png)
 
 ## Manifestasi Klinis
 
