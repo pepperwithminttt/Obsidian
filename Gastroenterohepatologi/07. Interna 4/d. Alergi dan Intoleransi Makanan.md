@@ -111,6 +111,25 @@ Saluran gastrointestinal merupakan **organ imun terbesar tubuh** dan harus menja
 > 🧠 **Kunci patogenesis:**  
 > **Alergen + mukosa hiperreaktif + hilangnya toleransi imun → alergi makanan.**
 
+### Fase Respons Alergi 🧬
+
+Respons alergi terdiri dari 3 fase:
+
+- **1. Fase sensitisasi**
+    - Antigen → **dendritic cell → Th0 → Th2**
+    - Th2 menghasilkan **IL-4, IL-5, IL-13** → merangsang **B cell** menghasilkan **IgE spesifik**.
+    - IgE berikatan dengan **mast cell** → tubuh menjadi tersensitisasi.
+- **2. Respons fase akut ⚡**
+    - Paparan ulang alergen → **cross-linking IgE pada mast cell** → degranulasi.
+    - Dilepaskan **histamin, leukotrien, prostaglandin** → menimbulkan gejala alergi akut.
+- **3. Respons fase lambat**
+    - **IL-5 dan IL-13** berperan dalam rekrutmen **eosinofil dan basofil**.
+    - Sel-sel tersebut menghasilkan **mediator inflamasi** → mempertahankan inflamasi.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790700428000x1gq6n.png)
+
+> 🧠 **Hafalan:** **Sensitisasi → Mast cell meledak → Eosinofil/basofil mempertahankan inflamasi.**
+
 ### Diagnosis
 
 Diagnosis dimulai dari **anamnesis**, kemudian dikonfirmasi dengan pemeriksaan yang sesuai.
@@ -227,14 +246,14 @@ Food poisoning tidak boleh disamakan dengan food intolerance meskipun keduanya d
 - sakit kepala,
 - batuk nonproduktif.
 
-Materi menyebutkan food intolerance terjadi pada sekitar **20–30% populasi negara industri**.
+Food intolerance terjadi pada sekitar **20–30% populasi negara industri**.
 
 > 🧠 **Bedakan:**  
 > **Allergy = imun**  
 > **Intolerance = non-imun**  
 > **Poisoning = toksin**
 
-## 4. Intoleransi Laktosa 🥛
+## Intoleransi Laktosa 🥛
 
 ### Konsep dan Mekanisme
 
@@ -350,15 +369,15 @@ Kemudian:
 > 🧠 **Urutan hafalan:**  
 > **Laktosa tidak terurai → osmotik + fermentasi → AIR + GAS → diare + kembung/nyeri.**
 
-## 5. Diagnosis Intoleransi Laktosa/Fruktosa
+### Diagnosis Intoleransi Laktosa/Fruktosa
 
-### Hydrogen Breath Test 💨
+#### Hydrogen Breath Test 💨
 
 Merupakan metode yang:
 
 - non-invasif,
 - relatif murah,
-- dianggap paling andal dalam materi untuk mengonfirmasi intoleransi laktosa atau karbohidrat lainnya.
+- dianggap paling andal untuk mengonfirmasi intoleransi laktosa atau karbohidrat lainnya.
 
 **Prinsip:**
 
@@ -368,7 +387,7 @@ Merupakan metode yang:
 - kemudian dikeluarkan melalui napas;
 - kadar hidrogen napas diukur sebelum dan setelah pemberian laktosa.
 
-**Protokol pada materi:**
+**Protokol Pelaksanaan Hydrogen Breath Test:**
 
 - puasa **12 jam**;
 - diberikan **50 g laktosa**;
@@ -380,7 +399,7 @@ Merupakan metode yang:
 
 ⚠️ Hasil positif tidak berarti pasien sama sekali tidak dapat mentoleransi laktosa. Banyak pasien tetap dapat mentoleransi **jumlah laktosa yang lebih kecil**.
 
-### Elimination Diet
+#### Elimination Diet
 
 Digunakan pada dugaan intoleransi **fruktosa atau laktosa**.
 
@@ -398,7 +417,7 @@ Digunakan pada dugaan intoleransi **fruktosa atau laktosa**.
 
 Diet eliminasi juga harus tetap memenuhi kebutuhan nutrisi sehingga **konseling ahli gizi** diperlukan bila diet dilakukan secara ketat.
 
-### Pemeriksaan Lain
+#### Pemeriksaan Lain
 
 **Hydrogen breath test**
 
@@ -425,7 +444,7 @@ Diet eliminasi juga harus tetap memenuhi kebutuhan nutrisi sehingga **konseling 
 - feses asam dengan **pH <5,5** mendukung malabsorpsi karbohidrat;
 - pemeriksaan dilakukan pada bagian feses yang cair.
 
-## 6. Terapi Intoleransi Laktosa
+### Terapi Intoleransi Laktosa
 
 **Tidak semua pasien perlu menghilangkan laktosa sepenuhnya.**
 
