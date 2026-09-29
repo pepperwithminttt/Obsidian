@@ -283,6 +283,8 @@ Tujuan operasi adalah **R0 resection**, yaitu reseksi dengan **margin bebas tumo
 - **Tumor korpus/ekor** → **distal pancreatectomy**, umumnya dengan splenectomy.
 - **Penyakit difus** → **total pancreatectomy**, tetapi jarang diindikasikan.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17906592970008otjzt.png)
+
 Prinsip penting:
 
 - Standard lymphadenectomy.
