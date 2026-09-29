@@ -519,13 +519,7 @@ Tiga prasyarat:
     - miotomi melalui pendekatan endoskopi,
     - minimal invasif,
     - pemulihan cepat,
-    - hasil disebut setara dengan Heller myotomy dalam materi.
-
-**Ringkas berdasarkan modalitas:**
-
-- Farmakologis → nitrates, CCB, botulinum toxin.
-- Endoskopi → pneumatic balloon dilatation.
-- Bedah → Heller myotomy.
+    - hasil disebut setara dengan Heller myotomy.
 
 ## Komplikasi
 
@@ -567,8 +561,7 @@ Gambaran radiologi: **bird's beak 🐦 = LES menyempit, esofagus di atasnya mele
 
 - Cedera esofagus akibat tertelan bahan **kaustik/korosif**.
 - Kompetensi: **3B**.
-- Sekitar **26.000 kasus/tahun** menurut materi.
-- Pada kasus bunuh diri, ingesti biasanya lebih berat dibanding ingesti tidak sengaja.
+- Sekitar **26.000 kasus/tahun**, lebih sering kasus bunuh diri (ingesti dengan sengaja) daripada ingesti tidak sengaja.
 - Sekitar **80% kasus tidak sengaja terjadi pada anak <5 tahun**, terutama akibat konsumsi pembersih rumah tangga.
 
 ## Etiologi
@@ -719,14 +712,14 @@ Temuan:
 ### 5. Dilusi
 
 - Bila bahan berupa **asam yang diketahui** dan ingesti baru terjadi dalam hitungan menit:
-    - air atau susu dalam volume besar dapat digunakan untuk mengencerkan/menetralisasi asam menurut materi.
+    - air atau susu dalam volume besar dapat digunakan untuk mengencerkan/menetralisasi asam.
 - Selain kondisi tersebut → **NPO**.
 
 ### 6. Kortikosteroid
 
 - Bertujuan mengurangi kemungkinan striktur pada lesi berisiko tinggi.
 - Penggunaannya masih kontroversial karena belum ada konsensus.
-- Materi menyebut penggunaan terutama pada **cedera sirkumferensial**:
+- Penggunaan terutama pada **cedera sirkumferensial**:
     - prednisone **1,5 mg/kg/hari**,
     - diturunkan bertahap selama 2 bulan.
 - Dapat dipertimbangkan pada pasien dengan gangguan jalan napas dan bronkospasme.
