@@ -4,6 +4,8 @@
 
 **Cholangiocarcinoma (CCA)** adalah **tumor epitel ganas dengan diferensiasi bilier** yang dapat muncul di sepanjang **pohon bilier/saluran empedu**.
 
+![gh|431](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17906604570000bqex6.png)
+
 Secara anatomis, CCA dibagi menjadi:
 
 - **iCCA (_intrahepatic cholangiocarcinoma_)**
@@ -29,6 +31,8 @@ Secara anatomis, CCA dibagi menjadi:
 > **dCCA = Distal → Whipple**
 
 **Bismuth–Corlette** digunakan untuk menggambarkan **perluasan longitudinal tumor pada duktus di daerah hilus**, bukan untuk menentukan stadium atau resectability. Jadi, **Bismuth–Corlette ≠ staging ≠ resectability**.
+
+![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790660504000qv4aet.png)
 
 ---
 
