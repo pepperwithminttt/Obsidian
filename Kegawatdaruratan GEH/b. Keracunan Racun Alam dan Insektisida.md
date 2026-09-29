@@ -322,6 +322,8 @@ Rujuk bila:
 
 ### Definisi dan contoh
 
+![gh|246](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790650018000sc2or8.png)
+
 - **Organofosfat (OP)** atau _phosphate ester_ adalah ester dari asam fosfat.
 - Banyak digunakan sebagai:
     - insektisida,
