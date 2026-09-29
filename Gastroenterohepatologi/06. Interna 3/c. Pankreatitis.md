@@ -248,6 +248,8 @@ Parameter yang mengarah ke penyakit berat:
 
 ### 1. Resusitasi Cairan 💧
 
+Tatalaksana utama pankreatitis akut adalah resusitasi cairan karena peradangan parah menyebabkan **cairan tubuh keluar dari pembuluh darah ke rongga sekitar perut**, sehingga memicu kekurangan cairan (_hipovolemia_) dan gangguan aliran darah ke organ vital.
+
 - Gunakan **lactated Ringer's solution** bila tidak ada kontraindikasi.
 - Bolus hanya bila terdapat **hipovolemia nyata**.
 - Selanjutnya berikan cairan secara **goal-directed**, dititrasi berdasarkan respons.
@@ -345,7 +347,7 @@ Jika infeksi dicurigai:
 
 ## ERCP pada Biliary Pancreatitis
 
-**ERCP tidak dilakukan rutin pada semua biliary pancreatitis.**
+ERCP (*Endoscopic Retrograde Cholangiopancreatography*) **tidak dilakukan rutin** pada semua biliary pancreatitis.
 
 ### Indikasi ERCP dini
 
