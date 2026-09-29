@@ -373,14 +373,9 @@ Hubungan waktu–suhu menjelaskan hubungan antara **suhu, mikroorganisme dalam b
 
 - Jika konsentrasi mikroorganisme tinggi/jumlahnya banyak → diperlukan **waktu lebih lama**.
 
-> 🧠 **Logika:**  
-> **Mikroorganisme makin banyak → waktu pemanasan makin lama.** 🔥🦠
-
 ---
 
 # Masalah yang Berkaitan dengan Keracunan dan Sanitasi 🌍
-
-Materi mencantumkan beberapa masalah:
 
 - Ketidaktahuan
 - Lingkungan kurang menguntungkan
@@ -414,7 +409,7 @@ Manifestasi bergantung pada:
 ### Penanganan
 
 - Mencegah terjadinya **dehidrasi**.
-- Korban yang mengalami mual dan muntah **tidak diberikan makanan padat** menurut materi.
+- Korban yang mengalami mual dan muntah **tidak diberikan makanan padat**.
 - Dirujuk/dibawa ke **rumah sakit** bila diperlukan.
 
 ---
@@ -461,13 +456,10 @@ Manifestasi bergantung pada:
 
 ### Daging Kaleng
 
-Materi mencantumkan bahwa daging kaleng harus bebas dari:
+Daging kaleng harus bebas dari:
 
 - Kuman anaerob
 - Toksin.
-
-> 🧠 **Hafalan daging busuk:**  
-> **Lalat + Bau + Lendir = 🚩**
 
 ---
 
