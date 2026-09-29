@@ -87,6 +87,8 @@ Diagnosis GERD didasarkan pada kombinasi:
     - memantau respons terapi,
     - menilai apakah pasien yang sudah mendapat terapi memperoleh perbaikan gejala yang adekuat.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790692919000b9nu3m.png)
+
 **Pemeriksaan lain**
 
 - **Endoskopi saluran cerna atas** → mengevaluasi mukosa dan komplikasi.
@@ -124,18 +126,21 @@ Diagnosis GERD didasarkan pada kombinasi:
 
 **2. Farmakoterapi**
 
-- Obat penekan asam merupakan terapi efektif untuk refluks jangka pendek maupun jangka panjang.
+- Obat penekan asam (**mempertahankan pH intragastrik >4** selama 10-14 jam dengan PPI atau 6-8 jam dengan H2RA) merupakan terapi efektif untuk refluks jangka pendek maupun jangka panjang.
 - **PPI (Proton Pump Inhibitor)** merupakan obat utama penekan asam.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179069319500010jx9g.png)
+
 - **H2RA (H2-receptor antagonist):**
     - cimetidine,
     - ranitidine,
     - famotidine,
     - nizatidine.
-- H2RA diberikan dua kali sehari sebelum makan pada regimen yang tercantum dalam materi.
+- H2RA diberikan dua kali sehari sebelum makan.
 - H2RA dapat menjadi terapi pemeliharaan pada pasien tanpa penyakit erosif yang mengalami perbaikan heartburn.
 - H2RA malam hari dapat ditambahkan pada terapi PPI siang hari pada pasien tertentu dengan bukti objektif refluks malam hari.
 - Penggunaan H2RA terus-menerus dapat menyebabkan **tachyphylaxis**, yaitu penurunan respons obat setelah penggunaan beberapa minggu.
-- **Sucralfate** tidak memiliki peran pada GERD nonhamil menurut materi.
+- **Sucralfate** tidak memiliki peran pada GERD nonhamil.
 - PPI mempertahankan pH intragastrik >4 selama sekitar **10–14 jam/hari**, sedangkan H2RA sekitar **6–8 jam/hari**.
 
 **PPI pada GERD tersangka**
@@ -150,7 +155,7 @@ Diagnosis GERD didasarkan pada kombinasi:
     - metoclopramide → antagonis dopamin,
     - cisapride → agonis reseptor serotonin 5-HT4,
     - azithromycin.
-- **Baclofen** → agonis GABA-B yang menurunkan tLESRs; dosis yang tercantum: **5–20 mg, 3×/hari**.
+- **Baclofen** → agonis GABA-B yang menurunkan tLESRs; dosis: **5–20 mg, 3×/hari**.
 
 **3. Pembedahan/intervensi**
 
@@ -179,7 +184,7 @@ Indikasi:
 - Tekanan LES rendah.
 - Esofagitis berat.
 - Gejala sulit dikontrol.
-- Kekambuhan dalam 6 bulan setelah penghentian obat sangat tinggi pada esofagitis berat (>80% menurut materi).
+- Kekambuhan dalam 6 bulan setelah penghentian obat sangat tinggi pada esofagitis berat (kejadian >80%).
 
 Durasi:
 
@@ -216,11 +221,15 @@ Tiga kelompok NERD:
     - Waktu paparan asam normal.
     - Korelasi gejala dengan episode refluks buruk.
 
+### Pilihan Tatalaksana NERD
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790693709000h5vl9q.png)
+
 ## Pencegahan
 
 - Makan **porsi kecil dan sering**; hindari makan malam dalam porsi besar.
 - Buat catatan makanan untuk mengenali pencetus.
-- Makanan/minuman pencetus yang tercantum:
+- Makanan/minuman pencetus:
     - cokelat,
     - buah dan jus sitrus,
     - peppermint,
@@ -288,7 +297,7 @@ Tiga kelompok NERD:
 
 - Tujuan terapi: **dosis obat terendah yang efektif untuk mengontrol gejala dan mencegah komplikasi**.
 - Jika gejala kambuh dalam 3 bulan setelah penghentian obat atau terdapat inflamasi esofagus berat → dapat diperlukan terapi PPI jangka panjang atau terapi ulang.
-- Risiko jangka panjang PPI yang tercantum:
+- Risiko jangka panjang PPI:
     - peningkatan risiko infeksi usus tertentu, termasuk _Clostridium difficile_,
     - penurunan absorpsi mineral dan nutrien.
 - Jika gejala tidak membaik:
