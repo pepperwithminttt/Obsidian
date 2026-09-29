@@ -19,13 +19,17 @@
 - **Merokok**.
 - Faktor gaya hidup/aktivitas tertentu: postur membungkuk, bersepeda, mengangkat beban, berenang.
 - Faktor genetik dan lingkungan.
-- Infeksi _Helicobacter pylori_ (-) pada materi.
+- Infeksi _Helicobacter pylori_ (-).
 - Obat-obatan dan faktor gaya hidup tertentu juga dapat memengaruhi risiko GERD.
 
 ## Fisiologi dan Patomekanisme
 
-- Refluks normal dapat terjadi dan dicegah oleh **barier antirefluks**, terutama **Lower Esophageal Sphincter (LES)**.
-- GERD terjadi akibat kombinasi:
+- Refluks normal dapat terjadi dan dicegah agar tidak naik lebih jauh oleh **barier antirefluks**, terutama **Lower Esophageal Sphincter (LES)**.
+- Proses refluks normal:
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790690241000wrgdzh.png)
+
+- Sementara itu, GERD terjadi akibat kombinasi:
     - gangguan **oesophagogastric junction (EGJ)**,
     - gangguan fungsi LES,
     - **hipotensi LES**,
