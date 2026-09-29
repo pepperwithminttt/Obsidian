@@ -197,11 +197,30 @@ Beberapa bahan makanan dapat mengandung toksin:
 
 # Kejengkolan 🌱
 
-- Jengkol (_Pethelolobium labatum_) merupakan bahan makanan yang mengandung **vitamin B1**.
-- **Asam jengkolat** (asam jengkol) dikaitkan dengan pengaruh kondensasi **formaldehida dan sistein (cysteine)**.
-- Asam jengkolat sukar larut dalam air dingin.
+### 1. Pengertian Jengkol dan Kandungannya:
 
-### Manifestasi Klinis
+Jengkol (*Pithecellobium/Archidendron pauciflorum*, sinonim: *P. lobatum*) adalah tumbuhan polong-polongan yang populer di Asia Tenggara, khususnya Indonesia. Biji jengkol banyak dikonsumsi karena rasa dan teksturnya yang khas. Secara nutrisi, jengkol mengandung:
+
+- Protein nabati tinggi
+- Karbohidrat dan serat pangan
+- Vitamin, terutama B1, B2, dan C
+- Mineral seperti zat besi, kalsium, dan fosfor
+- Senyawa bioaktif seperti flavonoid, tanin, saponin, alkaloid, dan polifenol
+
+Namun, jengkol juga mengandung senyawa unik bernama **asam jengkolat (djenkolic acid)**, yaitu asam amino non-protein yang memiliki **atom belerang** (S). Asam ini terbentuk dari dua gugus sistein yang dihubungkan oleh gugus metil (-CH₃) pada atom belerangnya.
+
+### 2. Mekanisme Terjadinya Kejengkolan (Djenkolism):
+
+Kejengkolan terjadi karena **asam jengkolat bersifat sangat sukar larut dalam air**, khususnya pada kondisi yang bersifat asam (pH rendah) seperti urin manusia. Mekanisme kimiawinya adalah sebagai berikut:
+
+- Setelah dikonsumsi, asam jengkolat masuk ke darah dan disaring oleh ginjal.
+- Jika urin bersifat asam, asam jengkolat mengendap membentuk **kristal jarum halus** (orthorhombic djenkolic acid crystals).
+- Kristal ini mengiritasi dinding ginjal, ureter, dan kandung kemih sehingga terjadi **penyumbatan mekanis**.
+- Akibatnya muncul gejala keracunan dan gangguan fungsi urin.
+
+### 3. Gejala Klinis Kejengkolan:
+
+Gejala muncul **2–12 jam** setelah konsumsi jengkol, antara lain:
 
 1. **Nyeri kolik** di daerah pinggang atau daerah pusar/ari-ari, kadang disertai kejang.
     - **Kolik** = nyeri yang muncul akibat kontraksi/spasme organ berongga.
@@ -213,22 +232,42 @@ Beberapa bahan makanan dapat mengandung toksin:
 4. Perut kembung dan sulit buang air besar.
 5. Napas dan urine berbau jengkol.
 
-### Penatalaksanaan
+Jika tidak segera ditangani, kejengkolan dapat menyebabkan **gagal ginjal akut (Acute Kidney Injury)**.
 
-1. Berikan **air putih dalam jumlah banyak** agar kadar asam jengkolat lebih encer sehingga lebih mudah dikeluarkan melalui urine.
-2. Jika terdapat gejala berat seperti:
-    
-    - Oliguria
-    - **Hematuria** → adanya darah dalam urine
-    - **Anuria** → tidak adanya/berhentinya pengeluaran urine
-    - Tidak dapat minum
-    
-    → penderita perlu dirawat dan diberikan infus **natrium bikarbonat dalam larutan glukosa 5%**.
-    
-3. Dosis yang tercantum dalam materi:
-    - Dewasa dan anak: **2–5 mEq/kgBB natrium bikarbonat**
-    - Diberikan melalui infus selama **4–8 jam**.
-4. Antibiotik hanya diberikan bila terdapat **infeksi sekunder**.
+### 4. Faktor Risiko:
+
+- Jumlah jengkol yang dikonsumsi (lebih banyak → lebih berisiko)
+- Kadar asam jengkolat dalam biji jengkol (lebih tinggi pada jengkol tua)
+- pH urin yang asam
+- Genetik dan kondisi hidrasi individu
+
+### 5. Penanganan dan Pencegahan:
+
+- **Hidrasi optimal 💧**
+    - Berikan **air putih dalam jumlah banyak (±2–3 L/hari)** untuk mengencerkan asam jengkolat dan membantu membilas kristal melalui urine.
+    - Pada pasien yang masih dapat minum, hidrasi oral diutamakan.
+- **Alkalisasi urine**
+    - Berikan **natrium bikarbonat (NaHCO₃)** untuk meningkatkan pH urine sehingga membantu **melarutkan kristal/asam jengkolat** dan mempermudah ekskresinya.
+    - Pada gejala berat (oliguria, hematuria, anuria) atau pasien tidak dapat minum, NaHCO₃ diberikan secara **intravena**.
+- **Penanganan kasus berat 🚨**
+    - Indikasi perawatan dan terapi intravena antara lain:
+        - **Oliguria** → produksi urine berkurang.
+        - **Hematuria** → adanya darah dalam urine.
+        - **Anuria** → tidak adanya/berhentinya pengeluaran urine.
+        - **Tidak dapat minum**.
+    - Berikan **infus natrium bikarbonat dalam larutan glukosa 5%**.
+    - Dosis **natrium bikarbonat: 2–5 mEq/kgBB** pada dewasa maupun anak, diberikan melalui infus selama **4–8 jam**.
+    - Pantau **produksi urine dan kondisi klinis** selama terapi.
+- **Pencegahan paparan selanjutnya 🌱**
+    - **Batasi konsumsi jengkol:** sekitar **1–3 keping sekali makan** dan hindari konsumsi setiap hari secara terus-menerus.
+    - Hindari konsumsi **jengkol mentah secara berlebihan**, karena kandungan asam jengkolatnya lebih tinggi.
+    - **Pengolahan jengkol** seperti merebus, merendam dalam air kapur, atau menggoreng dapat membantu menurunkan kadar asam jengkolat.
+- **Antibiotik 💊**
+    - **Tidak diberikan secara rutin**.
+    - Hanya diberikan apabila terdapat **infeksi sekunder**.
+
+**6. Kesimpulan:**  
+Kejengkolan merupakan kondisi keracunan ginjal akibat **kristalisasi asam jengkolat** dalam urin yang bersifat asam. Gejala dapat sangat serius hingga mengancam fungsi ginjal. Dengan penanganan cepat dan pengolahan jengkol yang tepat, risiko dapat diminimalisir. Pemahaman mengenai batas konsumsi dan cara pengolahan aman sangat penting bagi pecinta jengkol agar tetap mendapatkan manfaat gizinya tanpa menimbulkan gangguan kesehatan.
 
 > 🧠 **Hafalan kejengkolan:**  
 > **JENGKOL → nyeri pinggang → urine sedikit/berdarah → gangguan ginjal → bau jengkol.** 🚨
