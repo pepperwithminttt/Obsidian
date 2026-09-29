@@ -78,7 +78,7 @@ Mekanisme utama:
 
 >Note: Dalam kondisi sehat, kadar kalsium di dalam sitoplasma sel asinar diatur dengan sangat ketat dan hanya dilepaskan dalam bentuk gelombang pendek untuk memicu sekresi enzim. Kalo disregulasi, terjadi **kebocoran kalsium yang masif dan berkepanjangan** ke dalam sitoplasma. Ini yang jadi saklar (pemicu) kerusakan lebih lanjut.
 
-3. **Aktivasi Tripsin Prematur (Autodigesti):** Kalsium tinggi memicu penggabungan kantong enzim. Enzim lisosom mengaktifkan **tripsinogen menjadi tripsin** di dalam pankreas, sehingga pankreas mencerna dirinya sendiri.
+3. **Aktivasi Tripsin Prematur (Autodigesti):** Kalsium tinggi memicu penggabungan antara kantong zimogen dan kantong enzim. Kalo bergabung, enzim lisosom akan mengaktifkan **tripsinogen menjadi tripsin** secara prematur di dalam pankreas, sehingga pankreas mencerna dirinya sendiri.
 4. **Inflamasi Akut (Dampak):** Kerusakan sel melepaskan zat kimia yang memicu **badai sitokin** dan penarikan sel imun, menyebabkan pembengkakan, perdarahan, dan nekrosis pankreas.
 
 Secara paralel:
