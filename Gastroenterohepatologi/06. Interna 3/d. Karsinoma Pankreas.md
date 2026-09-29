@@ -74,6 +74,8 @@ Gen/sindrom yang berkaitan dengan peningkatan risiko antara lain:
 
 ## Patogenesis PDAC
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790658495000t849ro.png)
+
 PDAC berkembang dari pankreas normal → **lesi prekursor** → **PDAC invasif**.
 
 Perubahan molekuler penting:
