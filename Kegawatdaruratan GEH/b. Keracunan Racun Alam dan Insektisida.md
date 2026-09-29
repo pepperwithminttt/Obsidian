@@ -579,7 +579,7 @@ Pada ingesti:
     - edema paru,
     - kolaps paru.
 - Bahkan aspirasi **<1 mL** dapat menyebabkan kerusakan bermakna.
-- Dalam materi disebut kematian dapat terjadi akibat aspirasi sekitar **2,5 mL ke paru**.
+- Kematian dapat terjadi akibat aspirasi sekitar **2,5 mL ke paru**.
 - Aspirasi sekitar 350 mL ke lambung disebutkan sebagai pembanding.
 - Dosis sekitar **1 mL/kgBB** dapat menyebabkan:
     - depresi SSP ringan–sedang,
