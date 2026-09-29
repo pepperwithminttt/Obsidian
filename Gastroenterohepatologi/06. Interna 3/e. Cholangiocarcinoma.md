@@ -21,7 +21,7 @@ Secara anatomis, CCA dibagi menjadi:
     - Pada kasus terpilih dapat dilakukan reseksi kompleks berupa hepatektomi mayor + reseksi duktus ekstrahepatik + reseksi lobus kaudatus ± rekonstruksi bilier/vascular atau transplantasi hati.
 - **dCCA (_distal cholangiocarcinoma_)**
     - Berasal dari duktus biliaris distal, dekat pankreas dan duodenum.
-    - Umumnya menimbulkan ikterus obstruktif.
+    - Umumnya menimbulkan **ikterus obstruktif**.
     - Pendekatan kuratif utama pada pasien terpilih adalah **pankreatikoduodenektomi (prosedur Whipple)**.
 
 🧠 **Hafalan lokasi → operasi:**
