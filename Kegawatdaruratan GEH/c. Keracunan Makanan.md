@@ -2,7 +2,7 @@
 
 ## Pengertian
 
-**Keracunan makanan** adalah penyakit yang disebabkan oleh konsumsi makanan yang **berbahaya atau terkontaminasi**.
+**Keracunan makanan** adalah penyakit yang disebabkan oleh **konsumsi makanan** yang **berbahaya** atau **terkontaminasi**.
 
 Penyebabnya dapat berupa:
 
@@ -10,7 +10,7 @@ Penyebabnya dapat berupa:
 - **Mikroba**
 - **Toksin** → zat yang bersifat racun.
 
-### KLB Keracunan Makanan 🚨
+### KLB Keracunan Makanan 🚨 (MBG wak)
 
 **Kejadian Luar Biasa (KLB) keracunan makanan** adalah kejadian ketika terdapat **≥2 orang** yang mengalami sakit dengan gejala yang sama atau hampir sama setelah mengonsumsi sesuatu, dan berdasarkan **analisis epidemiologi** terbukti bahwa makanan tersebut merupakan sumber keracunan.
 
