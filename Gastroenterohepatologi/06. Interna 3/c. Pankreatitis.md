@@ -74,7 +74,10 @@ Penyebab utama dan evaluasi etiologi acute pancreatitis:
 Mekanisme utama:
 
 1. **Disfungsi Sel (Pemicu):** Batu empedu menyumbat saluran atau alkohol meracuni jaringan (intinya tergantung etiologi), kemudian merusak **sel asinar** (sel penghasil enzim inaktif/zimogen) dan **sel duktal** (sel penghasil cairan bikarbonat untuk membilas enzim ke usus).
-2. **Disregulasi Ca²⁺ (Saklar Kerusakan):** Stres sel membuat kalsium bocor dan **menumpuk secara masif** di dalam sel.
+2. **Disregulasi Ca²⁺ (Saklar Kerusakan):** Stres sel membuat kalsium bocor dan **menumpuk secara masif** di dalam sel. 
+
+>Note: Dalam kondisi sehat, kadar kalsium di dalam sitoplasma sel asinar diatur dengan sangat ketat dan hanya dilepaskan dalam bentuk gelombang pendek untuk memicu sekresi enzim. Kalo disregulasi, terjadi **kebocoran kalsium yang masif dan berkepanjangan** ke dalam sitoplasma. Ini yang jadi saklar (pemicu) kerusakan lebih lanjut.
+
 3. **Aktivasi Tripsin Prematur (Autodigesti):** Kalsium tinggi memicu penggabungan kantong enzim. Enzim lisosom mengaktifkan **tripsinogen menjadi tripsin** di dalam pankreas, sehingga pankreas mencerna dirinya sendiri.
 4. **Inflamasi Akut (Dampak):** Kerusakan sel melepaskan zat kimia yang memicu **badai sitokin** dan penarikan sel imun, menyebabkan pembengkakan, perdarahan, dan nekrosis pankreas.
 
