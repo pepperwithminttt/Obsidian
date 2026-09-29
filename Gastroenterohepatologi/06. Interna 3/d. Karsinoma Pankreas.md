@@ -119,8 +119,10 @@ Manifestasi bergantung pada lokasi tumor.
 - Dapat ditemukan **tanda Courvoisier** → kandung empedu membesar dan teraba pada keadaan obstruksi bilier distal, terutama bila obstruksi disebabkan proses malignan.
 - **Kolangitis** merupakan keadaan gawat darurat.
 
-> *Kenapa urin gelap tapi feses malah pucat?*
+### Kenapa urin gelap tapi feses malah pucat?
+
 > Karna bilirubin yg dri empedu harusnya masuk ke usus yg nnti mmberikan warna coklat ke usus, **tpi karna duktus biliaris tersumbat oleh tumor, bilirubin nd bisa ke usus, jdi feses kehilangan bilirubin, jdinya pucat**. **Bilirubin dri empedu tdi nd bisa masuk ke usus jdi dia kembali ke sirkulasi darah**, jdi nnti klo darahnya melewati ginjal, kemudian jdi urin, ada kelebihan bilirubin di situ, **makanya urin malah jdi gelap**.
+
 ### Tumor korpus/ekor pankreas
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790658610000pq3w73.png)
