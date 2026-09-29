@@ -17,6 +17,8 @@
 
 ## Etiologi & Faktor Risiko
 
+![gh|398](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790703684000woydsl.png)
+
 **Non-variseal (70–80%)**
 
 - **Tukak peptik (30–40%)** → tukak lambung/duodenum, terutama berkaitan dengan **NSAID** dan _H. pylori_.
