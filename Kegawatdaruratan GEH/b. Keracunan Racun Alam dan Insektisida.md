@@ -282,7 +282,7 @@ Prioritas awal mengikuti **ABC-RE**:
     - kuinidin,
     - litium.
 - Cairan: NaCl 0,9% dan levulosa 5%.
-- Pada asam: dalam materi ditambahkan NaCO₃ 1,25% + KCl 1,5%.
+- Pada asam: ditambahkan NaCO₃ 1,25% + KCl 1,5%.
 
 ### Prinsip penting: jangan over-treatment
 
