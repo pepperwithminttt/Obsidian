@@ -234,11 +234,11 @@ Prioritas awal mengikuti **ABC-RE**:
 ### Dialisis peritoneal
 
 - Peritoneum berfungsi sebagai **membran semipermeabel**, sehingga dapat digunakan untuk mengeluarkan zat tertentu dari darah.
-- Dalam materi disebut cukup aman dengan efektivitas sekitar diuresis paksa.
+- Metode ini cukup aman dengan efektivitas sekitar diuresis paksa.
 - Persyaratan:
     - fraksi obat bebas tinggi,
     - banyak zat aktif dapat dikeluarkan.
-- Contoh zat yang tercantum:
+- Contoh zat:
     - alkohol,
     - metilalkohol,
     - amfetamin,
