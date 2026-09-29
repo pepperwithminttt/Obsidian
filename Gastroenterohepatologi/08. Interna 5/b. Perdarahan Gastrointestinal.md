@@ -7,6 +7,9 @@
     - Lambung
     - Duodenum
 - **Ligamentum Treitz** = struktur anatomis pada **fleksura duodenojejunal**, menjadi batas antara saluran cerna atas dan bawah.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790703130000l7s8yj.png)
+
 - Insidens: **84–160 kasus/100.000 populasi/tahun**.
 - Mortalitas: **5–14%**.
 - >50% kasus PSCA merupakan **non-variseal**, terutama akibat tukak peptik.
