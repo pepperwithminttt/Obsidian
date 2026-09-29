@@ -637,6 +637,8 @@ Hindari memberikan angka survival secara kaku sebagai prediksi individual. Progn
 
 ## Key Points untuk Klinis & Ujian 🧠
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790660100000uweunc.png)
+
 - **PDAC adalah bentuk utama karsinoma pankreas** dan berasal dari epitel duktus.
 - **KRAS, CDKN2A, TP53, SMAD4** merupakan perubahan molekuler utama.
 - **Merokok** adalah faktor risiko modifiable terpenting.
