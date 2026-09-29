@@ -481,7 +481,7 @@ Terjadi terutama pada **neuromuscular junction**:
 
 - Endrin
 - DDT
-- Golongan ini menurut materi sudah jarang digunakan.
+- Golongan ini sudah jarang digunakan.
 
 ### Manifestasi klinis
 
@@ -561,7 +561,7 @@ Pada ingesti:
 - Oksigen inhalasi.
 - **Salbutamol** bila mulai timbul gangguan napas.
 - Antibiotik hanya bila telah terjadi infeksi; **tidak dianjurkan sebagai profilaksis**.
-- Hidrokortison dahulu direkomendasikan, tetapi sekarang jarang dilakukan menurut materi.
+- Hidrokortison dahulu direkomendasikan, tetapi sekarang jarang dilakukan.
 - Antasida untuk mencegah iritasi mukosa lambung.
 - Pemberian susu atau bahan pengencer lainnya.
 - Anus dan perineum dibersihkan secepatnya untuk mencegah iritasi/_skin burn_ sekunder.
