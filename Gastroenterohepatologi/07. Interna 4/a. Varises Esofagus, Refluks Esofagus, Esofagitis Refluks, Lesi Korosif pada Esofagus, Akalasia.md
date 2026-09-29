@@ -41,6 +41,7 @@
 - Bahan-bahan yang memodulasi Tekanan Lower Esophageal Sphincter (LES):
 
 ![gh|466](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790690362000sf5ppe.png)
+> Note: knp ada usernameku di bagian yg menurunkan tekanan LES awikwok
 
 ## Manifestasi Klinis
 
