@@ -611,7 +611,7 @@ Pada ingesti:
 
 - **Jangan melakukan bilas lambung.**
 - Terapi simptomatik.
-- Dalam materi: susu dapat diberikan untuk memperlambat absorpsi.
+- Susu dapat diberikan untuk memperlambat absorpsi.
 
 ---
 
@@ -652,7 +652,7 @@ Pada ingesti:
 ### Penatalaksanaan
 
 - **Arang aktif kontraindikasi.**
-- Bila asimtomatik → dalam materi diberikan pengenceran cairan:
+- Bila asimtomatik → diberikan pengenceran cairan:
     - air 10 mL/kgBB,
     - maksimal 250 mL.
 - Bila tetap asimtomatik setelah 4 jam dan mampu makan/minum → dapat dipulangkan.
@@ -682,7 +682,7 @@ Pada ingesti:
 
 - Terapi simptomatik.
 - **Jangan memberikan epinefrin dan norepinefrin** karena berbahaya dan dapat memicu fibrilasi ventrikel.
-- Dalam materi tercantum:
+- Dalam PPT tercantum:
     - CaNa₂ EDTA 1 g dalam 500 mL glukosa 5%, 2× sehari selama 3 hari.
     - Kalsium glukonat 2 g IV.
     - Laksatif: MgSO₄.
@@ -692,29 +692,18 @@ Pada ingesti:
 
 # Keracunan Racun Alam
 
-Materi mencantumkan beberapa racun alam beserta antidotum/terapinya:
+Beberapa racun alam beserta antidotum/terapinya:
 
-|Racun alam|Terapi/antidotum yang tercantum|
-|---|---|
-|**Datura/kecubung**|Fisostigmin salisilat|
-|**Amanita phalloides**|Silibinin, benzilpenisilin|
-|**Oleander**|Kolestiramin|
-|**Kalajengking**|Antivenin|
-|**Ubur-ubur**|Antivenom|
-|**Ular berbisa**|Antivenin polivalen/SABU|
-|**Jengkol**|Natrium bikarbonat|
-|**Botulinum**|Antitoksin tipe A, B, E|
-
-### Beberapa terapi spesifik yang tercantum pada tabel
-
-- **Datura/kecubung:** fisostigmin salisilat, 0,02 mg/kgBB IV selama ±2 menit, dapat diulang setelah 20 menit.
-- **Amanita phalloides:** silibinin/benzilpenisilin.
-- **Oleander:** kolestiramin.
-- **Racun ular:** antivenin polivalen/SABU.
-- **Jengkol:** natrium bikarbonat.
-- **Botulinum:** antitoksin tipe A, B, E.
-
-> ⚠️ **Catatan belajar:** bagian antidotum pada slide merupakan tabel kuliah dan beberapa angka/dosis ditampilkan secara sangat ringkas. Untuk ujian, hafalkan pasangan **racun → antidotum** sesuai materi dosen; untuk penggunaan klinis, dosis dan indikasi harus mengikuti pedoman klinis yang berlaku.
+| Racun alam             | Terapi/antidotum yang tercantum |
+| ---------------------- | ------------------------------- |
+| **Datura/kecubung**    | Fisostigmin salisilat           |
+| **Amanita phalloides** | Silibinin, benzilpenisilin      |
+| **Oleander**           | Kolestiramin                    |
+| **Kalajengking**       | Antivenin                       |
+| **Ubur-ubur**          | Antivenom                       |
+| **Ular berbisa**       | Antivenin polivalen/SABU        |
+| **Jengkol**            | Natrium bikarbonat              |
+| **Botulinum**          | Antitoksin tipe A, B, E         |
 
 ---
 
