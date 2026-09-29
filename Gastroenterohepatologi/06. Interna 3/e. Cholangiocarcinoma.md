@@ -104,6 +104,8 @@ Secara sederhana alurnya:
 
 **Cedera/inflamasi bilier kronis → stres oksidatif + pelepasan sitokin → proliferasi epitel abnormal → displasia → CCA**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790660997000tea24a.png)
+
 Perubahan molekuler meliputi:
 
 - **Mutasi genetik**
@@ -142,9 +144,6 @@ Beberapa perubahan molekuler memiliki implikasi terapeutik langsung.
 |**NTRK/RET fusion**|Jarang|Terapi target/tumor-agnostic pada pasien yang memenuhi syarat|
 
 📌 **Intinya:** pada CCA yang **tidak dapat direseksi atau sudah metastatik**, _comprehensive molecular profiling_ sebaiknya dipertimbangkan sejak awal sebelum terapi sistemik agar target terapi yang dapat ditindaklanjuti tidak terlewat.
-
-🧠 **Hafalan target:**  
-**“FGFR–IDH–HER2–BRAF–MSI–NTRK/RET”** → pikirkan **profil molekuler sebelum terapi sistemik pada CCA lanjut**.
 
 ---
 
