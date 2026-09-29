@@ -1,7 +1,7 @@
-1. Disentri Basiler
-2. Disentri Amoeba
-3. Gastroenteritis (termasuk Kolera, Giardiasis)
-4. Gastritis
-5. Perdarahan Gastrointestinal
-6. Ulkus Gaster dan Duodenum
-7. Tumor Gaster
+1. Disentri Basiler (4)
+2. Disentri Amoeba (4)
+3. Gastroenteritis (termasuk Kolera, Giardiasis) (4)
+4. Gastritis (4)
+5. Perdarahan Gastrointestinal (3B)
+6. Ulkus Gaster dan Duodenum (3A)
+7. Tumor Gaster (2)
