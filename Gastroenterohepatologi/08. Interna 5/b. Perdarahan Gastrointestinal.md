@@ -12,7 +12,7 @@
 
 - Insidens: **84–160 kasus/100.000 populasi/tahun**.
 - Mortalitas: **5–14%**.
-- >50% kasus PSCA merupakan **non-variseal**, terutama akibat tukak peptik.
+- **>50%** kasus PSCA merupakan **non-variseal**, terutama akibat **tukak peptik**.
     
 
 ## Etiologi & Faktor Risiko
