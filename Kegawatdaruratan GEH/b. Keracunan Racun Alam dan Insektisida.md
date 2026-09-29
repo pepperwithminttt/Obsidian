@@ -251,7 +251,7 @@ Prioritas awal mengikuti **ABC-RE**:
     - sulfonamid,
     - primidon,
     - natrium klorat.
-- Cairan dialisis dalam materi ditambahkan KCl, heparin, dan prokain; pada dehidrasi ditambahkan glukosa.
+- Cairan dialisis ditambahkan KCl, heparin, dan prokain; pada dehidrasi ditambahkan glukosa.
 - Volume:
     - dewasa: 2 L,
     - anak: 200 mL.
