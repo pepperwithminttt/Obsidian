@@ -24,11 +24,11 @@ Secara anatomis, CCA dibagi menjadi:
     - Umumnya menimbulkan **ikterus obstruktif**.
     - Pendekatan kuratif utama pada pasien terpilih adalah **pankreatikoduodenektomi (prosedur Whipple)**.
 
-🧠 **Hafalan lokasi → operasi:**
+### Hafalan lokasi → operasi:
 
-> **iCCA = Intrahepatic → hepatectomy**  
-> **pCCA = Perihilar → major hepatectomy**  
-> **dCCA = Distal → Whipple**
+> iCCA = Intrahepatic → **liver resection (partial hepatectomy)**  
+> pCCA = Perihilar → **hilar resection + partial hepatectomy**  
+> dCCA = Distal → **Whipple procedure**
 
 **Bismuth–Corlette** digunakan untuk menggambarkan **perluasan longitudinal tumor pada duktus di daerah hilus**, bukan untuk menentukan stadium atau resectability. Jadi, **Bismuth–Corlette ≠ staging ≠ resectability**.
 
@@ -72,9 +72,9 @@ Secara anatomis, CCA dibagi menjadi:
     - Diabetes mellitus
     - Faktor-faktor ini **tidak bersifat diagnostik secara individual**.
 
-### PSC: kelompok berisiko tinggi ⚠️
+### PSC (Primary Sclerosing Cholangitis): kelompok berisiko tinggi ⚠️
 
-**PSC merupakan kondisi berisiko tinggi untuk CCA**, tetapi tidak ada satu pemeriksaan yang cukup akurat untuk mendeteksi CCA secara dini.
+**PSC merupakan kondisi berisiko tinggi untuk CCA (Cholangiocarcinoma)**, tetapi tidak ada satu pemeriksaan yang cukup akurat untuk mendeteksi CCA secara dini.
 
 Curigai CCA pada pasien PSC bila muncul:
 
