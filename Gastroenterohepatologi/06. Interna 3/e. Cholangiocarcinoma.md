@@ -32,6 +32,7 @@ Secara anatomis, CCA dibagi menjadi:
 
 **Bismuth–Corlette** digunakan untuk menggambarkan **perluasan longitudinal tumor pada duktus di daerah hilus**, bukan untuk menentukan stadium atau resectability. Jadi, **Bismuth–Corlette ≠ staging ≠ resectability**.
 
+### Anatomi Normal
 ![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790660504000qv4aet.png)
 
 ---
