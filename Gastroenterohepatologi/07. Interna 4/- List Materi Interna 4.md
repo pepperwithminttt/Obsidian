@@ -1,5 +1,5 @@
 1. Varises Esofagus (2)
-2. Refluks Esofagus
+2. Refluks Gastro-esofagus (4)
 3. Esofagitis Refluks (3A)
 4. Lesi Korosif pada Esofagus (3B)
 5. Akalasia (2)
