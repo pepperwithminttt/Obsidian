@@ -102,10 +102,6 @@ Sebagian kecil pasien memiliki perubahan molekuler yang dapat ditargetkan, misal
 - **Kinase fusion**
 - Alterasi molekuler lain yang actionable.
 
-> 💡 **Urutan molekuler yang sering ditanyakan:**  
-> **KRAS ↑ → CDKN2A ↓ → TP53 ↓ → SMAD4 ↓**  
-> Anggap seperti rem mobil yang satu per satu rusak 🚗💥.
-
 ---
 
 ## Manifestasi Klinis
@@ -114,14 +110,20 @@ Manifestasi bergantung pada lokasi tumor.
 
 ### Tumor kepala pankreas
 
-- **Ikterus progresif tanpa nyeri** → sangat khas karena tumor dapat menyebabkan obstruksi duktus biliaris.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790658580000wwhvbg.png)
+
+- **Ikterus progresif tanpa nyeri** → sangat **khas** karena **tumor dapat menyebabkan obstruksi duktus biliaris**.
 - Urine gelap.
 - Feses pucat.
 - Pruritus.
 - Dapat ditemukan **tanda Courvoisier** → kandung empedu membesar dan teraba pada keadaan obstruksi bilier distal, terutama bila obstruksi disebabkan proses malignan.
 - **Kolangitis** merupakan keadaan gawat darurat.
 
+> *Kenapa urin gelap tapi feses malah pucat?*
+> Karna bilirubin yg dri empedu harusnya masuk ke usus yg nnti mmberikan warna coklat ke usus, **tpi karna duktus biliaris tersumbat oleh tumor, bilirubin nd bisa ke usus, jdi feses kehilangan bilirubin, jdinya pucat**. Bilirubin dri empedu tdi nd bisa masuk ke usus jdi dia kembali ke sirkulasi darah, jdi nnti klo darahnya melewati ginjal, kemudian jdi urin, ada kelebihan bilirubin di situ, makanya urin malah jdi gelap.
 ### Tumor korpus/ekor pankreas
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790658610000pq3w73.png)
 
 - Nyeri epigastrium atau nyeri punggung.
 - Sering datang pada stadium lebih lanjut.
@@ -129,12 +131,16 @@ Manifestasi bergantung pada lokasi tumor.
 
 ### Manifestasi sistemik
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179065863000053iic6.png)
+
 - Anoreksia.
 - **Cachexia** → sindrom kehilangan berat badan dan massa otot akibat penyakit kronis/keganasan, yang tidak semata-mata disebabkan kurang makan.
 - Kelelahan.
 - **Trousseau syndrome** → keadaan hiperkoagulabilitas terkait keganasan yang dapat bermanifestasi sebagai **VTE (venous thromboembolism)** atau tromboflebitis migratorik.
 
 ### Manifestasi metabolik
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790658645000ov868j.png)
 
 - Diabetes baru atau diabetes yang memburuk.
 - **Insufisiensi eksokrin pankreas** → produksi/sekresi enzim pencernaan pankreas tidak mencukupi.
