@@ -48,8 +48,8 @@
 **Gejala esofagus**
 
 - **Tipikal:**
-    - Heartburn.
-    - Regurgitasi.
+    - **Heartburn** (rasa terbakar di dada yang naik ke atas sternum sampai leher yang kadang disertai rasa nyeri dan pedih).
+    - **Regurgitasi** (rasa asam, terbakar dan pahit di lidah).
 - **Atipikal:**
     - **Nyeri dada nonkardiak (NCCP)**.
     - Nyeri epigastrium.
