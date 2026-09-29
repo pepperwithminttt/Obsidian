@@ -180,8 +180,6 @@ Diagnosis ditegakkan berdasarkan kombinasi:
 |**Intoleransi laktosa**|Hindari produk susu atau gunakan produk bebas laktosa|Susu _lactose-free_|
 |**Lymphangiectasia**|Diet rendah lemak + MCT (_medium-chain triglyceride_)|Susu berbasis MCT|
 
-> ⚠️ **Untuk belajar dari slide:** dosis di atas adalah contoh regimen yang tercantum pada materi kuliah; penggunaan klinis harus mengikuti diagnosis, kondisi pasien, dan pedoman yang berlaku.
-
 ---
 
 ## Pencegahan
@@ -246,7 +244,7 @@ Anemia + osteomalasia + edema + ↓ berat badan
 
 ---
 
-## Ringkasan untuk Mahasiswa 🧠
+## Ringkasan 🧠
 
 |Aspek|Poin penting|
 |---|---|
