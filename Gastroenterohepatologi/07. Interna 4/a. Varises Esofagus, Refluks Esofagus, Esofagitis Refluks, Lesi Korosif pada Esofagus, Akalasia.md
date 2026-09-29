@@ -265,7 +265,7 @@ Tiga kelompok NERD:
     - asma,
     - fibrosis paru.
 
-## KIE
+## KIE (Konseling, Informasi, dan Edukasi)
 
 - Edukasi faktor gaya hidup yang dapat dimodifikasi.
 - Jelaskan obat yang dapat digunakan maupun dihindari.
@@ -327,18 +327,20 @@ Untuk alarm symptoms, ingat **"Darah–Dysphagia–Drop weight–Dada–Muntah"*
 - Dapat disertai:
     - anemia,
     - perdarahan gastrointestinal.
-- Pada materi, **GerdQ >10** dicantumkan sebagai salah satu indikasi endoskopi saluran cerna atas.
 - Derajat kerusakan dipengaruhi oleh:
     - volume refluks,
     - komponen refluks,
     - keasaman lambung.
 - Peningkatan volume lambung meningkatkan tLESRs sehingga isi lambung lebih mudah mengalami refluks.
-- Faktor yang disebutkan:
+- Faktor risiko:
     - laki-laki,
     - usia lebih tua,
     - overweight,
     - hiatus hernia.
 
+### Indikasi endoskopi saluran cerna atas:
+
+![gh|448](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790694112000nrr5zu.png)
 ## Patomekanisme
 
 - Refluks memicu **inflamasi yang dimediasi sitokin**.
@@ -357,7 +359,7 @@ Pada fenotipe GERD berat:
 - **PPI kontinu jangka panjang** atau prosedur antirefluks invasif.
 - Tetap disertai optimalisasi gaya hidup.
 
-Fenotipe berat pada materi:
+Fenotipe GERD berat:
 
 - Esofagitis lanjut **Los Angeles grade C atau D**.
 - **AET >12,0%**.
