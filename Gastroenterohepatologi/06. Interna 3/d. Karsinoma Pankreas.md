@@ -162,7 +162,7 @@ Manifestasi bergantung pada lokasi tumor.
 
 **1. CT abdomen-pelvis dengan pancreatic protocol**
 
-- Merupakan modalitas lini pertama.
+- Merupakan **modalitas lini pertama**.
 - Menilai:
     - Anatomi tumor.
     - Keterlibatan vaskular.
