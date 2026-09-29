@@ -727,7 +727,7 @@ Temuan:
 ### 7. Antibiotik
 
 - Peran antibiotik profilaksis belum ditetapkan secara jelas.
-- Ampicillin tercantum dalam materi.
+	- Ampicillin.
 
 ### 8. Evaluasi perforasi
 
