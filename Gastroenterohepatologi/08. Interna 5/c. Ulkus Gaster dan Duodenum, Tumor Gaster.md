@@ -97,8 +97,8 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 **Manifestasi klinis**
 
-- **Nyeri epigastrium membaik saat makan**.
-- **Midnight pain:** nyeri tengah malam yang dapat membangunkan pasien; merupakan ciri khas dalam materi.
+- **Nyeri epigastrium membaik saat makan** (berbeda dari tukak lambung).
+- **Midnight pain:** nyeri tengah malam yang dapat membangunkan pasien - **ciri khas**.
 - Heartburn, mual, rasa asam di mulut.
 - Komplikasi:
     - Perdarahan → terutama **melena**.
