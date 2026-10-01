@@ -259,15 +259,14 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 # Ringkasan Hafalan 🧠✨
 
-||**Tukak Lambung**|**Tukak Duodenum**|**Tumor Gaster**|
-|---|---|---|---|
-|Penyebab utama|_H. pylori_ + NSAID|_H. pylori_|_H. pylori_ sebagai faktor risiko penting|
-|Nyeri|↑ saat/setelah makan|↓ saat makan + _midnight pain_|Menetap, tidak membaik dengan antasida|
-|_H. pylori_|70–80%|90–95%|Karsinogen kelas I|
-|Khas|Risiko malignan → biopsi|4× lebih sering, malignansi rendah|Adenokarsinoma ~95%|
-|Diagnosis utama|Endoskopi + biopsi|—|Endoskopi + biopsi|
-|Terapi utama|Eradikasi + PPI|Eradikasi + PPI|Bedah ± kemoterapi/targeted therapy/imunoterapi|
-
+| **Aspek**           | **Tukak Lambung**              | **Tukak Duodenum**                         | **Tumor Gaster**                               |
+| ------------------- | ------------------------------ | ------------------------------------------ | ---------------------------------------------- |
+| **Penyebab utama**  | _H. pylori_ + NSAID            | _H. pylori_                                | _H. pylori_ sebagai faktor risiko penting      |
+| **Nyeri**           | ↑ saat/setelah makan           | ↓ saat makan + _midnight pain_ **(khas!)** | Menetap, tidak membaik dengan antasida         |
+| _**H. pylori**_     | 70–80%                         | 90–95%                                     | Karsinogen kelas I                             |
+| **Ciri khas**       | Risiko malignan → wajib biopsi | 4× lebih sering; risiko malignan rendah    | Adenokarsinoma ~95%                            |
+| **Diagnosis utama** | Endoskopi + biopsi             | —                                          | Endoskopi + biopsi                             |
+| **Terapi utama**    | Eradikasi _H. pylori_ + PPI    | Eradikasi _H. pylori_ + PPI                | Bedah ± kemoterapi ± terapi target/imunoterapi |
 ### 🔑 Angka yang wajib ingat
 
 - **Tukak lambung:** >**5 mm**, usia **>40 tahun**, _H. pylori_ **70–80%**
