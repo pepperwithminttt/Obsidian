@@ -203,8 +203,10 @@ Lakukan **ABC**:
     - Kolitis iskemik
     - Kolitis infeksi.
 - **Hemoroid internal**
-    - Penyebab tersering perdarahan rektal merah segar.
+    - **Penyebab tersering perdarahan rektal merah segar**.
     - Umumnya tidak menyebabkan perdarahan masif.
+
+![gh|452](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790816512000oj3z7j.png)
 
 **Faktor risiko:**
 
@@ -255,20 +257,11 @@ Lakukan **ABC**:
 
 **Oakland Score** digunakan untuk membantu menentukan **rawat inap vs rawat jalan** pada PSCB.
 
-Variabel yang dinilai:
-
-1. Usia → 0–2 poin
-2. Jenis kelamin → 0–1 poin
-3. Riwayat rawat inap karena PSCB → 0–1 poin
-4. Pemeriksaan rektal: adanya darah → 0–2 poin
-5. Denyut jantung → 0–3 poin
-6. Tekanan darah sistolik → 0–4 poin
-7. Hemoglobin → 0–5 poin
-8. Konsistensi feses berdasarkan **Bristol Stool Scale** → 0–1 poin.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790816622000ifm1hx.png)
 
 Interpretasi:
 
-- **≤8** → risiko rendah; pada materi disebutkan risiko outcome buruk <5% dan dapat dipertimbangkan rawat jalan dengan **follow-up 24 jam**.
+- **≤8** → risiko rendah; risiko outcome buruk <5% dan dapat dipertimbangkan rawat jalan dengan **follow-up 24 jam**.
 - **>8** → risiko tinggi; **rawat inap**, evaluasi lebih lanjut, dan kolonoskopi dalam 24 jam.
 
 > 🧠 **Ingat:**  
@@ -321,7 +314,7 @@ Indikasi:
 CT angiografi dapat:
 
 - Menunjukkan **ekstravasasi kontras**.
-- Pada materi, ambang deteksi disebut sekitar **≥0,3 mL/menit**.
+- Ambang deteksi sekitar **≥0,3 mL/menit**.
 - Menjadi panduan untuk embolisasi atau tindakan bedah.
 
 ### 7. Embolisasi & Bedah
@@ -338,22 +331,22 @@ CT angiografi dapat:
 
 # Perbandingan PSCA vs PSCB
 
-|Parameter|**PSCA**|**PSCB**|
-|---|---|---|
-|**Lokasi**|Proksimal Ligamentum Treitz: esofagus, lambung, duodenum|Distal Ligamentum Treitz: usus halus distal, kolon, rektum|
-|**Insidens**|84–160/100.000/tahun|20–87/100.000/tahun|
-|**Mortalitas**|5–14%|2,5–10%|
-|**Gejala utama**|Hematemesis, melena|Hematokezia, darah merah segar per rektum|
-|**Etiologi tersering**|Tukak peptik 30–40%; varises esofagus 20–25%|Divertikulosis 35–40%; polip/neoplasma 20–25%|
-|**Diagnosis utama**|EGD dalam 24 jam|Kolonoskopi dalam 24 jam|
-|**Bila tidak stabil**|Eskalasi sesuai sumber perdarahan|CT angiografi|
-|**Skor risiko**|Glasgow-Blatchford + Rockall|Oakland Score|
-
-  
+| Parameter              | **PSCA**                                                     | **PSCB**                                                       |
+| ---------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
+| **Lokasi**             | **Proksimal Ligamentum Treitz**: esofagus, lambung, duodenum | **Distal Ligamentum Treitz**: usus halus distal, kolon, rektum |
+| **Insidens**           | 84–160/100.000/tahun                                         | 20–87/100.000/tahun                                            |
+| **Mortalitas**         | 5–14%                                                        | 2,5–10%                                                        |
+| **Gejala utama**       | **Hematemesis**, melena                                      | **Hematokezia**, darah merah segar per rektum                  |
+| **Etiologi tersering** | Tukak peptik 30–40%; varises esofagus 20–25%                 | Divertikulosis 35–40%; polip/neoplasma 20–25%                  |
+| **Diagnosis utama**    | EGD dalam 24 jam                                             | Kolonoskopi dalam 24 jam                                       |
+| **Bila tidak stabil**  | Eskalasi sesuai sumber perdarahan                            | CT angiografi                                                  |
+| **Skor risiko**        | Glasgow-Blatchford + Rockall                                 | Oakland Score                                                  |
 
 ---
 
 # Algoritma Tatalaksana Perdarahan Saluran Cerna
+
+![gh|363](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790816813000om7sj7.png)
 
 ### 1. Resusitasi ABC 🚑
 

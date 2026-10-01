@@ -2,7 +2,7 @@
 
 ## Definisi, Epidemiologi, dan Etiologi
 
-- **Definisi:** kerusakan mukosa lambung yang **menembus muscularis mucosae** dengan diameter **>5 mm**, akibat ketidakseimbangan antara faktor agresif dan faktor defensif mukosa.
+- Definisi: **kerusakan mukosa lambung** yang **menembus muscularis mucosae** dengan diameter **>5 mm**, akibat **ketidakseimbangan antara faktor agresif dan faktor defensif** mukosa.
 - **Epidemiologi:**
     - Prevalensi global sekitar **4% populasi dewasa**.
     - Lebih sering pada usia **>40 tahun**.
