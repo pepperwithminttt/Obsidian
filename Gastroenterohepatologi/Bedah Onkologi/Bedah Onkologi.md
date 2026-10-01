@@ -199,7 +199,9 @@ Pada perbatasan **2/3 anterior dan 1/3 posterior** terdapat **sulkus terminalis*
 - Dorsum mengandung papila, termasuk:
     - Papila vallata
     - Papila fungiformis
-- Kuntum pengecap terutama tersebar pada papila tersebut.
+- Kuntum pengecap _(taste bud)_ terutama tersebar pada papila tersebut.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908204110001bhg1j.png)
 
 ### Otot Lidah
 
@@ -212,13 +214,17 @@ Pada perbatasan **2/3 anterior dan 1/3 posterior** terdapat **sulkus terminalis*
 
 **Otot ekstrinsik → mengubah posisi lidah**
 
+![gh|274](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790820518000cdg3bi.png)
+
 - Genioglossus
 - Hyoglossus
 - Styloglossus
 - Palatoglossus
 
 🧠 **Hafalan:**  
-**Intrinsik = Shape**, **Ekstrinsik = Position**.
+	**Intrinsik = Shape**, **Ekstrinsik = Position**.
+
+![gh|432](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790820458000re86ex.png)
 
 ### Inervasi
 
