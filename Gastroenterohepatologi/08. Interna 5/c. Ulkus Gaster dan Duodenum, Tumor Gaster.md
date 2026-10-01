@@ -120,17 +120,17 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 > **Duodenum = “Dine dulu, nyerinya turun”** 🍚  
 > → makan **meringankan nyeri** + **midnight pain**.
 
-## Perbedaan Tukak Lambung vs Tukak Duodenum
+# Perbedaan Tukak Lambung vs Tukak Duodenum
 
-|Aspek|Tukak Lambung|Tukak Duodenum|
-|---|---|---|
-|Lokasi|Korpus/antrum lambung|Bulbus duodeni anterior|
-|Usia tersering|>40 tahun|20–50 tahun|
-|Nyeri & makan|Bertambah saat/setelah makan|Membaik saat makan + _midnight pain_|
-|_H. pylori_|70–80%|90–95%|
-|Sekresi asam|Normal atau menurun|Meningkat/hipersekresi|
-|Risiko malignan|**Ada → wajib biopsi**|Sangat rendah|
-|Durasi PPI|4–8 minggu|4 minggu|
+| Aspek           | Tukak Lambung                | Tukak Duodenum                                   |
+| --------------- | ---------------------------- | ------------------------------------------------ |
+| Lokasi          | Korpus/antrum lambung        | Bulbus duodeni anterior                          |
+| Usia tersering  | >40 tahun                    | 20–50 tahun                                      |
+| Nyeri & makan   | Bertambah saat/setelah makan | Membaik saat makan + _midnight pain_ **(KHAS!)** |
+| _H. pylori_     | 70–80%                       | 90–95%                                           |
+| Sekresi asam    | Normal atau menurun          | Meningkat/hipersekresi                           |
+| Risiko malignan | **Ada → wajib biopsi**       | Sangat rendah                                    |
+| Durasi PPI      | 4–8 minggu                   | 4 minggu                                         |
 
 > 🧠 **Kunci super cepat:**  
 > **Lambung → makan = sakit** 🍜  
