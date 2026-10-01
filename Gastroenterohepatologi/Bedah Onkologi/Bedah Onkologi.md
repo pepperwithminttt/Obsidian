@@ -51,6 +51,8 @@ Fungsi utama:
 
 Merupakan kanker yang paling banyak ditemukan pada rongga mulut. Jenis terbanyak adalah **karsinoma sel skuamosa (KSS)** (>95%), sedangkan sisanya terutama karsinoma kelenjar ludah minor dan karsinoma sel basal.
 
+![gh|241](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908197480001wya0j.png)
+
 - **Lokasi:** ±95% bibir bawah, ±5% bibir atas.
 - Faktor risiko:
     - Paparan sinar matahari ☀️
@@ -83,6 +85,8 @@ Merupakan kanker yang paling banyak ditemukan pada rongga mulut. Jenis terbanyak
 # 2. Mukosa Bukal
 
 ## Karsinoma Mukosa Bukal
+
+![gh|355](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790819833000932e96.png)
 
 Menyumbang **<10% seluruh kanker rongga mulut**.
 
@@ -136,6 +140,8 @@ Sekitar **10% keganasan rongga mulut**.
 # 4. Palatum
 
 ## Tumor Jinak Kelenjar Ludah Minor
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908200360000fb2a5.png)
 
 **Adenoma pleomorfik** merupakan bentuk tersering.
 
