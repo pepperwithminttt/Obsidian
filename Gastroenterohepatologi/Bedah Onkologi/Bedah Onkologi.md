@@ -1070,24 +1070,27 @@ Ciri:
 - Nukleolus menonjol dan eosinofilik.
 - Gambaran klasik → **“owl-eye appearance” 🦉**.
 
+![gh|397](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908343390002ky7wr.png)
+
 ### Terapi
 
 Bergantung pada histologi, stadium, usia, dan kondisi umum.
 
-- **Limited stage:** 2 siklus ABVD + 20 Gy IFRT.
-- **Intermediate stage:** 4 siklus ABVD + 30 Gy radioterapi.
+- **Limited stage:** 2 siklus kemo th/ABVD + 20 Gy IFRT (Involved Field Radiation Therapy).
+- **Intermediate stage:** 4 siklus kemo th/ABVD + 30 Gy radioterapi.
 - **Advanced stage:** kemoterapi saja.
 
 ### Hodgkin vs Non-Hodgkin
 
-|Karakteristik|Hodgkin|Non-Hodgkin|
-|---|---|---|
-|Pola KGB|Kontigu|Tidak harus kontigu|
-|Ekstranodal|Jarang|Lebih sering|
-|Hepatosplenomegali|Jarang/tidak ada|Lebih sering|
-|Reed-Sternberg|Ada|Tidak ada|
-|Usia|Lebih sering dewasa muda|Lebih sering usia pertengahan|
-|Regimen yang dicantumkan|ABVD|CHOP|
+| Karakteristik            | Hodgkin                  | Non-Hodgkin                   |
+| ------------------------ | ------------------------ | ----------------------------- |
+| Pola KGB                 | Kontigu (contagious)     | Tidak harus kontigu           |
+| Ekstranodal              | Jarang                   | Lebih sering                  |
+| Hepatosplenomegali       | Jarang/tidak ada         | Lebih sering                  |
+| Reed-Sternberg           | Ada                      | Tidak ada                     |
+| Usia                     | Lebih sering dewasa muda | Lebih sering usia pertengahan |
+| Regimen yang dicantumkan | Kemoterapi ABVD          | Kemoterapi CHOP               |
+| Prognosis                | Lebih baik               | Lebih buruk                   |
 
 🧠 **Hodgkin = RS + CD15/CD30 + kontigu + ABVD.**  
 🧠 **NHL = ekstranodal lebih sering + CHOP.**
