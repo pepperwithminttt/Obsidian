@@ -262,7 +262,7 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 | **Aspek**           | **Tukak Lambung**              | **Tukak Duodenum**                         | **Tumor Gaster**                               |
 | ------------------- | ------------------------------ | ------------------------------------------ | ---------------------------------------------- |
 | **Penyebab utama**  | _H. pylori_ + NSAID            | _H. pylori_                                | _H. pylori_ sebagai faktor risiko penting      |
-| **Nyeri**           | ↑ saat/setelah makan           | ↓ saat makan + _midnight pain_ **(khas!)** | Menetap, tidak membaik dengan antasida         |
+| **Nyeri**           | ↑ saat/setelah makan           | ↓ saat makan + _midnight pain_ **(khas!)** | Menetap, **tidak membaik dengan antasida**     |
 | _**H. pylori**_     | 70–80%                         | 90–95%                                     | Karsinogen kelas I                             |
 | **Ciri khas**       | Risiko malignan → wajib biopsi | 4× lebih sering; risiko malignan rendah    | Adenokarsinoma ~95%                            |
 | **Diagnosis utama** | Endoskopi + biopsi             | —                                          | Endoskopi + biopsi                             |
