@@ -50,14 +50,14 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 **Diagnosis**
 
-- **Endoskopi + biopsi:** _gold standard_; pada materi ini disebut wajib pada usia **>45 tahun**, terutama untuk menyingkirkan keganasan.
+- **Endoskopi + biopsi:** _gold standard_; wajib pada usia **>45 tahun**, terutama untuk menyingkirkan keganasan.
 - **Urea breath test:** pemeriksaan non-invasif untuk mendeteksi _H. pylori_.
 - **CLO test (rapid urease test):** mendeteksi aktivitas urease _H. pylori_ dari biopsi saat endoskopi.
 - **Barium meal:** alternatif radiologis jika endoskopi tidak tersedia.
 
 **Tatalaksana**
 
-- **Eradikasi** _**H. pylori**_ **— triple therapy:**
+- **Eradikasi** _**H. pylori**_ **— triple therapy: (LINI PERTAMA)**
     - PPI, misalnya omeprazole/pantoprazole → **2×/hari**
     - Amoksisilin **1 g, 2×/hari**
     - Klaritromisin **500 mg, 2×/hari**
@@ -74,7 +74,7 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 ## Definisi, Epidemiologi, dan Etiologi
 
-- **Definisi:** lesi ulseratif pada mukosa duodenum, terutama **bulbus duodeni bagian anterior**, yang menembus muscularis mucosae akibat agresivitas asam dan kerusakan oleh _H. pylori_.
+- **Definisi:** lesi ulseratif pada mukosa duodenum, terutama **bulbus duodeni bagian anterior**, yang **menembus muscularis mucosae** akibat **agresivitas asam dan kerusakan oleh** _H. pylori_.
 - **Epidemiologi:**
     - Sekitar **4× lebih sering** daripada tukak lambung.
     - Usia tersering **20–50 tahun**.
