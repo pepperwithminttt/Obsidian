@@ -201,7 +201,7 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 - Stadium awal sering **asimptomatis** atau hanya menyebabkan dispepsia ringan.
 - **Nyeri epigastrium menetap** dan tidak membaik dengan antasida.
-- Penurunan berat badan signifikan tanpa sebab jelas.
+- **Penurunan berat badan signifikan** tanpa sebab jelas.
 - **Disfagia** bila tumor berada di daerah kardia/fundus.
 - **Hematemesis/melena** akibat perdarahan tumor.
 - Massa abdomen dapat teraba pada stadium lanjut.
