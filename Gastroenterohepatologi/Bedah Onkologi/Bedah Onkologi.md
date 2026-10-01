@@ -480,6 +480,8 @@ Faktor risiko:
 
 ## Eritroplakia
 
+![gh|329](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832551000ad446j.png)
+
 Berupa **plak/selaput merah pada mukosa**.
 
 Warna merah berkaitan dengan:
