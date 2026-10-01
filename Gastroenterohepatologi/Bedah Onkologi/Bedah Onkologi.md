@@ -24,6 +24,17 @@ Fungsi utama:
 - Pengecapan
 - Fungsi tambahan dalam respirasi
 
+### Dasar Rongga Mulut
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908193490005suw6k.png)
+
+### Vaskularisasi
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908193910009ibnde.png)
+### Kelenjar Getah Bening pada Rongga Mulut
+
+![gh|286](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908194460007sxhmh.png)
+
 ### Pendekatan Diagnosis Tumor Rongga Mulut
 
 - Anamnesis
