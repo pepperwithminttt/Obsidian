@@ -1031,15 +1031,13 @@ Pilihan:
 
 Lebih jarang dibandingkan limfoma non-Hodgkin.
 
-Ciri yang tercantum dalam materi:
-
 - Lebih sering pada usia muda.
 - Sekitar 40% limfoma pada dewasa.
 - Penyebaran secara **kontigu** (dari satu kelompok KGB ke kelompok yang berdekatan).
 - Benjolan tidak nyeri dan terlokalisasi.
 - Awal sering dari:  
     **servikal → supraklavikula → mediastinum anterior**.
-- Ciri mikroskopis → **sel Reed-Sternberg**.
+- Ciri mikroskopis → **sel Reed-Sternberg**. #Ingat 
 - Imunohistokimia → **CD15 (+), CD30 (+)**.
 
 ### Klasifikasi
