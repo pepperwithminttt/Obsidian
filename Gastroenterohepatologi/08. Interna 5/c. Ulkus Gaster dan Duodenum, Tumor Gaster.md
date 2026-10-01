@@ -34,6 +34,8 @@
 
 _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan pelindung epitel secara langsung. 🦠
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790817043000rfiqb3.png)
+
 ## Manifestasi Klinis, Diagnosis, dan Tatalaksana
 
 **Manifestasi klinis**
