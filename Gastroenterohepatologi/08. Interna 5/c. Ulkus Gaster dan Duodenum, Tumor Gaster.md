@@ -98,6 +98,10 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 **Manifestasi klinis**
 
 - **Nyeri epigastrium membaik saat makan** (berbeda dari tukak lambung).
+	- Nyeri epigastrium (ulu hati) pada tukak duodenum membaik saat makan karena makanan berfungsi sebagai penyangga (_buffer_) yang menetralkan asam lambung untuk sementara waktu.
+		- **Efek Penyangga Makanan:** Saat makan, **makanan** yang masuk ke dalam saluran pencernaan akan **bercampur dan menyerap asam lambung**. Hal ini membuat tingkat keasaman (pH) di dalam lambung dan duodenum meningkat (menjadi lebih netral).
+		- **Makanan menutupi dan melindungi luka** terbuka (tukak) di dinding usus dua belas jari dari iritasi langsung cairan asam lambung.
+		- **Penutupan Pylorus:** Proses makan merangsang mekanisme penutupan sfingter pilorus, sehingga cairan **asam tidak langsung mengalir deras ke duodenum**.
 - **Midnight pain:** nyeri tengah malam yang dapat membangunkan pasien - **ciri khas**.
 - Heartburn, mual, rasa asam di mulut.
 - Komplikasi:
