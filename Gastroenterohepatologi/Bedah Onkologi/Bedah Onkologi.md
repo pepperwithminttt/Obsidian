@@ -277,7 +277,7 @@ Dahulu disebut **mioblastoma sel granular**.
 
 Karsinoma lidah adalah keganasan yang terdapat pada lidah, dengan jenis terbanyak berupa **karsinoma sel skuamosa (KSS)**.
 
-- KSS merupakan ±90% karsinoma lidah menurut materi.
+- KSS merupakan ±90% karsinoma lidah.
 - Lokasi tersering → **bagian lateral lidah**.
 - Faktor risiko:
     - Tembakau/nikotin 🚬
@@ -302,6 +302,8 @@ Kerusakan dapat berupa:
 ➡️ **Transformasi sel → keganasan.**
 
 ### Manifestasi Klinis
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908322540009d96h3.png)
 
 - Awalnya dapat berupa **benjolan pada lidah**.
 - Kemudian dapat berkembang menjadi **lesi ulseratif**.
@@ -332,6 +334,8 @@ Pada palpasi lesi dinilai:
 
 KGB leher yang sering terkena secara berurutan:  
 **Level II → I → III → IV.**
+
+![gh|264](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832209000h3byxu.png)
 
 ### Diagnosis Banding
 
@@ -399,6 +403,8 @@ Pada invasi mandibula:
 # 6. Dasar Rongga Mulut
 
 ## Karsinoma Dasar Rongga Mulut
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908323710003hy4ns.png)
 
 Merupakan **kanker terbanyak ketiga pada rongga mulut**.
 
