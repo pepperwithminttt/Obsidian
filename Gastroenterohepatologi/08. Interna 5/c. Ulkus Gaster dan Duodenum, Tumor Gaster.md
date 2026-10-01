@@ -141,7 +141,7 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 ## Definisi, Klasifikasi, dan Epidemiologi
 
-- **Definisi:** neoplasma ganas yang berasal dari mukosa lambung; jenis tersering adalah **adenokarsinoma**.
+- **Definisi:** **neoplasma ganas** yang **berasal dari mukosa lambung**; jenis tersering adalah **adenokarsinoma**.
 - Prognosis buruk terutama jika ditemukan pada stadium lanjut.
 
 **Klasifikasi**
@@ -159,9 +159,11 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 ## Faktor Risiko dan Patofisiologi — Correa Cascade
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790817808000z6hyoc.png)
+
 **Faktor risiko**
 
-- **_H. pylori_** → karsinogen **kelas I menurut IARC** dan faktor risiko terpenting.
+- **_H. pylori_** → **karsinogen kelas I** menurut **IARC** dan faktor risiko terpenting.
 - Diet:
     - tinggi garam,
     - daging olahan,
