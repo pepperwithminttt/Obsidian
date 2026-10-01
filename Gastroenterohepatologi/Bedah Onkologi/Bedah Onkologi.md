@@ -495,7 +495,7 @@ Lokasi tersering:
 - Sulkus bukogingiva
 - Dasar rongga mulut
 
-Menurut materi, potensi keganasannya **17× lebih tinggi daripada leukoplakia**.
+Potensi keganasannya **17× lebih tinggi daripada leukoplakia**.
 
 Bentuk:
 
@@ -512,6 +512,8 @@ Bentuk:
 # 9. Tumor Jinak Rongga Mulut Lainnya
 
 ## Papiloma
+
+![gh|279](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832634000cgee8r.png)
 
 Tumor jinak yang paling sering pada rongga mulut.
 
@@ -530,8 +532,10 @@ Tumor jinak yang paling sering pada rongga mulut.
 
 ## Fibroma
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179083268800086g89d.png)
+
 - Permukaan licin.
-- Biasanya berupa tumor bertangkai.
+- Biasanya berupa tumor bertangkai (_pedunculated_).
 - Ukuran ±1 cm.
 - Konsistensi lunak hingga keras.
 - Dapat terjadi di berbagai lokasi rongga mulut atau mukosa orofaring.
