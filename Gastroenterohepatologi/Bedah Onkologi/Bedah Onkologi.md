@@ -543,6 +543,8 @@ Tumor jinak yang paling sering pada rongga mulut.
 
 ## Hemangioma
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832744000o24jaw.png)
+
 Tumor vaskular yang dapat mengenai rongga mulut atau orofaring.
 
 - Sering pada anak-anak.
@@ -555,6 +557,8 @@ Tumor vaskular yang dapat mengenai rongga mulut atau orofaring.
 - Dapat terjadi mikroembolisasi.
 
 ## Torus
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832776000130wq3.png)
 
 Pertumbuhan berlebihan tulang submukosa.
 
@@ -576,6 +580,8 @@ Pertumbuhan berlebihan tulang submukosa.
 → Reseksi bila mengganggu **bicara, mengunyah, atau pemasangan gigi palsu**.
 
 ## Granuloma Piogenik
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832814000iqcihf.png)
 
 Granuloma reaktif akibat trauma atau iritasi kronik.
 
@@ -602,6 +608,8 @@ Secara klinis dan histologis sama dengan granuloma piogenik.
 
 ## Mukokel
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832878000hqcevm.png)
+
 Kista retensi kelenjar ludah minor, paling sering pada **bibir bawah**.
 
 - Massa kistik
@@ -610,6 +618,8 @@ Kista retensi kelenjar ludah minor, paling sering pada **bibir bawah**.
 - Terapi → eksisi pembedahan.
 
 ## Ranula
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832912000a7bl68.png)
 
 Kista translusen pada **dasar rongga mulut**, biasanya unilateral terhadap frenulum dan dapat menekan lidah.
 
@@ -637,7 +647,7 @@ Lokasi tersering:
 - Gusi
 - Dasar rongga mulut
 
-Jenis yang disebutkan:
+Jenis:
 
 - Karsinoma kistik adenoid → 40%
 - Adenokarsinoma → 30%
@@ -671,6 +681,8 @@ Jarang terjadi.
 - Terapi → radioterapi saja atau kombinasi dengan kemoterapi.
 
 ## Sarkoma Kaposi
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908330870000xtiw4.png)
 
 Tumor vaskular.
 
@@ -750,6 +762,10 @@ Tidak jelas. Diduga berasal dari:
 - Tidak nyeri tekan
 - **Ping-pong phenomenon**
 
+![gh|331](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790833214000zk0nyc.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908332360007s1vkz.png)
+
 ### Radiologi
 
 - Monokistik atau multikistik
@@ -788,13 +804,13 @@ Selain itu terdapat **kelenjar liur minor** yang tersebar di berbagai bagian ron
 Tumor yang paling sering pada kelenjar liur besar.
 
 - Asal → epitel.
-- ±70% tumor kelenjar liur besar menurut materi.
+- ±70% tumor kelenjar liur besar.
 - Sekitar **9× lebih sering pada parotis dibanding submandibular**.
 - Umumnya usia pertengahan.
 - Perempuan lebih banyak.
 - Tumbuh lambat.
 - Tidak nyeri.
-- Mobil.
+- Mobile.
 
 ### Adenoma Monomorfik / Tumor Warthin
 
@@ -806,9 +822,11 @@ Tumor yang paling sering pada kelenjar liur besar.
 - Dapat multifokal.
 - Umumnya usia >30 tahun.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790833394000c7b8qq.png)
+
 ### Tumor Ganas Kelenjar Liur
 
-Jenis yang tercantum:
+Contoh:
 
 - Karsinoma mukoepidermoid
 - Karsinoma kistik adenoid
@@ -832,6 +850,8 @@ Jenis yang tercantum:
 
 ## Anatomi Singkat Sistem Limfatik
 
+![gh|496](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179083357500072fwpw.png)
+
 Sistem limfatik terdiri dari:
 
 - **Limfe** → cairan
@@ -853,6 +873,8 @@ Pembuluh limfatik bermula dari kapiler limfatik → bergabung menjadi pembuluh y
     - Mengalirkan limfe dari bagian tubuh lainnya.
     - Bermuara ke vena subklavia kiri.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908337680009j3rpf.png)
+
 ### Jaringan Limfoid
 
 Tiga tipe:
@@ -870,6 +892,15 @@ Tiga tipe:
 - Limfe:  
     **pembuluh aferen → sinus KGB → pembuluh eferen**.
 
+## Limfoma Maligna
+
+**Definisi**
+Sekumpulan keganasan primer pada kelenjar getah bening dan jaringan limfoid
+
+Terbagi menjadi dua kelompok besar:
+	- Limfoma Non-Hodgkin
+	- Limfoma Hodgkin
+
 ---
 
 # 16. Limfoma Non-Hodgkin
@@ -882,7 +913,7 @@ Sekumpulan keganasan primer pada KGB/jaringan limfoid yang dapat berasal dari:
 - Limfosit T
 - Kadang sel NK
 
-Faktor risiko:
+**Faktor risiko:**
 
 - Laki-laki
 - Infeksi virus/bakteri:
@@ -968,6 +999,10 @@ Jenis:
 
 ### Stadium Ann Arbor
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790834101000pr3aro.png)
+### Klasifikasi Lugano
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790834160000oaymsg.png)
 Keterlibatan dapat berupa:
 
 - **Nodal/limfatik:** KGB, cincin Waldeyer, timus, lien.
