@@ -151,6 +151,8 @@ Sekitar **10% keganasan rongga mulut**.
 
 ## Karsinoma Palatum Durum
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790820130000vf9aj9.png)
+
 Sekitar setengah tumor pada lokasi ini merupakan **karsinoma sel skuamosa**.
 
 - Dapat berupa **ulserasi granular superfisial**.
