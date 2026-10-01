@@ -428,6 +428,8 @@ Bila terdapat invasi mandibula dan metastasis servikal → prinsip penatalaksana
 
 ## Karsinoma Trigonum Retromolar
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17908324370004936im.png)
+
 Trigonum retromolar adalah daerah berbentuk segitiga pada gingiva di atas **ramus asendens mandibula**.
 
 - Pada tahap awal dapat mengenai mukosa/jaringan lunak yang melapisi mandibula.
@@ -447,6 +449,8 @@ Trigonum retromolar adalah daerah berbentuk segitiga pada gingiva di atas **ramu
 ## Leukoplakia
 
 **Leukoplakia** adalah plak/selaput putih pada mukosa yang secara klinis atau patologis tidak dapat dikategorikan sebagai penyakit lain.
+
+![gh|406](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790832481000fzfjyx.png)
 
 Faktor risiko:
 
