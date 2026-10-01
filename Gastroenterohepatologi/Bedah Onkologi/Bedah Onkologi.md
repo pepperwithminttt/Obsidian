@@ -1115,9 +1115,6 @@ Bergantung pada histologi, stadium, usia, dan kondisi umum.
 
 ### 🧠 Super-hafalan
 
-**“Bibir–Pipi–Gusi–Palatum–Lidah–Dasar–Retromolar–Rahang”**  
-→ ikuti urutan anatomi rongga mulut dari depan ke belakang.
-
 **White = Leukoplakia ⚪**  
 **Red = Eritroplakia 🔴**  
 **Blue lower lip = Mukokel 🔵**  
