@@ -159,8 +159,6 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 
 ## Faktor Risiko dan Patofisiologi — Correa Cascade
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790817808000z6hyoc.png)
-
 **Faktor risiko**
 
 - **_H. pylori_** → **karsinogen kelas I** menurut **IARC** dan faktor risiko terpenting.
@@ -178,8 +176,9 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 - Polip adenomatosa lambung.
 - Riwayat gastrektomi parsial sebelumnya.
 
-**Correa Cascade — urutan karsinogenesis gaster** 🧬
+### Correa Cascade — urutan karsinogenesis gaster🧬
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790817808000z6hyoc.png)
 **Mukosa lambung normal**  
 ↓ infeksi _H. pylori_ kronik  
 **Gastritis kronik superfisial**  
@@ -201,7 +200,7 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 **Manifestasi klinis**
 
 - Stadium awal sering **asimptomatis** atau hanya menyebabkan dispepsia ringan.
-- Nyeri epigastrium menetap dan tidak membaik dengan antasida.
+- **Nyeri epigastrium menetap** dan tidak membaik dengan antasida.
 - Penurunan berat badan signifikan tanpa sebab jelas.
 - **Disfagia** bila tumor berada di daerah kardia/fundus.
 - **Hematemesis/melena** akibat perdarahan tumor.
@@ -214,6 +213,8 @@ _H. pylori_ menghasilkan **urease, protease, dan sitokin** yang merusak lapisan 
 - **Krukenberg tumor:** metastasis ke ovarium.
 
 **Staging TNM**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179081795600027y547.png)
 
 - **T = kedalaman invasi tumor**
     - **T1:** mukosa/submukosa → _early gastric cancer_.
