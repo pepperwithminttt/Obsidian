@@ -15,6 +15,8 @@ Bagian rongga mulut:
 - **Palatum mole** (langit-langit lunak)
 - **Trigonum retromolar**
 
+![gh|365](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790819249000njw4v5.png)
+
 Fungsi utama:
 
 - Mengunyah makanan
