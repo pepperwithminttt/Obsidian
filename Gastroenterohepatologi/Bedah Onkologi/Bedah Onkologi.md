@@ -233,11 +233,17 @@ Pada perbatasan **2/3 anterior dan 1/3 posterior** terdapat **sulkus terminalis*
 - Bagian posterior lidah → **n. glossopharyngeus (IX)**.
 - Motorik otot lidah → **n. hypoglossus (XII)**.
 
+### Vaskularisasi Lidah
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790820677000gd3jty.png)
+
 ### Limfatik Lidah
 
 - Ujung lidah → KGB submental.
 - 2/3 lateral lidah → KGB submandibular dan jugulodigastrikus.
 - Bagian tengah → KGB jugulomilohioid.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790820703000d0w8hf.png)
 
 ---
 
