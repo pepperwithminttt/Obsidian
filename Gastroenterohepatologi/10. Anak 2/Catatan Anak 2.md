@@ -373,7 +373,7 @@ Tindakan:
 - Pleksus mienterikus **Auerbach**.
 - Terutama pada usus besar distal.
 
-Akibatnya terjadi gangguan motilitas dan **obstruksi fungsional**.
+Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 
 ### Epidemiologi
 
@@ -384,17 +384,15 @@ Akibatnya terjadi gangguan motilitas dan **obstruksi fungsional**.
 
 ### Patomekanisme
 
-Pada minggu **5–12 kehamilan** terjadi kegagalan migrasi bakal sel ganglion secara kraniokaudal.
-
-→ terbentuk **segmen aganglionik**  
-→ ganglion parasimpatik intramural tidak ada  
-→ peristaltik propulsif tidak terjadi  
-→ sfingter ani internus gagal mengendur saat rektum mengalami distensi  
-→ defekasi terganggu  
-→ obstruksi fungsional  
-→ distensi abdomen + konstipasi.
-
-**Ciri penting:** kolon pada segmen aganglionik **tidak mengembang**.
+|**Alur**|**Hubungan antarproses**|
+|---|---|
+|**Kegagalan migrasi sel ganglion (minggu 5–12 kehamilan)**|Bakal sel ganglion gagal bermigrasi secara **kraniokaudal** sepanjang usus.|
+|**Segmen aganglionik**|Kegagalan migrasi menyebabkan segmen distal usus **tidak memiliki sel ganglion parasimpatik intramural**.|
+|**Tidak ada ganglion parasimpatik intramural**|Karena tidak terdapat ganglion, regulasi saraf enterik pada segmen tersebut terganggu sehingga **peristaltik propulsif tidak terjadi**.|
+|**Sfingter ani internus gagal relaksasi**|Saat rektum mengalami distensi, refleks relaksasi sfingter ani internus tidak terjadi (**internal anal sphincter relaxation reflex terganggu**).|
+|**Defekasi terganggu**|Feses tidak dapat didorong dan dikeluarkan secara normal melalui segmen aganglionik.|
+|**Obstruksi fungsional**|Akumulasi isi usus di proksimal segmen aganglionik menyebabkan **hambatan aliran tanpa adanya sumbatan mekanik**.|
+|**Distensi abdomen + konstipasi**|Isi usus yang tertahan menyebabkan **penumpukan gas dan feses**, sehingga timbul distensi abdomen dan konstipasi.|
 
 ### Manifestasi Klinis
 
