@@ -394,6 +394,8 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 |**Obstruksi fungsional**|Akumulasi isi usus di proksimal segmen aganglionik menyebabkan **hambatan aliran tanpa adanya sumbatan mekanik**.|
 |**Distensi abdomen + konstipasi**|Isi usus yang tertahan menyebabkan **penumpukan gas dan feses**, sehingga timbul distensi abdomen dan konstipasi.|
 
+**Note**: Ooohh mirip2 akalasia esofagus di' tpi bedanya ini di kolon.
+
 ### Manifestasi Klinis
 
 **Neonatus**
