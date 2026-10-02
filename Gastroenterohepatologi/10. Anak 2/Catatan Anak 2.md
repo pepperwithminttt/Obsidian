@@ -135,7 +135,7 @@ Pada akalasia:
 
 **2. Manometri esofagus**
 
-- **Gold standard**. #In
+- **Gold standard**. #Ingat
 - Menunjukkan:
     - Tekanan LES meningkat.
     - LES tidak relaks saat menelan.
@@ -157,6 +157,9 @@ Pada akalasia:
 
 > 🧠 **Tips hafalan akalasia:**  
 > **“LES Ngegas, Esofagus Nggak Gerak”** → LES gagal relaksasi + peristaltik hilang.
+> 
+> Gampangnya bisa dibilang kebalikannyaji dri GER sma GERD.
+> Klo GER/GERD, LES suka relaksasi, klo akalasia, LES gagal relaksasi (alias kontraksi terus).
 
 ---
 
