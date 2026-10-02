@@ -20,6 +20,8 @@ Regurgitasi pada bayi umumnya merupakan proses fisiologis:
 
 ### Anatomi LES
 
+![gh|397](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790958852000ohbeqs.png)
+
 **LES (lower esophageal sphincter/sfingter esofagus bawah)** berfungsi mencegah aliran balik isi lambung.
 
 - Dewasa sehat → panjang LES ±**3 cm**, berada setinggi diafragma.
