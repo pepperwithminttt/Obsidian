@@ -264,6 +264,8 @@ Ciri klasik: **projectile non-bilious vomiting** 🚀 #Ingat
 
 Kelainan yang menjadi titik pemicu masuknya usus disebut **pathologic lead point**.
 
+![gh|244](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909600240001vwixv.png)
+
 ### Epidemiologi
 
 - Merupakan salah satu penyebab obstruksi usus tersering pada bayi dan anak usia **3 bulan–3 tahun**.
