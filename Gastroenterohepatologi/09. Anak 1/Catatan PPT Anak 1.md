@@ -269,7 +269,7 @@ Penyebab: _**Giardia lamblia**_.
 - Hilangnya permukaan epitel → aktivitas disakaridase menurun → absorpsi glukosa dan Na⁺ terganggu.
 - Masa inkubasi **7–14 hari**.
 - Pada individu terinfeksi:
-    - 50% membersihkan infeksi
+    - 50% cleared the infection.
     - 35% bergejala
     - 15% asimtomatik.
 
