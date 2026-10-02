@@ -273,27 +273,38 @@ Kelainan yang menjadi titik pemicu masuknya usus disebut **pathologic lead point
 
 ### Patogenesis & Manifestasi Klinis
 
-**Invaginasi → obstruksi usus** 
-(segmen usus proksimal masuk ke dalam segmen usus distal sehingga lumen usus menyempit/tersumbat). Selanjutnya menyebabkan:
-	- **obstruksi vena** → aliran balik vena terganggu sehingga darah menumpuk.  
-	- **edema usus** → cairan keluar ke jaringan sehingga dinding usus membengkak.  
-	- **insufisiensi arteri** → aliran darah arteri ikut menurun akibat tekanan yang semakin besar.  
-	- **iskemia → nekrosis** → jaringan usus kekurangan oksigen lalu mengalami kematian.  
-	- **peritonitis → sepsis** → kerusakan/perforasi usus dapat menyebabkan isi usus dan bakteri masuk ke rongga peritoneum.
+| **Alur**                         | **Hubungan antarproses**                                                                                                                              |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Invaginasi**                   | Satu segmen usus masuk ke dalam segmen usus distal sehingga lumen usus menyempit dan menyebabkan obstruksi.                                           |
+| **Obstruksi usus**               | Isi usus dan gas tertahan sehingga terjadi kembung dan muntah.                                                                                        |
+| **Obstruksi vena**               | Segmen usus yang terjepit menekan pembuluh vena terlebih dahulu sehingga aliran balik vena terganggu.                                                 |
+| **Edema usus**                   | Darah vena yang tertahan menyebabkan cairan keluar ke jaringan sehingga dinding usus membengkak.                                                      |
+| **Insufisiensi arteri**          | Edema dan tekanan yang semakin tinggi kemudian menekan pembuluh arteri sehingga aliran darah ke usus berkurang.                                       |
+| **Iskemia → nekrosis**           | Kekurangan aliran darah menyebabkan jaringan usus kekurangan oksigen dan akhirnya mengalami kematian.                                                 |
+| **Perdarahan mukosa**            | Mukosa yang mengalami kerusakan akibat iskemia mulai mengalami perdarahan.                                                                            |
+| **“Red currant jelly stool” 🍓** | Darah bercampur dengan lendir dan feses sehingga menghasilkan gambaran khas seperti selai merah.                                                      |
+| **Peritonitis → sepsis**         | Jika nekrosis berlanjut hingga perforasi, isi usus dapat masuk ke rongga peritoneum dan menyebabkan peritonitis yang dapat berkembang menjadi sepsis. |
 
 Manifestasi:
 
-- Kembung.
-- Muntah.
+- Kembung (karena obstruksi usus).
+- Muntah (karena kembung).
 - Nyeri kolik akut.
 - Feses berdarah khas **“red currant jelly”** 🍓.
-- **Dance sign**.
+
+![gh|219](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790961010000ju1vjm.png)
+
+- **Dance sign 💃** → **fossa iliaka kanan terasa kosong saat palpasi** karena massa invaginasi dapat bergeser dari lokasi tersebut.
+
+![gh|301](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909610370000jqhq4.png)
 
 ### Trias Klasik
 
 1. **Nyeri kolik akut**
 2. **Muntah**
 3. **Red currant jelly stool** 
+
+![gh|288](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909611040008h0jxc.png)
 
 > ⚠️ Trias klasik penting untuk diingat, tetapi perjalanan klinis dapat bervariasi.
 
