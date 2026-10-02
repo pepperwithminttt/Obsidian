@@ -406,9 +406,9 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 **Neonatus**
 
 - Pengeluaran **mekonium terlambat**.
-- Distensi abdomen progresif.
-- Muntah hijau.
-- Dapat terjadi **enterokolitis neonatal**:
+- Distensi abdomen (kembung) progresif.
+- **Muntah hijau** (karna muntahannya sdh sempat lewat duodenum jdi sdh tercampur dengan empedu makanya ijo, beda sma yg akalasia sma stenosis pilorik tdi).
+- Dapat terjadi episode **enterokolitis neonatal**:
     - BAB cair.
     - Berdarah.
     - Disertai sepsis.
@@ -422,9 +422,20 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 ### Pemeriksaan Penunjang
 
 - Foto polos abdomen.
+
+![gh|266](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790963563000ukpz8c.png)
+
 - **Kontras enema / barium enema**.
+
+![gh|258](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790963583000uufq9q.png)
+
 - **Manometri anorektal**.
-- **Biopsi rektum → gold standard**.
+
+![gh|262](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790963600000iftywt.png)
+
+- **Biopsi rektum → gold standard**. #Ingat 
+
+![gh|366](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790963618000qplo2o.png)
 
 ### Tata Laksana
 
