@@ -338,7 +338,7 @@ Jadi, gampangnya: **GM1 = tempat toksin menempel/masuk, sedangkan cAMP = sinyal 
 ### Terapi
 
 - **Terapi utama: rehidrasi.**
-- Antibiotik diberikan **setelah rehidrasi**, dengan pilihan yang tercantum di materi:
+- Antibiotik diberikan **setelah rehidrasi**, dengan pilihan:
     - Tetrasiklin
     - Azitromisin
     - Makrolid.
@@ -349,7 +349,9 @@ Jadi, gampangnya: **GM1 = tempat toksin menempel/masuk, sedangkan cAMP = sinyal 
 
 # Disentri Basiler
 
-Penyebab: _**Shigella**_.
+![gh|322](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909544010003pbn67.png)
+
+Penyebab: _Shigella_.
 
 - Penularan melalui makanan atau air yang terkontaminasi.
 - Bakteri:
