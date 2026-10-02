@@ -331,6 +331,7 @@ Manifestasi:
 **Non-operatif**
 
 - **Enema reduksi**, menggunakan kontras barium atau kontras larut air.
+- Mekanisme **enema reduksi pada invaginasi** intinya adalah **tekanan dari anus mendorong segmen usus yang masuk (intussusceptum) kembali ke posisi normal**.
 - Syarat:
     - Tidak ada peritonitis.
     - Tidak ada perforasi.
