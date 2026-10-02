@@ -355,7 +355,7 @@ Penyebab: _Shigella_.
 
 - Penularan melalui makanan atau air yang terkontaminasi.
 - Bakteri:
-    - Batang Gram-negatif
+    - Batang (basil) Gram-negatif
     - Nonmotil
     - Anaerob fakultatif
     - Tidak membentuk spora.
@@ -412,7 +412,9 @@ Proses invasi:
 
 # Disentri Amoeba
 
-Penyebab: _**Entamoeba histolytica**_.
+![gh|334](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790954885000vfzjl9.png)
+
+Penyebab: _Entamoeba histolytica_.
 
 ### Bentuk & patogenesis
 
