@@ -606,51 +606,45 @@ Gejala:
 
 **Hepatitis B akut umumnya tidak bergejala**, tetapi infeksi dapat berkembang menjadi sirosis hepatis pada usia dewasa.
 
-### Perjalanan infeksi & penanda serologis
+### Penanda HBV dan Interpretasinya
 
-Pada infeksi akut, diagram materi menunjukkan:
+|Penanda|Makna utama|
+|---|---|
+|**HBsAg**|Menunjukkan adanya infeksi HBV saat ini|
+|**Anti-HBs**|Antibodi terhadap HBsAg; menunjukkan imunitas setelah infeksi atau vaksinasi|
+|**Anti-HBc IgM**|Penanda **infeksi akut/baru**|
+|**Anti-HBc IgG**|Menunjukkan **infeksi sebelumnya atau infeksi kronik**|
+|**HBeAg**|Menunjukkan **replikasi virus yang aktif/tinggi**|
+|**Anti-HBe**|Berkaitan dengan penurunan aktivitas replikasi|
+|**HBV DNA**|Mengukur jumlah materi genetik virus → menggambarkan **tingkat replikasi virus**|
 
-- **HBsAg** muncul setelah pajanan.
-- **HBeAg** berkaitan dengan fase replikasi.
-- **HBV DNA** muncul selama replikasi.
-- **IgM anti-HBc** muncul pada fase akut.
-- Setelah infeksi mereda, HBsAg/HBeAg menghilang dan muncul **anti-HBs** serta **IgG anti-HBc**.
+### Perjalanan Infeksi Akut
 
-> ⚠️ **Catatan penting dari diagram:** pada fase akut, **IgM anti-HBc** adalah penanda yang tampak pada fase awal infeksi; kemudian beralih menjadi IgG anti-HBc.
+Pada infeksi akut, **HBsAg** muncul setelah pajanan dan diikuti marker replikasi seperti **HBeAg dan HBV DNA**. **IgM anti-HBc** menjadi penanda penting infeksi akut. Bila infeksi teratasi, **HBsAg menghilang** dan kemudian muncul **anti-HBs**, sedangkan **IgM anti-HBc beralih menjadi IgG anti-HBc**.
 
-### Fase Hepatitis B kronik
+> 🧠 **Urutan sederhananya:**  
+> **HBsAg = virus ada** → **HBeAg/HBV DNA = virus bereplikasi** → **IgM anti-HBc = akut** → infeksi teratasi → **anti-HBs = imunitas**.
+
+### Fase Hepatitis B Kronik
 
 |Fase|HBeAg|HBV DNA|ALT|
-|---|---|---|---|
+|---|:-:|--:|---|
 |**Immune tolerance**|+|Tinggi, biasanya >10⁸ IU/mL|Persisten normal|
 |**HBeAg-positive chronic hepatitis / immune active**|+|Fluktuatif tinggi, biasanya >10⁵ IU/mL|Fluktuatif, biasanya >ULN|
 |**Inactive carrier**|−|Persisten rendah, biasanya <2.000 IU/mL|Normal|
 |**HBeAg-negative chronic hepatitis**|−|Fluktuatif sedang, biasanya 10³–10⁷ IU/mL|Fluktuatif, biasanya >ULN, tetapi dapat intermiten normal|
 
-**ULN = upper limit of normal**, yaitu batas atas nilai normal.
+**ULN (upper limit of normal)** = batas atas nilai normal.
 
-### Penanda serologis
+🧠 **Kunci membaca tabel:**  
+**HBeAg (+) → replikasi aktif**.  
+**HBeAg (−) tidak selalu berarti virus berhenti bereplikasi**, karena pada _HBeAg-negative chronic hepatitis_, HBV DNA masih dapat tinggi dan ALT tetap meningkat.
 
-1. **HBsAg**
-    - Antigen permukaan HBV yang merupakan bagian dari selubung luar virus.
-    - HBsAg positif menunjukkan adanya infeksi HBV pada saat tersebut.
-2. **Anti-HBs**
-    - Antibodi terhadap HBsAg.
-    - Muncul setelah HBsAg menghilang.
-3. **Anti-HBc**
-    - Antibodi terhadap protein core HBV.
-    - Muncul pada infeksi HBV saat ini maupun infeksi masa lalu.
-4. **HBeAg**
-    - Positif menunjukkan aktivitas replikasi HBV yang tinggi pada individu HBsAg positif.
-5. **Anti-HBe**
-    - Positif menunjukkan HBV dalam keadaan nonreplikatif.
-6. **DNA HBV** → menunjukkan keberadaan materi genetik virus dan digunakan untuk menilai replikasi virus.
-
-> 🧠 **Hafalan serologi:**  
+> **Hafalan marker:**  
 > **S = Surface → HBsAg**  
 > **C = Core → anti-HBc**  
-> **E = E antigen → replikasi aktif**  
-> **Anti-S = antibodi permukaan → imunitas terhadap HBV**
+> **E = E antigen → replikasi**  
+> **Anti-S → imunitas**
 
 ### Tatalaksana
 
@@ -673,7 +667,7 @@ Pada infeksi akut, diagram materi menunjukkan:
 ### Imunisasi & pencegahan transmisi perinatal
 
 - Bayi baru lahir dari ibu dengan Hepatitis B → **vaksin Hepatitis B + HBIG** dalam **<24 jam setelah lahir**.
-- Menurut materi, kombinasi tersebut memberikan tingkat perlindungan sekitar **90%** dan mencapai **98% bila ibu HBeAg-negatif**, dibandingkan vaksinasi saja.
+- Kombinasi tersebut memberikan tingkat perlindungan sekitar **90%** dan mencapai **98% bila ibu HBeAg-negatif**, dibandingkan vaksinasi saja.
 - Imunisasi lanjutan usia **2, 3, dan 4 bulan** sesuai jadwal.
 - Skrining infeksi HBV pada usia **9–12 bulan** untuk bayi dengan riwayat ibu terinfeksi Hepatitis B.
 
