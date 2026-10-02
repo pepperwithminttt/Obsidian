@@ -224,6 +224,8 @@ Ciri klasik: **projectile non-bilious vomiting** 🚀 #Ingat
 2. **Operasi definitif**
     - **Pyloromyotomy**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790959893000jpn1oi.png)
+
 ### Prognosis
 
 - Sangat baik bila diagnosis dan koreksi dilakukan cepat.
