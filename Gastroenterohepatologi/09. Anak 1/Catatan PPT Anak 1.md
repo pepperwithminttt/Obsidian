@@ -318,6 +318,10 @@ Penyebab: _Vibrio cholerae_.
     - **1 subunit A** → bekerja secara enzimatik mengaktivasi adenilat siklase → meningkatkan **cAMP intraseluler**.
     - **5 subunit B** → berikatan dengan ganglioside **GM1** pada sel eukariot.
 
+Lima subunit **B** berfungsi seperti “pengait”: mereka berikatan dengan **ganglioside GM1** di permukaan sel epitel usus, sehingga toksin dapat menempel dan masuk/menyalurkan **subunit A** ke dalam sel. Setelah berada di dalam sel, subunit A mengaktivasi **adenilat siklase**, sehingga kadar **cAMP intraseluler meningkat**. cAMP yang tinggi kemudian menyebabkan sel usus meningkatkan sekresi **ion, terutama Cl⁻**, ke lumen usus; air mengikuti secara osmotik. Akibatnya, terjadi **sekresi air dan elektrolit yang sangat besar → diare cair khas kolera (“rice-water stool”)**. 
+
+Jadi, gampangnya: **GM1 = tempat toksin menempel/masuk, sedangkan cAMP = sinyal intraseluler yang menjalankan efek sekresinya**.
+
 ### Gejala
 
 - Diare sangat cair yang khas sebagai **“rice-water stools”**.
