@@ -273,12 +273,13 @@ Kelainan yang menjadi titik pemicu masuknya usus disebut **pathologic lead point
 
 ### Patogenesis & Manifestasi Klinis
 
-Invaginasi → **obstruksi usus**  
-→ obstruksi vena  
-→ edema usus  
-→ insufisiensi arteri  
-→ iskemia/nekrosis  
-→ peritonitis → sepsis.
+**Invaginasi → obstruksi usus** 
+(segmen usus proksimal masuk ke dalam segmen usus distal sehingga lumen usus menyempit/tersumbat). Selanjutnya menyebabkan:
+	- **obstruksi vena** → aliran balik vena terganggu sehingga darah menumpuk.  
+	- **edema usus** → cairan keluar ke jaringan sehingga dinding usus membengkak.  
+	- **insufisiensi arteri** → aliran darah arteri ikut menurun akibat tekanan yang semakin besar.  
+	- **iskemia → nekrosis** → jaringan usus kekurangan oksigen lalu mengalami kematian.  
+	- **peritonitis → sepsis** → kerusakan/perforasi usus dapat menyebabkan isi usus dan bakteri masuk ke rongga peritoneum.
 
 Manifestasi:
 
