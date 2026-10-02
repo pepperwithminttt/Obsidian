@@ -193,6 +193,8 @@ Ciri klasik: **projectile non-bilious vomiting** 🚀 #Ingat
 - Dapat terlihat **peristaltik lambung** dari kiri ke kanan.
 - Dapat teraba massa pilorus seperti **“olive”** di kuadran kanan atas epigastrium, terutama saat bayi tenang.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909597120004aw884.png)
+
 ### Pemeriksaan Penunjang
 
 **USG abdomen → pemeriksaan utama**
