@@ -687,7 +687,7 @@ Pada infeksi akut, **HBsAg** muncul setelah pajanan dan diikuti marker replikasi
 
 - **Vertikal ibu → bayi**, dipengaruhi viral load dan genotipe HCV.
     - Dapat terjadi selama persalinan, baik spontan maupun seksio sesarea.
-    - Ketuban pecah dini >6 jam menjadi salah satu faktor yang tercantum dalam materi.
+    - Ketuban pecah dini >6 jam menjadi salah satu faktor.
     - Ibu dengan HIV + HCV → risiko sekitar **14%** (rentang 5–36%).
 - Paparan langsung terhadap cairan tubuh:
     - Transfusi darah/produk darah
@@ -709,8 +709,6 @@ Dipertimbangkan pada:
 - Anak angkat dari luar negeri atau pengungsi.
 
 ### Tatalaksana
-
-Diagram pada slide menunjukkan:
 
 **Infeksi HCV akut/kronik pada anak atau remaja**  
 ↓  
