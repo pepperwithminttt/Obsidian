@@ -55,13 +55,13 @@ Faktor yang berperan:
 
 ### GER Fisiologis vs GERD
 
-|**GER fisiologis**|**GERD**|
-|---|---|
-|Bayi tetap tumbuh dengan baik|Dapat menyebabkan gangguan pertumbuhan|
-|Tidak ada distres|Dapat menimbulkan gejala bermakna|
-|Tidak ada aspirasi|Dapat terjadi aspirasi berulang|
-|Tidak ada hematemesis|Dapat terjadi hematemesis|
-|Umumnya membaik usia **12–18 bulan**|Menimbulkan gejala esofageal/ekstraesofageal|
+| **GER fisiologis**                   | **GERD**                                     |
+| ------------------------------------ | -------------------------------------------- |
+| Bayi tetap **tumbuh dengan baik**    | Dapat menyebabkan **gangguan pertumbuhan**   |
+| Tidak ada distres                    | Dapat menimbulkan gejala bermakna            |
+| Tidak ada aspirasi                   | Dapat terjadi aspirasi berulang              |
+| Tidak ada hematemesis                | Dapat terjadi hematemesis                    |
+| Umumnya membaik usia **12–18 bulan** | Menimbulkan gejala esofageal/ekstraesofageal |
 
 **Gejala esofageal GERD:**
 
@@ -87,6 +87,8 @@ Jika bayi mengalami regurgitasi tetapi **tumbuh baik dan tidak mengalami komplik
 - **Pemberian makan:**
     - Berikan **volume lebih kecil tetapi lebih sering**.
     - Formula **anti-regurgitasi (AR)** dapat digunakan bila diperlukan.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790959157000yw9j9i.png)
 
 > 🧠 **Tips hafalan GER:**  
 > **“Bayi GER = Growth masih Good”** → kalau tumbuh baik dan tidak ada komplikasi, biasanya fisiologis.
@@ -116,7 +118,7 @@ Pada akalasia:
 
 ### Manifestasi Klinis
 
-- **Disfagia progresif** terhadap cairan **dan** padatan.
+- **Disfagia progresif** terhadap **cairan dan padatan**.
 - Regurgitasi makanan yang tidak tercerna.
 - Pneumonia aspirasi.
 - Penurunan berat badan.
@@ -129,9 +131,11 @@ Pada akalasia:
 - Dilatasi esofagus bagian proksimal.
 - Ujung distal meruncing seperti **“bird’s beak sign”** 🐦.
 
+![gh|278](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179095918900091i17e.png)
+
 **2. Manometri esofagus**
 
-- **Gold standard**.
+- **Gold standard**. #In
 - Menunjukkan:
     - Tekanan LES meningkat.
     - LES tidak relaks saat menelan.
