@@ -120,14 +120,14 @@ Oralit baru memiliki osmolaritas lebih rendah dan dikembangkan karena laporan **
 
 - Berikan cairan lebih banyak dari biasanya untuk mencegah dehidrasi.
 
-|Umur/BB|Jumlah cairan|
-|---|---|
-|>4 bulan, <6 kg|200–400 mL|
-|4–12 bulan, 6–<10 kg|400–700 mL|
-|12 bulan–2 tahun, 10–<12 kg|700–900 mL|
-|2–5 tahun, 12–19 kg|900–1.400 mL|
-
 **Rencana Terapi B**
+
+| Umur/BB                     | Jumlah cairan |
+| --------------------------- | ------------- |
+| >4 bulan, <6 kg             | 200–400 mL    |
+| 4–12 bulan, 6–<10 kg        | 400–700 mL    |
+| 12 bulan–2 tahun, 10–<12 kg | 700–900 mL    |
+| 2–5 tahun, 12–19 kg         | 900–1.400 mL  |
 
 - Diberikan selama **4–6 jam**.
 
