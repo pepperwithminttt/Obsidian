@@ -306,7 +306,9 @@ Gejala:
 
 # Kolera
 
-Penyebab: _**Vibrio cholerae**_.
+![gh|372](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790953828000ygxmsd.png)
+
+Penyebab: _Vibrio cholerae_.
 
 ### Patomekanisme
 
