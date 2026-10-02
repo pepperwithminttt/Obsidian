@@ -324,7 +324,7 @@ Manifestasi:
 
 - Dapat berfungsi sebagai **diagnostik sekaligus terapeutik**.
 
-![uploading...](me33un)
+![gh|278](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790961213000iy7vkl.png)
 
 ### Tata Laksana
 
