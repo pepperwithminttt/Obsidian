@@ -245,6 +245,8 @@ Ciri klasik: **projectile non-bilious vomiting** 🚀 #Ingat
 
 - Lokasi tersering: **ileosekal (±90%)**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790959949000u9kvgp.png)
+
 ### Etiologi
 
 **Idiopatik ±90%**
