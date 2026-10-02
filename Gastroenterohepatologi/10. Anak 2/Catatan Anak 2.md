@@ -201,15 +201,21 @@ Ciri klasik: **projectile non-bilious vomiting** 🚀 #Ingat
 
 - **Target sign / doughnut sign** 🎯.
 
+![gh|298](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179095980400067o3ra.png)
+
 **Foto polos abdomen:**
 
 - Distensi lambung.
 - **Single bubble sign**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179095983100090lbek.png)
+
 **Barium meal:**
 
 - **String sign**.
 - **Railroad track sign**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790959854000j5axn3.png)
 
 ### Tata Laksana
 
