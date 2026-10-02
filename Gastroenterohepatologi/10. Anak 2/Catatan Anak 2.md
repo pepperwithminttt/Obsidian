@@ -401,6 +401,8 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 
 **Note**: Ooohh mirip2 akalasia esofagus di' tpi bedanya ini di usus, paling sering di kolon.
 
+![gh|371](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790963824000qix1wb.png)
+
 ### Manifestasi Klinis
 
 **Neonatus**
@@ -444,7 +446,9 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 - Dekompresi lambung dengan **NGT**.
 - Enema saline untuk mengeluarkan feses.
 - Koreksi dehidrasi dan gangguan elektrolit.
-- Materi mencantumkan **NaCl 0,9% 20 cc/kgBB** untuk resusitasi cairan.
+- **NaCl 0,9% 20 cc/kgBB** untuk resusitasi cairan.
+
+![gh|395](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790963740000yo0hl6.png)
 
 **Prinsip terapi definitif**
 
@@ -458,9 +462,11 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 - Bertahap → _levelling_ → **colostomy**.
 - Definitif → **pull-through**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179096379700055lreg.png)
+
 ### Komplikasi
 
-**Enterokolitis pascaoperasi** → sekitar **15–35%** pada materi.
+**Enterokolitis pascaoperasi** → sekitar **15–35%**.
 
 Mekanisme:  
 **Stasis feses → iskemia mukosa → invasi bakteri → translokasi → enterokolitis**
@@ -482,16 +488,16 @@ Gejala:
 
 ## Definisi & Etiologi
 
-**Omfalitis** adalah infeksi bakteri pada jaringan di sekitar tali pusat, umumnya terjadi pada **minggu pertama kehidupan**.
+**Omfalitis** adalah **infeksi bakteri** pada **jaringan di sekitar tali pusat**, umumnya terjadi pada **minggu pertama kehidupan**.
 
-Merupakan infeksi serius pada neonatus karena dapat berkembang cepat menjadi **sepsis sistemik**.
+Merupakan **infeksi serius pada neonatus** karena dapat **berkembang cepat** menjadi **sepsis sistemik**.
 
 ### Etiologi
 
 Bakteri yang dapat menyebabkan omfalitis:
 
-- _Staphylococcus aureus_
-- _Streptococcus pyogenes_
+- **_Staphylococcus aureus_**
+- **_Streptococcus pyogenes_**
 - _Streptococcus_ β-hemolitikus grup A/B
 - _Escherichia coli_
 - _Klebsiella_ spp.
@@ -517,6 +523,8 @@ Tanda lokal:
 - Cairan purulen atau berbau.
 - Kadang perdarahan lokal.
 
+![gh|265](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790964075000ft4e8h.png)
+
 Tanda sistemik:
 
 - Bayi rewel.
@@ -533,17 +541,21 @@ Tanda sistemik:
 - Peritonitis.
 - Trombosis vena umbilikalis.
 
+![gh|404](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790964332000c6lzdh.png)
+
 ### Diagnosis Banding
 
 1. **Granuloma umbilikalis**
 2. **Patent urachus** → urakus tetap terbuka sehingga dapat menyebabkan hubungan abnormal antara kandung kemih dan umbilikus.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790964367000p3wkwm.png)
 
 ### Tata Laksana & Pencegahan
 
 **Tata laksana:**
 
 - **Antibiotik intravena** pada bayi dengan infeksi sistemik/sepsis.
-- Perawatan tali pusat dengan kapas alkohol 70% sesuai materi.
+- Perawatan tali pusat dengan kapas alkohol 70%.
 
 **Pencegahan:**
 
@@ -556,7 +568,7 @@ Tanda sistemik:
 
 ---
 
-## 🧠 Ringkasan Super Cepat untuk Hafalan
+# 🧠 Ringkasan Super Cepat untuk Hafalan
 
 |Penyakit|Ciri paling khas|Pemeriksaan penting|Tata laksana utama|
 |---|---|---|---|
