@@ -721,8 +721,6 @@ Apakah terdapat penyakit yang progresif cepat, sirosis, HIV, atau koinfeksi HBV?
         - **Sofosbuvir–velpatasvir** — semua genotipe
         - **Glecaprevir–pibrentasvir** — semua genotipe.
 
-> 🔎 Bagian ini berasal dari **diagram pada slide tatalaksana**, sehingga alurnya dipertahankan sesuai materi dan tidak ditambahkan regimen lain di luar PDF.
-
 ### Pencegahan
 
 - Skrining anak dengan riwayat ibu menderita Hepatitis C.
