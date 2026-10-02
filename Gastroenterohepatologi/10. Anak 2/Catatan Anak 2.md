@@ -304,9 +304,7 @@ Manifestasi:
 2. **Muntah**
 3. **Red currant jelly stool** 
 
-![gh|288](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909611040008h0jxc.png)
-
-> ⚠️ Trias klasik penting untuk diingat, tetapi perjalanan klinis dapat bervariasi.
+![gh|216](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909611040008h0jxc.png)
 
 ### Pemeriksaan Radiologi
 
@@ -314,7 +312,9 @@ Manifestasi:
 
 - **Target sign** 🎯
 - **Pseudo-kidney sign**
-- Pada materi disebutkan akurasi **100%**.
+- Akurasi USG **100%**.
+
+![gh|461](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179096117000079qbwy.png)
 
 **Foto polos abdomen**
 
@@ -323,6 +323,8 @@ Manifestasi:
 **Enema kontras**
 
 - Dapat berfungsi sebagai **diagnostik sekaligus terapeutik**.
+
+![uploading...](me33un)
 
 ### Tata Laksana
 
