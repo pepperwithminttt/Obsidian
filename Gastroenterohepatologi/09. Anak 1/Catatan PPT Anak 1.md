@@ -100,17 +100,21 @@ Berdasarkan penurunan berat badan:
 
 **Oralit lama vs baru:**
 
-||Oralit lama|Oralit baru|
-|---|---|---|
-|Penggunaan|Kolera|Kolera + nonkolera|
-|Natrium|90 mmol/L|75 mmol/L|
-|Kalium|20 mmol/L|20 mmol/L|
-|Klorida|80 mmol/L|65 mmol/L|
-|Sitrat|10 mmol/L|10 mmol/L|
-|Glukosa|111 mmol/L|75 mmol/L|
-|Osmolaritas|311 mmol/L|245 mmol/L|
+| **Parameter**              |          **Oralit Lama** |                 **Oralit Baru** |
+| -------------------------- | -----------------------: | ------------------------------: |
+| **Penggunaan**             |         Untuk **kolera** | Untuk **kolera dan non-kolera** |
+| **Osmolaritas**            |         **Lebih tinggi** |                **Lebih rendah** |
+| **Risiko pada non-kolera** | Risiko **hipernatremia** | Menurunkan risiko hipernatremia |
+| **Natrium (Na⁺)**          |            **90 mmol/L** |                   **75 mmol/L** |
+| **Kalium (K⁺)**            |                20 mmol/L |                       20 mmol/L |
+| **Klorida (Cl⁻)**          |            **80 mmol/L** |                   **65 mmol/L** |
+| **Sitrat**                 |                10 mmol/L |                       10 mmol/L |
+| **Glukosa**                |           **111 mmol/L** |                   **75 mmol/L** |
+| **Total osmolaritas**      |           **311 mmol/L** |                  **245 mmol/L** |
 
 Oralit baru memiliki osmolaritas lebih rendah dan dikembangkan karena laporan **hipernatremia**, terutama pada penggunaan oralit lama pada diare nonkolera.
+
+![gh|258](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17909529800005mi62h.png)
 
 **Rencana Terapi A**
 
