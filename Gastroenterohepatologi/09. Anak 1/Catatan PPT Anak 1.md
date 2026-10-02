@@ -265,7 +265,7 @@ Penyebab: _**Giardia lamblia**_.
 
 ### Patogenesis & gejala
 
-- Aktivasi sel T limfosit → pemendekan epitel dan vili usus.
+- Aktivasi sel T limfosit (karena dipicu oleh hadirnya parasit giardia) → pemendekan epitel dan vili usus.
 - Hilangnya permukaan epitel → aktivitas disakaridase menurun → absorpsi glukosa dan Na⁺ terganggu.
 - Masa inkubasi **7–14 hari**.
 - Pada individu terinfeksi:
