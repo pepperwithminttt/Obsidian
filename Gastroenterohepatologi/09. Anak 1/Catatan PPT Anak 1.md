@@ -171,14 +171,25 @@ Oralit baru memiliki osmolaritas lebih rendah dan dikembangkan karena laporan **
     - **>6 bulan: 20 mg/hari**
 - Diberikan **10–14 hari**, meskipun diare sudah sembuh.
 
-**Fungsi zink:**
 
-- Meningkatkan aktivitas **natural killer cell**, fagositosis makrofag, produksi antibodi, dan fungsi neutrofil.
-- Mempertahankan integritas mukosa usus dengan meningkatkan regenerasi sel melalui pembentukan DNA/RNA polimerase.
-- Memperbaiki absorpsi air dan elektrolit.
-- Bertindak sebagai stabilisator intramolekuler dan antioksidan.
-- Menghambat sintesis **nitric oxide (NO)**.
-- Inflamasi → LPS + IL-1 → NOS-2 → NO → guanilat siklase → cGMP → protein transport/saluran ion → sekresi air dan elektrolit.
+**Mekanisme suplementasi zink🧠**
+
+Pada diare, mukosa usus mengalami gangguan sehingga **absorpsi air dan elektrolit menurun**, sementara sekresi cairan dapat meningkat. Zink membantu melalui beberapa jalur:
+
+1. **Memperbaiki mukosa usus 🧱**
+    - Zink mendukung **regenerasi sel epitel usus** melalui perannya dalam pembentukan DNA dan RNA.
+    - Mukosa yang lebih cepat pulih → kemampuan **absorpsi air dan elektrolit membaik**.
+    - → kehilangan cairan lewat feses berkurang → **diare lebih cepat berhenti**.
+2. **Memperkuat sistem imun 🛡️**
+    - Meningkatkan aktivitas **natural killer (NK) cell**.
+    - Meningkatkan kemampuan **fagositosis makrofag**.
+    - Mendukung **produksi antibodi** dan fungsi **neutrofil**.
+    - Akibatnya, tubuh lebih efektif mengatasi penyebab infeksi diare.
+3. **Mengurangi sekresi air dan elektrolit 💧**
+    - Inflamasi dapat meningkatkan produksi **nitric oxide (NO)**.
+    - NO → mengaktifkan **guanilat siklase → cGMP → PKC → protein transport/saluran ion** → meningkatkan sekresi air dan elektrolit ke lumen usus.
+    - **Zink menghambat sintesis NO**, sehingga jalur sekresi tersebut berkurang.
+    - → **lebih sedikit air dan elektrolit keluar ke lumen usus** → diare berkurang.
 
 #### 4. Antibiotik selektif
 
@@ -220,6 +231,8 @@ Komplikasi:
 ---
 
 # Rotavirus
+
+![gh|282](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790953553000lxmsgh.png)
 
 - Rotavirus menyebabkan sekitar **15–25% diare pada anak usia 6–24 bulan**, terutama di negara berkembang.
 - Berdasarkan antigen/protein kapsid VP6 terdapat grup A–G; yang menyebabkan diare pada anak adalah **A, B, dan C**.
