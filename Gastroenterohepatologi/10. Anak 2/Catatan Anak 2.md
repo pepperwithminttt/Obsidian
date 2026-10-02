@@ -394,7 +394,12 @@ Akibatnya terjadi **gangguan motilitas** dan **obstruksi fungsional**.
 |**Obstruksi fungsional**|Akumulasi isi usus di proksimal segmen aganglionik menyebabkan **hambatan aliran tanpa adanya sumbatan mekanik**.|
 |**Distensi abdomen + konstipasi**|Isi usus yang tertahan menyebabkan **penumpukan gas dan feses**, sehingga timbul distensi abdomen dan konstipasi.|
 
-**Note**: Ooohh mirip2 akalasia esofagus di' tpi bedanya ini di kolon.
+> 🧠 **Ciri penting:** segmen **aganglionik tidak mengembang** karena tidak memiliki peristaltik propulsif; justru **usus di sebelah proksimalnya mengalami dilatasi** akibat penumpukan isi usus.
+
+**Tips hafalan:**  
+**Tidak ada ganglion → tidak ada peristaltik di kolon → sfingter ani tidak bisa relaksasi → tidak bisa defekasi → obstruksi → usus proksimal melebar.** 🔄
+
+**Note**: Ooohh mirip2 akalasia esofagus di' tpi bedanya ini di usus, paling sering di kolon.
 
 ### Manifestasi Klinis
 
