@@ -253,6 +253,8 @@ Komplikasi:
 
 # Giardiasis
 
+![gh|301](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790953625000c6ooye.png)
+
 Penyebab: _**Giardia lamblia**_.
 
 - Terutama menyerang anak **1–5 tahun**.
