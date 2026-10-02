@@ -34,7 +34,7 @@
 - Nutrien tidak terserap → difermentasi bakteri → terbentuk asam organik → **tekanan osmotik lumen meningkat** → cairan tertarik ke lumen → diare.
 - Ciri:
     - Volume tinja **<200 mL/hari**
-    - **Berhenti saat puasa**
+    - **Berhenti saat puasa** #Ingat 
     - Na⁺ tinja **<70 mEq/L**
     - Reduksi **positif**
     - pH tinja **<5**
@@ -44,7 +44,7 @@
 - Toksin bakteri → stimulasi **cAMP/cGMP** → peningkatan sekresi cairan dan elektrolit → diare.
 - Ciri:
     - Volume tinja **>200 mL/hari**
-    - **Tetap berlanjut saat puasa**
+    - **Tetap berlanjut saat puasa** #Ingat 
     - Na⁺ tinja **>70 mEq/L**
     - Reduksi **negatif**
     - pH tinja **>6**
@@ -63,7 +63,7 @@
 Tentukan:
 
 - Apakah diare **persisten >14 hari** → rujuk ke dokter anak.
-- Etiologi → terutama apakah terdapat **darah dalam tinja**.
+- Etiologi → terutama apakah terdapat **darah dalam tinja** (karna klo ad brrti disentri).
 - Derajat dehidrasi.
 - Kemampuan dan jumlah asupan oral.
 - Frekuensi miksi/urin.
