@@ -169,6 +169,8 @@ Pada akalasia:
 
 **IHPS** adalah hipertrofi dan hiperplasia otot sirkular pilorus yang menyebabkan penyempitan lumen pilorus → **obstruksi**.
 
+![gh|280](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790959536000ctjl5s.png)
+
 Kondisi ini bukan kelainan kongenital murni, tetapi berkembang progresif pada minggu-minggu pertama kehidupan.
 
 - Insidensi: **2–4/1.000 kelahiran hidup**.
@@ -180,9 +182,9 @@ Kondisi ini bukan kelainan kongenital murni, tetapi berkembang progresif pada mi
 
 ### Manifestasi Klinis
 
-Ciri klasik: **projectile non-bilious vomiting** 🚀
+Ciri klasik: **projectile non-bilious vomiting** 🚀 #Ingat
 
-- Muntah **non-bilious** yang menyembur.
+- [Muntah **non-bilious** yang menyembur]{Dibilang non-bilious karena makanannya belum sempat sampai duodenum, jadi belum bercampur dengan empedu}.
 - Terjadi segera setelah makan dan semakin sering.
 - Bayi tetap lapar setelah muntah → **“hungry vomiter”**.
 - Penurunan berat badan.
