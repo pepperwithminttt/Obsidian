@@ -495,6 +495,8 @@ Gejala muncul **15–50 hari setelah pajanan**, umumnya sekitar **28 hari**.
 - **IgM anti-HAV**
 - USG abdomen.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790955135000e6qowc.png)
+
 ### Perjalanan penyakit
 
 - Pada anak:
@@ -518,6 +520,9 @@ Gejala muncul **15–50 hari setelah pajanan**, umumnya sekitar **28 hari**.
 - Imunisasi.
 
 > 🧠 **HAV = A → Alimentary/fekal-oral → Acute & self-limiting.**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790955361000xhknui.png)
+
 
 ---
 
@@ -544,6 +549,8 @@ Gejala muncul **15–50 hari setelah pajanan**, umumnya sekitar **28 hari**.
     - HBeAg
     - HBcAg
     - DNA polimerase.
+
+![gh|400](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1790955481000zuhbek.png)
 
 ### Risiko menjadi Hepatitis B kronik
 
