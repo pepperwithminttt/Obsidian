@@ -158,26 +158,6 @@ Biasanya disertai:
 - defans muskular,
 - pasien menghindari gerakan.
 
-### Nyeri kolik
-
-Nyeri viseral akibat **spasme otot polos organ berongga**, biasanya karena hambatan pasase.
-
-Contoh:
-
-- Obstruksi usus.
-- Batu ureter.
-- Batu empedu.
-
-Ciri:
-
-- Hilang timbul.
-- Sangat hebat.
-- Dapat disertai mual/muntah.
-- Pasien **gelisah dan terus bergerak**.
-
-> 🧠 **Kolik = pasien “tidak betah diam”.**  
-> **Peritonitis = pasien “takut bergerak”.**
-
 ### Nyeri iskemik
 
 Nyeri akibat jaringan mengalami kekurangan aliran darah.
@@ -196,16 +176,27 @@ Jika berlanjut dapat timbul:
 - toksisitas sistemik,
 - syok.
 
-### Nyeri berpindah pada apendisitis
+### Nyeri Pindah (_Migratory Pain_) 🔄
 
-Pada awal apendisitis:  
-**inflamasi appendix → nyeri viseral periumbilikal**
+**Nyeri pindah** adalah nyeri yang **berubah lokasi sesuai dengan perkembangan proses patologis**. Salah satu contoh paling khas adalah **apendisitis akut**.
 
-Ketika inflamasi mencapai peritoneum parietal:  
-**nyeri berpindah/lokal ke kuadran kanan bawah.**
+#### 🩺 Apendisitis akut — contoh klasik nyeri pindah
 
-Jika terjadi nekrosis/gangren:  
-**nyeri menjadi sangat hebat, menetap, dan tidak mereda.**
+- Tahap awal: **inflamasi masih terbatas pada apendiks** dan belum mencapai peritoneum → timbul **nyeri viseral** yang dirasakan **di sekitar umbilikus**, sering disertai mual.
+- **Inflamasi** berlanjut hingga **seluruh dinding apendiks** dan **peritoneum** di sekitarnya → rangsangan peritoneum menimbulkan **nyeri somatik**.
+- Nyeri kemudian **berpindah dan terlokalisasi di kuadran kanan bawah abdomen**, sesuai lokasi peritoneum yang mengalami inflamasi.
+- Jika apendiks mengalami **nekrosis dan gangren** → nyeri berubah menjadi **sangat hebat, menetap, dan tidak mereda**.
+
+#### 🩸 Contoh lain: perforasi tukak peptik duodenum
+
+- Perforasi menyebabkan **cairan asam dan garam empedu dari duodenum masuk ke rongga abdomen** → mengiritasi peritoneum setempat.
+- Awalnya pasien merasakan **nyeri epigastrium**.
+- Setelah beberapa saat, cairan duodenum dapat mengalir ke **perut kanan bawah** melalui sisi lateral kolon asendens hingga sekitar **sekum**.
+- Nyeri akan berkurang karena terjadi pengenceran.
+- Akan tetapi jika tidak ditangani, **apendisitis akut maupun perforasi duodenum** dapat berkembang menjadi **peritonitis generalisata**.
+
+💡 **Poin paling penting:**  
+**Apendisitis akut adalah contoh utama nyeri pindah:** awalnya **periumbilikal (viseral)** → kemudian **kuadran kanan bawah (somatik)** karena inflamasi mencapai peritoneum.
 
 ---
 
