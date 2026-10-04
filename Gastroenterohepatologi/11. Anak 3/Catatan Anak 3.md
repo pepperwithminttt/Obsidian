@@ -256,10 +256,12 @@ Beberapa jenis virus yang dapat menjadi etiologi dari atresia bilier:
     - tanda kolestasis.
 - Jika cairan empedu tidak dapat didrainase → **sirosis**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791081027000myrl0w.png)
+
 ## Manifestasi Klinis
 
 - **Ikterus menetap >2 minggu** setelah lahir.
-- **Tinja akolik** atau berwarna seperti dempul.
+- **Tinja akolik** atau berwarna seperti dempul (feses pucat).
 - Urine berwarna **gelap**.
 - Kadang terdapat **hepatomegali**.
 
@@ -278,8 +280,10 @@ Tinja diperiksa dalam tiga periode:
 
 Interpretasi:
 
-- **Akolik pada semua porsi → mendukung atresia bilier.**
+- **Akolik pada semua porsi → mendukung atresia bilier.** #Ingat 
 - Warna tinja yang berfluktuasi → lebih mengarah ke kolestasis intrahepatik.
+
+![gh|322](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791081088000q8rnhn.png)
 
 ### Laboratorium
 
