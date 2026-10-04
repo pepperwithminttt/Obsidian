@@ -1413,21 +1413,21 @@ Tanda strangulasi:
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118330000mqqrtm.png)
 
-### Jenis
+**Mesenteric Ischaemia** terbagi menjadi:
+#### 1. Acute Mesenteric Ischaemia (AMI)
 
-|Jenis|Mekanisme|
-|---|---|
-|**SMA embolism**|Embolus menyumbat SMA|
-|**SMA thrombosis**|Trombus pada arteri mesenterika|
-|**Mesenteric venous thrombosis**|Sumbatan vena mesenterika|
-|**NOMI**|Iskemia tanpa oklusi akibat hipoperfusi/vasospasme|
+Terjadi secara **akut** dan berdasarkan mekanismenya dibagi menjadi:
 
-PPT mencantumkan perkiraan:
+- **Arterial occlusion**
+    - Embolism: 40–50%
+    - Thrombosis: 25–30%
+- **Venous occlusion**
+    - Mesenteric Venous Thrombosis (MVT): 5–10%
+- **Non-occlusive**
+    - Non-occlusive Mesenteric Ischaemia (NOMI): 15–20%
 
-- emboli **40–50%**
-- trombosis **25–30%**
-- MVT **5–10%**
-- NOMI **15–20%**.
+#### 2. Chronic Mesenteric Ischaemia (CMI)
+
 
 ### Petunjuk klinis paling penting
 
@@ -1471,13 +1471,34 @@ Dapat ditemukan:
 - **portal venous gas**,
 - oklusi SMA pada CT.
 
+![gh|520](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911186080005j6w6v.png)
+
+![gh|511](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118637000sn48ek.png)
+
+![gh|580](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118675000qwbszd.png)
+
+![gh|507](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118691000v92a67.png)
+
+![gh|614](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911187230009ms1vy.png)
+
+![gh|496](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118742000bqh5p7.png)
+![gh|446](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179111875800092xoo4.png)
+
 **CT angiography** sangat penting untuk diagnosis.
 
-PPT menyebut angiografi sebagai _gold standard_ dan membagi menjadi:
+Angiografi merupakan _gold standard_ dan terbagi menjadi:
 
 - CT angiography,
 - MR angiography,
 - angiografi kateter konvensional.
+
+Temuan pada angiografi:
+- Filling defects
+- Stenosis atau blokade
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118803000a71idr.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118878000q02tju.png)
 
 ### Tata laksana
 
@@ -1500,6 +1521,61 @@ Pilihan revaskularisasi:
 - thrombectomy,
 - bypass,
 - reimplantasi SMA.
+
+### Assessment of Bowel Viability 🩸
+
+Penilaian viabilitas usus dilakukan untuk menentukan apakah usus masih dapat dipertahankan atau harus direseksi.
+
+|Kondisi usus|Tindakan|
+|---|---|
+|**Necrotic bowel (gangrenous)**|Evaluasi luasnya infark|
+|→ **Extensive infarction / frankly necrotic**|**Bowel resection**|
+|→ **Limited infarction**|**Mesenteric revascularization**|
+|**Equivocal viability / marginally viable bowel**|**Mesenteric revascularization** → tunggu **30 menit intraoperatif** untuk menilai kembali viabilitas usus|
+
+> 🧠 **Intinya:**  
+> **Nekrosis luas → reseksi** ✂️  
+> **Infark terbatas / viabilitas meragukan → revaskularisasi → tunggu 30 menit → reassessment**
+
+#### Alur sederhananya
+
+**Assessment bowel viability**  
+→ 🔴 **Necrotic / gangrenous**
+
+- **Extensive infarction / frankly necrotic** → **Bowel resection**
+- **Limited infarction** → **Revascularization**
+
+→ 🟡 **Equivocal / marginally viable**  
+→ **Revascularization**  
+→ **Allow 30 minutes intraoperatively**  
+→ nilai kembali viabilitas usus
+
+![gh|254](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118930000zuiiwx.png)
+
+---
+
+### Mesenteric Revascularization 🩸
+
+Pilihan revaskularisasi bergantung pada penyebab oklusi:
+
+#### 1. Embolism
+
+→ **Balloon catheter embolectomy**  
+→ ± **Vein patch angioplasty**
+
+- **Embolectomy:** mengeluarkan embolus menggunakan kateter balon.
+- **Vein patch angioplasty:** pelebaran/rekonstruksi pembuluh menggunakan _vein patch_ bila diperlukan.
+
+#### 2. Thrombosis
+
+→ **Thrombectomy**
+
+Setelah trombus dikeluarkan, dapat dilakukan:
+
+- **Bypass grafting**
+    - **Antegrade**
+    - **Retrograde**
+- **Reimplantation of SMA** (_superior mesenteric artery_)
 
 ---
 
@@ -1575,7 +1651,7 @@ Prinsip:
 
 **Apendisitis akut** adalah inflamasi akut pada **appendix vermiformis** dan merupakan salah satu penyebab klasik akut abdomen.
 
-PPT menekankan bahwa apendisitis merupakan **diagnosis klinis**, berdasarkan:
+Apendisitis merupakan **diagnosis klinis**, berdasarkan:
 
 1. Anamnesis.
 2. Pemeriksaan fisik.
@@ -1680,7 +1756,7 @@ Komponen utamanya:
 - **L**eukocytosis.
 - **S**hift to left.
 
-> 🧠 **MANTRELS = “migrasi + mual + nyeri kanan bawah + demam + leukosit”**.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791119426000fo1czg.png)
 
 ## Pemeriksaan penunjang
 
