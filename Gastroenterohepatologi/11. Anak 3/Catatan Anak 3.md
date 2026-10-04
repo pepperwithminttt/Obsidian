@@ -109,6 +109,10 @@ Jika terdapat **gap >3 cm**:
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910745300005ho4dn.png)
 
+## Klasifikasi Waterston untuk Prediksi Prognosis
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791074710000iwmiqo.png)
+
 > 🧠 **Kunci AE:**  
 > **NGT mentok + drooling + batuk/sianosis saat makan ± distensi abdomen → pikirkan atresia esofagus.**
 
