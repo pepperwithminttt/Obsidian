@@ -124,6 +124,8 @@ Prinsip teknik yang dapat digunakan:
 
 💡 **Altemeier = prolaps ditarik keluar → rektosigmoid yang berlebih dipotong → disambungkan kembali.**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791131572000oezqwt.png)
+
 Pada prolaps rektum berulang, prosedur Altemeier dapat dikombinasikan dengan **transobturator colonic suspension**.
 
 ### Delorme Mucosal Sleeve Resection
@@ -143,6 +145,8 @@ Pada prolaps rektum berulang, prosedur Altemeier dapat dikombinasikan dengan **t
 
 💡 **Delorme = fokus pada mukosa + pemendekan/reduksi jaringan redundan.**
 
+![gh|424](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911316000009lrzvf.png)
+
 ### Thiersch Anal Encirclement
 
 Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengikat di sekitar kanalis analis.
@@ -161,6 +165,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
 
 💡 **Thiersch = “ikat anus”** → sederhana secara konsep, tetapi angka kekambuhannya tinggi.
 
+![gh|326](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791131625000eio5sj.png)
+
 ### STARR Procedure
 
 **STARR (Stapled TransAnal Rectal Resection)**:
@@ -169,6 +175,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
 - Prolaps ditarik keluar sepenuhnya.
 - Pada posisi **litotomi**, dilakukan pemotongan aksial pada posisi **jam 3 dan 9** menggunakan stapler linear.
 - Reseksi dilakukan menggunakan **curved Contour Transtar stapler**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911316540000bs1v8.png)
 
 ## Abdominal Approach
 
@@ -189,6 +197,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
 
 💡 **Frykman–Goldberg = sigmoid yang berlebih dipotong + rektum difiksasi.**
 
+![gh|427](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911316770003lxnmr.png)
+
 ### Ripstein Posterior Rectopexy
 
 - Didiskripsikan oleh **Ripstein (1963)**.
@@ -205,6 +215,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
 
 💡 **Ripstein = mesh mengelilingi bagian anterior rektum → difiksasi ke fasia presakral.**
 
+![gh|318](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911316980005g1ur2.png)
+
 ### Orr–Loygue Ventral Rectopexy
 
 - Didiskripsikan oleh **Orr** dan dimodifikasi oleh **Loygue**.
@@ -220,6 +232,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
     - Erosi mesh
 
 💡 **Ventral rectopexy → fokus utama dari sisi anterior/ventral rektum.**
+
+![gh|329](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911317210007hw2pn.png)
 
 ### Wells Posterior Rectopexy
 
@@ -238,6 +252,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
 
 💡 **Wells = mesh posterior 2/3, bagian ventral 1/3 dibiarkan bebas.**
 
+![gh|350](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791131774000wvpqxe.png)
+
 ### Laparoscopic Rectopexy
 
 - Rektum dimobilisasi.
@@ -245,6 +261,8 @@ Tujuannya adalah **memperkuat/mempersempit lubang anus** menggunakan bahan pengi
 - Mesh difiksasi ke sakrum menggunakan **laparoscopic stapler**.
 - Tepi lateral mesh yang membungkus rektum kemudian difiksasi ke dinding rektum dengan jahitan.
 - **Angka kekambuhan: 3,4%.**
+
+![gh|326](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791131799000asjlhv.png)
 
 # 🧠 Tips Menghafal
 
