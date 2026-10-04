@@ -223,20 +223,22 @@ Posisi tubuh pasien dalam usahanya mengurangi nyeri dapat menjadi petunjuk penti
 
 ### Tanda Klinis Penting
 
-- **Rovsing sign** → penekanan abdomen kiri bawah menimbulkan nyeri di kanan bawah.
-- **Psoas sign** → nyeri kanan bawah saat ekstensi panggul kanan; dapat menunjukkan iritasi otot psoas oleh appendix.
-- **Obturator sign** → nyeri saat rotasi internal panggul kanan.
-- **Dunphy sign** → nyeri kanan bawah bertambah saat batuk.
-- **Kocher sign** → nyeri awal epigastrium/periumbilikal kemudian berpindah ke kanan bawah.
-- **Sitkovskiy/Rosenstein sign** → nyeri kanan bawah bertambah pada posisi tertentu.
-- **Bartomier-Michelson sign** → nyeri kanan bawah lebih nyata pada posisi tertentu saat palpasi.
-- **Blumberg sign** → nyeri rebound; mendukung iritasi peritoneum.
-- **McBurney sign** → nyeri tekan pada titik McBurney.
-- **Murphy sign** → nyeri saat inspirasi ketika area kandung empedu dipalpasi.
-- **Cullen sign** → perubahan warna kebiruan periumbilikal.
-- **Grey-Turner sign** → perubahan warna pada flank.
-- **Kehr sign** → nyeri bahu kiri akibat iritasi diafragma.
-- **Chandelier sign** → nyeri hebat saat manipulasi serviks, mengarah ke proses ginekologis.
+| **Tanda**                        | **Cara pemeriksaan / Temuan**                                                  | **Makna**                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| **Rovsing sign**                 | Penekanan abdomen **kiri bawah** menimbulkan nyeri di **kanan bawah**          | Mendukung apendisitis                                                           |
+| **Psoas sign**                   | Nyeri kanan bawah saat **ekstensi panggul kanan**                              | Iritasi **m. psoas**, dapat terjadi pada apendisitis terutama posisi retrosekal |
+| **Obturator sign**               | Nyeri saat **rotasi internal panggul kanan**                                   | Iritasi **m. obturator internus**, dapat mendukung apendisitis                  |
+| **Dunphy sign**                  | Nyeri kanan bawah **bertambah saat batuk**                                     | Menunjukkan iritasi peritoneum                                                  |
+| **Kocher sign**                  | Nyeri awal **epigastrium/periumbilikal** kemudian berpindah ke **kanan bawah** | Pola migrasi nyeri pada apendisitis                                             |
+| **Sitkovskiy / Rosenstein sign** | Nyeri kanan bawah bertambah pada **posisi tertentu**                           | Mendukung apendisitis                                                           |
+| **Bartomier-Michelson sign**     | Nyeri kanan bawah lebih nyata pada **posisi tertentu saat palpasi**            | Mendukung apendisitis                                                           |
+| **Blumberg sign**                | **Nyeri rebound** saat tangan yang menekan abdomen dilepaskan                  | Menunjukkan iritasi peritoneum                                                  |
+| **McBurney sign**                | **Nyeri tekan** pada titik McBurney                                            | Mendukung apendisitis                                                           |
+| **Murphy sign**                  | Nyeri saat **inspirasi** ketika area kandung empedu dipalpasi                  | Mendukung kolesistitis akut                                                     |
+| **Cullen sign**                  | Perubahan warna **kebiruan di sekitar umbilikus**                              | Dapat menunjukkan perdarahan intra-abdomen                                      |
+| **Grey-Turner sign**             | Perubahan warna/kebiruan pada **flank**                                        | Dapat menunjukkan perdarahan retroperitoneal                                    |
+| **Kehr sign**                    | **Nyeri bahu kiri** akibat iritasi diafragma                                   | Dapat terjadi pada perdarahan/iritasi subdiafragma                              |
+| **Chandelier sign**              | **Nyeri hebat saat manipulasi serviks**                                        | Mengarah pada proses ginekologis, terutama iritasi pelvis                       |
 
 > ⚠️ Tanda-tanda ini **tidak semuanya spesifik untuk satu penyakit**. Interpretasi harus dikombinasikan dengan anamnesis dan pemeriksaan lainnya.
 
