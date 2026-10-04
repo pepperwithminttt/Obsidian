@@ -1868,10 +1868,11 @@ Setelah inflamasi akut terkontrol, strategi operasi selanjutnya ditentukan berda
 
 Perubahan patologis meliputi kerusakan jaringan ikat penyangga → prolaps → pembesaran pleksus vaskular.
 
+![gh|337](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911207540002ztcmd.png)
+
 > ⚠️ Tidak semua keluhan anorektal merupakan hemoroid.
 
 ## Klasifikasi
-
 ### Hemoroid interna
 
 Terletak **di atas linea dentata**, dilapisi epitel kolumnar dan mukosa transisional.
@@ -1883,11 +1884,15 @@ Terletak **di atas linea dentata**, dilapisi epitel kolumnar dan mukosa transisi
 |**III**|Prolaps dan **harus direduksi manual**|
 |**IV**|Prolaps permanen, **tidak dapat direduksi** / dapat mengalami inkarserasi|
 
+![gh|480](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791120700000vb1l26.png)
+
 ### Hemoroid eksterna
 
 Terletak **di bawah linea dentata**.
 
 Dapat mengalami trombosis → **thrombosed external hemorrhoid**.
+
+![gh|434](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791120811000ea9b6q.png)
 
 ## Patogenesis
 
@@ -1898,6 +1903,19 @@ Dapat mengalami trombosis → **thrombosed external hemorrhoid**.
 → pelepasan mediator inflamasi  
 → edema/inflamasi  
 → perdarahan, nyeri, pruritus, tenesmus, discharge, prolaps.
+
+## Faktor Risiko Hemoroid 🩸
+
+- 🤰 **Kehamilan**
+- 🪑 **Posisi duduk tidak berpindah-pindah** / terlalu lama duduk
+- 🍽️ **Pola makan**
+    - Diet rendah serat
+    - Makanan pedas
+    - Alkohol
+- ⚖️ **Obesitas**
+- 🚽 **Konstipasi kronis / diare**
+- ⏳ **Kebiasaan jarang BAB**
+    - BAB yang lama / menahan BAB
 
 ## Gejala
 
@@ -1925,6 +1943,9 @@ Cari:
 - kondiloma,
 - fistula,
 - kelainan anorektal lain.
+
+![gh|483](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791121161000b8e5k4.png)
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791121424000lwdb63.png)
 
 ### Colok dubur
 
@@ -1954,253 +1975,242 @@ Nilai:
 
 Perdarahan rektum tidak boleh otomatis dianggap hemoroid karena dapat merupakan tanda kanker kolorektal.
 
-PPT merekomendasikan perhatian khusus pada pasien **>40 tahun dengan perdarahan rektum**, terutama bila terdapat riwayat keluarga kanker kolorektal.
+Perhatian khusus pada pasien **>40 tahun dengan perdarahan rektum**, terutama bila terdapat riwayat keluarga kanker kolorektal.
+
+## Tatalaksana Hemoroid 🩸
+
+Prinsip tatalaksana hemoroid bergantung terutama pada **derajat prolaps** dan beratnya gejala.
+
+### 1. Tatalaksana Awal: Konservatif + Obat
+
+**Dapat diberikan pada semua grade**, termasuk grade III–IV, terutama untuk mengurangi gejala dan memperbaiki faktor pencetus.
+
+#### Modifikasi gaya hidup
+
+- 🥬 **Perbanyak serat**
+- 💧 **Perbanyak cairan**
+- 🚽 Tidak berlama-lama di kamar mandi
+- Hindari mengejan berlebihan saat BAB
+- 🏃 Olahraga
+- **Pencahar** bila diperlukan, terutama bila terdapat konstipasi
+- 🧼 Menjaga kebersihan daerah perianal
+
+#### Obat
+
+- **Anestesi topikal** → misalnya lidokain untuk mengurangi nyeri pada lesi ringan.
+- **Phlebotonik/venoaktif** → membantu mengurangi gejala hemoroid.
+- **Supositoria/topikal** dapat mengandung kombinasi steroid, anestetik, antiseptik, dan _barrier cream_ untuk meredakan gejala hemoroid akut sementara.
+- **MPFF (Micronized Purified Flavonoid Fraction)**:
+    - Dosis akut: **3.000 mg/hari selama 4 hari**
+    - Kemudian **2.000 mg/hari selama 3 hari**
+    - Pemeliharaan: **1.000 mg/hari hingga 2 bulan**
 
 ---
 
-## Tata laksana hemoroid
+### 2. Pemilihan Tatalaksana Berdasarkan Grade
 
-Prinsipnya:
+|Grade|Gambaran|Tatalaksana|
+|---|---|---|
+|**I**|Tidak prolaps|**Konservatif + obat** → bila gejala menetap dapat dilakukan prosedur nonoperatif|
+|**II**|Prolaps saat BAB, **reduksi spontan**|**Konservatif + obat** → bila masih bergejala dapat **RBL, skleroterapi, atau infrared photocoagulation**|
+|**III**|Prolaps saat BAB, **harus direduksi manual**|**Konservatif + obat sebagai awal** → evaluasi untuk **tindakan definitif**, terutama bedah|
+|**IV**|Prolaps permanen/inkarserasi|**Konservatif + obat sebagai penanganan awal/simptomatik** → **terapi bedah definitif**|
 
-1. Modifikasi gaya hidup.
-2. Obat.
-3. Prosedur nonoperatif.
-4. Operasi.
+#### 🧠 Kunci memahami grade
 
-### Konservatif
+**Grade I–II → prolaps minimal/tidak menetap**  
+→ konservatif ± **office procedure**
 
-- Tidak berlama-lama di toilet.
-- Meningkatkan serat.
-- Cukup cairan.
-- Olahraga.
-- Pencahar bila diperlukan.
-- Menjaga kebersihan perianal.
-- Anestetik topikal untuk nyeri ringan.
-- Phlebotonic/venoactive drugs.
-
-Obat topikal dapat mengandung kombinasi:
-
-- steroid,
-- anestetik,
-- antiseptik,
-- barrier cream.
-
-Venotonic dapat membantu mengurangi gejala dan perdarahan melalui:
-
-- peningkatan tonus vaskular,
-- penurunan kapasitas vena,
-- penurunan permeabilitas kapiler,
-- peningkatan drainase limfatik,
-- efek antiinflamasi.
-
-### Micronized Purified Flavonoid Fraction (MPFF)
-
-PPT mencantumkan regimen:
-
-- dosis akut **3000 mg/hari selama 4 hari**,
-- kemudian **2000 mg/hari selama 3 hari**,
-- maintenance **1000 mg/hari hingga 2 bulan**.
-
-> ⚠️ Regimen obat mengikuti materi PPT; dalam praktik klinis harus mengikuti indikasi, produk, kontraindikasi, dan pedoman yang berlaku.
+**Grade III–IV → prolaps sudah signifikan**  
+→ konservatif tetap diberikan sebagai **tatalaksana awal**  
+→ tetapi **tindakan definitif, terutama pembedahan, perlu dipertimbangkan**.
 
 ---
 
-## Rubber Band Ligation
+### 3. Prosedur Nonoperatif (_Office-Based Procedure_)
 
-Mekanisme:
+#### **Rubber-Band Ligation (RBL)**
 
-**Rubber band pada basis hemoroid**  
-→ strangulasi pembuluh  
-→ aliran darah terhenti  
-→ nekrosis  
-→ jaringan fibrosis  
-→ anal cushion terfiksasi  
-→ prolaps berkurang.
+Terutama digunakan pada hemoroid yang masih dapat ditangani dengan prosedur nonoperatif, terutama **grade II dan sebagian grade III**.
 
-- Band biasanya terlepas dalam **1–2 minggu**.
-- Satu atau beberapa bantalan dapat diligasi.
-- Dapat menimbulkan nyeri sementara.
-- Komplikasi utama: perdarahan.
-- Kekambuhan dilaporkan dalam PPT sekitar **11–50%**.
+**Mekanisme:**
+
+Rubber band dipasang pada basis hemoroid  
+→ strangulasi pembuluh darah  
+→ nekrosis jaringan  
+→ terbentuk fibrosis  
+→ _anal cushion_ terfiksasi  
+→ mengurangi prolaps.
+
+- Rubber band biasanya terlepas dalam **1–2 minggu**
+- Dapat dilakukan pada satu atau beberapa bantalan hemoroid sekaligus
+- Nyeri biasanya berlangsung beberapa jam
+- Komplikasi: **perdarahan**
+- Rekurensi: **11–50%**
+- Kelebihan: aman, murah, mudah, dan cepat.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791122345000w4nqy9.png)
+
+#### **Skleroterapi**
+
+- Skleroterapi adalah **pemberian injeksi agen sklerotik** ke dalam **submukosa kantong hemoroid** yang akan menyebabkan r**eaksi inflamasi** dan akhirnya **membentuk jaringan fibrotik** yang **menghentikan aliran darah ke hemoroid**.
+- Agen sklerotik: 5% fenol dalam minyak almond, etanolamin, dan salin hipertonik.
+- Beberapa uji coba skleroterapi menunjukkan **tingkat keberhasilan sejauh ini lebih tinggi pada hemoroid grade I** dibandingkan gradeII dan III.
+- Indikasi: hemoroid dengan perdarahan, pasien risiko tinggi perdarahan sekunder, pasien immunocompromised.
+- Kelebihan:
+	- Hemat
+	- Aman
+	- Cepat
+- Kekurangan: kurang efektif dibandingkan metode Rubber Band Ligation.
+- Komplikasi:
+	- Perdarahan
+	- Nyer
+	- Ulserasi mukosa vagina
+	- Prostatitis
+	- impotensi
+	- Hematuria
+	- Hematospermia
+	- Sepsis retroperitoneal
+	- Necrotizing fasciitis
+	- Portal pyaemia
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791122381000oxqu85.png)
+
+#### **Infrared Photocoagulation**
+
+Probe inframerah menghasilkan panas, sehingga menginduksi:
+
+→ koagulasi  
+→ fibrosis + nekrosis jaringan hemoroid.
+
+- Awalnya terutama untuk **grade I–II**
+- Dapat digunakan pada grade lebih tinggi pada kondisi tertentu
+- Efektivitas dapat serupa RBL dengan nyeri yang lebih sedikit
+- Kekurangan: alat lebih mahal dan penggunaannya belum diterima secara universal.
+
+![gh|709](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911227260002xttuz.png)
+![gh|419](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791122757000tt44xr.png)
+#### **Terapi Lainnya**
+
+1. **Bipolar**
+	Aplikasi bipolar diathermy watt rendah menghasilkan koagulasi jaringan. Komplikasi yang dapat terjadi berupa nyeri, perdarahan, dan fissura.
+2. **Direct current**
+	Mengaplikasikan probe ke hemoroid selama kurang lebih 10 menit/hemoroid. Hasil yang terbaik setara hasilnya dengan metode injeksi skleroterapi dan rubber band ligation, tetapi memakan waktu lebih lama.
+3. **Radiofrequency ablation therapy**
+	Memotong jaringan hemoroid dengan daya yang lebih kecil. Keefektifan serupa dengan metode rubber band ligation namun dengan nyeri yang lebih kurang. Kekurangan: peralatan yang mahal dan prosedur ini belum diterima secara universal.
+
+### 4. Grade III–IV ⭐ **Kompetensi 3A**
+#### **Hemoroid Grade III**
+
+**Tatalaksana awal:**  
+→ **Konservatif + modifikasi gaya hidup + obat**
+
+Tujuannya:
+
+- mengurangi perdarahan/nyeri/gejala,
+- memperbaiki konstipasi dan kebiasaan BAB,
+- mengurangi faktor yang memperberat prolaps.
+
+Jika prolaps dan gejala **tetap menetap atau signifikan**:
+
+→ pertimbangkan **tindakan definitif**, terutama **pembedahan**.
+
+#### **Hemoroid Grade IV**
+
+Grade IV mengalami **prolaps permanen/inkarserasi**.
+
+**Tatalaksana awal:**  
+→ konservatif + terapi obat untuk **mengontrol gejala dan kondisi akut**.
+
+Namun, karena prolaps sudah permanen:
+
+→ **rujuk untuk terapi bedah definitif** ✂️
+
+Pembedahan sangat dianjurkan pada **hemoroid interna grade III–IV**, hemoroid eksterna, dan hemoroid yang mengalami kekambuhan.
+
+> ⚠️ Jadi, **jangan menghafal “grade III–IV langsung operasi” secara terlalu kaku.**  
+> **Tatalaksana awal tetap konservatif + obat**, tetapi grade III–IV mempunyai indikasi kuat untuk **terapi definitif**, terutama pembedahan.
 
 ---
 
-## Infrared Photocoagulation
+## 5. Tatalaksana Bedah
 
-Probe inframerah menghasilkan panas → **koagulasi → fibrosis → nekrosis jaringan hemoroid**.
+#### **Hemoroidektomi**
 
-Awalnya terutama untuk grade I–II, tetapi PPT mencantumkan hasil yang dapat diterima pada grade III–IV.
+Merupakan tindakan eksisi jaringan hemoroid dan merupakan terapi konvensional untuk hemoroid yang mengalami prolaps.
 
-Kelebihan:
+**Teknik:**
 
-- efektivitas dapat menyerupai rubber band ligation,
-- nyeri lebih sedikit.
+- **Milligan–Morgan** → hemoroidektomi terbuka
+- **Ferguson** → hemoroidektomi tertutup
 
-Kekurangan:
+**Kelebihan:**
 
-- peralatan lebih mahal.
+- Efektif
+- Tingkat kekambuhan lebih rendah
 
-Komplikasi:
+**Kekurangan/komplikasi:**
 
-- rasa tidak nyaman,
-- perdarahan.
+- Nyeri pascaoperasi
+- Perdarahan
+- Retensi urin
+- Infeksi
+- Fisura iatrogenik
+- Stenosis
+- Inkontinensia
 
----
+#### Pilihan bedah lainnya
 
-## Skleroterapi
+- **Stapled hemorrhoidopexy**
+- **Hemorrhoidal Artery Ligation (HAL)**
 
-Agen sklerotik disuntikkan ke submukosa hemoroid:
+**HAL:**
 
-**sklerosan → inflamasi → fibrosis → aliran darah berkurang.**
-
-Agen:
-
-- fenol 5% dalam minyak almond,
-- etanolamin,
-- saline hipertonik.
-
-Lebih efektif pada **grade I** dibandingkan grade II–III.
-
-Indikasi:
-
-- hemoroid dengan perdarahan,
-- pasien berisiko tinggi mengalami perdarahan sekunder,
-- pasien immunocompromised.
-
-Kelebihan:
-
-- murah,
-- cepat,
-- relatif aman.
-
-Kekurangan:
-
-- kurang efektif dibanding rubber band ligation.
-
-Komplikasi yang tercantum dalam PPT:
-
-- nyeri,
-- perdarahan,
-- ulserasi,
-- prostatitis,
-- impotensi,
-- hematuria,
-- hematospermia,
-- sepsis retroperitoneal,
-- necrotizing fasciitis,
-- portal pyaemia.
+- Menggunakan proktoskop yang dimodifikasi + probe Doppler
+- Mendeteksi arteri hemoroid yang menyuplai _anal cushion_
+- Pembuluh darah kemudian diligasi → mengurangi edema hemoroid
+- Jahitan dapat digunakan untuk menarik jaringan yang prolaps ke arah proksimal.
 
 ---
 
-## Terapi prosedural lain
+### 🧠 Algoritma Hafalan
 
-- **Bipolar diathermy** → koagulasi jaringan.
-- **Direct current** → probe diaplikasikan pada hemoroid sekitar 10 menit/hemoroid.
-- **Radiofrequency ablation** → ablasi/pemotongan jaringan dengan energi lebih rendah.
+```
+HEMOROID
+   ↓
+Tentukan GRADE
+   ↓
+SEMUA GRADE
+→ Konservatif + lifestyle + obat
+   ↓
+┌──────────────────────┐
+│ GRADE I–II            │
+│ ↓                     │
+│ Gejala menetap        │
+│ → Office procedure    │
+│   • Skleroterapi      │
+│   • RBL               │
+│   • Infrared          │
+└──────────────────────┘
 
-Komplikasi yang dapat terjadi:
+┌──────────────────────────┐
+│ GRADE III–IV              │
+│ ↓                         │
+│ Konservatif + obat        │
+│ sebagai tatalaksana awal  │
+│ ↓                         │
+│ Prolaps/gejala signifikan │
+│ ↓                         │
+│ TERAPI DEFINITIF          │
+│ → terutama PEMBEDAHAN ✂️  │
+└──────────────────────────┘
+```
 
-- nyeri,
-- perdarahan,
-- fissura.
+#### ⭐ Hafalan ujian
 
----
-
-## Operasi Hemoroid
-
-Pembedahan merupakan terapi yang sangat dianjurkan pada:
-
-- **hemoroid interna grade III**
-- **hemoroid interna grade IV**
-- hemoroid eksterna tertentu,
-- hemoroid berulang.
-
-Pilihan:
-
-- hemoroidektomi terbuka,
-- hemoroidektomi tertutup,
-- stapled hemorrhoidopexy,
-- hemorrhoidal artery ligation (HAL).
-
-### Hemoroidektomi
-
-Dua teknik klasik:
-
-**Milligan–Morgan**  
-→ eksisi terbuka.
-
-**Ferguson**  
-→ eksisi tertutup.
-
-PPT juga mencantumkan teknik Parks, Whitehead, dan Langenback.
-
-Komplikasi:
-
-- nyeri,
-- perdarahan,
-- retensi urin,
-- infeksi,
-- fissura iatrogenik,
-- stenosis,
-- inkontinensia.
-
-Eksisi hemoroidektomi memiliki kekambuhan lebih rendah tetapi umumnya menyebabkan **nyeri pascaoperasi lebih tinggi** dibanding beberapa metode lainnya.
-
-PPT mencatat bahwa teknik tertutup dapat memberikan:
-
-- nyeri pascaoperasi lebih sedikit,
-- penyembuhan lebih baik,
-- perdarahan lebih sedikit,  
-    dibanding eksisi terbuka pada studi yang disebutkan.
-
-### Hemorrhoidal Artery Ligation / HAL
-
-Menggunakan:
-
-- proktoskop yang dimodifikasi,
-- probe Doppler.
-
-Tujuan:  
-**identifikasi arteri hemoroid → ligasi → aliran darah berkurang → edema berkurang.**
-
-Dapat disertai **mucopexy** untuk mengangkat jaringan yang prolaps.
-
-Komplikasi biasanya ringan:
-
-- perdarahan,
-- retensi urin,
-- trombosis,
-- fissura.
-
-Doppler-guided HAL memiliki nyeri pascaoperasi relatif rendah.
-
-### Stapled hemorrhoidopexy
-
-Bagian jaringan yang prolaps direposisi ke arah proksimal menggunakan stapler.
-
-Dilakukan sekitar **4–5 cm di atas linea dentata**.
-
-Kelebihan:
-
-- nyeri pascaoperasi lebih rendah,
-- pemulihan lebih cepat,
-- dapat dilakukan sebagai _one-day care_.
-
-Kekurangan:
-
-- kekambuhan dapat lebih tinggi.
-
-Bukan pilihan untuk:
-
-- hemoroid interna dengan trombosis,
-- hemoroid eksterna.
-
-Komplikasi:
-
-- cedera/terpotongnya sfingter,
-- fistula rektovaginal,
-- stenosis anal,
-- pelvic sepsis.
+**I–II → konservatif ± office procedure**  
+**III–IV → konservatif sebagai awal → pikirkan terapi definitif/bedah**  
+**IV → prolaps permanen → rujuk bedah**
 
 ---
 
