@@ -200,8 +200,30 @@ Jika berlanjut dapat timbul:
 
 ---
 
-## Tanda klinis penting pada Akut Abdomen
+## Gejala dan Tanda Penting pada Akut Abdomen
 
+### Posisi Pasien 🛏️
+
+Posisi tubuh pasien dalam usahanya mengurangi nyeri dapat menjadi petunjuk penting saat mendiagnosis.
+
+| Kondisi                           | Posisi khas pasien                                                                                                                        | Alasan/petunjuk                                               |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Pankreatitis akut**             | Berbaring **miring ke kiri** dengan fleksi tulang belakang, panggul, dan lutut; atau **duduk membungkuk** dengan fleksi panggul dan lutut | Posisi ini dapat mengurangi nyeri                             |
+| **Abses hati**                    | Berjalan **sedikit membungkuk** sambil menekan perut bagian atas, seolah-olah “menggendong” absesnya                                      | Mengurangi nyeri pada daerah abses                            |
+| **Apendisitis akut retrosekal**   | Berbaring dengan **fleksi sendi panggul**                                                                                                 | Melemaskan **m. psoas** yang teriritasi oleh apendiks         |
+| **Iritasi diafragma**             | **Setengah duduk**                                                                                                                        | Lebih nyaman dan memudahkan pernapasan                        |
+| **Peritonitis lokal maupun umum** | **Diam/tidak banyak bergerak**                                                                                                            | Gerakan meningkatkan iritasi peritoneum → nyeri semakin berat |
+| **Kolik**                         | **Gelisah dan terus bergerak**                                                                                                            | Pasien berusaha mencari posisi yang dapat mengurangi nyeri    |
+
+#### 🧠 Poin yang paling penting
+
+> **Peritonitis → diam karena bergerak makin sakit.**  
+> **Kolik → gelisah karena terus mencari posisi nyaman.**
+
+### Tanda Klinis Penting
+
+Khusus **apendisitis retrosekal**:  
+**Appendiks dekat psoas → psoas teriritasi → panggul difleksikan → otot psoas lebih rileks.**
 - **Rovsing sign** → penekanan abdomen kiri bawah menimbulkan nyeri di kanan bawah.
 - **Psoas sign** → nyeri kanan bawah saat ekstensi panggul kanan; dapat menunjukkan iritasi otot psoas oleh appendix.
 - **Obturator sign** → nyeri saat rotasi internal panggul kanan.
