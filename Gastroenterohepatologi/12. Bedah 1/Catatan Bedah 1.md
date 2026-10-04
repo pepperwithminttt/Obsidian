@@ -2144,6 +2144,8 @@ Merupakan tindakan eksisi jaringan hemoroid dan merupakan terapi konvensional un
 - **Milligan–Morgan** → hemoroidektomi terbuka
 - **Ferguson** → hemoroidektomi tertutup
 
+![gh|444](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791123102000o50899.png)
+
 **Kelebihan:**
 
 - Efektif
@@ -2166,59 +2168,22 @@ Merupakan tindakan eksisi jaringan hemoroid dan merupakan terapi konvensional un
 
 **HAL:**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911233950001zhpz9.png)
+
 - Menggunakan proktoskop yang dimodifikasi + probe Doppler
 - Mendeteksi arteri hemoroid yang menyuplai _anal cushion_
 - Pembuluh darah kemudian diligasi → mengurangi edema hemoroid
 - Jahitan dapat digunakan untuk menarik jaringan yang prolaps ke arah proksimal.
 
----
-
-### 🧠 Algoritma Hafalan
-
-```
-HEMOROID
-   ↓
-Tentukan GRADE
-   ↓
-SEMUA GRADE
-→ Konservatif + lifestyle + obat
-   ↓
-┌──────────────────────┐
-│ GRADE I–II            │
-│ ↓                     │
-│ Gejala menetap        │
-│ → Office procedure    │
-│   • Skleroterapi      │
-│   • RBL               │
-│   • Infrared          │
-└──────────────────────┘
-
-┌──────────────────────────┐
-│ GRADE III–IV              │
-│ ↓                         │
-│ Konservatif + obat        │
-│ sebagai tatalaksana awal  │
-│ ↓                         │
-│ Prolaps/gejala signifikan │
-│ ↓                         │
-│ TERAPI DEFINITIF          │
-│ → terutama PEMBEDAHAN ✂️  │
-└──────────────────────────┘
-```
-
-#### ⭐ Hafalan ujian
+### 🧠 Hafalan #Ingat
 
 **I–II → konservatif ± office procedure**  
 **III–IV → konservatif sebagai awal → pikirkan terapi definitif/bedah**  
 **IV → prolaps permanen → rujuk bedah**
 
----
+### Penanganan nyeri pascahemoroidektomi
 
-## Penanganan nyeri pascahemoroidektomi
-
-Nyeri pascaoperasi dapat cukup berat.
-
-PPT mencantumkan:
+Nyeri pascaoperasi dapat cukup berat sehingga butuh penanganan seperti:
 
 - anestesi yang baik,
 - analgesia adekuat,
@@ -2226,16 +2191,16 @@ PPT mencantumkan:
 - _sitz bath_,
 - diatermi.
 
-## Perdarahan pascaoperasi
+### Perdarahan pascaoperasi
 
-PPT mencatat perdarahan sekitar **3,3–6,7%**.
+Kejadian perdarahan sekitar **3,3–6,7%**.
 
 Perdarahan sekunder sering terjadi sekitar **hari ke-7–14**, antara lain akibat:
 
 - sepsis pada pedikel hemoroid,
 - robekan luka saat defekasi.
 
-Tatalaksana yang dicantumkan:
+Tatalaksana:
 
 - adrenaline anal pack,
 - balloon catheter tamponade,
