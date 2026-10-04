@@ -10,6 +10,8 @@
 - Aliran normal empedu:  
     **Hati → kandung empedu → common bile duct → usus**.
 
+![gh|408](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911288360001ecih4.png)
+
 ## Patofisiologi 🔥
 
 **Iskemia kandung empedu**  
@@ -21,7 +23,7 @@
 → terbentuk **gas di dalam dinding/lumen kandung empedu**  
 → **emphysematous cholecystitis**.
 
-Faktor yang berperan:
+Faktor predisposisi:
 
 - **Arteriosklerosis** → mengganggu sirkulasi darah → iskemia → nekrosis.
 - **Diabetes melitus** → berkaitan dengan peningkatan risiko infeksi oleh bakteri anaerob.
@@ -29,16 +31,13 @@ Faktor yang berperan:
 
 ### Bakteri penyebab 🦠
 
-Organisme pembentuk gas yang disebutkan:
+Organisme pembentuk gas, misalnya:
 
 - _Clostridium_ spp.
 - _Escherichia coli_
 - _Klebsiella_ spp.
 
 Bakteri menghasilkan gas ketika memetabolisme **glukosa dalam kondisi anaerob**.
-
-> 🧠 **Tips hafalan:**  
-> **“Cl-E-K = gas bikin GB”** → _Clostridium – E. coli – Klebsiella_.
 
 ## Gambaran Anatomi & Patologi 🔬
 
@@ -49,6 +48,8 @@ Bakteri menghasilkan gas ketika memetabolisme **glukosa dalam kondisi anaerob**.
 - Gas dapat berada:
     - **Intramural** → di dalam dinding kandung empedu.
     - **Intraluminal** → di dalam lumen kandung empedu.
+
+![gh|482](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791129005000ho8nyo.png)
 
 Mekanismenya terutama:  
 **iskemia lokal → lingkungan mendukung pertumbuhan bakteri anaerob → bakteri menghasilkan gas → gas terakumulasi pada jaringan/dalam kandung empedu**.
@@ -72,6 +73,8 @@ Dapat menunjukkan:
 - **Udara intraluminal**.
 - **Air–fluid level**, yaitu batas antara udara dan cairan di dalam kandung empedu.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791129107000yb0wih.png)
+
 ### CT scan ⭐
 
 CT merupakan modalitas pencitraan yang **paling sensitif untuk mendeteksi gas intramural maupun intraluminal**.
@@ -83,6 +86,8 @@ Dapat menunjukkan:
 - **Gas intramural**.
 - **Air–fluid level**.
 - Dapat disertai **cholelithiasis (batu empedu)**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911291340007rafp6.png)
 
 > 🧠 **Hafalan imaging:**  
 > **USG = gas → dirty shadowing**  
