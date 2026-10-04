@@ -58,6 +58,7 @@ Klasifikasi **Todani** membagi choledochal cyst menjadi **tipe I–V** berdasark
 > 🧠 **Urutan gampang:**  
 > **I = satu saluran → II = divertikulum → III = duodenum → IV = intra + ekstra → V = intra saja**
 
+#Ingat Enaknya sih hafal saja gambar ini!
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791127862000qqdus5.png)
 
 # Etiologi & Patofisiologi
@@ -142,6 +143,8 @@ Modalitas yang digunakan:
 Prinsip tatalaksana bergantung pada **tipe Todani, lokasi keterlibatan, anatomi saluran empedu, dan kemungkinan reseksi**.
 
 ## Tipe I
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911281580000fxwev.png)
 
 **Terapi standar:**
 
