@@ -125,6 +125,8 @@ Jika berlangsung kronis:
 → fibrosis  
 → dapat berkembang menjadi **kolesistitis atau ruptur kandung empedu** bila tidak ditangani.
 
+![gh|399](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791129253000iqhzn7.png)
+
 > 🧠 **Tips hafalan:**  
 > **“Sumbat → empedu terjebak → garam diserap → mukus terus keluar → GB membesar.”** 💧🎈
 
@@ -136,7 +138,7 @@ Jika berlangsung kronis:
     - terutama bila **hasil laboratorium dapat tetap normal**.
 - **USG** merupakan pemeriksaan awal terbaik untuk evaluasi kondisi ini.
 
-## Tatalaksana 💊🔪
+## Tatalaksana (Cuma Nice to Know)💊🔪
 
 ### Tatalaksana awal
 
@@ -153,8 +155,6 @@ Jika berlangsung kronis:
 
 ### Komplikasi tatalaksana
 
-Yang disebutkan dalam materi:
-
 - **Bile leak** → kebocoran empedu.
 - **Infeksi**.
 - **Biliary injury** → cedera pada saluran bilier.
@@ -163,7 +163,7 @@ Yang disebutkan dalam materi:
 > **“Hydrops → stabilisasi dulu → angkat GB.”**  
 > 💧 Cairan + 💊 analgesik → 🔪 **cholecystectomy**
 
-## Poin Penting untuk Ujian 🎯
+# Poin Penting untuk Ujian 🎯
 
 - **Emphysematous cholecystitis**
     - Iskemia → nekrosis → bakteri pembentuk gas → gas dalam kandung empedu.
