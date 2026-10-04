@@ -118,19 +118,20 @@ Jika terdapat **gap >3 cm**:
 
 # Atresia Bilier
 
-## Ikterus Neonatorum
+## Pendahuluan
+### Ikterus Neonatorum
 
 Ikterus neonatorum sering ditemukan pada bayi:
 
 - sekitar **50% bayi aterm**
 - sekitar **80% bayi preterm**.
 
-### Ikterus Fisiologis
+#### Ikterus Fisiologis
 
 - Tampak pada usia **3–4 hari**.
 - Kemudian berkurang secara perlahan.
 
-### Ikterus Patologis
+#### Ikterus Patologis
 
 Dicurigai bila:
 
@@ -139,9 +140,9 @@ Dicurigai bila:
 - bilirubin meningkat >**5 mg/dL/hari** atau >**0,2 mg/dL/jam**;
 - ikterus menetap **>14 hari** → _prolonged neonatal jaundice_.
 
-## Metabolisme Bilirubin
+### Metabolisme Bilirubin
 
-### Prahepatik
+#### Prahepatik
 
 Eritrosit tua mengalami destruksi → menjadi **heme + globin**.
 
@@ -155,7 +156,7 @@ Heme diubah menjadi:
 - larut lemak;
 - tidak larut air.
 
-### Hepatik
+#### Hepatik
 
 - Bilirubin tak terkonjugasi berikatan dengan **albumin** → dibawa ke hepar.
 - Diambil hepatosit dengan bantuan **protein Y dan Z**.
@@ -167,7 +168,7 @@ Heme diubah menjadi:
 - larut air;
 - tidak larut lemak.
 
-### Pascahepatik
+#### Pascahepatik
 
 - Bilirubin terkonjugasi → ditranspor ke empedu → usus.
 - Bakteri usus mengubahnya menjadi berbagai senyawa, termasuk:
@@ -179,7 +180,7 @@ Heme diubah menjadi:
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791079767000xxgxzt.png)
 
-## Prolonged Neonatal Jaundice
+### Prolonged Neonatal Jaundice
 
 - Bayi aterm → ikterus tetap ada pada usia **2 minggu**.
 - Bayi preterm → ikterus tetap ada pada usia **3 minggu**.
