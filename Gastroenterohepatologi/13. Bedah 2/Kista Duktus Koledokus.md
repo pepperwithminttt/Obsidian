@@ -28,6 +28,7 @@ Klasifikasi **Todani** membagi choledochal cyst menjadi **tipe I–V** berdasark
 |**IV-A**|Dilatasi **intrahepatik + ekstrahepatik**|**A = All**|
 |**IV-B**|Multipel dilatasi **ekstrahepatik**, tanpa keterlibatan intrahepatik|**B = Bile duct extrahepatic**|
 |**V**|Dilatasi **hanya intrahepatik** → **Caroli disease**|**V = Very intrahepatic**|
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179112760200024qrxj.png)
 
 ## Tipe I
 
@@ -56,6 +57,8 @@ Klasifikasi **Todani** membagi choledochal cyst menjadi **tipe I–V** berdasark
 
 > 🧠 **Urutan gampang:**  
 > **I = satu saluran → II = divertikulum → III = duodenum → IV = intra + ekstra → V = intra saja**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791127862000qqdus5.png)
 
 # Etiologi & Patofisiologi
 
