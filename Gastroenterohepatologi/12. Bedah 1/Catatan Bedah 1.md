@@ -1283,7 +1283,7 @@ Pemeriksaan:
 ![gh|466](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117489000zlrtja.png)
 ![gh|460](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911175140004bozhw.png)
 
-### Tata laksana intususepsi
+#### Tata laksana intususepsi
 
 Stabilisasi:
 
@@ -1313,9 +1313,9 @@ Jika reduksi gagal atau terdapat perforasi/peritonitis/iskemia:
 
 **Volvulus** = puntiran segmen usus pada mesenteriumnya sehingga dapat menghambat passage dan aliran darah.
 
-**Volvulus → obstruksi → gangguan vaskular → iskemia → gangren → perforasi.**
+![gh|204](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117691000puxwk2.png)
 
-PPT menyebut volvulus lebih sering pada perempuan dekade ke-4 dan ke-5 untuk tipe yang dibahas dan dapat muncul akut dengan gambaran obstruksi.
+**Volvulus → obstruksi → gangguan vaskular → iskemia → gangren → perforasi.**
 
 Gambaran radiologi:
 
@@ -1327,16 +1327,32 @@ Gambaran radiologi:
 - _bird beak appearance_ pada pemeriksaan kontras,
 - _whirlpool sign_ pada CT.
 
+![gh|539](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911177590001bug1f.png)
+
 Pada volvulus sigmoid:
 
-- sigmoidoskopi dapat membantu diagnosis dan dekompresi.
-- laparotomi dilakukan bila diperlukan, terutama bila terdapat iskemia/perforasi.
+- **sigmoidoskopi** dapat membantu diagnosis dan dekompresi.
+- **laparotomi** dilakukan bila diperlukan, terutama bila terdapat iskemia/perforasi.
+
+![gh|209](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911178210008o5r2l.png)
+
+![gh|224](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117884000dh9pdt.png)
+
+![gh|482](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117901000kihrq3.png)
+
+![gh|494](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117921000rs4d0p.png)
+
+![gh|507](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911179600005ys7d8.png)
+
+![gh|501](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117978000otk39f.png)
+
+![gh|500](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179111800000038ldz4.png)
 
 ### Adhesive Small Bowel Obstruction (ASBO)
 
 Merupakan obstruksi usus halus akibat **adhesi pascaoperasi**.
 
-PPT menyebut ASBO menyumbang sekitar **60–70% kasus SBO**.
+ASBO menyumbang sekitar **60–70% kasus SBO**.
 
 Adhesi dapat terbentuk akibat:
 
