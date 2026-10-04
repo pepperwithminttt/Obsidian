@@ -345,8 +345,6 @@ Pemeriksaan tambahan:
 3. **Locally advanced**
 4. **Metastatic**
 
-Materi mencantumkan:
-
 - Kontak arteri ≤180° → borderline.
 - Metastasis tersering → **hepar dan paru**.
 
@@ -365,6 +363,8 @@ Tujuan utama pada penyakit yang dapat direseksi:
 
 - **Whipple / pancreaticoduodenectomy** terutama untuk tumor kaput.
 - Dilanjutkan adjuvant kemoterapi, misalnya **mFOLFIRINOX**.
+
+![gh|489](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911348710007mru34.png)
 
 **Borderline resectable:**
 
@@ -479,7 +479,7 @@ Saat kolonoskopi dokumentasikan:
 
 ### Skrining & Biomarker
 
-- Materi mencantumkan skrining dimulai **usia 45 tahun**.
+- Skrining dimulai **usia 45 tahun**.
 - Kolonoskopi setiap 10 tahun pada interval skrining yang sesuai.
 - FIT (_fecal immunochemical test_) tiap tahun.
 
@@ -500,9 +500,10 @@ Implikasi:
 
 # Polip Kolorektal
 
+Polip kolorektal adalah ==pertumbuhan jaringan abnormal pada lapisan dalam usus besar atau rektum yang sebagian besar bersifat jinak, namun berpotensi berkembang menjadi kanker jika dibiarkan==
 Sekitar 70% polip kolon merupakan adenoma. Tujuan utama identifikasi polip adalah menentukan **potensi keganasan dan interval surveilans**.
 
-### Klasifikasi
+## Klasifikasi
 
 **Non-neoplastik — risiko kanker rendah:**
 
@@ -550,7 +551,7 @@ Proses berlangsung sekitar **10–15 tahun**, sehingga terdapat _window_ untuk s
 
 ---
 
-# Tatalaksana Polip Kolorektal
+## Tatalaksana Polip Kolorektal
 
 Tujuan polipektomi:
 
@@ -594,9 +595,7 @@ Tujuan polipektomi:
 
 **FAP:**
 
--   
-    
-    > 100 polip → dapat memerlukan **proktokolektomi profilaksis**.
+- >100 polip → dapat memerlukan **proktokolektomi profilaksis**.
     
 
 Pencegahan:
