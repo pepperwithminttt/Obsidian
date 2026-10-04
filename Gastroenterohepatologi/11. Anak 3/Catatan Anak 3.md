@@ -143,7 +143,7 @@ Dicurigai bila:
 
 ### Prahepatik
 
-Eritrosit tua mengalami destruksi → **heme + globin**.
+Eritrosit tua mengalami destruksi → menjadi **heme + globin**.
 
 Heme  
 → biliverdin oleh **heme oksigenase**  
@@ -176,6 +176,8 @@ Heme
 - Sterkobilin memberi warna cokelat pada feses.
 - Sekitar **10–20% urobilinogen** mengalami sirkulasi enterohepatik.
 - Sebagian kecil diekskresikan melalui urine.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791079767000xxgxzt.png)
 
 ## Prolonged Neonatal Jaundice
 
