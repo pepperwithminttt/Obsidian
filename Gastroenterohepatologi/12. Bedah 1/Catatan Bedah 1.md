@@ -1384,6 +1384,8 @@ Jenis yang paling sering:
 - insisional,
 - internal hernia.
 
+![gh|511](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118258000xtcygt.png)
+
 Obstruksi terjadi di **leher hernia**.
 
 Urutan gangguan vaskular:  
@@ -1407,9 +1409,9 @@ Tanda strangulasi:
 
 # Acute Mesenteric Ischemia 🩸🚨
 
-> **Ini juga termasuk penyebab akut abdomen dan merupakan bagian penting PPT, meskipun bukan salah satu dari enam penyakit utama yang kamu minta.**
-
 **Acute mesenteric ischemia (AMI)** adalah keadaan emergensi akibat **terputus/berkurangnya aliran darah ke usus**, sehingga dapat menyebabkan infark dan gangren usus.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118330000mqqrtm.png)
 
 ### Jenis
 
