@@ -1,4 +1,4 @@
-## Definisi & Anatomi
+# Definisi
 
 - **Abses perianal** adalah **rongga terinfeksi yang berisi pus (nanah)**, terletak di sekitar anus atau rektum dan dikelilingi jaringan yang mengalami inflamasi.
 - Sekitar **90% kasus berasal dari infeksi kelenjar kriptus anal (cryptoglandular infection)**.
@@ -7,19 +7,23 @@
     - **Sfingter ani eksterna**
 - Kelenjar anal berjumlah sekitar **4–8 buah**, bermuara pada **dentate line/pectinate line**. Infeksi biasanya bermula dari kelenjar ini kemudian dapat menyebar ke ruang anatomi di sekitarnya.
 
-### Klasifikasi berdasarkan ruang anatomi
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791129694000c4havv.png)
 
-|Jenis abses|Lokasi utama|
-|---|---|
-|**Perianal**|Jaringan di sekitar anus|
-|**Ischiorectal**|Fossa ischiorectalis/ischioanal|
-|**Intersphincteric**|Di antara sfingter ani interna dan eksterna|
-|**Supralevator**|Di atas otot levator ani|
-|**Horseshoe**|Menyebar melingkari anus melalui ruang postanal/ischiorektal|
+# Klasifikasi Berdasarkan Ruang Anatomi
 
-💡 **Hafalan:** **P-I-I-S-H** → _Perianal – Ischiorectal – Intersphincteric – Supralevator – Horseshoe_.
+| Jenis abses          | Lokasi utama                                                 |
+| -------------------- | ------------------------------------------------------------ |
+| **Perianal**         | Jaringan di sekitar anus                                     |
+| **Ischiorectal**     | Fossa ischiorectalis/ischioanal                              |
+| **Intersphincteric** | Di antara sfingter ani interna dan eksterna                  |
+| **Supralevator**     | Di atas otot levator ani                                     |
+| **Horseshoe**        | Menyebar melingkari anus melalui ruang postanal/ischiorektal |
 
-## Epidemiologi
+![gh|452](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911297530005691rx.png)
+
+![gh|439](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179112977300019w1x5.png)
+
+# Epidemiologi
 
 - Lebih sering pada **laki-laki**.
 - Umumnya usia **20–40 tahun**.
@@ -28,9 +32,9 @@
     - **Imunosupresi**
     - **Inflammatory bowel disease (IBD)**, terutama penyakit Crohn.
 
-## Etiologi & Patofisiologi
+# Etiologi & Patofisiologi
 
-### Etiologi
+## Etiologi
 
 Penyebab tersering adalah **infeksi kriptoglandular**.
 
@@ -41,7 +45,7 @@ Penyebab lain:
 - Tuberkulosis
 - Keganasan/malignansi.
 
-### Patofisiologi
+## Patofisiologi
 
 **Obstruksi duktus kelenjar anal**  
 → sekresi terperangkap  
@@ -58,7 +62,7 @@ Abses kemudian dapat menyebar mengikuti **jalur dengan resistensi paling rendah*
 
 Mikrobiologi umumnya berupa **flora campuran aerob dan anaerob**.
 
-### Mikroorganisme tersering 🦠
+## Mikroorganisme tersering 🦠
 
 |Organisme|Keterangan|
 |---|---|
@@ -67,11 +71,9 @@ Mikrobiologi umumnya berupa **flora campuran aerob dan anaerob**.
 |_Staphylococcus aureus_|Bakteri Gram-positif|
 |_Enterococcus_ spp.|Flora gastrointestinal|
 
-💡 **Hafalan:** **E-B-S-E** → _E. coli – Bacteroides – Staph – Enterococcus_.
+# Manifestasi Klinis
 
-## Manifestasi Klinis
-
-### Gejala
+## Gejala
 
 - **Nyeri perianal hebat**, biasanya memburuk ketika duduk.
 - Pembengkakan di sekitar anus.
@@ -79,7 +81,14 @@ Mikrobiologi umumnya berupa **flora campuran aerob dan anaerob**.
 - Pengeluaran pus.
 - Rasa tidak nyaman di sekitar anus.
 
-### Pemeriksaan fisik
+# Diagnosis
+
+Diagnosis terutama merupakan **diagnosis klinis**, berdasarkan:
+
+1. Anamnesis.
+2. Pemeriksaan fisik.
+
+## Pemeriksaan fisik
 
 Dapat ditemukan:
 
@@ -87,6 +96,8 @@ Dapat ditemukan:
 - **Fluktuasi** → menunjukkan adanya kumpulan cairan/pus.
 - Pembengkakan.
 - **Eritema** → kemerahan akibat inflamasi.
+
+![gh|524](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791129941000tcqnvy.png)
 
 Pemeriksaan dilakukan dengan posisi yang memungkinkan inspeksi daerah perianal, misalnya:
 
@@ -98,14 +109,7 @@ Pemeriksaan dilakukan dengan posisi yang memungkinkan inspeksi daerah perianal, 
 > ⚠️ **Kunci klinis:**  
 > **Nyeri perianal hebat + massa nyeri/fluktuatif ± demam → pikirkan abses perianal.**
 
-## Diagnosis
-
-Diagnosis terutama merupakan **diagnosis klinis**, berdasarkan:
-
-1. Anamnesis.
-2. Pemeriksaan fisik.
-
-### Pemeriksaan penunjang
+## Pemeriksaan penunjang
 
 Tidak semua pasien membutuhkan pencitraan.
 
@@ -128,7 +132,7 @@ Selain itu, perlu menilai kemungkinan:
 - **Fistula-in-ano**
 - **Penyakit Crohn**.
 
-### Diagnosis banding
+# Diagnosis banding
 
 - **Fistula-in-ano**
 - Hemoroid trombosis
@@ -162,9 +166,6 @@ Abses adalah **kumpulan pus**, sehingga pus harus dikeluarkan. **Antibiotik tida
 → perawatan luka + kontrol  
 → evaluasi kemungkinan **fistula-in-ano**
 
-💡 **Hafalan:** **ABSes = Ayo Buang Sekret!** 😭  
-Intinya: **pus harus keluar.**
-
 ## Insisi & Drainase
 
 ### Abses perianal/superfisial
@@ -177,6 +178,8 @@ Intinya: **pus harus keluar.**
 - Luka dapat dipasang **iodophor gauze packing** sesuai teknik yang digunakan.
 
 > **Tujuan insisi cruciate:** membuat pembukaan cukup lebar sehingga rongga abses tidak cepat menutup kembali dan drainase tetap berlangsung.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791130188000yhbuth.png)
 
 Anestesi yang digunakan dapat berupa **anestesi lokal atau spinal**, tergantung lokasi, kedalaman, dan kondisi pasien.
 
@@ -223,6 +226,8 @@ Pemilihan jalur drainase sangat penting untuk mencegah terbentuknya fistula tran
 
 💡 **Intinya:** pada supralevator jangan asal "buka dari luar". **Cari dulu jalur asalnya → tentukan arah drainase.**
 
+![gh|245](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791130291000n094qm.png)
+
 ### Abses postanal & horseshoe
 
 Pada abses yang berada di **postanal space**, dapat digunakan **teknik Hanley**:
@@ -231,6 +236,8 @@ Pada abses yang berada di **postanal space**, dapat digunakan **teknik Hanley**:
 - Struktur otot yang melekat pada coccyx, bagian superfisial sfingter ani eksterna, dan tepi bawah sfingter ani interna dapat dibagi sesuai teknik.
 - Jika infeksi menyebar ke ruang ischiorektal membentuk **horseshoe extension**, dibuat satu atau beberapa insisi tambahan pada kulit di atas ruang ischiorektal.
 - Insisi dapat dihubungkan menggunakan **soft drains** agar drainase berlangsung terus-menerus.
+
+![gh|354](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791130320000a9n4sm.png)
 
 ### Drainase dengan kateter
 
@@ -252,7 +259,7 @@ Antibiotik dipertimbangkan bila terdapat:
 - **Imunosupresi**
 - **Diabetes mellitus**
 
-Pilihan yang tercantum:
+Pilihan antibiotik:
 
 - **Amoxicillin–clavulanate**
 - **Ciprofloxacin + metronidazole**
@@ -315,11 +322,11 @@ Tatalaksana yang dicantumkan:
 - Kolostomi pada kasus tertentu; penggunaannya masih dapat diperdebatkan.
 - **Oksigen hiperbarik** dapat dipertimbangkan.
 
-Materi mencantumkan mortalitas sekitar **8–67%**.
+Mortalitas sekitar **8–67%**.
 
 ### 4. Keganasan
 
-Karsinoma tercantum sebagai salah satu komplikasi/kemungkinan terkait proses anorektal kronis pada materi.
+Karsinoma merupakan salah satu komplikasi/kemungkinan terkait proses anorektal kronis.
 
 ### 5. Kematian
 
