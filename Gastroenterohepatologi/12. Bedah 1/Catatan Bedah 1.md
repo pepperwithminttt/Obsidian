@@ -457,7 +457,7 @@ Dapat berupa:
 - Distensi bertahap.
 - Lebih sering berkaitan dengan kolon.
 
-### Berdasarkan nature
+### Berdasarkan nature/jenis obstruksi
 
 |Tipe|Ciri|
 |---|---|
