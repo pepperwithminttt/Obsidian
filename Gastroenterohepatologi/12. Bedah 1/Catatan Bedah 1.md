@@ -1364,17 +1364,19 @@ Adhesi dapat terbentuk akibat:
 
 Dapat muncul sejak beberapa minggu setelah laparotomi, dan banyak pasien datang dalam beberapa tahun setelah operasi.
 
-Riwayat operasi yang disebut dalam PPT:
+Riwayat operasi:
 
 - colorectal surgery,
 - operasi ginekologi,
 - appendectomy.
 
+![gh|404](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791118090000he6qbe.png)
+
 ### Hernia sebagai penyebab obstruksi
 
-Hernia dapat menyebabkan sekitar **20% SBO** menurut PPT.
+Hernia dapat menyebabkan sekitar **20% SBO**.
 
-Jenis yang disebut:
+Jenis yang paling sering:
 
 - femoral,
 - inguinal,
