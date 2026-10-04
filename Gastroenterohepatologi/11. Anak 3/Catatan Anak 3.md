@@ -133,10 +133,10 @@ Jika terdapat **gap >3 cm**:
 ## Epidemiologi
 
 - Atresia dan stenosis usus halus: sekitar **1 : 3.000–10.000 kelahiran hidup**.
-- Atresia duodenum: sekitar **1 : 5.000–10.000**.
-- Atresia jejunoileal: sekitar **1 : 5.000–15.000**.
-- Atresia kolon: sekitar **1 : 20.000–66.000**.
-- **Jejunoileal atresia** merupakan tipe tersering, sekitar **50–60%** seluruh atresia intestinal.
+	- Atresia duodenum: sekitar **1 : 5.000–10.000**.
+	- Atresia jejunoileal: sekitar **1 : 5.000–15.000**.
+	- Atresia kolon: sekitar **1 : 20.000–66.000**.
+- *Ashcraft* (2020) → **Jejunoileal atresia** merupakan tipe tersering, sekitar **50–60%** seluruh atresia intestinal.
 
 ## Embriologi & Patogenesis
 
