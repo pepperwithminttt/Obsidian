@@ -195,7 +195,8 @@ Jika berlanjut dapat timbul:
 - Nyeri akan berkurang karena terjadi pengenceran.
 - Akan tetapi jika tidak ditangani, **apendisitis akut maupun perforasi duodenum** dapat berkembang menjadi **peritonitis generalisata**.
 
-💡 **Poin paling penting:**  
+💡 **Poin paling penting:**
+
 **Apendisitis akut adalah contoh utama nyeri pindah:** awalnya **periumbilikal (viseral)** → kemudian **kuadran kanan bawah (somatik)** karena inflamasi mencapai peritoneum.
 
 ---
@@ -222,8 +223,6 @@ Posisi tubuh pasien dalam usahanya mengurangi nyeri dapat menjadi petunjuk penti
 
 ### Tanda Klinis Penting
 
-Khusus **apendisitis retrosekal**:  
-**Appendiks dekat psoas → psoas teriritasi → panggul difleksikan → otot psoas lebih rileks.**
 - **Rovsing sign** → penekanan abdomen kiri bawah menimbulkan nyeri di kanan bawah.
 - **Psoas sign** → nyeri kanan bawah saat ekstensi panggul kanan; dapat menunjukkan iritasi otot psoas oleh appendix.
 - **Obturator sign** → nyeri saat rotasi internal panggul kanan.
