@@ -33,6 +33,7 @@
 | **C** | Fistula antara esofagus distal dan trakea    | **85–90%** |
 | **D** | Fistula pada esofagus proksimal dan distal   | <1%        |
 | **E** | TEF tanpa atresia (**tipe H**)               | 4–5%       |
+**Note**: Ntah knp beda yg di tabel dgn yg di gambar. Di PPT jga begitu. Misal A di tabel katanya tanpa fistula. Tpi A yg di gambar bilangnya ada distal fistula.
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791073751000d4nh59.png)
 
 > 🧠 **Hafalan:** **Tipe C = Common** → paling sering.
