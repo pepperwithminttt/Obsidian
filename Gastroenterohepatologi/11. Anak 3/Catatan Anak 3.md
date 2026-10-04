@@ -196,17 +196,17 @@ Heme diubah menjadi:
 
 - **Atresia bilier** merupakan penyebab tersering **kolestasis ekstrahepatik**.
 - Merupakan kelainan berupa **penyumbatan progresif saluran empedu ekstrahepatik**, yang dapat disertai keterlibatan intrahepatik.
-- Akibatnya terjadi:  
+- Akibatnya terjadi:
     **obstruksi aliran empedu → kolestasis → fibrosis hati progresif → sirosis bilier** bila tidak ditangani.
 
-## Klasifikasi
+## Klasifikasi #Ingat 
 
-|Tipe|Kelainan|
-|---|---|
-|**I**|Atresia duktus biliaris komunis|
-|**IIa**|Atresia duktus hepatikus komunis|
-|**IIb**|Atresia duktus hepatikus komunis + duktus biliaris komunis|
-|**III**|Atresia duktus ekstrahepatik|
+| Tipe    | Kelainan                                                   |
+| ------- | ---------------------------------------------------------- |
+| **I**   | Atresia duktus biliaris komunis                            |
+| **IIa** | Atresia duktus hepatikus komunis                           |
+| **IIb** | Atresia duktus hepatikus komunis + duktus biliaris komunis |
+| **III** | Atresia duktus ekstrahepatik                               |
 
 ## Epidemiologi
 
