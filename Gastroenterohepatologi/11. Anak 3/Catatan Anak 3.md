@@ -304,11 +304,11 @@ Interpretasi:
 | **Kolangiografi intraoperatif**            | **Gold standard**; tidak tampak aliran empedu ke usus                                      |
 | **Biopsi hati**                            | Proliferasi duktus intrahepatik, fibrosis portal, kolestasis intralobular                  |
 
-## Tatalaksana
+## Tatalaksana (Cuma Nice to Know)
 
 ### Operasi Kasai **(Hepatoportoenterostomi)**
 
-- Optimal dilakukan saat usia bayi **<60 hari** → aliran empedu ke usus dapat pulih sebagian.
+- Optimal dilakukan saat usia bayi **<60 hari** #Ingat → aliran empedu ke usus dapat pulih sebagian.
 - Empedu dialirkan langsung dari permukaan **porta hepatis ke jejunum**.
 
 > 🧠 **Kasai = buka jalur empedu ke usus.**
