@@ -376,8 +376,6 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
 
 - Foto **BNO**.
 - Foto **knee-chest / cross-table lateral** dalam posisi prone → terutama pada MAR tanpa fistula.
-![uploading...](xg4vvv)
-
 - **Distal colography** untuk melihat fistula.
 
 ### Menentukan Letak MAR
@@ -387,6 +385,8 @@ Pada foto _cross-table lateral_:
 - Ukur jarak kolom udara paling distal ke kulit.
 - **>1 cm → MAR letak tinggi**.
 - **<1 cm → MAR letak rendah**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078854000q4bcz8.png)
 
 ## Diagnosis & Tatalaksana
 
