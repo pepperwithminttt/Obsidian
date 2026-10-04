@@ -417,7 +417,7 @@ Prinsip tata laksana:
 
 # 2. ILEUS OBSTRUKSI 🚧
 
-**Ileus obstruksi** adalah gangguan passage isi saluran cerna akibat hambatan, yang dapat bersifat **mekanik** maupun **fungsional**.
+**Ileus obstruksi** adalah gangguan aliran/passage isi saluran cerna akibat hambatan, yang dapat bersifat **mekanik** maupun **fungsional**.
 
 ## Klasifikasi
 
@@ -446,8 +446,8 @@ Dapat berupa:
 **Akut**
 
 - Nyeri tiba-tiba.
-- Sering kolik.
-- Distensi.
+- Kolik sentral.
+- Distensi sentral.
 - Umumnya melibatkan usus halus/obstruksi letak tinggi.
 
 **Kronik**
