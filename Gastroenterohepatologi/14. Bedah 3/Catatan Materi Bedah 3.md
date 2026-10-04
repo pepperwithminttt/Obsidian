@@ -707,7 +707,7 @@ Stadium membantu menentukan intensitas terapi.
 - Nutrisi parenteral/ **TPN**.
 - Monitoring ketat klinis, laboratorium, dan radiologi.
 
-Materi mencantumkan regimen **ampisilin + gentamisin + metronidazol**.
+Regimen antibiotik: **ampisilin + gentamisin + metronidazol**.
 
 ### Indikasi Operasi
 
@@ -735,11 +735,11 @@ Pilihan tindakan:
 
 ---
 
-# NEC pada Dewasa & Diagnosis Banding Ischemic Colitis
+## NEC pada Dewasa & Diagnosis Banding Ischemic Colitis
 
 NEC pada dewasa **sangat jarang dan hampir selalu sekunder**. Kondisi yang paling menyerupai adalah **ischemic colitis** akibat hipoperfusi pada daerah _watershed_.
 
-### Penyebab yang Perlu Dicari
+#### Penyebab yang Perlu Dicari
 
 - Neutropenia akibat kemoterapi.
 - Vasospasme akibat kokain.
@@ -749,7 +749,7 @@ NEC pada dewasa **sangat jarang dan hampir selalu sekunder**. Kondisi yang palin
 
 Jadi, NEC dewasa bukan sekadar diagnosis eksklusi → **cari penyebab sekunder**.
 
-### Watershed Area
+#### Watershed Area
 
 Daerah rentan terhadap hipoperfusi:
 
@@ -760,7 +760,7 @@ Hal ini berbeda dari NEC neonatus yang dapat bersifat lebih luas/pan-intestinal.
 
 🧠 **Dewasa + NEC → pikirkan ischemia dulu.**
 
-### Tatalaksana
+#### Tatalaksana
 
 - NPO.
 - Antibiotik spektrum luas.
@@ -780,9 +780,13 @@ Setelah fase akut, follow-up sekitar **4–6 minggu** dapat dilakukan dengan kol
 
 **Hernia = protrusi viskus melalui defek fasia/dinding tubuh.** Anatomi merupakan kunci membedakan jenis hernia.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911355320000n3v7d.png)
+
 ### Hernia Inguinalis
 
 Terletak **di atas ligamentum inguinale**.
+
+![gh|320](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791135641000ylr9ws.png)
 
 #### Indirect / Lateral
 
@@ -837,7 +841,7 @@ Terletak **di atas ligamentum inguinale**.
 
 ---
 
-# Diagnosis Hernia
+## Diagnosis Hernia
 
 ### Pemeriksaan Klinis
 
@@ -899,11 +903,11 @@ Pada hernia femoralis, risiko strangulasi tinggi dan nekrosis usus dapat terjadi
 
 ---
 
-# Herniorafi & Tatalaksana Hernia
+## Herniorafi & Tatalaksana Hernia
 
 Prinsip utama modern adalah **tension-free mesh repair**. Lichtenstein tetap merupakan salah satu standar utama untuk operasi terbuka.
 
-### Watchful Waiting
+#### Watchful Waiting
 
 Pada laki-laki dengan hernia inguinalis minimal/asimtomatik:
 
@@ -914,17 +918,17 @@ Pada laki-laki dengan hernia inguinalis minimal/asimtomatik:
 
 ⚠️ **Tidak berlaku sebagai strategi santai untuk hernia femoralis**, karena risiko strangulasinya tinggi.
 
-### Open Repair — Lichtenstein
+#### Open Repair — Lichtenstein
 
 **Lichtenstein tension-free mesh repair**
 
 - Mesh menutup defek tanpa tension.
-- Gold standard untuk pendekatan terbuka.
+- **Gold standard** untuk pendekatan terbuka.
 - Learning curve relatif pendek.
 - Dapat dilakukan dengan anestesi lokal pada pasien yang sesuai.
 - Rekurensi yang dicantumkan sekitar 1–2%.
 
-### Laparoskopi — TAPP & TEP
+#### Laparoskopi — TAPP & TEP
 
 **TAPP (transabdominal preperitoneal)**  
 **TEP (totally extraperitoneal)**
@@ -941,7 +945,9 @@ Kekurangan:
 
 - Membutuhkan expertise/pengalaman operator.
 
-### Hernia Femoralis
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791135818000qba0hx.png)
+
+#### Hernia Femoralis
 
 → **Operasi segera** karena risiko strangulasi tinggi.
 
@@ -954,7 +960,7 @@ Prinsip:
 
 - Jangan menunda bila sudah ada kecurigaan strangulasi/iskemia.
 
-### Hernia Strangulata
+#### Hernia Strangulata
 
 - Resusitasi.
 - Evaluasi viabilitas usus.
