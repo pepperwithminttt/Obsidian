@@ -287,7 +287,7 @@ Interpretasi:
 
 ### Laboratorium
 
-- Bilirubin direk meningkat **>1 mg/dL**.
+- Bilirubin [direk]{ #Ingat Bilirubin direk itu bilirubin yg telah terkonjugasi, artinya sudah diproses di hati dan bersifat larut dalam air.} meningkat **>1 mg/dL**.
 - SGOT/SGPT meningkat ringan–sedang.
 - **GGT meningkat mencolok**.
 - Alkaline phosphatase tinggi.
