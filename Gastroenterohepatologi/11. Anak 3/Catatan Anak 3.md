@@ -114,10 +114,245 @@ Jika terdapat **gap >3 cm**:
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791074710000iwmiqo.png)
 
 > 🧠 **Kunci AE:**  
-> **NGT mentok + drooling + batuk/sianosis saat makan ± distensi abdomen → pikirkan atresia esofagus.**
+> **NGT mentok + drooling + batuk/sianosis saat makan ± distensi abdomen → pikirkan atresia esofagus.** 
 
-  
+# Atresia Bilier
 
+## Ikterus Neonatorum
+
+Ikterus neonatorum sering ditemukan pada bayi:
+
+- sekitar **50% bayi aterm**
+- sekitar **80% bayi preterm**.
+
+### Ikterus Fisiologis
+
+- Tampak pada usia **3–4 hari**.
+- Kemudian berkurang secara perlahan.
+
+### Ikterus Patologis
+
+Dicurigai bila:
+
+- ikterus muncul **pada hari pertama**;
+- bilirubin total > persentil ke-95 sesuai usia berdasarkan normogram bilirubin;
+- bilirubin meningkat >**5 mg/dL/hari** atau >**0,2 mg/dL/jam**;
+- ikterus menetap **>14 hari** → _prolonged neonatal jaundice_.
+
+## Metabolisme Bilirubin
+
+### Prahepatik
+
+Eritrosit tua mengalami destruksi → **heme + globin**.
+
+Heme  
+→ biliverdin oleh **heme oksigenase**  
+→ bilirubin tak terkonjugasi (BTT) oleh **biliverdin reduktase**.
+
+**Bilirubin tak terkonjugasi:**
+
+- beredar dalam plasma;
+- larut lemak;
+- tidak larut air.
+
+### Hepatik
+
+- Bilirubin tak terkonjugasi berikatan dengan **albumin** → dibawa ke hepar.
+- Diambil hepatosit dengan bantuan **protein Y dan Z**.
+- Bilirubin berikatan dengan **asam glukuronat** melalui enzim **glukuronil transferase** di retikulum endoplasma.
+- Terbentuk **bilirubin terkonjugasi (BT)**.
+
+**Bilirubin terkonjugasi:**
+
+- larut air;
+- tidak larut lemak.
+
+### Pascahepatik
+
+- Bilirubin terkonjugasi → empedu → usus.
+- Bakteri usus mengubahnya menjadi berbagai senyawa, termasuk:
+    - sterkobilin
+    - urobilinogen.
+- Sterkobilin memberi warna cokelat pada feses.
+- Sekitar **10–20% urobilinogen** mengalami sirkulasi enterohepatik.
+- Sebagian kecil diekskresikan melalui urine.
+
+## Prolonged Neonatal Jaundice
+
+- Bayi aterm → ikterus tetap ada pada usia **2 minggu**.
+- Bayi preterm → ikterus tetap ada pada usia **3 minggu**.
+- Harus dilakukan skrining untuk:
+    - **hiperbilirubinemia indirek**
+    - **hiperbilirubinemia direk** → menunjukkan kemungkinan kolestasis neonatus.
+
+> 🧠 **Kunci:**  
+> **Kolestasis intrahepatik → terapi medis**  
+> **Kolestasis ekstrahepatik → terapi bedah**
+
+## Definisi Atresia Bilier
+
+- **Atresia bilier** merupakan penyebab tersering **kolestasis ekstrahepatik**.
+- Merupakan kelainan berupa **penyumbatan progresif saluran empedu ekstrahepatik**, yang dapat disertai keterlibatan intrahepatik.
+- Akibatnya terjadi:  
+    **obstruksi aliran empedu → kolestasis → fibrosis hati progresif → sirosis bilier** bila tidak ditangani.
+
+## Klasifikasi
+
+|Tipe|Kelainan|
+|---|---|
+|**I**|Atresia duktus biliaris komunis|
+|**IIa**|Atresia duktus hepatikus komunis|
+|**IIb**|Atresia duktus hepatikus komunis + duktus biliaris komunis|
+|**III**|Atresia duktus ekstrahepatik|
+
+## Epidemiologi
+
+- Insidensi: sekitar **1 : 8.000–18.000 kelahiran hidup**.
+- Di Indonesia dilaporkan sekitar **1 : 10.000 kelahiran hidup**.
+- Keterlambatan diagnosis dapat menyebabkan prognosis yang lebih buruk.
+
+## Patogenesis
+
+Beberapa mekanisme yang diduga berperan:
+
+- Infeksi virus intrauterin/perinatal.
+- Inflamasi yang dimediasi sistem imun.
+- Paparan toksin.
+- Gangguan _ductal plate remodeling_.
+- Gangguan vaskular atau metabolik pada perkembangan saluran empedu.
+- _Pancreaticobiliary malunion_.
+
+Virus yang disebut dalam materi:
+
+- Rotavirus
+- CMV
+- Papillomavirus
+- Epstein–Barr virus.
+
+> 🧠 **Intinya:** berbagai gangguan → inflamasi/kerusakan saluran empedu → fibrosis dan obliterasi → empedu tidak dapat mengalir.
+
+## Histopatologi
+
+### Makroskopis
+
+- Pada fase awal:
+    - hepar membesar
+    - konsistensi keras
+    - warna kehijauan.
+- Kandung empedu mengecil dan berisi mukus putih.
+
+### Mikroskopis
+
+- Traktus biliaris mengalami:
+    - inflamasi
+    - fibrosis.
+- Parenkim hepar mengalami:
+    - fibrosis
+    - tanda kolestasis.
+- Jika cairan empedu tidak dapat didrainase → **sirosis**.
+
+## Manifestasi Klinis
+
+- **Ikterus menetap >2 minggu** setelah lahir.
+- **Tinja akolik** atau berwarna seperti dempul.
+- Urine berwarna **gelap**.
+- Kadang terdapat **hepatomegali**.
+
+> 🚨 **Trias yang sangat penting:**  
+> **Ikterus menetap + tinja pucat/akolik + urine gelap → pikirkan atresia bilier.**
+
+## Pemeriksaan Penunjang
+
+### Pemeriksaan Awal: Tinja 3 Porsi
+
+Tinja diperiksa dalam tiga periode:
+
+- 06.00–14.00
+- 14.00–22.00
+- 22.00–06.00
+
+Interpretasi:
+
+- **Akolik pada semua porsi → mendukung atresia bilier.**
+- Warna tinja yang berfluktuasi → lebih mengarah ke kolestasis intrahepatik.
+
+### Laboratorium
+
+- Bilirubin direk meningkat **>1 mg/dL**.
+- SGOT/SGPT meningkat ringan–sedang.
+- **GGT meningkat mencolok**.
+- Alkaline phosphatase tinggi.
+- Evaluasi fungsi hati:
+    - albumin
+    - _prothrombin time_.
+
+### Pencitraan
+
+|Pemeriksaan|Temuan khas|
+|---|---|
+|**USG hepatobilier**|Kandung empedu kecil/atrofi; **triangular cord sign**|
+|**HIDA scan**|Tidak ada ekskresi radioisotop ke usus setelah 24 jam|
+|**Kolangiografi intraoperatif**|**Gold standard**; tidak tampak aliran empedu ke usus|
+|**Biopsi hati**|Proliferasi duktus intrahepatik, fibrosis portal, kolestasis intralobular|
+
+### Triangular Cord Sign
+
+- Menunjukkan jaringan fibrotik di **porta hepatis** pada USG.
+
+## Tatalaksana
+
+### Operasi Kasai
+
+**Hepatoportoenterostomi**
+
+- Optimal dilakukan **<60 hari usia bayi**.
+- Tujuannya mengembalikan sebagian aliran empedu ke usus.
+- Empedu dialirkan langsung dari permukaan **porta hepatis ke jejunum**.
+
+> 🧠 **Kasai = buka jalur empedu ke usus.**
+
+### Terapi Pascaoperasi
+
+- **Ursodeoxycholic acid (UDCA)** → meningkatkan aliran empedu.
+- Antibiotik profilaksis:
+    - ampisilin + neomisin, atau
+    - TMP-SMX  
+        → mencegah **kolangitis**.
+- Suplementasi vitamin larut lemak:
+    - A
+    - D
+    - E
+    - K.
+- Nutrisi tinggi kalori dan protein.
+- Formula dengan **MCT (medium-chain triglyceride)**.
+
+## Transplantasi Hati
+
+Sekitar **80% pasien** pada akhirnya memerlukan transplantasi hati.
+
+### Indikasi
+
+- Kasai gagal.
+- Sirosis lanjut.
+- Hipertensi portal berat.
+- Ikterus persisten.
+- Gangguan pertumbuhan berat.
+- Dapat dilakukan pada tahun pertama atau kedua kehidupan.
+- Tujuannya mencapai fungsi hati yang memadai sehingga tumbuh kembang dapat berlangsung normal.
+
+## Prognosis
+
+Prognosis sangat dipengaruhi **usia saat operasi Kasai**:
+
+|Usia saat Kasai|Hasil|
+|---|---|
+|**<60 hari**|Drainase efektif sekitar 80% kasus|
+|**90 hari**|Keberhasilan turun drastis, <30%|
+|Setelah Kasai|Banyak pasien akhirnya membutuhkan transplantasi dalam 2–5 tahun|
+
+> 🧠 **Hafalan super penting:**  
+> **Atresia bilier = jangan terlambat.**  
+> **<60 hari → peluang drainase jauh lebih baik.**
 # Atresia Intestinal
 
 ## Definisi
@@ -440,6 +675,8 @@ Pada foto _cross-table lateral_:
     - **nyeri saat dan setelah defekasi**
     - perdarahan ringan.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791079349000kve262.png)
+
 ## Etiologi & Patofisiologi
 
 - Umumnya terjadi pada anak usia **6 bulan–2 tahun**.
@@ -447,14 +684,19 @@ Pada foto _cross-table lateral_:
 
 ### Mekanisme
 
-**Tinja keras**  
-→ laserasi mukosa anoderm  
-→ nyeri intens  
-→ spasme **sfingter ani interna**  
-→ perfusi menurun  
-→ penyembuhan terganggu  
-→ fisura menetap/kronik  
-→ **siklus nyeri–spasme–fisura** 🔄
+**Tinja keras** (karena konstipasi)
+↓
+laserasi (robekan) mukosa anoderm
+↓
+menyebabkan nyeri intens
+↓
+menimbulkan **spasme sfingter ani interna**
+↓
+menurunkan perfusi
+↓
+penyembuhan terganggu
+↓
+apabila fisura menetap/kronik → **siklus nyeri–spasme–fisura** 🔄
 
 > 🧠 **Hafalan:** **Keras → Robek → Nyeri → Spasme → Iskemia → Sulit sembuh**
 
@@ -504,11 +746,8 @@ Nitrogliserin/nifedipin → **menurunkan spasme sfingter**.
 ## Prognosis
 
 - Umumnya **baik**.
--   
-    
-    > 90% sembuh dengan terapi konservatif dalam **1–2 minggu**.
-    
-- Dapat kambuh jika:
+- >90% sembuh dengan terapi konservatif dalam **1–2 minggu**.
+- Fisura kronik dapat kambuh jika:
     - konstipasi berulang
     - higiene buruk.
 
@@ -517,240 +756,3 @@ Nitrogliserin/nifedipin → **menurunkan spasme sfingter**.
 
   
 
-# Atresia Bilier
-
-## Ikterus Neonatorum
-
-Ikterus neonatorum sering ditemukan pada bayi:
-
-- sekitar **50% bayi aterm**
-- sekitar **80% bayi preterm**.
-
-### Ikterus Fisiologis
-
-- Tampak pada usia **3–4 hari**.
-- Kemudian berkurang secara perlahan.
-
-### Ikterus Patologis
-
-Dicurigai bila:
-
-- ikterus muncul **pada hari pertama**;
-- bilirubin total > persentil ke-95 sesuai usia berdasarkan normogram bilirubin;
-- bilirubin meningkat >**5 mg/dL/hari** atau >**0,2 mg/dL/jam**;
-- ikterus menetap **>14 hari** → _prolonged neonatal jaundice_.
-
-## Metabolisme Bilirubin
-
-### Prahepatik
-
-Eritrosit tua mengalami destruksi → **heme + globin**.
-
-Heme  
-→ biliverdin oleh **heme oksigenase**  
-→ bilirubin tak terkonjugasi (BTT) oleh **biliverdin reduktase**.
-
-**Bilirubin tak terkonjugasi:**
-
-- beredar dalam plasma;
-- larut lemak;
-- tidak larut air.
-
-### Hepatik
-
-- Bilirubin tak terkonjugasi berikatan dengan **albumin** → dibawa ke hepar.
-- Diambil hepatosit dengan bantuan **protein Y dan Z**.
-- Bilirubin berikatan dengan **asam glukuronat** melalui enzim **glukuronil transferase** di retikulum endoplasma.
-- Terbentuk **bilirubin terkonjugasi (BT)**.
-
-**Bilirubin terkonjugasi:**
-
-- larut air;
-- tidak larut lemak.
-
-### Pascahepatik
-
-- Bilirubin terkonjugasi → empedu → usus.
-- Bakteri usus mengubahnya menjadi berbagai senyawa, termasuk:
-    - sterkobilin
-    - urobilinogen.
-- Sterkobilin memberi warna cokelat pada feses.
-- Sekitar **10–20% urobilinogen** mengalami sirkulasi enterohepatik.
-- Sebagian kecil diekskresikan melalui urine.
-
-## Prolonged Neonatal Jaundice
-
-- Bayi aterm → ikterus tetap ada pada usia **2 minggu**.
-- Bayi preterm → ikterus tetap ada pada usia **3 minggu**.
-- Harus dilakukan skrining untuk:
-    - **hiperbilirubinemia indirek**
-    - **hiperbilirubinemia direk** → menunjukkan kemungkinan kolestasis neonatus.
-
-> 🧠 **Kunci:**  
-> **Kolestasis intrahepatik → terapi medis**  
-> **Kolestasis ekstrahepatik → terapi bedah**
-
-## Definisi Atresia Bilier
-
-- **Atresia bilier** merupakan penyebab tersering **kolestasis ekstrahepatik**.
-- Merupakan kelainan berupa **penyumbatan progresif saluran empedu ekstrahepatik**, yang dapat disertai keterlibatan intrahepatik.
-- Akibatnya terjadi:  
-    **obstruksi aliran empedu → kolestasis → fibrosis hati progresif → sirosis bilier** bila tidak ditangani.
-
-## Klasifikasi
-
-|Tipe|Kelainan|
-|---|---|
-|**I**|Atresia duktus biliaris komunis|
-|**IIa**|Atresia duktus hepatikus komunis|
-|**IIb**|Atresia duktus hepatikus komunis + duktus biliaris komunis|
-|**III**|Atresia duktus ekstrahepatik|
-
-## Epidemiologi
-
-- Insidensi: sekitar **1 : 8.000–18.000 kelahiran hidup**.
-- Di Indonesia dilaporkan sekitar **1 : 10.000 kelahiran hidup**.
-- Keterlambatan diagnosis dapat menyebabkan prognosis yang lebih buruk.
-
-## Patogenesis
-
-Beberapa mekanisme yang diduga berperan:
-
-- Infeksi virus intrauterin/perinatal.
-- Inflamasi yang dimediasi sistem imun.
-- Paparan toksin.
-- Gangguan _ductal plate remodeling_.
-- Gangguan vaskular atau metabolik pada perkembangan saluran empedu.
-- _Pancreaticobiliary malunion_.
-
-Virus yang disebut dalam materi:
-
-- Rotavirus
-- CMV
-- Papillomavirus
-- Epstein–Barr virus.
-
-> 🧠 **Intinya:** berbagai gangguan → inflamasi/kerusakan saluran empedu → fibrosis dan obliterasi → empedu tidak dapat mengalir.
-
-## Histopatologi
-
-### Makroskopis
-
-- Pada fase awal:
-    - hepar membesar
-    - konsistensi keras
-    - warna kehijauan.
-- Kandung empedu mengecil dan berisi mukus putih.
-
-### Mikroskopis
-
-- Traktus biliaris mengalami:
-    - inflamasi
-    - fibrosis.
-- Parenkim hepar mengalami:
-    - fibrosis
-    - tanda kolestasis.
-- Jika cairan empedu tidak dapat didrainase → **sirosis**.
-
-## Manifestasi Klinis
-
-- **Ikterus menetap >2 minggu** setelah lahir.
-- **Tinja akolik** atau berwarna seperti dempul.
-- Urine berwarna **gelap**.
-- Kadang terdapat **hepatomegali**.
-
-> 🚨 **Trias yang sangat penting:**  
-> **Ikterus menetap + tinja pucat/akolik + urine gelap → pikirkan atresia bilier.**
-
-## Pemeriksaan Penunjang
-
-### Pemeriksaan Awal: Tinja 3 Porsi
-
-Tinja diperiksa dalam tiga periode:
-
-- 06.00–14.00
-- 14.00–22.00
-- 22.00–06.00
-
-Interpretasi:
-
-- **Akolik pada semua porsi → mendukung atresia bilier.**
-- Warna tinja yang berfluktuasi → lebih mengarah ke kolestasis intrahepatik.
-
-### Laboratorium
-
-- Bilirubin direk meningkat **>1 mg/dL**.
-- SGOT/SGPT meningkat ringan–sedang.
-- **GGT meningkat mencolok**.
-- Alkaline phosphatase tinggi.
-- Evaluasi fungsi hati:
-    - albumin
-    - _prothrombin time_.
-
-### Pencitraan
-
-|Pemeriksaan|Temuan khas|
-|---|---|
-|**USG hepatobilier**|Kandung empedu kecil/atrofi; **triangular cord sign**|
-|**HIDA scan**|Tidak ada ekskresi radioisotop ke usus setelah 24 jam|
-|**Kolangiografi intraoperatif**|**Gold standard**; tidak tampak aliran empedu ke usus|
-|**Biopsi hati**|Proliferasi duktus intrahepatik, fibrosis portal, kolestasis intralobular|
-
-### Triangular Cord Sign
-
-- Menunjukkan jaringan fibrotik di **porta hepatis** pada USG.
-
-## Tatalaksana
-
-### Operasi Kasai
-
-**Hepatoportoenterostomi**
-
-- Optimal dilakukan **<60 hari usia bayi**.
-- Tujuannya mengembalikan sebagian aliran empedu ke usus.
-- Empedu dialirkan langsung dari permukaan **porta hepatis ke jejunum**.
-
-> 🧠 **Kasai = buka jalur empedu ke usus.**
-
-### Terapi Pascaoperasi
-
-- **Ursodeoxycholic acid (UDCA)** → meningkatkan aliran empedu.
-- Antibiotik profilaksis:
-    - ampisilin + neomisin, atau
-    - TMP-SMX  
-        → mencegah **kolangitis**.
-- Suplementasi vitamin larut lemak:
-    - A
-    - D
-    - E
-    - K.
-- Nutrisi tinggi kalori dan protein.
-- Formula dengan **MCT (medium-chain triglyceride)**.
-
-## Transplantasi Hati
-
-Sekitar **80% pasien** pada akhirnya memerlukan transplantasi hati.
-
-### Indikasi
-
-- Kasai gagal.
-- Sirosis lanjut.
-- Hipertensi portal berat.
-- Ikterus persisten.
-- Gangguan pertumbuhan berat.
-- Dapat dilakukan pada tahun pertama atau kedua kehidupan.
-- Tujuannya mencapai fungsi hati yang memadai sehingga tumbuh kembang dapat berlangsung normal.
-
-## Prognosis
-
-Prognosis sangat dipengaruhi **usia saat operasi Kasai**:
-
-|Usia saat Kasai|Hasil|
-|---|---|
-|**<60 hari**|Drainase efektif sekitar 80% kasus|
-|**90 hari**|Keberhasilan turun drastis, <30%|
-|Setelah Kasai|Banyak pasien akhirnya membutuhkan transplantasi dalam 2–5 tahun|
-
-> 🧠 **Hafalan super penting:**  
-> **Atresia bilier = jangan terlambat.**  
-> **<60 hari → peluang drainase jauh lebih baik.**
