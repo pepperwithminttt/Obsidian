@@ -6,6 +6,8 @@
 - **Mortalitas:** sekitar 20–40% bila diagnosis/tatalaksana terlambat >24 jam.
 - Jarang, tetapi **sangat mematikan**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791133933000dsasv8.png)
+
 ### Etiologi & Lokasi
 
 - **Iatrogenik ±60%** → terutama setelah endoskopi.
@@ -82,7 +84,7 @@ Temuan yang menunjukkan kontaminasi berat:
 
 ⚠️ **Hindari endoskopi pada pasien tidak stabil** sebelum airway diamankan dan tim bedah siap karena insuflasi dapat memperluas robekan dan kontaminasi. Resusitasi dan pencitraan harus diprioritaskan pada pasien yang sesuai.
 
-### Tatalaksana
+### Tatalaksana (Cuma Nice to Know)
 
 Prinsip berdasarkan **waktu datang, kondisi jaringan, derajat kontaminasi, kondisi pasien, dan Pittsburgh Score**.
 
@@ -131,6 +133,8 @@ Prinsip berdasarkan **waktu datang, kondisi jaringan, derajat kontaminasi, kondi
 # Tumor Esofagus
 
 Sebagian besar tumor esofagus bersifat **maligna**. Dua keganasan utama adalah **squamous cell carcinoma (SCC)** dan **adenokarsinoma**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791134450000l0rftn.png)
 
 ### Tumor Benigna
 
@@ -276,6 +280,8 @@ Implikasi terapi:
 # Karsinoma Pankreas
 
 Sekitar **90%** kanker pankreas merupakan **pancreatic ductal adenocarcinoma (PDAC)** dan sekitar **70% berada di kaput pankreas**. Gejalanya sering muncul terlambat sehingga prognosis buruk.
+
+![gh|396](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791134780000qqm7qn.png)
 
 ### Faktor Risiko
 
