@@ -1028,16 +1028,102 @@ Jadi #Ingat ada **dua sindrom untuk gallstone ileus**:
 
 ### Superior Mesenteric Artery Syndrome / Wilkie syndrome 🩻
 
-Terjadi ketika duodenum terkompresi di antara **aorta dan superior mesenteric artery (SMA)** akibat berkurangnya bantalan lemak mesenterika.
+- Terjadi ketika duodenum pars 3 (D3) terkompresi di antara **aorta dan superior mesenteric artery (SMA)** akibat berkurangnya bantalan lemak mesenterika.
 
-Dapat menyebabkan:
+![gh|491](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179110557900068qnci.png)
 
-- mual,
-- muntah,
-- nyeri/distensi abdomen,
-- gejala obstruksi duodenum.
+- Biasa disebut juga **aortomesenteric duodenal compression** atau **Wilkie’s syndrome**.
+- Dapat menyebabkan:
+	- mual,
+	- muntah,
+	- nyeri/distensi abdomen,
+	- gejala obstruksi duodenum.
 
-🟦 **Tambahan di luar PPT:** terapi awal dapat berupa dekompresi, koreksi cairan-elektrolit, perbaikan status nutrisi/berat badan; kasus persisten atau berat dapat membutuhkan tindakan bedah seperti duodenojejunostomi.
+#### Faktor Risiko
+
+Sindrom SMA terjadi ketika **duodenum, terutama bagian D3, tertekan oleh SMA terhadap aorta**. Faktor yang berperan meliputi:
+
+- **Penurunan berat badan yang sangat cepat**, misalnya pada:
+    - keganasan,
+    - malabsorpsi,
+    - anoreksia nervosa,
+    - luka bakar,
+    - trauma,
+    - dan kondisi lain.
+
+> Penurunan berat badan menyebabkan **penipisan bantalan lemak** antara aorta dan SMA sehingga **sudut aortomesenterik mengecil**. Jika sudut aortomesenterik berkurang hingga **<10°**, dapat terjadi penekanan duodenum sehingga menyebabkan **obstruksi**.
+
+- **Kondisi anatomis:**
+    - _High ligament of Treitz_
+    - _Low origin of the SMA_
+- **Penekanan oleh aneurisma**, yaitu:
+    - aneurisma aorta abdominal,
+    - aneurisma arteri mesenterika superior.
+- **Pascaoperasi**, misalnya:
+    - operasi tulang belakang, seperti koreksi skoliosis, yang menyebabkan panjang tulang belakang relatif bertambah;
+    - operasi yang menyebabkan **SMA tertarik**, misalnya pembuatan _ileal pouch_ yang ditarik hingga mencapai pelvis;
+    - operasi yang menyebabkan penurunan berat badan cepat, seperti **operasi bariatrik** dan **esofagektomi**.
+
+#### Diagnosis
+
+Diagnosis sindrom SMA ditegakkan berdasarkan:
+
+1. **Adanya faktor risiko**.
+2. **Gejala obstruksi letak tinggi**, berupa:
+    - muntah **kehijauan** (_bilious vomiting_);
+    - nyeri **kolik**, terutama setelah makan;
+    - keluhan berkurang saat tidur dalam posisi **prone** atau **miring ke kiri**.
+3. **Bukti radiologi adanya penekanan D3 oleh SMA**, berupa:
+    - **Sudut aortomesenterik** normal **38–65°** → menjadi **<22°**.
+    - **Jarak aortomesenterik** normal **10–28 mm** → menjadi **<8 mm**.
+    - **Dilatasi duodenum proksimal**.
+    - **Cut-off pada D3**.
+
+![gh|365](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791105962000oz4bhv.png)
+
+🧠 **Kunci diagnosis:**  
+**Berat badan turun → bantalan lemak menipis → sudut aorta-SMA mengecil → D3 terjepit → obstruksi letak tinggi.**
+
+![gh|385](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791106145000ppzvhp.png)
+
+#### Penanganan
+
+1. **Konservatif**
+
+	Diindikasikan bila:
+	- tidak terdapat massa intraabdomen;
+	- tidak terdapat aneurisma;
+	- tidak terdapat kondisi yang memerlukan operasi segera.
+
+	Penanganan meliputi:
+	- **Koreksi cairan dan elektrolit**.
+	- **Dekompresi dengan NGT**.
+	- **Nutrisi parenteral**.
+	- Setelah makan, pasien dianjurkan mengambil posisi:
+	    - **prone**, atau
+	    - **knee-to-chest position**.
+
+2. **Operatif**
+
+	Dilakukan bila:
+	- terdapat indikasi operasi sejak awal, atau
+	- **terapi konservatif gagal**.
+
+	Pilihan operasi:
+
+| Teknik                 | Prinsip                                                                                                                           |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Strong's procedure** | Mobilisasi fleksura duodenojejunal dan pemotongan **ligamentum Treitz**, sehingga D3 dimobilisasi menjauhi sudut aortomesenterik. |
+| **Bypass**             | Dapat berupa **gastrojejunostomi** atau **duodenojejunostomi**.                                                                   |
+| **Duodenojejunostomi** | Memberikan **hasil paling baik** dibandingkan teknik Strong's dan gastrojejunostomi.                                              |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791106185000d5lunm.png)
+
+**Keuntungan teknik Strong's:** tidak memerlukan anastomosis sehingga penyembuhan lebih cepat.
+
+> 🧠 **SMA syndrome = D3 “kejepit” antara Aorta ↔ SMA.**  
+> **Konservatif:** cairan + NGT + nutrisi + posisi.  
+> **Operasi:** Strong's / bypass, dengan **duodenojejunostomi** sebagai teknik yang memberikan hasil terbaik.
 
 ### Acute colonic pseudo-obstruction / Ogilvie syndrome
 
