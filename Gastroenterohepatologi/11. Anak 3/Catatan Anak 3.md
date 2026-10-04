@@ -149,8 +149,8 @@ Jika terdapat **gap >3 cm**:
 
 ## Manifestasi Klinis
 
-- **Muntah bilier**.
-- **Distensi abdomen**.
+- **Muntah bilier** (karena makanan sdh sempat masuk usus jdi sdh bercampur dengan empedu).
+- **Distensi abdomen** (kembung).
 - Gangguan/perubahan peristaltik.
 - Pada obstruksi letak rendah, kontur dan _steifing_ usus dapat terlihat lebih jelas.
 - **Keterlambatan atau tidak adanya pengeluaran mekonium**.
@@ -167,9 +167,46 @@ Jika terdapat **gap >3 cm**:
 - **Double bubble sign** → khas untuk **atresia duodenum**.
 - **Triple bubble sign** → menunjukkan **atresia jejunum**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791075031000fs1uda.png)
+
 > 🧠 **Hafalan:**  
 > **Duodenum = 2 bubble**  
 > **Jejunum = 3 bubble** 🫧🫧🫧
+
+## Klasifikasi Atresia Duodenum
+
+Atresia duodenum secara klasik dibagi menjadi **Tipe I, Tipe II, dan Tipe III**, berdasarkan bentuk obstruksi dan kelainan anatomi duodenum.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791075083000ggyw9e.png)
+
+### Tipe I — _Mucosal Web / Membran_
+
+- Lumen duodenum tertutup oleh **selaput mukosa**.
+- Dinding usus tetap **kontinu**, tidak ada pemisahan.
+- Bentuk paling ringan.
+- Secara anatomi sering tampak sebagai “**windsock deformity**” bila membran menonjol ke distal.
+- Penanganan biasanya berupa eksisi membran dan duodenotomi.
+
+### Tipe II — _Atresia dengan Duodenum Terpisah tetapi Terhubung oleh Tali Fibrosa_
+
+- Dua ujung duodenum **terputus**, tetapi masih dihubungkan oleh **fibrous cord**.
+- Mesenterium tetap utuh.
+- Aliran darah relatif baik sehingga risiko iskemia lebih rendah dibanding tipe III.
+- Penanganan: anastomosis duodenum–duodenum.
+
+### Tipe III — _Atresia dengan Celah Total dan Mesenterium Hilang_
+
+- Dua ujung duodenum **benar‑benar terpisah** tanpa hubungan apa pun.
+- Terdapat **defek mesenterium** (mesenteric gap).
+- Bentuk paling berat, dengan risiko gangguan vaskular dan kelainan usus lain.
+- Penanganan lebih kompleks, biasanya memerlukan anastomosis dan evaluasi kelainan usus tambahan.
+
+### Implikasi Klinis
+
+- **Tipe I** → obstruksi paling ringan, anatomi relatif utuh.
+- **Tipe II** → obstruksi sedang, masih ada kontinuitas vaskular.
+- **Tipe III** → paling berat, sering disertai kelainan lain dan memerlukan penanganan bedah lebih kompleks.
+- Semua tipe memerlukan **intervensi bedah** setelah stabilisasi neonatus (rehidrasi, koreksi elektrolit, dan dekompresi lambung).
 
 ## Klasifikasi Jejunoileal Atresia
 
@@ -179,6 +216,8 @@ Jika terdapat **gap >3 cm**:
 - **Tipe IIIa**
 - **Tipe IIIb → apple peel**
 - **Tipe IV**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791075200000zv6a62.png)
 
 ### Apple Peel Atresia
 
