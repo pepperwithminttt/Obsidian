@@ -345,12 +345,12 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
 
 - Fistula rektoperineal.
 - Fistula rektovestibuler.
-- **Kloaka**.
+- **Kloaka** (pada kondisi normal, bayi perempuan memiliki **tiga lubang terpisah**: uretra, vagina, dan anus. Pada kloaka, ketiganya menyatu menjadi satu saluran).
 - Malformasi kompleks.
 - Imperforate anus tanpa fistula.
 - Atresia/stenosis rektum.
 
-![uploading...](cjccvk)
+![gh|463](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078439000ufess4.png)
 
 ## Manifestasi Klinis
 
@@ -362,10 +362,22 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
 
 > 🧠 **Bayi tidak punya anus normal + mekonium keluar dari tempat yang tidak semestinya → pikirkan MAR.**
 
+![gh|476](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910785770001w7epb.png)
+
+![gh|541](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078594000zku0ms.png)
+
+![gh|434](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078612000talvvm.png)
+
+![gh|561](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910786400002pff0h.png)
+
+![gh|559](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078656000fc7qwu.png)
+
 ## Pemeriksaan Penunjang
 
 - Foto **BNO**.
 - Foto **knee-chest / cross-table lateral** dalam posisi prone → terutama pada MAR tanpa fistula.
+![uploading...](xg4vvv)
+
 - **Distal colography** untuk melihat fistula.
 
 ### Menentukan Letak MAR
