@@ -56,6 +56,8 @@
     - aspirasi
     - sianosis saat makan akibat refluks/masuknya isi ke paru.
 
+![gh|253](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179107436200093ovxv.png)
+
 ## Diagnosis
 
 - **Foto toraks** setelah pemasangan NGT/OGT:
@@ -63,21 +65,27 @@
     - tidak mencapai lambung.
 - **Adanya udara di lambung** menunjukkan kemungkinan terdapat **fistula trakeoesofageal distal**.
 
+![gh|278](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910744340000ft63p.png)
+
 ### Komplikasi
 
 - **Pneumonia aspirasi** akibat masuknya sekret atau makanan ke paru.
 
-## Tatalaksana
+![gh|347](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910744790009yo89m.png)
+
+## Tatalaksana (Cuma Nice to Know)
 
 ### Praoperatif
 
 Tujuan utama: **mencegah aspirasi dan menstabilkan bayi**.
 
-- Aspirasi sekret dengan pemasangan **OGT**.
+- Aspirasi sekret dengan pemasangan **OGT** (orogastric tube).
 - Posisi kepala lebih tinggi.
 - Cairan intravena.
 - Antibiotik profilaksis.
 - Ventilasi bila terdapat **distres respirasi**.
+
+![gh|384](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791074506000uttshp.png)
 
 ### Operatif
 
@@ -98,6 +106,8 @@ Jika terdapat **gap >3 cm**:
 - **esophageal replacement**, misalnya:
     - _colonic interposition_
     - _gastric pull-up_.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910745300005ho4dn.png)
 
 > 🧠 **Kunci AE:**  
 > **NGT mentok + drooling + batuk/sianosis saat makan ± distensi abdomen → pikirkan atresia esofagus.**
