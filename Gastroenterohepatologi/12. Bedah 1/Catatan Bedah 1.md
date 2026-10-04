@@ -421,6 +421,8 @@ Prinsip tata laksana:
 
 ## Klasifikasi
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910990770008f0s93.png)
+
 ### Berdasarkan tipe
 
 **Mekanik/dinamik**
@@ -432,6 +434,8 @@ Dapat berasal dari:
 - **Ekstramural** → adhesi, hernia, tumor dari luar usus.
 - **Intramural** → tumor/penebalan dinding usus.
 - **Intraluminal** → fekaloma, batu empedu, benda asing.
+
+![gh|383](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791098884000yo1s6p.png)
 
 **Fungsional/adynamik**  
 Tidak terdapat sumbatan mekanik.
@@ -459,45 +463,18 @@ Dapat berupa:
 
 ### Berdasarkan nature/jenis obstruksi
 
-|Tipe|Ciri|
-|---|---|
-|**Simple mechanical**|Obstruksi tanpa gangguan vaskular|
-|**Strangulated**|Obstruksi + gangguan vaskular|
-|**Closed-loop**|Obstruksi pada dua titik sehingga segmen usus terjebak|
+| Tipe                  | Ciri                                                                  |
+| --------------------- | --------------------------------------------------------------------- |
+| **Simple mechanical** | Obstruksi tanpa gangguan vaskular. Proksimal dilatasi, distal kolaps. |
+| **Strangulated**      | Obstruksi + gangguan vaskular                                         |
+| **Closed-loop**       | Obstruksi pada dua titik sehingga segmen usus terjebak                |
 
-Pada **strangulasi**, gangguan aliran vena biasanya terjadi terlebih dahulu → edema → gangguan arteri → iskemia → infark → gangren → perforasi.
+Pada **strangulasi**, gangguan aliran vena biasanya terjadi terlebih dahulu → edema → gangguan arteri → iskemia → infark → gangren → perforasi. Bisa terjadi pada volvulus, hernia, atau intususepsi/invaginasi.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791098800000n0mhso.png)
 
 > ⚠️ **Strangulated obstruction = surgical emergency.**
 
-### Ileus paralitik
-
-Tidak ada peristaltik efektif meskipun tidak terdapat sumbatan mekanik.
-
-Penyebab:
-
-- Peritonitis.
-- Iskemia usus.
-- Gangguan elektrolit:
-    - hipokalemia,
-    - hiponatremia,
-    - uremia,
-    - hipomagnesemia.
-- Pascaoperasi, terutama operasi usus/peritonitis.
-- Obat:
-    - morfin,
-    - antidepresan trisiklik,
-    - antispasmodik.
-- Endokrin:
-    - diabetes melitus,
-    - hipotiroid.
-- Trauma medula spinalis.
-- Tirah baring lama.
-- Penyakit jantung.
-- Pneumonia.
-- Infark miokard.
-- PID.
-- Iritasi/inflamasi intraabdomen.
-- Iskemia mesenterika.
 
 ## Etiologi menurut usia
 
@@ -509,8 +486,6 @@ Penyebab:
 |Remaja|Apendisitis, divertikulitis Meckel|
 |Dewasa|Adhesi, hernia, apendisitis, Crohn, karsinoma|
 |Lansia|Karsinoma, divertikulitis, volvulus sigmoid, fekaloma|
-
-Pada PPT, penyebab obstruksi yang dicantumkan antara lain **adhesi, inflamasi, karsinoma, hernia terobstruksi, impaksi fekal, pseudo-obstruksi, dan penyebab lainnya**.
 
 ## Patofisiologi
 
@@ -558,6 +533,8 @@ Efek sistemik:
 - syok,
 - kematian.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791099332000wfnm4r.png)
+
 ## Manifestasi klinis
 
 Empat gejala klasik:
@@ -565,14 +542,31 @@ Empat gejala klasik:
 1. **Nyeri abdomen**
 2. **Mual/muntah**
 3. **Distensi abdomen**
-4. **Tidak dapat BAB dan flatus**
+4. **Konstipasi/tidak dapat BAB dan flatus**
 
 ### Nyeri
 
 - Obstruksi → biasanya **nyeri kolik**.
+	- Obstruksi usus halus → nyeri sentral, kolik/spasme.
+	- Obstruksi kolon → nyeri perifer, bersifat tumpul.
 - Strangulasi/iskemia → nyeri berubah menjadi **kontinu dan berat**.
+- Pada ileus paralitik **tidak ada nyeri** kecuali jika terjadi peritonitis, inflamasi, oklusi vaskuler.
 
-### Tanda lanjut
+### Muntah
+
+- Pada obstruksi letak tinggi/usus halus, muntah cepat terjadi pada tahap awal.
+- Pada obstruksi letak rendah/kolon, muntah terjadi belakangan bahkan kadang pasien tdk mengeluh muntah.
+- Tanyakan sifat muntah, warna, dll.
+
+### Konstipasi
+
+- Terjadi belakangan pada obstruksi letak tinggi/usus halus.
+- Terjadi lebih awal pada obstruksi letak rendah/kolon.
+
+> **Note**: Intinya kebalikan dari muntah lah ya.
+
+
+### Manifestasi Lanjut
 
 - Dehidrasi.
 - Oliguria.
