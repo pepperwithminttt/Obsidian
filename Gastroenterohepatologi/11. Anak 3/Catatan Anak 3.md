@@ -326,7 +326,7 @@ Interpretasi:
     - E
     - K.
 - Nutrisi tinggi kalori dan protein.
-- Formula dengan **MCT (medium-chain triglyceride)**.
+- Pemberian formula dengan **MCT (medium-chain triglyceride)**.
 
 ## Transplantasi Hati
 
