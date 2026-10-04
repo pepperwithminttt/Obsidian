@@ -1,5 +1,5 @@
-1. Atresia Esofagus
-2. Atresia Biliaris
-3. Atresia Intestinal
-4. Atresia Anus
-5. Fisura Anus
+1. Atresia Esofagus (2)
+2. Atresia Biliaris (2)
+3. Atresia Intestinal (2)
+4. Atresia Anus (2)
+5. Fisura Anus (3A)

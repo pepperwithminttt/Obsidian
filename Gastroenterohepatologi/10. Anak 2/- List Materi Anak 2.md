@@ -1,6 +1,6 @@
-1. Infeksi pada umbilikus
-2. Penyakit Hirschsprung
-3. Intususepsi/invaginasi
-4. Stenosis pilorik
-5. Akalasia
-6. Refluks gastro-esofagus
+1. Infeksi pada umbilikus (4)
+2. Penyakit Hirschsprung (2)
+3. Intususepsi/invaginasi (3B)
+4. Stenosis pilorik (2)
+5. Akalasia (2)
+6. Refluks gastro-esofagus (4)

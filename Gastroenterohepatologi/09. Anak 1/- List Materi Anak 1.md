@@ -1,5 +1,5 @@
-1. Gastroenteritis (termasuk kolera, giardiasis)
-2. Disentri basiler dan amuba
-3. Hepatitis A
-4. Hepatitis B
-5. Hepatitis C
+1. Gastroenteritis (termasuk kolera, giardiasis) (4)
+2. Disentri basiler dan amuba (4)
+3. Hepatitis A (4)
+4. Hepatitis B (3A)
+5. Hepatitis C (3A)

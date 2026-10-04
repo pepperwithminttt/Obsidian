@@ -8,6 +8,9 @@
 
 ### Embriologi & Patogenesis
 
+![gh|391](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791073648000055nfb.png)
+![gh|489](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791073672000552q3f.png)
+
 - Esofagus dan trakea berkembang bersama dari **foregut**.
 - Pada **minggu ke-4–5 kehamilan** terjadi pemisahan foregut menjadi:
     - bagian **pernapasan ventral** → trakea
@@ -23,13 +26,14 @@
 
 ## Klasifikasi
 
-|Tipe|Kelainan|Frekuensi|
-|---|---|---|
-|**A**|Atresia murni, tanpa fistula|7–8%|
-|**B**|Fistula antara esofagus proksimal dan trakea|<1%|
-|**C**|Fistula antara esofagus distal dan trakea|**85–90%**|
-|**D**|Fistula pada esofagus proksimal dan distal|<1%|
-|**E**|TEF tanpa atresia (**tipe H**)|4–5%|
+| Tipe  | Kelainan                                     | Frekuensi  |
+| ----- | -------------------------------------------- | ---------- |
+| **A** | Atresia murni, tanpa fistula                 | 7–8%       |
+| **B** | Fistula antara esofagus proksimal dan trakea | <1%        |
+| **C** | Fistula antara esofagus distal dan trakea    | **85–90%** |
+| **D** | Fistula pada esofagus proksimal dan distal   | <1%        |
+| **E** | TEF tanpa atresia (**tipe H**)               | 4–5%       |
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791073751000d4nh59.png)
 
 > 🧠 **Hafalan:** **Tipe C = Common** → paling sering.
 
