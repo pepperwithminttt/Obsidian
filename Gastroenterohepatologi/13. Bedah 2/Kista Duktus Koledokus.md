@@ -138,7 +138,7 @@ Modalitas yang digunakan:
 > 🧠 **MRCP** → noninvasif untuk memetakan anatomi bilier.  
 > **ERCP** → dapat memberikan visualisasi duktus sekaligus memungkinkan tindakan endoskopik.
 
-# Tatalaksana
+# Tatalaksana (Cuma Nice to Know)
 
 Prinsip tatalaksana bergantung pada **tipe Todani, lokasi keterlibatan, anatomi saluran empedu, dan kemungkinan reseksi**.
 
@@ -146,10 +146,16 @@ Prinsip tatalaksana bergantung pada **tipe Todani, lokasi keterlibatan, anatomi 
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911281580000fxwev.png)
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128294000qjirha.png)
+
 **Terapi standar:**
 
 - **Eksisi total choledochal cyst**
 - Dilanjutkan **rekonstruksi Roux-en-Y hepaticojejunostomy (HJ)**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128316000zfyug7.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128334000pyrhek.png)
 
 > Dahulu digunakan **cyst-enterostomy**, tetapi teknik ini memiliki risiko komplikasi dan keganasan yang lebih tinggi sehingga **bukan lagi terapi standar**.
 
@@ -164,6 +170,8 @@ Prinsip tatalaksana bergantung pada **tipe Todani, lokasi keterlibatan, anatomi 
 
 ## Tipe II
 
+![gh|292](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128349000x45739.png)
+
 Tatalaksana ditentukan terutama berdasarkan ukuran hubungan antara kista dan saluran empedu:
 
 - **Leher kista kecil** → hubungan dapat **diligasi atau ditutup primer**.
@@ -173,6 +181,8 @@ Tatalaksana ditentukan terutama berdasarkan ukuran hubungan antara kista dan sal
 - Pemilihan teknik disesuaikan dengan **anatomi dan pertimbangan teknis**.
 
 ## Tipe III — Choledochocele
+
+![gh|286](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128538000kxjahv.png)
 
 - Eksisi bedah total dahulu dilakukan melalui:
     - **Pancreaticoduodenectomy**, atau
@@ -185,6 +195,10 @@ Tatalaksana ditentukan terutama berdasarkan ukuran hubungan antara kista dan sal
 
 ## Tipe IV
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128366000sfe2da.png)
+
+![gh|376](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128383000pve3ux.png)
+
 Tatalaksana bergantung pada **luas keterlibatan intrahepatik dan ekstrahepatik**.
 
 - Jika hanya **satu sisi hati** yang terkena:
@@ -194,6 +208,10 @@ Tatalaksana bergantung pada **luas keterlibatan intrahepatik dan ekstrahepatik**
 - Karena tipe IV memiliki kecenderungan keganasan pada **duktus ekstrahepatik**, bagian ekstrahepatik perlu ditangani secara agresif dengan eksisi.
 
 ## Tipe V — Caroli Disease
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128430000rgd603.png)
+
+![gh|268](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791128456000gtmnaj.png)
 
 - **Unilateral disease** → **partial hepatectomy**.
 - Jika keterlibatan intrahepatik sudah difus dan tidak dapat direseksi → **transplantasi hati**.
@@ -234,6 +252,8 @@ Keduanya relatif **jarang**.
 - Faktor prognosis buruk yang paling penting adalah adanya **keganasan saat dilakukan reseksi**.
 
 # 🧠 Ringkasan Hafalan Cepat
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791127862000qqdus5.png)
 
 |Todani|Lokasi|Tatalaksana utama|
 |---|---|---|
