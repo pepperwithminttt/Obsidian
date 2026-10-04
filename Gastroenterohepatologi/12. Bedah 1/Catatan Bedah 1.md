@@ -1127,22 +1127,102 @@ Diagnosis sindrom SMA ditegakkan berdasarkan:
 
 ### Acute colonic pseudo-obstruction / Ogilvie syndrome
 
-Dilatasi kolon tanpa adanya obstruksi mekanik yang nyata.
+- **ACPO** merupakan kondisi **dilatasi akut kolon** akibat perubahan **inervasi saraf otonom kolon**, **tanpa adanya obstruksi mekanis**.
+- Gejala, tanda klinis, dan gambaran radiologi ACPO **menyerupai large bowel obstruction (LBO)**, tetapi **tidak terdapat sumbatan mekanis** pada usus besar.
+- Pada foto polos abdomen:
+    - ACPO dan ileus paralitik masih menunjukkan **haustra kolon**.
+    - **Ketebalan dinding kolon tetap normal**.
+    - Namun, dilatasi kolon yang sangat berat pada ACPO dapat menyebabkan **perforasi**.
+- Dilatasi pada ACPO biasanya disertai **jumlah cairan yang minimal di dalam lumen kolon**, sehingga **air-fluid level minimal**.
+- ACPO paling sering terjadi pada:
+    - **pria >60 tahun**;
+    - pasien yang sudah dirawat di rumah sakit;
+    - terutama pasien dengan kondisi **sakit berat**.
 
-Dapat terjadi pada pasien:
+#### Manifestasi Klinis
 
-- sakit berat,
-- pascaoperasi,
-- trauma,
-- gangguan metabolik,
-- penyakit sistemik.
+Gejala ACPO menyerupai LBO:
 
-Komplikasi:
+- **Distensi abdomen**
+- **Nyeri abdomen**
+- **Mual**
+- **Muntah**
 
-- iskemia,
-- perforasi.
+**Nyeri tekan abdomen** pada ACPO biasanya **tidak seberat LBO**, kecuali telah terdapat tanda-tanda **akut abdomen**.
 
-🟦 **Tambahan di luar PPT:** tata laksana awal berupa koreksi penyebab, penghentian obat pencetus, mobilisasi bila memungkinkan, koreksi elektrolit, dan dekompresi. **Neostigmine** dapat digunakan pada kasus tertentu; dekompresi endoskopik atau operasi dipertimbangkan bila terapi konservatif gagal atau terdapat komplikasi.
+#### Gambaran Radiologi
+
+Pada foto polos abdomen dapat ditemukan:
+
+- Dilatasi **sekum**, yang dapat mencapai **>10 cm**.
+- Dilatasi:
+    - kolon asenden,
+    - kolon transversum,
+    - kolon desenden.
+- Udara terkadang masih mengisi **kolon sigmoid dan rektum**.
+
+⚠️ **Komplikasi: perforasi kolon**
+
+- Perforasi dapat terjadi terutama pada **sekum**, dengan angka sekitar **3–15%**.
+- **Pneumatosis pada sekum atau kolon asenden** menunjukkan adanya **iskemia usus**.
+- Jika tidak segera dilakukan dekompresi, iskemia dapat berkembang menjadi **perforasi**.
+
+#### Pemeriksaan Penunjang
+
+Untuk menentukan ada atau tidaknya obstruksi dan membedakan **LBO** dari **ACPO**, dapat dilakukan:
+
+- **Foto kontras**
+- **CT scan abdomen**
+- **Endoskopi**
+
+#### Penanganan
+
+1. Konservatif
+
+Merupakan **penanganan utama** ACPO, dengan menghilangkan atau mengatasi faktor dan kondisi yang berhubungan dengan ACPO.
+
+Meliputi:
+
+- **Koreksi gangguan elektrolit dan metabolik**.
+- **Dekompresi** dengan:
+    - NGT,
+    - rektal tube.
+
+Terapi konservatif memberikan keberhasilan **>85%**, rata-rata dalam **3 hari**.
+
+2. Obat yang Meningkatkan Motilitas Usus
+
+Dapat diberikan obat yang meningkatkan **motilitas usus** tanpa efek di luar gastrointestinal, antara lain:
+
+- **Guanethidine** → _adrenergic blocker_  
+    → **20 mg dalam 100 mL NaCl**, diinfus selama **40 menit**.
+- **Neostigmine** → _parasympathomimetic_  
+    → **2,5 mg selama 1 menit**, setelah pemberian guanethidine.  
+    → Dapat memberikan perbaikan cepat pada **>80% kasus**.
+- **Cisapride**
+- **Erythromycin**
+- **Pyridostigmine oral**
+
+3. Dekompresi Endoskopi
+
+**Dekompresi dengan endoskopi** juga dapat memberikan hasil yang baik pada ACPO.
+
+4. Operasi
+
+Jika **terapi konservatif gagal**, dapat dilakukan:
+
+- **Sekostomi**
+- **Kolektomi**
+
+Pilihan lainnya:
+
+- **Subtotal colectomy + ileorectal anastomosis**
+
+🧠 **Kunci Ogilvie:**
+
+> **ACPO = kolon sangat dilatasi + mirip LBO + TIDAK ada sumbatan mekanis.**  
+> **Sekum >10 cm → waspada iskemia/perforasi.**  
+> **Terapi awal → koreksi penyebab + dekompresi → obat pro-motilitas → endoskopi → operasi bila gagal.**
 
 ### Intususepsi / invaginasi
 
