@@ -388,7 +388,7 @@ Pada foto _cross-table lateral_:
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078854000q4bcz8.png)
 
-## Diagnosis & Tatalaksana
+## Diagnosis & Tatalaksana (Untuk Tatalaksana Cuma Nice to Know)
 
 - Diagnosis terutama berdasarkan:
     - gejala klinis
@@ -396,6 +396,13 @@ Pada foto _cross-table lateral_:
     - pemeriksaan tambahan.
 - Pemeriksaan fisik dapat menegakkan sekitar **80–90% diagnosis**.
 - Penentuan level dan identifikasi fistula dilakukan setelah bayi berusia **>24 jam**.
+#### Algoritma Tatalaksana pada Bayi Laki-Laki
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791079091000a3o83u.png)
+
+#### Algoritma Tatalaksana pada Bayi Perempuan
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791079123000u627en.png)
 
 ### Tindakan Operatif
 
