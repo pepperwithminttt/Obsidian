@@ -1,22 +1,25 @@
 # AKUT ABDOMEN 🚨
 
-**Akut abdomen (acute abdomen)** adalah keadaan klinis akibat **kegawatan di rongga abdomen yang timbul mendadak dengan nyeri sebagai keluhan utama**. Penyebabnya dapat berupa **infeksi, inflamasi, oklusi vaskular, maupun obstruksi**. Kondisi ini dapat memerlukan **resusitasi dan/atau tindakan operasi segera**.
+Akut abdomen (acute abdomen) adalah keadaan klinis akibat **kegawatan di rongga abdomen** yang **timbul mendadak** dengan **nyeri sebagai keluhan utama**.
+
+Penyebabnya dapat berupa **infeksi, inflamasi, oklusi vaskular, maupun obstruksi**. Kondisi ini dapat memerlukan resusitasi dan/atau tindakan operasi segera.
 
 > 🧠 **Intinya:** akut abdomen bukan satu penyakit, tetapi **sindrom klinis** akibat berbagai penyakit intraabdomen maupun ekstraabdomen.
 
 Penyebab dapat dikelompokkan menjadi:
 
-|Kelompok|Contoh|
-|---|---|
-|**Gastrointestinal**|Apendisitis, divertikulitis, kolesistitis, obstruksi usus, perforasi|
-|**Genitourinaria**|Kolik renal/ureter|
-|**Ginekologi**|PID, kehamilan, KET|
-|**Vaskular**|AAA, acute mesenteric ischemia|
-|**Ekstraabdomen**|AMI, pneumonia, herpes zoster|
-|**Metabolik/toksik**|CKD, keracunan logam berat|
-|**Nonspecific**|Nyeri abdomen tanpa penyebab yang dapat ditentukan|
-
-PPT membagi kasus akut abdomen menjadi **kasus yang membutuhkan operasi** dan **yang tidak membutuhkan operasi**. Pada sebagian pasien diperlukan **resusitasi dan operasi segera**.
+| **Klasifikasi**                                   | **Kelompok penyebab** | **Contoh**                                                                                      |
+| ------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------- |
+| **1. Intra-abdominal** _(intra-/retroperitoneal)_ | **Gastrointestinal**  | Apendisitis, divertikulitis, kolesistitis, dll.                                                 |
+|                                                   | **Genitourinaria**    | _Renal colic_ (kolik renal), kelainan ureter, dll.                                              |
+|                                                   | **Ginekologi**        | PID (_Pelvic Inflammatory Disease_), pregnancy (kehamilan), KET (_Kehamilan Ektopik Terganggu_) |
+|                                                   | **Sistem vaskular**   | AAA (_Abdominal Aortic Aneurysm_), _mesenteric ischemia_, dll.                                  |
+| **2. Extra-abdominal** _(jarang)_                 | **Kardiopulmoner**    | AMI (_Acute Myocardial Infarction_)                                                             |
+|                                                   | **Dinding abdomen**   | Hernia, zoster                                                                                  |
+|                                                   | **Toksik-metabolik**  | CKD (_Chronic Kidney Disease_), keracunan logam berat                                           |
+|                                                   | **Nyeri neurogenik**  | Zoster, dll.                                                                                    |
+|                                                   | **Psikis**            | _Anxiety_, _depression_, dll.                                                                   |
+| **3. Nonspecific abdominal pain**                 | —                     | Nyeri perut yang **tidak dapat dijelaskan penyebabnya**                                         |
 
 ## 🩺 Penyakit dalam materi yang termasuk akut abdomen
 
@@ -38,7 +41,7 @@ Selain itu, PPT juga membahas **acute mesenteric ischemia** sebagai penyebab vas
 
 ## Nyeri pada Akut Abdomen
 
-Nyeri merupakan **keluhan utama** pada akut abdomen. Lokasi, sifat, onset, perpindahan, dan hubungan nyeri dengan gerakan dapat membantu menentukan organ atau proses patologis yang terlibat.
+**Nyeri** merupakan **keluhan utama** pada akut abdomen. Lokasi, sifat, onset, perpindahan, dan hubungan nyeri dengan gerakan dapat membantu menentukan organ atau proses patologis yang terlibat.
 
 ### Nyeri viseral
 
@@ -55,11 +58,11 @@ Ciri:
 
 Lokasi mengikuti asal embriologis:
 
-|Asal|Organ|Lokasi nyeri viseral|
-|---|---|---|
-|**Foregut**|Lambung, duodenum, hepatobilier, pankreas|Epigastrium|
-|**Midgut**|Usus halus → 2/3 proksimal kolon transversum|Periumbilikal|
-|**Hindgut**|1/3 distal kolon transversum → sigmoid|Abdomen bawah|
+| Asal        | Organ                                           | Lokasi nyeri viseral       |
+| ----------- | ----------------------------------------------- | -------------------------- |
+| **Foregut** | Lambung, duodenum, hepatobilier, pankreas       | Epigastrium **(ulu hati)** |
+| **Midgut**  | Usus halus s.d. 2/3 proksimal kolon transversum | Periumbilikal              |
+| **Hindgut** | 1/3 distal kolon transversum s.d. sigmoid       | Abdomen bawah              |
 
 ### Nyeri somatik
 
@@ -77,6 +80,30 @@ Ciri:
     - terjadi gesekan organ yang meradang dengan peritoneum.
 
 Karena itu pasien dengan **peritonitis cenderung diam**, sedangkan pasien dengan **kolik cenderung gelisah dan banyak bergerak**.
+
+### Nyeri Kolik
+
+**Kolik** adalah jenis nyeri yang muncul akibat **kontraksi kuat organ berongga (viskus)**, biasanya ketika organ tersebut berusaha mendorong sesuatu yang menyumbat atau menghambat alirannya.
+
+Contoh:
+
+- 🪨 **Kolik renal** → batu menyumbat ureter → ureter berkontraksi → nyeri hebat.
+- 🚧 **Kolik intestinal** → obstruksi usus → usus berkontraksi melawan sumbatan → nyeri.
+- 🪨 **Kolik bilier** → batu menyumbat saluran empedu → kontraksi kandung empedu → nyeri.
+
+### Ciri khas nyeri kolik
+
+- Nyeri **hilang-timbul/bergelombang** karena kontraksi terjadi secara periodik.
+- Biasanya **sangat nyeri**.
+- Pasien cenderung **gelisah dan terus mencari posisi nyaman** → sering berpindah posisi, menggeliat, berjalan, dll.
+- Berbeda dengan **nyeri peritoneal**, yang biasanya bertambah ketika bergerak sehingga pasien cenderung **diam**.
+
+🧠 **Cara ingat:**
+
+> **Kolik = organ berkontraksi → nyeri datang bergelombang → pasien “nggak bisa diam”.**  
+> **Peritonitis = gerakan mengiritasi peritoneum → makin sakit → pasien “jangan disentuh, jangan digerakkan”.** 😭
+
+**Catatan:** “kolik” menggambarkan **pola nyeri**, bukan nama penyakit. Jadi _kolik renal_ berarti pola nyeri kolik akibat masalah di traktus urinarius, bukan berarti semua nyeri ginjal pasti kolik.
 
 ### Nyeri alih (_referred pain_)
 
