@@ -107,14 +107,18 @@ Contoh:
 
 ### Nyeri alih (_referred pain_)
 
-Nyeri dirasakan jauh dari sumber sebenarnya karena suatu segmen persarafan melayani lebih dari satu daerah.
+Nyeri dirasakan **jauh dari sumber sebenarnya**. **Nyeri alih** terjadi ketika **satu segmen persarafan melayani lebih dari satu daerah**, sehingga rangsangan pada suatu organ dapat dirasakan sebagai nyeri di **daerah lain** yang memiliki persarafan yang sama.
 
 Contoh:
 
-- Kolik ureter → dapat menjalar ke genitalia.
-- Iritasi diafragma → nyeri bahu.
-- Kolesistitis akut → dapat terasa di ujung belikat.
-- Iritasi permukaan hati/limpa → nyeri bahu.
+- **Diafragma** mendapat persarafan dari **C3–C5**. Pada masa embrional, diafragma berpindah ke posisi yang lebih inferior. Karena itu, rangsangan pada diafragma akibat **perdarahan atau peradangan** dapat dirasakan sebagai **nyeri bahu**.
+- **Kolesistitis akut** → nyeri dapat dirasakan pada **ujung belikat/bahu**.
+- **Abses subdiafragma**, serta **peradangan atau trauma pada permukaan limpa maupun hati** → dapat menyebabkan **nyeri bahu**.
+- **Kolik ureter atau kolik pielum ginjal** → nyeri dapat menjalar hingga **alat kelamin luar**:
+    - 👩 **Labia mayora** pada wanita
+    - 👨 **Testis** pada pria
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791094469000fe295c.png)
 
 ### Nyeri proyeksi
 
