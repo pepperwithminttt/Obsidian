@@ -2133,7 +2133,7 @@ Pembedahan sangat dianjurkan pada **hemoroid interna grade III–IV**, hemoroid 
 
 ---
 
-## 5. Tatalaksana Bedah
+### 5. Tatalaksana Bedah (Cuma Nice to Know)
 
 #### **Hemoroidektomi**
 
