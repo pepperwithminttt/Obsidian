@@ -295,12 +295,9 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
 ## Definisi & Epidemiologi
 
 - **Malformasi anorektal (MAR)** atau _imperforated anus_ adalah kelainan kongenital akibat **kegagalan perkembangan anus atau rektum secara normal selama masa embrio**.
-- Dapat disertai **fistula** yang menghubungkan rektum dengan organ lain.
-
-Contoh:
-
-- Laki-laki → **rektouretra**
-- Perempuan → **rektovestibuler**
+- Dapat disertai **fistula** yang menghubungkan rektum dengan organ lain:
+	- Laki-laki → **rektouretra**
+	- Perempuan → **rektovestibuler**
 
 ### Epidemiologi
 
