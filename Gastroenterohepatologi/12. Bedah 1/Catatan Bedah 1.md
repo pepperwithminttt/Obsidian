@@ -535,7 +535,7 @@ Efek sistemik:
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791099332000wfnm4r.png)
 
-## Manifestasi klinis
+## Manifestasi klinis dan Anamnesis
 
 Empat gejala klasik:
 
@@ -579,80 +579,362 @@ Empat gejala klasik:
 
 > 🧠 **4K:** **K**olik + **K**embung + **K**eluar-muntah + **K**etiadaan BAB/flatus.
 
-## Pemeriksaan penunjang
+## Pemeriksaan Fisik pada Ileus Obstruksi 🩺
 
-### Laboratorium
+|**Pemeriksaan**|**Temuan yang dinilai**|**Makna/petunjuk**|
+|---|---|---|
+|**Inspeksi** 👀|Distensi abdomen|Menunjukkan penumpukan gas/cairan|
+||_Darm contour_|Kontur usus yang tampak dari luar|
+||_Darm steifung_|Gerakan/peristaltik usus yang tampak pada dinding abdomen|
+||Hernia|Mencari kemungkinan hernia sebagai penyebab obstruksi|
+||Bekas luka operasi|Dapat mengarah pada adhesi pascaoperasi|
+||Tanda dehidrasi|Misalnya tanda kekurangan cairan akibat muntah/third spacing|
+|**Palpasi** 🤲|Nyeri tekan|**Nyeri tekan + kekakuan abdomen** → curiga strangulasi atau oklusi vaskular|
+||Orifisium hernia|Semua lubang hernia harus dipalpasi untuk menyingkirkan hernia|
+||Massa|Dapat berupa tumor atau fekaloma|
+|**Perkusi** 👆|Timpani|Dapat menunjukkan banyak gas dalam usus|
+||_Tenderness_|Nyeri saat perkusi|
+||Pekak hepar|Menilai batas/pekak hepar|
+||_Shifting dullness_|Dapat menunjukkan asites|
+|**Auskultasi** 🎧|Bising usus (_frequent_, metalik/_high-pitched_, borborigmi)|Dapat ditemukan pada obstruksi mekanik|
+||Bising usus menghilang|Dapat terjadi pada **strangulasi, iskemia, atau perforasi**|
+
+### Rectal Toucher (RT)
+
+|**Temuan RT**|**Makna/petunjuk**|
+|---|---|
+|**Ampula rekti kolaps**|Curiga obstruksi|
+|**Isi rektum menyemprot**|Dapat ditemukan pada **Hirschsprung disease**|
+|**Darah**|Dapat mendukung strangulasi atau keganasan|
+|**Darah segar**|Dapat ditemukan pada strangulasi/invaginasi|
+|**Tumor rektum**|Menunjukkan kemungkinan massa yang menyebabkan obstruksi|
+|**Feses mengeras (skibala)**|Menunjukkan fekaloma/impaksi feses|
+|**Feses negatif**|Dapat ditemukan pada obstruksi usus letak tinggi|
+|**Nyeri tekan**|Dapat menunjukkan proses lokal atau peritonitis generalisata|
+|**Sfingter ani longgar**|Dapat ditemukan pada ileus paralitik atau peritonitis generalisata|
+
+## Tanda Iskemia Usus ⚠️
+
+Temuan yang mengarah pada **iskemia usus**:
+
+- Hernia **strangulata**
+- Nyeri abdomen **terus-menerus**
+- Takikardi
+- Demam
+- Asidosis metabolik
+- Leukositosis
+- Defans muskular
+- **Pneumatosis intestinal**
+- **Portal venous gas**
+
+## Pemeriksaan Laboratorium 🧪
+### Pemeriksaan Darah
+
+- Darah rutin
+- Urea & elektrolit
+- Serum amilase
+- Evaluasi **asidosis metabolik**
+
+### WBC
+
+- Leukosit normal atau sedikit meningkat → dapat ditemukan pada **simple mechanical obstruction**
+- Leukosit **15.000–20.000/µL** → dapat mengarah ke **strangulasi**
+- Leukosit **30.000–40.000/µL** → dapat mengarah ke **primary mesenteric vascular occlusion**
+
+### Serum Amylase
+
+- Peningkatan **serum amilase dan lipase** dapat menjadi petunjuk ileus paralitik akibat **pankreatitis akut**.
+
+## Imaging Ileus Obstruksi
+
+**Modalitas:**
+- Foto polos abdomen 3 posisi
+- Foto Kontras Fluoroskop
+- CT scan abdomen
+- USG abdomen
+
+### Foto Polos Abdomen
+
+**Foto yang diminta:**
+
+1. **Supine** → pasien terlentang
+2. **Erect** → pasien berdiri
+3. **CXR** → foto toraks
+
+**Yang Dinilai**
+
+1. **Pola gas**: gaster, kolon, 1–2 loop usus halus
+2. **Air-fluid level**: gaster, 1–2 loop usus halus
+
+**4 Area yang Harus Diperiksa**
+
+|Area|Yang dicari|
+|---|---|
+|**Caecal**|Gas di sekum|
+|**Hepatobiliary**|Gas pada area hepatobilier|
+|**Subdiafragma**|Free gas/udara bebas|
+|**Rectum**|Gas di rektum|
+
+Selain itu, perhatikan:
+
+- **Kalsifikasi**
+- **Massa jaringan lunak**
+- **Bayangan psoas**
+- **Pola feses**
+#### Obstruksi Letak Tinggi
+
+Obstruksi letak tinggi terutama mengacu pada **obstruksi usus halus**.
+
+**Gambaran Foto Polos Abdomen**
+
+- Loop usus yang mengalami dilatasi berada **proksimal terhadap lokasi obstruksi**.
+- Dilatasi terutama tampak di **bagian sentral abdomen**.
+- Diameter loop usus **>3 cm**.
+- **Valvulae conniventes** terlihat dan dapat melintasi seluruh diameter lumen usus.
+- Pada obstruksi tertentu, gas di kolon **sedikit atau tidak ada**.
+
+**Karakteristik usus halus:**
+
+|Gambaran|Usus Halus|
+|---|---|
+|Distribusi|**Sentral**|
+|Diameter|Maksimal sekitar **5 cm**|
+|Lipatan mukosa|**Valvulae conniventes**|
+|Bentuk khusus|Dapat tampak seperti **string of pearls**|
+|Gas kolon|Dapat sedikit/tidak ada pada obstruksi tertentu|
+
+**Air-Fluid Level & String of Pearls**
+
+- Gambaran *air fluid level* (panah merah) dan *string of pearls appearance* (panah kuning)
+- *String of pearls appearance* merupakan **cairan** yang cukup **banyak mengisi lumen usus** dengan **gelembung udara** yang **minimal** sehingga udara tampak seperti **untaian mutiara** di sepanjang usus.
+- Gambaran ini tidak tampak pada posisi supine tapi bisa tampak pada posisi tegak dan lateral.
+
+![gh|320](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791101381000ghybdu.png)
+
+🧠 **Hafalan SBO:**  
+**Small = Sentral + Small diameter + Valvulae**
+
+---
+
+#### Obstruksi Letak Rendah
+
+Obstruksi letak rendah terutama berkaitan dengan **obstruksi usus besar**.
+
+**Gambaran Foto Polos Abdomen**
+
+- Loop usus yang mengalami dilatasi terutama berada di **perifer abdomen**.
+- Diameter kolon dapat mencapai **±8 cm**.
+- **Sekum >10 cm** menunjukkan distensi yang bermakna.
+- Tampak **haustra** pada kolon.
+- Pada obstruksi yang berat, **haustra dapat menghilang**.
+
+**Karakteristik usus besar:**
+
+|Gambaran|Usus Besar|
+|---|---|
+|Distribusi|**Perifer**|
+|Diameter|Maksimal sekitar **8 cm**|
+|Sekum|**>10 cm** dapat mengalami distensi bermakna|
+|Lipatan|**Haustra**|
+|Air-fluid level|Dapat berupa **level yang panjang**|
+
+![gh|282](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911012830004dhuyk.png)
+
+**Obstruksi Proksimal Usus Besar**
+
+Pada **obstruksi proksimal usus besar**, gambaran radiologi dapat menyerupai **obstruksi letak tinggi**, tergantung **kompetensi valvula ileocaecal**.
 
 Dapat ditemukan:
 
-- hemokonsentrasi/dehidrasi,
-- gangguan elektrolit,
-- leukositosis.
+- distensi usus besar di **tepi/perifer abdomen**,
+- **penebalan dinding usus besar**,
+- **hilangnya haustra kolon**,
+- **air-fluid level yang panjang** pada kolon.
 
-PPT menyebut:
+**Perbedaan dengan Ileus Paralitik**
 
-- WBC **15.000–20.000** dapat mengarah pada strangulasi.
-- WBC **30.000–40.000** dapat mengarah pada oklusi vaskular mesenterika.
-- Peningkatan amilase/lipase dapat menjadi petunjuk ileus paralitik akibat pankreatitis.
+Pada **ileus paralitik**:
+- dilatasi usus lebih **menyeluruh**,
+- dapat melibatkan **gaster hingga rektum**.
 
-### Foto polos abdomen
+Jadi, dilatasi tidak hanya terbatas pada bagian proksimal dari titik sumbatan seperti pada ileus mekanik.
 
-Pada posisi **supine** dapat dinilai:
+**Jika Terjadi Perforasi**
 
-- dilatasi usus,
-- usus halus atau kolon,
-- distribusi udara,
-- lokasi kemungkinan sumbatan.
+Dapat ditemukan **free air**:
+- udara bebas **subdiafragma kanan** pada foto abdomen tegak;
+- udara bebas pada foto **lateral dekubitus kiri**.
 
-**Usus halus:**
+🧠 **Hafalan LBO:**  
+**Large = Perifer + Larger diameter + Haustra**
 
-- cenderung sentral,
-- diameter >5 cm,
-- tampak _valvulae conniventes_ / gambaran _string of pearls_,
-- sedikit/tidak ada gas di kolon pada obstruksi tertentu.
+---
+#### Rangkuman Perbedaan Small Bowel dan Large Bowel Obstruction
 
-**Kolon:**
+|**Small Bowel Obstruction**|**Large Bowel Obstruction**|
+|---|---|
+|**Sentral**|**Perifer**|
+|Diameter maksimal **±5 cm**|Diameter maksimal **±8 cm**|
+|Tampak **valvulae conniventes**|Tampak **haustra**|
+|Ileum dapat tampak seperti **tubeless**|—|
 
-- lebih perifer,
-- haustra,
-- diameter >8 cm,
-- sekum >10 cm dapat mengalami distensi bermakna.
+🧠 **Hafalan:**  
+**Small = Small diameter + Sentral + Valvulae**  
+**Large = Lebih besar + Perifer + Haustra**
 
-Pada obstruksi kolon, gambaran bergantung pada kompetensi katup ileosekal.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791101337000bd5rk8.png)
 
-**Ileus paralitik:**
 
-- dilatasi lebih menyeluruh,
-- dapat melibatkan lambung hingga rektum.
 
-**Perforasi:**
+---
 
-- dapat ditemukan **free air**, termasuk udara subdiafragma pada foto tegak.
+#### Gambaran Khas pada Kondisi Tertentu: Sigmoid Volvulus ☕
 
-> 🧠 **Small bowel = Central + valvulae conniventes**  
-> **Large bowel = Peripheral + haustra**
+Pada **volvulus sigmoid**:
 
-### Pemeriksaan kontras
+- kolon sigmoid mengalami **dilatasi sangat besar**;
+- terjadi karena sigmoid mengalami **puntiran pada radix mesenteriumnya** di **left iliac fossa (LIF)**;
+- loop sigmoid yang terpuntir menyerupai **biji kopi**.
 
-Gastrografin/barium dapat digunakan pada kondisi tertentu untuk membantu menentukan:
+→ **Coffee bean sign = sigmoid volvulus** ☕🫘
 
-- level obstruksi,
-- penyebab mural,
-- evaluasi obstruksi berulang/kronik.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911029370006wmerg.png)
 
-**Barium tidak digunakan bila terdapat peritonitis atau dicurigai perforasi**, karena dapat menyebabkan kontaminasi peritoneum.
+---
 
-### CT abdomen
+### Pemeriksaan Kontras
 
-Bermanfaat untuk:
+Pada pasien yang stabil dengan kecurigaan **obstruksi usus parsial**, terutama bila tata laksana konservatif awal tidak berhasil, dapat dilakukan **foto kontras fluoroskopi**.
 
-- menentukan lokasi dan penyebab obstruksi,
-- melihat closed-loop,
-- mendeteksi strangulasi,
-- menilai iskemia,
-- pneumatosis intestinalis,
-- perforasi,
-- massa/tumor.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791103787000tmnv2j.png)
+
+#### Gastrografin
+
+Penggunaan bahan kontras larut air seperti **Gastrografin** dapat membantu:
+
+- menentukan **lokasi/level obstruksi**;
+- membantu menentukan kebutuhan operasi pada obstruksi parsial;
+- pada sebagian kasus obstruksi usus halus, dapat memiliki efek terapeutik.
+
+Kontras yang mencapai rektum dalam **24 jam** setelah diminum memiliki sensitivitas sekitar **97% untuk resolusi spontan obstruksi usus**.
+
+#### Barium/Gastrografin Study
+
+Dapat digunakan sebagai:
+
+- _follow-through_;
+- _enema_.
+
+Namun penggunaannya **terbatas pada kondisi akut** dan lebih berguna pada **obstruksi berulang atau kronik**.
+
+> ⚠️ **Catatan:** barium sebaiknya dihindari bila dicurigai perforasi karena dapat menyebabkan kontaminasi rongga peritoneum.
+
+---
+
+### USG Abdomen
+
+USG abdomen dapat digunakan untuk membantu evaluasi ileus karena dapat:
+
+- Membedakan **ileus obstruksi** dan **ileus paralitik** dengan melihat **kontraksi/peristaltik usus**.
+- Namun, **visualisasi dapat terganggu oleh banyaknya gas dalam usus**.
+- Dapat digunakan pada **wanita hamil**, karena **paparan radiasi merupakan kontraindikasi** pada kehamilan.
+- Dapat digunakan pada **kondisi pasien yang tidak stabil**.
+
+Pada USG dapat dinilai:
+
+- **Peristaltik usus**
+- **Cairan bebas** (_free fluid_)
+- **Massa**
+- **Invaginasi/intususepsi**, dengan gambaran:
+    - **Pseudo-kidney sign**
+    - **Target/doughnut sign** 🎯
+
+🧠 **Hafalan USG:**  
+**“P-C-M-I” → Peristaltik – Cairan – Massa – Invaginasi**
+
+> **Catatan:** USG punya keunggulan karena **tidak menggunakan radiasi**, tetapi keterbatasan utamanya pada ileus adalah **gas usus yang banyak dapat menghalangi visualisasi**.
+
+![gh|509](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911040010001npyzw.png)
+
+### CT Abdomen
+
+CT scan abdomen dapat dilakukan pada pasien dengan dugaan **obstruksi usus** apabila pemeriksaan klinis dan foto polos abdomen **belum menghasilkan diagnosis definitif atau masih meragukan**.
+
+- CT scan memiliki sensitivitas tinggi untuk mendeteksi **obstruksi tingkat tinggi**, sekitar **90%**, serta dapat menentukan **penyebab obstruksi** pada sebagian besar pasien.
+- Pada **small bowel obstruction (SBO)**, identifikasi **zona transisi (_transition zone_)** sangat penting karena penyebab obstruksi sering dapat ditemukan pada area tersebut.
+- Setelah zona transisi ditemukan, perlu ditentukan apakah merupakan:
+    - **Obstruksi sederhana**, atau
+    - **Obstruksi _closed-loop_**.
+
+Pada **closed-loop obstruction**, loop usus mengalami obstruksi pada **dua titik**, sehingga terbentuk segmen usus yang terperangkap.
+
+Gambaran pada CT dapat berupa loop usus berbentuk:
+
+- **U-shaped**
+- **C-shaped**
+
+Selain itu, pada CT ileus obstruksi dapat ditemukan **multiple air-fluid levels**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791104217000us053j.png)
+
+#### Gambaran Iskemia Usus pada CT
+
+CT dapat membantu menentukan adanya **iskemia usus**.
+
+Gambaran yang dapat ditemukan:
+
+- **Penebalan dinding usus >3 mm** disertai aliran bahan kontras yang buruk ke bagian usus → **reduced bowel wall enhancement**.
+- **Target sign / halo sign** → menunjukkan **edema mukosa**.
+- **Kongesti vena mesenterika**.
+- **Edema mesenterium**.
+- **Cairan bebas intraabdomen**.
+- **Gambaran vaskular mesenterium yang abnormal**.
+- **Serrated beak**.
+- **Lack of small bowel faeces sign**.
+- **Pneumatosis intestinalis** → menunjukkan kerusakan integritas mukosa usus dan mengarah pada **iskemia usus**.
+
+> ⚠️ **Pneumatosis usus + udara bebas intraperitoneal → tanda nekrosis dan perforasi.**
+
+Pada **obstruksi usus halus yang disertai iskemia**, lumen usus dapat terisi penuh oleh cairan sehingga pada foto polos abdomen **tidak tampak udara**, menghasilkan gambaran **gasless abdomen**.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911043520003gl0tx.png)
+
+#### Role of CT
+
+CT dapat digunakan dengan:
+
+- **IV contrast**
+- **Oral contrast**
+- **Rectal contrast**
+
+→ disebut **triple contrast**.
+
+CT mampu memperlihatkan kelainan pada:
+
+- **Dinding usus**
+- **Mesenterium**
+- **Pembuluh darah mesenterika**
+- **Peritoneum**
+
+CT dapat menentukan:
+
+|Yang dinilai|Keterangan|
+|---|---|
+|**Level of obstruction**|Lokasi/tingkat sumbatan|
+|**Degree of obstruction**|Derajat obstruksi|
+|**Cause**|Volvulus, hernia, penyebab luminal dan mural|
+|**Degree of ischaemia**|Derajat iskemia usus|
+|**Free fluid & gas**|Cairan dan udara bebas|
+
+#### Sebelum CT
+
+Pastikan pasien:
+
+- **Secara vital stabil**.
+- Tidak mengalami **gagal ginjal**.
+- Tidak memiliki **riwayat alergi terhadap iodin**.
+
+---
 
 ## Tanda bahaya (_red flags_)
 
@@ -693,6 +975,8 @@ Pada pasien yang diobservasi, waspadai:
 Prinsip:  
 **dekompresi gastrointestinal + penggantian cairan/elektrolit + mengatasi obstruksi + operasi bila diperlukan.**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911046710003uhhkg.png)
+
 ### Indikasi operasi segera
 
 - Strangulasi.
@@ -724,22 +1008,23 @@ Dipertimbangkan bila:
 
 ### Gallstone ileus
 
-Batu empedu besar masuk ke usus melalui **fistula bilioenterik**, biasanya akibat inflamasi berat kandung empedu.
+- Batu empedu besar masuk ke usus melalui **fistula bilioenterik**, biasanya akibat inflamasi berat kandung empedu.
+- Batu tersebut kemudian dapat terjepit terutama di ileum terminal dan katup ileosekal sehingga menyebabkan obstruksi.
+- Jika terjadi peradangan di saluran empedu atau fistula bilioenterik (fistula dari saluran empedu ke ileum) karena obstruksi dari batu yang terjepit → **Mirizzi syndrome**.
+- Gambaran klasik Mirizzi syndrome → **Rigler triad**:
+	1. Pneumobilia.
+	2. Obstruksi usus halus.
+	3. Batu empedu ektopik.
 
-Dapat terjepit terutama di:
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791105409000jbs4p3.png)
 
-- ileum terminal,
-- katup ileosekal.
+- Batu dapat sulit terlihat pada foto polos karena bersifat radiolusens → **CT abdomen lebih membantu**.
+	- Rigler triad terlihat pada foto polos abdomen hanya mencapai 15% dan pada CT scan abdomen mencapai 80%.
+- **Sindrom Bouveret** disebabkan oleh batu empedu besar yang melewati **fistula bilioduodenal** yang menyebabkan obstruksi outlet lambung.
 
-**Mirizzi syndrome** berkaitan dengan inflamasi/obstruksi saluran empedu dan dapat berhubungan dengan pembentukan fistula.
-
-Gambaran klasik **Rigler triad**:
-
-1. Pneumobilia.
-2. Obstruksi usus halus.
-3. Batu empedu ektopik.
-
-Batu dapat sulit terlihat pada foto polos karena radiolusens → **CT abdomen lebih membantu**.
+Jadi #Ingat ada **dua sindrom untuk gallstone ileus**:
+- **Mirizzi** syndrome
+- **Bouveret** syndrome
 
 ### Superior Mesenteric Artery Syndrome / Wilkie syndrome 🩻
 

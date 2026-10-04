@@ -1,6 +1,6 @@
-1. Peritonitis
-2. Ileus obstruksi
-3. Perforasi usus
-4. Apendisitis akut
-5. Abses apendiks
-6. Hemoroid grade 3-4
+1. Peritonitis (3B)
+2. Ileus obstruksi (3B)
+3. Perforasi usus (3B)
+4. Apendisitis akut (3B)
+5. Abses apendiks (3B)
+6. Hemoroid grade 3-4 (3A)
