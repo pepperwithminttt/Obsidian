@@ -208,24 +208,59 @@ Atresia duodenum secara klasik dibagi menjadi **Tipe I, Tipe II, dan Tipe III**,
 - **Tipe III** → paling berat, sering disertai kelainan lain dan memerlukan penanganan bedah lebih kompleks.
 - Semua tipe memerlukan **intervensi bedah** setelah stabilisasi neonatus (rehidrasi, koreksi elektrolit, dan dekompresi lambung).
 
+**Note**: Mesenterium adalah organ berupa lipatan ganda peritoneum yang menggantung usus ke dinding posterior abdomen. (Gambar: yg di-highlight hijau.)
+
+![gh|350](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791075857000z5w95i.png)
+
 ## Klasifikasi Jejunoileal Atresia
 
-- **Stenosis**
-- **Tipe I**
-- **Tipe II**
-- **Tipe IIIa**
-- **Tipe IIIb → apple peel**
-- **Tipe IV**
+Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berdasarkan bentuk obstruksi dan kondisi mesenterium, dengan sistem yang paling banyak dipakai adalah **klasifikasi Grosfeld/Gray–Ladd**.
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791075200000zv6a62.png)
+### Tipe I — Atresia membranosa
 
-### Apple Peel Atresia
+- Lumen tertutup oleh **mukosa/membran**.
+- Dinding usus tetap **kontinu**, mesenterium normal.
+- Bentuk paling ringan; diameter usus proksimal biasanya melebar.
 
-- Merupakan **tipe IIIb**.
-- Memerlukan anastomosis yang hati-hati.
-- Risiko **sindrom usus pendek** tinggi.
+### Tipe II — Dua ujung usus terputus tetapi dihubungkan oleh pita fibrosa
 
-## Tatalaksana
+- Ada **dua segmen usus terpisah**, namun masih terhubung oleh **fibrous cord**.
+- Mesenterium **utuh**, tidak ada defek.
+- Panjang usus relatif terjaga.
+
+### Tipe IIIa — Dua ujung usus terputus dengan defek mesenterium
+
+- Segmen usus terputus **tanpa koneksi**, disertai **defek mesenterium berbentuk V**.
+- Risiko kehilangan panjang usus lebih besar.
+- Lebih berat dibanding tipe I–II.
+
+![gh|461](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17910765390000ci77y.png)
+
+### Tipe IIIb — “Apple peel” / “Christmas tree deformity”
+
+- Atresia proksimal dengan **hilangnya sebagian besar mesenterium**.
+- Usus distal melilit arteri ileokolika seperti **kulit apel**.
+- Sering terkait **malrotasi** dan panjang usus sangat pendek → risiko sindrom usus pendek.
+
+![gh|503](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791077413000ndd3vc.png)
+
+### Tipe IV — Multiple atresia (“string of sausages”)
+
+- Terdapat **banyak segmen atresia** sepanjang jejunum/ileum.
+- Gambaran seperti “untaian sosis”.
+- Prognosis lebih berat karena panjang usus sangat berkurang.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791077546000yr6uft.png)
+
+### Implikasi klinis penting
+
+- **Tipe IIIb dan IV** memiliki risiko tertinggi untuk **short bowel syndrome**.
+- Semua tipe memerlukan **intervensi bedah**, tetapi teknik dan prognosis bergantung pada tipe dan panjang usus yang tersisa.
+
+![gh|343](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791077573000ey89jf.png)
+
+
+## Tatalaksana (Cuma Nice to Know)
 
 ### Praoperatif
 
@@ -233,7 +268,7 @@ Atresia duodenum secara klasik dibagi menjadi **Tipe I, Tipe II, dan Tipe III**,
 - Resusitasi cairan.
 - Antibiotik profilaksis spektrum luas.
 
-### Operatif
+### Operatif (Menurut Ashcraft)
 
 **Atresia duodenum**
 
@@ -259,7 +294,7 @@ Atresia duodenum secara klasik dibagi menjadi **Tipe I, Tipe II, dan Tipe III**,
 
 ## Definisi & Epidemiologi
 
-- **Malformasi anorektal (MAR)** atau _imperforate anus_ adalah kelainan kongenital akibat **kegagalan perkembangan anus atau rektum secara normal selama masa embrio**.
+- **Malformasi anorektal (MAR)** atau _imperforated anus_ adalah kelainan kongenital akibat **kegagalan perkembangan anus atau rektum secara normal selama masa embrio**.
 - Dapat disertai **fistula** yang menghubungkan rektum dengan organ lain.
 
 Contoh:
