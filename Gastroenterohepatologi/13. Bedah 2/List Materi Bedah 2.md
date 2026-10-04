@@ -1,6 +1,6 @@
-1. Abses (peri)anal
-2. Fisura anus
-3. Prolaps rektum
-4. Fistula anus
-5. Kista duktus koledokus
-6. Empiema dan hidrops kandung empedu
+1. Abses (peri)anal (3A)
+2. Fisura anus (3A)
+3. Prolaps rektum (3A)
+4. Fistula anus (2)
+5. Kista duktus koledokus (2)
+6. Empiema dan hidrops kandung empedu (2)

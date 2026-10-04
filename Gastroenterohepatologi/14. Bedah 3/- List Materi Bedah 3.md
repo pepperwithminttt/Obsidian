@@ -1,0 +1,8 @@
+1. Ruptur esofagus (1)
+2. Tumor gaster/esofagus (2)
+3. Karsinoma pankreas/kolon (2)
+4. Polip/adenoma (2)
+5. Enterokolitis nekrotik (1)
+6. Hernia (inguinalis, femoralis, skrotalis)
+	- reponibilis, ireponibilis (2)
+	- strangulata, inkarserata (3B)
