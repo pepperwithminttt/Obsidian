@@ -1177,46 +1177,46 @@ Untuk menentukan ada atau tidaknya obstruksi dan membedakan **LBO** dari **ACPO*
 
 #### Penanganan
 
-1. Konservatif
+1. **Konservatif**
 
-Merupakan **penanganan utama** ACPO, dengan menghilangkan atau mengatasi faktor dan kondisi yang berhubungan dengan ACPO.
+	Merupakan **penanganan utama** ACPO, dengan menghilangkan atau mengatasi faktor dan kondisi yang berhubungan dengan ACPO.
 
-Meliputi:
+	Meliputi:
 
-- **Koreksi gangguan elektrolit dan metabolik**.
-- **Dekompresi** dengan:
-    - NGT,
-    - rektal tube.
+	- **Koreksi gangguan elektrolit dan metabolik**.
+	- **Dekompresi** dengan:
+	    - NGT,
+	    - rektal tube.
 
-Terapi konservatif memberikan keberhasilan **>85%**, rata-rata dalam **3 hari**.
+	Terapi konservatif memberikan keberhasilan **>85%**, rata-rata dalam **3 hari**.
 
-2. Obat yang Meningkatkan Motilitas Usus
+2. **Obat yang Meningkatkan Motilitas Usus**
 
-Dapat diberikan obat yang meningkatkan **motilitas usus** tanpa efek di luar gastrointestinal, antara lain:
+	Dapat diberikan obat yang meningkatkan **motilitas usus** tanpa efek di luar gastrointestinal, antara lain:
 
-- **Guanethidine** → _adrenergic blocker_  
-    → **20 mg dalam 100 mL NaCl**, diinfus selama **40 menit**.
-- **Neostigmine** → _parasympathomimetic_  
-    → **2,5 mg selama 1 menit**, setelah pemberian guanethidine.  
-    → Dapat memberikan perbaikan cepat pada **>80% kasus**.
-- **Cisapride**
-- **Erythromycin**
-- **Pyridostigmine oral**
+	- **Guanethidine** → _adrenergic blocker_  
+	    → **20 mg dalam 100 mL NaCl**, diinfus selama **40 menit**.
+	- **Neostigmine** → _parasympathomimetic_  
+	    → **2,5 mg selama 1 menit**, setelah pemberian guanethidine.  
+	    → Dapat memberikan perbaikan cepat pada **>80% kasus**.
+	- **Cisapride**
+	- **Erythromycin**
+	- **Pyridostigmine oral**
 
-3. Dekompresi Endoskopi
+3. **Dekompresi Endoskopi**
 
-**Dekompresi dengan endoskopi** juga dapat memberikan hasil yang baik pada ACPO.
+	**Dekompresi dengan endoskopi** juga dapat memberikan hasil yang baik pada ACPO.
 
-4. Operasi
+4. **Operasi**
 
-Jika **terapi konservatif gagal**, dapat dilakukan:
-
-- **Sekostomi**
-- **Kolektomi**
-
-Pilihan lainnya:
-
-- **Subtotal colectomy + ileorectal anastomosis**
+	Jika **terapi konservatif gagal**, dapat dilakukan:
+	
+	- **Sekostomi**
+	- **Kolektomi**
+	
+	Pilihan lainnya:
+	
+	- **Subtotal colectomy + ileorectal anastomosis**
 
 🧠 **Kunci Ogilvie:**
 
@@ -1225,6 +1225,8 @@ Pilihan lainnya:
 > **Terapi awal → koreksi penyebab + dekompresi → obat pro-motilitas → endoskopi → operasi bila gagal.**
 
 ### Intususepsi / invaginasi
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911172700007o57bq.png)
 
 Bagian usus **masuk ke dalam segmen usus di sebelah distal**, seperti teleskop.
 
@@ -1263,6 +1265,8 @@ Manifestasi:
 - massa abdomen berbentuk sosis,
 - **red currant jelly stool** = darah + mukus.
 
+![gh|344](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117314000sw7vp9.png)
+
 Komplikasi:  
 **obstruksi → iskemia → gangren → perforasi → peritonitis.**
 
@@ -1271,6 +1275,13 @@ Pemeriksaan:
 - Foto polos dapat menunjukkan _meniscus sign_.
 - USG → **target sign**.
 - Enema kontras dapat menunjukkan _coil spring_ atau _crab claw sign_.
+
+![gh|335](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179111736100038hzt8.png)
+![gh|344](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117388000a8ek43.png)
+![gh|468](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911174290004a535d.png)
+![gh|467](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117466000hynzpt.png)
+![gh|466](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791117489000zlrtja.png)
+![gh|460](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911175140004bozhw.png)
 
 ### Tata laksana intususepsi
 
