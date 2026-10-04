@@ -1,3 +1,101 @@
+# Akut Abdomen 🚨
+
+**Akut abdomen (acute abdomen)** adalah **kumpulan gejala dan tanda klinis akibat proses patologis intraabdomen yang berlangsung akut**, biasanya ditandai oleh **nyeri abdomen akut** dan dapat memerlukan evaluasi serta tata laksana segera.
+
+Kondisi ini penting dikenali karena beberapa penyebab dapat berkembang menjadi **iskemia, nekrosis, perforasi, peritonitis, sepsis, hingga syok** apabila tidak ditangani.
+
+## Gambaran Klinis Utama
+
+Keluhan dan tanda yang dapat ditemukan pada akut abdomen meliputi:
+
+- **Nyeri abdomen akut** → dapat bersifat kolik atau menetap, tergantung penyebab.
+- **Mual dan muntah** → terutama pada obstruksi saluran cerna.
+- **Distensi abdomen** → dapat terjadi akibat penumpukan gas dan cairan atau ileus.
+- **Gangguan BAB dan flatus** → terutama pada obstruksi usus.
+- **Nyeri tekan (tenderness)** → menunjukkan adanya proses patologis pada abdomen.
+- **Defans/guarding** → kontraksi involunter otot dinding abdomen akibat iritasi peritoneum.
+- **Rebound tenderness** → nyeri yang timbul atau bertambah saat tekanan pada abdomen dilepaskan; menunjukkan iritasi peritoneum.
+- **Rigid abdomen** → kekakuan dinding abdomen akibat rangsangan peritoneum yang berat.
+- **Bising usus dapat berubah** → dapat meningkat pada fase awal obstruksi atau menurun hingga menghilang pada ileus/peritonitis berat.
+- **Demam, takikardia, hipotensi** → dapat menunjukkan proses inflamasi berat, infeksi, sepsis, atau kehilangan cairan.
+
+> 🧠 **Kunci:** pada akut abdomen, jangan hanya fokus pada “nyeri perut”, tetapi cari tanda **obstruksi, iskemia, perforasi, dan peritonitis**.
+
+## Penyebab yang Termasuk dalam Materi Ini
+
+Dari penyakit yang dibahas, **tidak semuanya merupakan acute abdomen**.
+
+### ✅ Termasuk Acute Abdomen
+
+1. **Peritonitis**
+    - Inflamasi peritoneum.
+    - Merupakan salah satu kondisi penting pada akut abdomen.
+    - Dapat terjadi akibat perforasi atau penyebaran infeksi intraabdomen.
+2. **Ileus obstruksi**
+    - Obstruksi usus menyebabkan gangguan passage isi usus.
+    - Menimbulkan nyeri abdomen, muntah, distensi, serta tidak dapat BAB/flatus.
+    - Dapat berkembang menjadi **iskemia → nekrosis → perforasi → peritonitis**.
+3. **Perforasi usus**
+    - Hilangnya kontinuitas dinding usus sehingga isi lumen masuk ke rongga peritoneum.
+    - Menyebabkan iritasi peritoneum dan dapat berkembang menjadi **peritonitis, sepsis, dan syok**.
+4. **Apendisitis akut**
+    - Inflamasi akut appendix vermiformis.
+    - Merupakan penyebab klasik akut abdomen.
+    - Bila berlanjut dapat menyebabkan **gangren, perforasi, peritonitis, dan sepsis**.
+
+### ⚠️ Berkaitan dengan Acute Abdomen, tetapi Lebih Tepat sebagai Komplikasi
+
+5. **Abses apendiks**
+    - Merupakan **kumpulan pus yang terlokalisasi** akibat proses infeksi, dapat terjadi sebagai komplikasi apendisitis.
+    - Karena prosesnya terlokalisasi, manifestasinya tidak selalu berupa gambaran akut abdomen yang khas seperti peritonitis difus.
+    - Jadi, dalam materi ini lebih tepat ditempatkan sebagai **komplikasi apendisitis akut**.
+
+### ❌ Tidak Termasuk Acute Abdomen
+
+6. **Hemoroid grade 3–4**
+    - Merupakan kelainan patologis bantalan vaskular anorektal.
+    - Grade III mengalami prolaps dan memerlukan reduksi manual, sedangkan grade IV mengalami prolaps permanen dan tidak dapat direduksi.
+    - **Bukan penyebab acute abdomen**, meskipun dapat menimbulkan perdarahan, nyeri, atau ketidaknyamanan anorektal.
+
+## Alur Hubungan Penyakit 🧠
+
+Beberapa penyakit dalam materi dapat saling berhubungan:
+
+**Apendisitis akut**  
+→ inflamasi  
+→ **nekrosis/gangren**  
+→ **perforasi**  
+→ kontaminasi rongga peritoneum  
+→ **peritonitis**  
+→ **sepsis/syok**
+
+Sedangkan:
+
+**Ileus obstruksi**  
+→ distensi usus  
+→ gangguan aliran darah  
+→ **iskemia**  
+→ nekrosis/gangren  
+→ **perforasi**  
+→ **peritonitis**
+
+Jadi, gambaran besarnya:
+
+> **Obstruksi / inflamasi → iskemia atau nekrosis → perforasi → peritonitis → sepsis/syok** 🚨
+
+### 🧠 Tips Hafalan
+
+**Acute abdomen utama dalam materi = “PIPA”**
+
+- **P** → **Peritonitis**
+- **I** → **Ileus obstruksi**
+- **P** → **Perforasi usus**
+- **A** → **Apendisitis akut**
+
+➡️ **PIPA = 4 penyakit utama yang termasuk acute abdomen.**
+
+**Abses apendiks** → komplikasi apendisitis ⚠️  
+**Hemoroid grade 3–4** → bukan acute abdomen ❌
 # 1. Peritonitis
 
 **Peritonitis** = peradangan pada **peritoneum**, yaitu membran serosa yang melapisi dinding rongga abdomen dan sebagian besar organ di dalamnya.
