@@ -500,7 +500,10 @@ Implikasi:
 
 # Polip Kolorektal
 
-Polip kolorektal adalah ==pertumbuhan jaringan abnormal pada lapisan dalam usus besar atau rektum yang sebagian besar bersifat jinak, namun berpotensi berkembang menjadi kanker jika dibiarkan==
+Polip kolorektal adalah **pertumbuhan jaringan abnormal pada lapisan dalam usus besar atau rektum** yang sebagian besar bersifat jinak, namun berpotensi berkembang menjadi kanker jika dibiarkan.
+
+![gh|350](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791135198000rjwedi.png)
+
 Sekitar 70% polip kolon merupakan adenoma. Tujuan utama identifikasi polip adalah menentukan **potensi keganasan dan interval surveilans**.
 
 ## Klasifikasi
