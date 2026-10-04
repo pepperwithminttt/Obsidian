@@ -297,25 +297,18 @@ Interpretasi:
 
 ### Pencitraan
 
-|Pemeriksaan|Temuan khas|
-|---|---|
-|**USG hepatobilier**|Kandung empedu kecil/atrofi; **triangular cord sign**|
-|**HIDA scan**|Tidak ada ekskresi radioisotop ke usus setelah 24 jam|
-|**Kolangiografi intraoperatif**|**Gold standard**; tidak tampak aliran empedu ke usus|
-|**Biopsi hati**|Proliferasi duktus intrahepatik, fibrosis portal, kolestasis intralobular|
-
-### Triangular Cord Sign
-
-- Menunjukkan jaringan fibrotik di **porta hepatis** pada USG.
+| Pemeriksaan                                | Temuan khas                                                                                |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **USG hepatobilier** (USG dua fase)        | Kandung empedu kecil/atrofi; **triangular cord sign** (jaringan fibrotik di porta hepatis) |
+| **HIDA scan** (Hepatobiliary scintigraphy) | Tidak ada ekskresi radioisotop ke usus setelah 24 jam                                      |
+| **Kolangiografi intraoperatif**            | **Gold standard**; tidak tampak aliran empedu ke usus                                      |
+| **Biopsi hati**                            | Proliferasi duktus intrahepatik, fibrosis portal, kolestasis intralobular                  |
 
 ## Tatalaksana
 
-### Operasi Kasai
+### Operasi Kasai **(Hepatoportoenterostomi)**
 
-**Hepatoportoenterostomi**
-
-- Optimal dilakukan **<60 hari usia bayi**.
-- Tujuannya mengembalikan sebagian aliran empedu ke usus.
+- Optimal dilakukan saat usia bayi **<60 hari** → aliran empedu ke usus dapat pulih sebagian.
 - Empedu dialirkan langsung dari permukaan **porta hepatis ke jejunum**.
 
 > 🧠 **Kasai = buka jalur empedu ke usus.**
