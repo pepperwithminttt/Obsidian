@@ -145,7 +145,7 @@ Dicurigai bila:
 
 Eritrosit tua mengalami destruksi → menjadi **heme + globin**.
 
-Heme  
+Heme diubah menjadi:
 → biliverdin oleh **heme oksigenase**  
 → bilirubin tak terkonjugasi (BTT) oleh **biliverdin reduktase**.
 
@@ -169,7 +169,7 @@ Heme
 
 ### Pascahepatik
 
-- Bilirubin terkonjugasi → empedu → usus.
+- Bilirubin terkonjugasi → ditranspor ke empedu → usus.
 - Bakteri usus mengubahnya menjadi berbagai senyawa, termasuk:
     - sterkobilin
     - urobilinogen.
