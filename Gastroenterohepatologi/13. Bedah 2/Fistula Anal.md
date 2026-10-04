@@ -131,7 +131,7 @@ Keluhan yang dapat ditemukan:
 
 ![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791126136000ecj69b.png)
 
-## Tatalaksana
+## Tatalaksana (Cuma Nice to Know)
 
 Pemilihan terapi bergantung pada **anatomi fistula dan etiologinya**. Biopsi traktus fistula perlu dilakukan untuk menyingkirkan **keganasan**.
 
