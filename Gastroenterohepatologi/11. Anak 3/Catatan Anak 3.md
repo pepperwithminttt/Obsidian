@@ -206,7 +206,9 @@ Heme diubah menjadi:
 | **I**   | Atresia duktus biliaris komunis                            |
 | **IIa** | Atresia duktus hepatikus komunis                           |
 | **IIb** | Atresia duktus hepatikus komunis + duktus biliaris komunis |
-| **III** | Atresia duktus ekstrahepatik                               |
+| **III** | Atresia seluruh bagian duktus ekstrahepatik                |
+
+![gh|467](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791080710000o0a1mk.png)
 
 ## Epidemiologi
 
