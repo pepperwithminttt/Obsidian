@@ -318,6 +318,8 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
     - anal.
 - Perkembangan selesai sekitar **minggu ke-9**.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078264000gb9ntq.png)
+
 ## Etiologi & Kelainan Penyerta
 
 - Etiologi pasti **belum diketahui**.
@@ -326,17 +328,7 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
 
 ### VACTERL
 
-|Huruf|Kelainan|
-|---|---|
-|**V**|Vertebral|
-|**A**|Anal|
-|**T**|Tracheal|
-|**E**|Esophageal|
-|**R**|Renal|
-|**C**|Cardiac|
-|**L**|Limb/radius|
-
-> 🧠 **Hafalan:** **V-A-T-E-R-C-L** → pikirkan kelainan **multi-organ**, bukan hanya anus.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791078327000get0e5.png)
 
 ## Klasifikasi
 
@@ -357,6 +349,8 @@ Jejunoileal atresia diklasifikasikan menjadi **empat tipe utama (I–IV)** berda
 - Malformasi kompleks.
 - Imperforate anus tanpa fistula.
 - Atresia/stenosis rektum.
+
+![uploading...](cjccvk)
 
 ## Manifestasi Klinis
 
