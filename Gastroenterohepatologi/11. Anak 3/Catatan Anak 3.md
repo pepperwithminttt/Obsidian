@@ -220,14 +220,14 @@ Heme diubah menjadi:
 
 Beberapa mekanisme yang diduga berperan:
 
-- Infeksi virus intrauterin/perinatal.
-- Inflamasi yang dimediasi sistem imun.
-- Paparan toksin.
-- Gangguan _ductal plate remodeling_.
-- Gangguan vaskular atau metabolik pada perkembangan saluran empedu.
-- _Pancreaticobiliary malunion_.
+- **Infeksi** virus intrauterin/perinatal.
+- **Inflamasi** yang dimediasi sistem imun.
+- Paparan **toksin**.
+- Gangguan _ductal plate **remodeling_**.
+- **Gangguan vaskular** atau **metabolik** pada perkembangan saluran empedu.
+- _Pancreaticobiliary **malunion_**.
 
-Virus yang disebut dalam materi:
+Beberapa jenis virus yang dapat menjadi etiologi dari atresia bilier:
 
 - Rotavirus
 - CMV
