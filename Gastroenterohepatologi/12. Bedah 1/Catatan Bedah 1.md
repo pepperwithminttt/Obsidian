@@ -141,6 +141,13 @@ Pada akut abdomen, terutama peritonitis, dapat ditemukan:
 - defans muskular,
 - hiperestesia kulit setempat.
 
+#### Kenapa ada defans muskular pada akut abdomen?
+
+Defans muskular adalah **respons protektif otot dinding abdomen** terhadap **iritasi peritoneum**, terutama **peritoneum parietale**. Manifestasinya berupa **kontraksi otot dinding abdomen** sehingga abdomen **terasa tegang/kaku** saat dipalpasi.
+
+🎯 **Tujuannya sebagai mekanisme proteksi:**  
+Kontraksi otot membantu **membatasi pergerakan dinding abdomen**, sehingga pergerakan organ/peritoneum yang teriritasi berkurang dan nyeri tidak semakin berat.
+
 ### Nyeri kontinu
 
 Nyeri akibat rangsangan **peritoneum parietal** yang berlangsung terus-menerus, misalnya pada peritonitis.
