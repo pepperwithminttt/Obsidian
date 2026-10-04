@@ -24,14 +24,14 @@
 - Tidak terdapat perbedaan bermakna berdasarkan jenis kelamin.
 - Sekitar **50% kasus** disertai kelainan kongenital lain, terutama **sindrom VACTERL**.
 
-## Klasifikasi
+## Klasifikasi #Ingat 
 
 | Tipe  | Kelainan                                                           | Frekuensi  |
 | ----- | ------------------------------------------------------------------ | ---------- |
 | **A** | Atresia murni, tanpa fistula                                       | 7–8%       |
-| **B** | Atresia + fistula antara esofagus proksimal dan trakea             | <1%        |
-| **C** | Atresia + fistula antara esofagus distal dan trakea                | **85–90%** |
-| **D** | Atresia + Fistula pada esofagus proksimal dan distal               | <1%        |
+| **B** | Atresia + fistula antara esofagus **proksimal** dan trakea         | <1%        |
+| **C** | Atresia + fistula antara esofagus **distal** dan trakea            | **85–90%** |
+| **D** | Atresia + Fistula pada esofagus **proksimal dan distal**           | <1%        |
 | **E** | No atresia, tapi ada [TEF]{Tracheoesophageal fistula} (**tipe H**) | 4–5%       |
 **Note**: Ntah knp beda yg di tabel dgn yg di gambar. Di PPT jga begitu. Misal A di tabel katanya tanpa fistula. Tpi A yg di gambar bilangnya ada distal fistula. Tapi utk klasifikasi indo yg paling benar yg di tabel jdi ikuti yg di tabel sja.
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791073751000d4nh59.png)
