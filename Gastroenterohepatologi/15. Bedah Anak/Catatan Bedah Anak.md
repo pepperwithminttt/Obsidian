@@ -287,32 +287,41 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
     - Pada total colon aganglionosis, seluruh kolon dapat terlibat.
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190423000onjogt.png)
+![gh|688](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190468000j8ho2s.png)
+![gh|289](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190489000v34xu3.png)
 
-**Diagnosis definitif**
+## Diagnosis definitif
 
-- **Biopsi rektum dengan pemeriksaan histologi = gold standard.**
+- **Biopsi rektum dengan pemeriksaan histologi = gold standard.** #Ingat 
 - Dapat dilakukan dengan **suction biopsy**.
 - Histopatologi dengan pewarnaan HE:
     1. Tidak terdapat sel ganglion pada submukosa dan pleksus mienterikus.
-    2. Peningkatan aktivitas **acetylcholinesterase (AChE)** pada serabut saraf parasimpatik di:
+    2. **Peningkatan aktivitas acetylcholinesterase (AChE)** pada serabut saraf parasimpatik di:
         - Lamina propria mukosa.
         - Muscularis mucosae.
         - Otot sirkular muscularis propria.
-- Gambaran histologis pada slide menunjukkan pleksus mienterikus normal dibandingkan dengan aganglionosis, serta peningkatan aktivitas AChE pada mukosa rektum aganglionik.
+- Gambaran histologis di bawah ini menunjukkan pleksus mienterikus normal dibandingkan dengan aganglionosis, serta peningkatan aktivitas AChE pada mukosa rektum aganglionik.
 
-**Rectal manometry**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190651000xfd1rn.png)
+
+![gh|444](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190664000tjjr2v.png)
+
+
+### Rectal manometry
 
 - **Recto-anal inhibitory reflex (RAIR)** adalah refleks relaksasi sfingter ani internal sebagai respons terhadap distensi rektum.
 - RAIR terdapat pada anak normal tetapi **tidak ditemukan pada Hirschsprung disease**.
 - Pemeriksaan dapat dilakukan menggunakan manometri rektal.
 
-**Diagnosis banding**
+![gh|523](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911907740001gjrf8.png)
+
+## Diagnosis banding
 
 - Atresia intestinal.
 - Mekonium ileus.
 - Meconium plug syndrome.
 
-**Tatalaksana awal**
+## Tatalaksana awal
 
 - Resusitasi terutama pada:
     - Bayi dengan tanda obstruksi usus.
@@ -321,12 +330,12 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
 - Antibiotik spektrum luas.
 - Irigasi rektum / **wash out / spooling**.
 
-**Tatalaksana definitif**
+### Tatalaksana definitif
 
 - **Pull-through**.
 - Pada anak besar dengan kolon yang sangat dilatasi, operasi dapat ditunda sampai diameter kolon mencapai ukuran yang sesuai untuk pull-through.
 - **Levelling colostomy** dapat dilakukan sesuai kondisi.
-- Teknik yang tercantum:
+- Teknik-teknik colostomy:
     - Swenson.
     - Duhamel.
     - Soave.
@@ -334,7 +343,7 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
     - State.
     - Laparoskopi.
 
-**Komplikasi**
+## Komplikasi
 
 - **Hirschsprung-associated enterocolitis (HAEC)**:
     - Diare.
@@ -354,9 +363,9 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
 - Perforasi.
 - Gangguan pertumbuhan.
 
-**HAEC score**
+### HAEC score
 
-- Komponen klinis/radiologis yang tercantum pada materi meliputi:
+- Komponen klinis/radiologis meliputi:
     - Diare eksplosif.
     - Diare berbau busuk.
     - Diare berdarah.
@@ -373,22 +382,24 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
     - Pneumatosis.
     - Leukositosis.
     - Pergeseran hitung leukosit ke kiri.
-- Pada materi, skor **≥10** berhubungan dengan diagnosis HAEC positif berdasarkan panel ahli internasional.
+- Skor **≥10** berhubungan dengan diagnosis HAEC positif berdasarkan panel ahli internasional.
+
+![gh|342](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190908000hctmhu.png)
 
 🧠 **Tips hafalan HD:**  
-**“Tidak ada ganglion = tidak bisa relaksasi.”**  
+**“Tidak ada ganglion = tidak bisa peristaltik.”**  
 Trias klasik untuk bayi: **distensi + muntah bilious + delayed meconium**.  
 Diagnosis definitif: **biopsi rektum**.
 
 # Malformasi Anorektal (MAR) 👶🏻
 
-**Pendahuluan**
+## Pendahuluan
 
 - Malformasi anorektal adalah kelainan kongenital akibat kegagalan perkembangan **anus dan rektum selama masa embrio**.
 - Insidens sekitar **1 : 5.000 kelahiran hidup**.
-- Pada materi, **MAR lebih sering berupa fistula rektovestibuler dibandingkan fistula rektouretra**.
+- **MAR lebih sering berupa fistula rektovestibuler dibandingkan fistula rektouretra**.
 
-**Embriologi**
+## Embriologi
 
 - **Kloaka** pada embrio merupakan rongga yang berhubungan dengan:
     - Hindgut.
