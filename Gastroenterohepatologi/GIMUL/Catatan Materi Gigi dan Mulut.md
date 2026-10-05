@@ -9,17 +9,17 @@
     - **Lokal:** gangguan fungsi kelenjar saliva yang menyebabkan penurunan produksi saliva.
     - _Candida_ dapat melakukan metabolisme glukosa secara **aerobik maupun anaerobik**.
 
-### Jenis dan Gambaran Klinis
+### Jenis dan Gambaran Klinis #Ingat 
 
-|Jenis|Gambaran khas|
-|---|---|
-|**Kandidiasis pseudomembran**|Bercak/plak putih yang dapat dikerok. Bentuk akut sering berkaitan dengan antibiotik, imunosupresan, atau kondisi yang menekan imunitas; bentuk kronis dapat berkaitan dengan infeksi HIV jangka panjang.|
-|**Kandidiasis eritematosa**|Lesi kemerahan (**eritema**) dengan sedikit perdarahan di sekitar dasar lesi; dapat mengenai lidah, mukosa bukal, dan palatum.|
-|**Angular cheilitis**|Pecah-pecah, pengelupasan, atau ulserasi pada sudut mulut.|
-|**Denture stomatitis**|Tipe I: eritema minor akibat trauma gigi tiruan; tipe II: sebagian besar mukosa yang tertutup gigi tiruan; tipe III: mukosa granular terutama di bagian tengah palatum.|
-|**Median rhomboid glossitis**|Lesi eritematosa berbentuk oval pada posterior dorsum lidah akibat atrofi papila filiformis; permukaan dapat berlobus.|
-|**Cheilocandidiasis**|Pengerasan kulit dan ulserasi pada bibir; lingkungan lembap akibat sering menjilat bibir atau mengisap jempol mendukung pertumbuhan _Candida_.|
-|**Kandidiasis hiperplastik**|Disebut juga kandidiasis leukoplakia; sering mengenai mukosa bukal anterior dekat komisura dan terutama sisi lateral lidah.|
+| Jenis                         | Gambaran khas                                                                                                                                                                                                    |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kandidiasis pseudomembran** | **Bercak/plak putih yang dapat dikerok**. Bentuk akut sering berkaitan dengan antibiotik, imunosupresan, atau kondisi yang menekan imunitas; bentuk kronis dapat berkaitan dengan infeksi HIV jangka panjang.    |
+| **Kandidiasis eritematosa**   | Lesi kemerahan (**eritema**) dengan sedikit perdarahan di sekitar dasar lesi; dapat mengenai lidah, mukosa bukal, dan palatum.                                                                                   |
+| **Angular cheilitis**         | Pecah-pecah, pengelupasan, atau ulserasi **pada sudut mulut**.                                                                                                                                                   |
+| **Denture stomatitis**        | Ada 3 tipe → **Tipe I**: **eritema minor** akibat trauma gigi tiruan; **tipe II**: **sebagian besar mukosa** yang tertutup gigi tiruan; **tipe III**: **mukosa granular** terutama di bagian **tengah palatum**. |
+| **Median rhomboid glossitis** | Lesi eritematosa berbentuk oval pada posterior dorsum lidah akibat **atrofi papila filiformis**; permukaan dapat berlobus.                                                                                       |
+| **Cheilocandidiasis**         | Pengerasan kulit dan ulserasi pada bibir; lingkungan lembap akibat **sering menjilat bibir** atau **mengisap jempol** mendukung pertumbuhan _Candida_.                                                           |
+| **Kandidiasis hiperplastik**  | Disebut juga **kandidiasis leukoplakia**; sering **mengenai mukosa bukal anterior** dekat komisura dan terutama **sisi lateral lidah**.                                                                          |
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791209278000vc8rxs.png)
 
@@ -39,7 +39,7 @@
 ### Diagnosis Banding dan Penatalaksanaan
 
 - Diagnosis banding kandidiasis oral antara lain **leukoplakia, hairy leukoplakia, lichen planus, white sponge nevus, dan lupus eritematosus**.
-- Antijamur yang tercantum dalam materi:
+- Antijamur untuk tatalaksana kandidiasis oral:
     - Nistatin
     - Amfoterisin B
     - Klotrimazol
@@ -81,11 +81,13 @@
     - ditutupi pseudomembran kuning-keabu-abuan,
     - dikelilingi eritema.
 
-|Tipe|Ciri khas|
-|---|---|
-|**Minor**|Paling sering (75–80%); ukuran **<1 cm**; bulat/oval; 1–5 ulser; sembuh **7–10 hari**.|
-|**Mayor**|10–15%; **>1 cm**, besar dan dalam; biasanya bulat; sembuh beberapa minggu dan dapat meninggalkan jaringan parut.|
-|**Herpetiformis**|5–10%; ulser sangat kecil **1–3 mm**, tetapi banyak (**5–100**) dan muncul bersamaan; sembuh **10–14 hari**.|
+| Tipe              | Ciri khas                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Minor**         | Paling sering (75–80%); ukuran **<1 cm**; bulat/oval; 1–5 ulser; sembuh **7–10 hari**.                            |
+| **Mayor**         | 10–15%; **>1 cm**, besar dan dalam; biasanya bulat; sembuh beberapa minggu dan dapat meninggalkan jaringan parut. |
+| **Herpetiformis** | 5–10%; ulser sangat kecil **1–3 mm**, tetapi banyak (**5–100**) dan muncul bersamaan; sembuh **10–14 hari**.      |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791211346000mzff8o.png)
 
 > 🧠 **Hafalan ukuran:** **Minor <1 cm → Mayor >1 cm → Herpetiformis 1–3 mm tapi “ramai-ramai”**. 👯
 
@@ -96,7 +98,7 @@
 3. **Tahap ulseratif** → beberapa hari hingga 2 minggu; papula mengalami ulserasi dan ditutupi lapisan fibromembranosa; nyeri mulai berkurang.
 4. **Tahap penyembuhan** → hari ke-4 hingga ke-35; ulser ditutupi epitelium dan mengalami penyembuhan, dengan atau tanpa jaringan parut tergantung tipe SAR.
 
-> 🧠 **Urutan:** **Pre → Pre-ulserasi → Ulser → Sembuh.**
+> 🧠 **Urutan:** **Premonitori → Pre-ulserasi → Ulser → Sembuh.**
 
 ### Diagnosis dan Penatalaksanaan
 
@@ -118,19 +120,39 @@
 # Glossitis
 
 - **Definisi:** peradangan atau infeksi pada lidah yang dapat berlangsung **akut maupun kronis**.
-- Prevalensi yang tercantum:
+- Prevalensi:
     - Glossitis geografis: **0,1–14,3%**
     - Glossitis atrofi: **1,3–9,0%**
     - Glossitis rhomboid: **0,1–3,3%**
 
+### Etiologi
+
+- Infeksi bakteri atau virus (termasuk oral herpes simpleks).
+- Iritasi mekanis atau cedera akibat luka bakar.
+- Tepi gigi yang kasar.
+- Paparan terhadap iritasi seperti tembakau, alcohol, makanan panas, atau rempah-rempah.
+- Reaksi alergi terhadap pasta gigi, obat kumur penyegar napas, pewarna dalam permen.
+- Dapat terjadi karena gangguan anemia defisiensi besi, anemia pernisiosa, defisiensi vitamin B, lichen planus oral, erythema multiforme, ulkus aphthous, dan pemphigus vulgaris.
+
 ### Gambaran Klinis
 
-- Nyeri pada lidah.
-- Pembengkakan.
+- **Nyeri** pada lidah.
+- **Pembengkakan**.
 - Perubahan warna lidah.
 - Kesulitan berbicara, makan, atau menelan.
-- Hilangnya papila pada permukaan lidah.
+- **Hilangnya papila pada permukaan lidah**.
 - Pada kasus berat, pembengkakan dapat menghambat jalan napas.
+
+Gambar: Glossitis Median Rhomboid ↓
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17912125530007scktv.png)
+Gambar: Glossitis Geografis ↓
+
+![gh|302](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791212598000a0tcwj.png)
+
+Gambar: Glossitis Atrofik ↓
+
+![gh|273](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791212638000v0lyfo.png)
 
 ### Patofisiologi
 
@@ -151,7 +173,9 @@
 
 # Angina Ludwig
 
-- **Definisi:** selulitis difus pada ruang **submandibular, sublingual, dan submental**, dengan kecenderungan menyebar cepat ke jaringan sekitar. Selulitis merupakan proses inflamasi difus pada jaringan submukosa atau subkutan.
+### Definisi
+
+- Angina Ludwig a**selulitis difus** pada ruang **submandibular, sublingual, dan submental**, dengan kecenderungan menyebar cepat ke jaringan sekitar. Selulitis merupakan proses inflamasi difus pada jaringan submukosa atau subkutan.
 - Umumnya terjadi pada individu sehat, tetapi dapat diperberat oleh **diabetes melitus, neutropenia, alkoholisme, anemia aplastik, glomerulonefritis, dan lupus eritematosus sistemik**.
 - Paling banyak pada usia **20–60 tahun** dan laki-laki lebih sering terkena dengan rasio sekitar **3:1–4:1**.
 
@@ -337,7 +361,7 @@ Jika tidak ditangani → gingiva merah dan mudah berdarah → halitosis → terb
 
 ---
 
-## 🧠 Ringkasan Super Cepat untuk Ujian
+# 🧠 Ringkasan Super Cepat untuk Ujian
 
 |Penyakit|Kata kunci paling khas|
 |---|---|
