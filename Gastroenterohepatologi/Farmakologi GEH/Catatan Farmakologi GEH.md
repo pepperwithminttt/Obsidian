@@ -502,7 +502,7 @@ Karena dopamin dan serotonin perlu dihambat sebab keduanyalah yang berperan dala
 |                      | **Kloramfenikol** 500 mg 4×/hari selama 7–10 hari    |
 | **Disentri amoeba**  | **Metronidazol** 500–750 mg 3×/hari selama 5–10 hari |
 
-### Mekanisme Antibiotik
+### Mekanisme Antibiotik #Ingat 
 
 |Golongan|Contoh|Mekanisme kerja|
 |---|---|---|
@@ -518,7 +518,7 @@ Karena dopamin dan serotonin perlu dihambat sebab keduanyalah yang berperan dala
 
 # 6. Hepatitis B 💉🦠
 
-Antivirus hepatitis B yang tercantum:
+Antivirus hepatitis B termasuk:
 
 - Lamivudin
 - Adefovir dipivoksil
@@ -532,8 +532,6 @@ Antivirus hepatitis B yang tercantum:
 # 7. Hepatoprotektor 🌿
 
 ### Ekstrak _Curcuma domestica_ (kunyit)
-
-Efek yang tercantum:
 
 - Antioksidan
 - Antiinflamasi
@@ -569,7 +567,7 @@ Efek yang tercantum:
 - Membantu mencegah dan mengurangi _fatty liver_.
 - Merupakan sumber kolin.
 
-### Nama obat yang tercantum
+### Nama-nama obat
 
 - Curliv/Biocurliv
 - Cursil
@@ -600,7 +598,7 @@ Efek yang tercantum:
 
 ---
 
-## 🧠 Ringkasan Hafalan Super Cepat
+# 🧠 Ringkasan Hafalan Super Cepat
 
 |Masalah|Obat kunci|Ingat|
 |---|---|---|
@@ -618,7 +616,7 @@ Efek yang tercantum:
 |**Hepatitis B**|Entekavir/tenofovir, dll.|Antivirus|
 |**Kolestasis/batu kolesterol**|UDCA|Lancarkan empedu + larutkan batu kolesterol|
 
-### 🔑 Cara mengingat obat ulkus berdasarkan lokasi kerjanya
+## 🔑 Cara mengingat obat ulkus berdasarkan lokasi kerjanya
 
 **Lumen**  
 → **Antasida** menetralkan asam
