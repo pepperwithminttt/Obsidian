@@ -771,9 +771,9 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 - Perforasi.
 - Sepsis.
 - Kecurigaan usus sudah mengalami gangren.
-- Materi mencantumkan bayi <6 bulan sebagai kontraindikasi.
-- Tanda reduksi berhasil:
-    - Terdapat refluks kontras ke **ileum terminale**.
+- Usia bayi <6 bulan
+
+Tanda reduksi berhasil: Terdapat refluks kontras ke **ileum terminale**.
 
 ## Tatalaksana operatif
 
@@ -817,13 +817,15 @@ USG: **Target = transversal, Pseudo-kidney = longitudinal.**
 
 # Fistula 🔗
 
-**Pendahuluan**
+## Pendahuluan
 
 - Fistula adalah **hubungan abnormal antara dua permukaan/organ yang dilapisi epitel**, hubungan antara organ berongga dengan eksterior, atau hubungan abnormal antara dua pembuluh darah.
 - Istilah fistula bermakna **saluran**.
 - Faktor risiko termasuk gangguan sistemik seperti **sepsis**.
 
-**Etiologi**
+![gh|307](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911943170007yd1yi.png)
+
+## Etiologi
 
 - Kongenital.
 - Trauma.
@@ -834,7 +836,7 @@ USG: **Target = transversal, Pseudo-kidney = longitudinal.**
 - Radiasi.
 - Tumor.
 
-**Patofisiologi**
+## Patofisiologi
 
 - **Kongenital:**
     - Berasal dari remnant duktus embrionik yang menetap.
@@ -853,21 +855,21 @@ USG: **Target = transversal, Pseudo-kidney = longitudinal.**
         - Fistula enterokutan.
         - Abses perianal.
 
-**Fistula enterokutan**
+## Fistula enterokutan
 
 - Fistula dapat menutup spontan, bergantung pada:
     - Anatomi.
     - Etiologi.
     - Status nutrisi.
     - Produksi/output fistula.
-- Berdasarkan output:
+- Berdasarkan produksi fistula:
     - **Low output:** <200 cc/24 jam.
     - **Moderate output:** 200–500 cc/24 jam.
     - **High output:** >500 cc/24 jam.
 
-**Faktor yang memengaruhi penutupan spontan**
+### Faktor yang memengaruhi penutupan spontan
 
-- Faktor yang mendukung penutupan:
+- **Faktor yang mendukung penutupan:**
     - Organ asal tertentu seperti esofagus, duodenal stump, lambung, pankreas, bilier, jejunum, atau ileum.
     - Etiologi pascaoperasi/anastomotic leak, appendicitis, diverticulitis.
     - Output rendah.
@@ -880,7 +882,7 @@ USG: **Target = transversal, Pseudo-kidney = longitudinal.**
     - Traktus >2 cm.
     - Defek <1 cm.
     - Operasi awal dilakukan di institusi yang sama.
-- Faktor yang menghambat:
+- **Faktor yang menghambat:**
     - Output tinggi.
     - Malnutrisi, transferrin <200.
     - Sepsis.
@@ -893,20 +895,32 @@ USG: **Target = transversal, Pseudo-kidney = longitudinal.**
     - Defek >1 cm.
     - Pasien dirujuk dari institusi lain.
 
-**Jenis fistula lain**
+## Jenis fistula lain
 
 - **Arteriovenous fistula**
     - Hubungan abnormal antara arteri dan vena.
-    - Materi menampilkan contoh hubungan vaskular, termasuk akses ke mesin dialisis.
+    - Contoh hubungan vaskular termasuk akses ke mesin dialisis.
+
+![gh|314](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911946140003kvitw.png)
+
 - **Fistula trakeoesofageal**
     - Hubungan abnormal antara trakea dan esofagus.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791194633000644yhg.png)
+
 - **Fistula perianal**
     - Saluran abnormal di sekitar anus.
+
+![gh|441](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791194649000lcrgyk.png)
+
 - **Fistula obstetrik**
     - Hubungan abnormal yang dapat terjadi antara organ genital dan saluran urin/cerna akibat komplikasi obstetrik.
+
+![gh|293](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791194668000g0ig9j.png)
+
 - Fistula lain dapat berupa berbagai hubungan abnormal antarorgan atau dengan permukaan tubuh.
 
-**Radiologi / evaluasi**
+## Radiologi / evaluasi
 
 - USG.
 - Fistulografi.
@@ -914,16 +928,20 @@ USG: **Target = transversal, Pseudo-kidney = longitudinal.**
 - MRI.
 - Endoskopi.
 - Kolonoskopi.
-- Untuk **fistula-in-ano**, MRI ditampilkan sebagai pemeriksaan penting/"gold standard" untuk pencitraan pada materi.
+- Untuk **fistula-in-ano**, MRI ditampilkan sebagai pemeriksaan penting/**"gold standard"** untuk pencitraan. #Ingat 
 
-**Komplikasi**
+![gh|368](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911946880002yg4vm.png)
+
+![gh|373](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791194706000nx6ufl.png)
+
+## Komplikasi
 
 - Imbalans elektrolit.
 - Sepsis dan komplikasi yang berhubungan dengannya.
 - Gangguan status nutrisi.
 - Ekskoriasi jaringan di sekitar luka.
 
-**Tatalaksana**
+## Tatalaksana
 
 - Resusitasi.
 - Nutrisi adekuat.
