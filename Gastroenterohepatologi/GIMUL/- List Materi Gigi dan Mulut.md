@@ -1,7 +1,7 @@
-1. Kandidiasis mulut
-2. Ulkus mulut
-3. Glossitis
-4. Angina Ludwig
-5. Karies Gigi
-6. Infeksi gusi
-7. Leukoplakia
+1. Kandidiasis mulut (4)
+2. Ulkus mulut (aptosa, herpes) (4)
+3. Glossitis (3A)
+4. Angina Ludwig (3A)
+5. Karies Gigi (3A)
+6. Infeksi gusi (3A)
+7. Leukoplakia (2)
