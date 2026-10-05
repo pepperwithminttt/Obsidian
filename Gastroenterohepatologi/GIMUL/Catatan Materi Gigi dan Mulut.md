@@ -231,6 +231,10 @@ Karies bersifat **multifaktorial** dan memerlukan interaksi 4 faktor:
 
 **Alur:** mikroorganisme + host + substrat → berlangsung dalam waktu tertentu → kerusakan **email → dentin → pulpa**.
 
+### Gambaran Klinis
+
+Karies terlihat berwarna coklat kehitaman atau berupa noda-noda putih.
+
 ### Klasifikasi
 
 |Jenis|Kedalaman|
@@ -238,6 +242,8 @@ Karies bersifat **multifaktorial** dan memerlukan interaksi 4 faktor:
 |**Superfisial**|Hanya mengenai **email**, dentin belum terkena.|
 |**Media**|Sudah mengenai **dentin**, tetapi belum melebihi ½ ketebalan dentin.|
 |**Profunda**|Melebihi ½ ketebalan dentin dan sudah mengenai **pulpa**.|
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791218493000ob7soa.png)
 
 ### Diagnosis Berdasarkan Pemeriksaan
 
@@ -258,11 +264,11 @@ Karies bersifat **multifaktorial** dan memerlukan interaksi 4 faktor:
 
 Tergantung luas kerusakan dan kondisi jaringan sekitar:
 
-- **Fluor** → tahap awal, membantu remineralisasi email.
-- **Penambalan** → terapi utama ketika karies berkembang melewati tahap erosi email.
-- **Mahkota gigi** → bila kerusakan luas.
-- **Perawatan saluran akar (root canal)** → bila karies mencapai pulpa.
-- **Ekstraksi** → bila kerusakan terlalu berat dan tidak dapat dipertahankan.
+- **Pemberian fluor** → tahap awal, membantu remineralisasi email.
+- **Penambalan gigi** → terapi utama ketika karies berkembang melewati tahap erosi email.
+- **Pemasangan mahkota gigi** → bila kerusakan luas.
+- **Pembuatan saluran akar (root canal)** → bila karies mencapai pulpa.
+- **Ekstraksi (pencabutan gigi)** → bila kerusakan terlalu berat dan tidak dapat dipertahankan.
 
 ### Komplikasi dan Pencegahan
 
@@ -276,15 +282,19 @@ Tergantung luas kerusakan dan kondisi jaringan sekitar:
 
 # Gingivitis
 
-- **Definisi:** peradangan gingiva akibat infeksi bakteri yang ditandai gingiva menjadi lebih merah, membengkak, dan mudah berdarah bahkan dengan tekanan ringan.
-- Prevalensi global yang tercantum: **75–90%**, dengan kategori sedang sekitar 75%.
+### Definisi
 
-### Etiologi dan Proses Terjadinya
+- Gingivitis adalah peradangan gingiva akibat infeksi bakteri yang ditandai gingiva menjadi lebih merah, membengkak, dan mudah berdarah bahkan dengan tekanan ringan.
+- Prevalensi global: **75–90%**, dengan kategori sedang sekitar 75%.
+
+![gh|356](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791218965000lv9qvr.png)
+
+### Etiologi
 
 - **Faktor internal:** plak gigi/kalkulus, makanan yang terkumpul, susunan gigi berjejal, dan kebiasaan makan tinggi karbohidrat.
 - **Faktor eksternal:** pendidikan, sosial ekonomi, dan budaya.
 
-**Patogenesis:**
+### Patogenesis
 
 **Plak menumpuk di regio interdental → inflamasi → menyebar ke daerah servikal gigi → aliran cairan gingiva meningkat → papila interdental merah dan bengkak → mudah berdarah.**
 
@@ -320,7 +330,9 @@ Jika tidak ditangani → gingiva merah dan mudah berdarah → halitosis → terb
 
 # Leukoplakia
 
-- **Definisi:** lesi putih berupa bercak atau plak pada mukosa mulut yang **tidak memiliki karakteristik klinis maupun patologis khas untuk penyakit lain**.
+### Definisi
+
+- Leukoplakia adalah lesi putih berupa bercak atau plak pada mukosa mulut yang **tidak memiliki karakteristik klinis maupun patologis khas untuk penyakit lain**.
 - **Epidemiologi:** prevalensi sekitar **2,6%** populasi dunia; laki-laki lebih sering terkena dibanding perempuan, sekitar **4,3% : 0,9%**.
 
 ### Etiologi dan Faktor Risiko
@@ -335,7 +347,7 @@ Jika tidak ditangani → gingiva merah dan mudah berdarah → halitosis → terb
     - kekurangan vitamin,
     - gangguan endokrin.
 
-### Gambaran Klinis dan Patogenesis
+### Gambaran Klinis
 
 - Tampak sebagai **plak putih** yang tidak dapat dikategorikan secara klinis/patologis sebagai penyakit lain.
 - Dapat ditemukan pada alveolar, mukosa lingual, labial, palatum, dasar rongga mulut, gingiva, mukosa bukal, dan alveolar ridge mandibula.
@@ -343,10 +355,15 @@ Jika tidak ditangani → gingiva merah dan mudah berdarah → halitosis → terb
     - **homogen**
     - **nonhomogen**
     - **verukosa**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791219184000ohgchm.png)
+
+### Patogenesis
+
 - Dasar perubahan molekuler belum sepenuhnya diketahui.
 - Perubahan epitel diduga berkaitan dengan **transformasi displastik**.
 - Terjadi diferensiasi epitel abnormal dengan peningkatan keratinisasi permukaan (**hiperkeratinisasi**) sehingga mukosa tampak putih.
-- Dapat disertai **atrofi atau akantosis**.
+- Dapat disertai **atrofi atau akantosis** (perubahan lapisan tanduk).
 
 ### Diagnosis dan Penatalaksanaan
 
@@ -357,7 +374,7 @@ Jika tidak ditangani → gingiva merah dan mudah berdarah → halitosis → terb
     - pemberian vitamin A, C, E, dan beta-karoten,
     - bila bercak menetap → **eksisi bedah**.
 
-> 🧠 **Pembeda paling penting:**  
+> 🧠 **Pembeda paling penting:** #Ingat 
 > **Kandidiasis → putih + bisa dikerok.**  
 > **Leukoplakia → putih + tidak bisa dikerok.** 🦷
 
@@ -375,7 +392,7 @@ Jika tidak ditangani → gingiva merah dan mudah berdarah → halitosis → terb
 |**Gingivitis**|Gingiva **merah + bengkak + mudah berdarah**|
 |**Leukoplakia**|Plak putih **tidak bisa dikerok**|
 
-### 🎯 Hafalan soal pilihan ganda dari materi
+### 🎯 Jawaban soal pilihan ganda dari materi
 
 - **Stomatitis** → jaringan **lunak rongga mulut**.
 - **Karies** → 4 faktor: **host, mikroorganisme, substrat, waktu**.
