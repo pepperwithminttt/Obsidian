@@ -98,7 +98,7 @@ Contoh:
     - Antagonis H₂ pertama yang tersedia.
     - Menghambat enzim **sitokrom P450**, sehingga banyak interaksi obat.
 - **Ranitidine** 150/300 mg
-    - Pada materi disebut tidak menghambat P450 sehingga efek samping/interaksi lebih minimal.
+    - Tidak menghambat P450 sehingga efek samping/interaksi lebih minimal.
 - **Nizatidine** 300 mg.
 - **Famotidine** 20/40 mg.
 
