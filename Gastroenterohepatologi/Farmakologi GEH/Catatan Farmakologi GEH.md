@@ -399,15 +399,17 @@ Teori terjadinya diare berkaitan dengan gangguan flora normal yang dapat meningk
 
 # 4. Antiemetik 🤢
 
-Kelompok antiemetik yang tercantum:
+| Golongan                                | Contoh                                 |
+| --------------------------------------- | -------------------------------------- |
+| **Antagonis dopamin**                   | Metoklopramid, domperidon, clebopride  |
+| **Antagonis serotonin 5-HT₃**           | Ondansetron, granisetron, tropisetron  |
+| **Kolinomimetik tidak langsung**        | Cisapride                              |
+| **Antihistamin**                        | Prometazin, pirathiazin, dimenhidrinat |
+| **Modulator reseptor serotonin (5-HT)** | Tegaserod, trimebutin                  |
 
-|Golongan|Contoh|
-|---|---|
-|**Antagonis dopamin**|Metoklopramid, domperidon, clebopride|
-|**Antagonis serotonin 5-HT₃**|Ondansetron, granisetron, tropisetron|
-|**Kolinomimetik tidak langsung**|Cisapride|
-|**Antihistamin**|Prometazin, pirathiazin, dimenhidrinat|
-|**Modulator reseptor serotonin (5-HT)**|Tegaserod, trimebutin|
+#### Q. Kenapa antagonis dopamin dan serotonin yang dipakai?
+
+Karena dopamin dan serotonin perlu dihambat sebab keduanyalah yang berperan dalam **mengaktifkan jalur menuju pusat muntah**. **Dopamin bekerja melalui reseptor D₂**, terutama di _chemoreceptor trigger zone_ (CTZ), sedangkan **serotonin bekerja melalui reseptor 5-HT₃**, terutama pada jalur dari saluran cerna menuju CTZ dan pusat muntah. Jika reseptor tersebut diblokir, rangsangan ke pusat muntah berkurang sehingga mual dan muntah dapat dicegah.
 
 ### Metoklopramid
 
@@ -451,7 +453,7 @@ Kelompok antiemetik yang tercantum:
 
 ### Antagonis 5-HT₃
 
-**Ondansetron** merupakan contoh yang paling banyak tersedia dalam materi.
+**Ondansetron** merupakan contoh yang paling banyak tersedia.
 
 - Menghambat reseptor serotonin **5-HT₃**.
 - Indikasi:
@@ -467,40 +469,50 @@ Kelompok antiemetik yang tercantum:
 
 # 5. Disentri Basiler, Disentri Amoeba, Kolera, dan Demam Tifoid 🦠
 
-Antibiotik yang tercantum dalam materi:
+### Pilihan antibiotik:
 
-- Kuinolon:
+- **Kuinolon:**
     - Siprofloksasin
     - Levofloksasin
-- Kloramfenikol
-- Kotrimoksazol
-- Tetrasiklin, termasuk doksisiklin
-- Metronidazol
+- **Kloramfenikol**
+- **Kotrimoksazol**
+- **Tetrasiklin, termasuk doksisiklin**
+- **Metronidazol**
 
-Indikasi yang disebutkan:
+### Indikasi pemberian antibiotik:
 
 - Disentri basiler
 - Disentri amoeba
 - Kolera
 - Demam tifoid
 
-### Regimen yang tercantum dalam materi
+## Regimen Antibiotik
 
-|Penyakit|Obat dan dosis|
-|---|---|
-|**Disentri basiler**|Siprofloksasin 500 mg 2×/hari selama 1–3 hari|
-||Levofloksasin 500 mg 1×/hari selama 3 hari|
-||Kotrimoksazol 2×2 tablet dewasa|
-|**Kolera**|Tetrasiklin 500 mg 4×/hari selama 3 hari|
-||Doksisiklin 300 mg dosis tunggal|
-||Siprofloksasin 500 mg 2×/hari|
-|**Demam tifoid**|Siprofloksasin 500 mg 2×/hari selama 7 hari|
-||Levofloksasin 500 mg 1×/hari selama 7 hari|
-||Kotrimoksazol 2×2 tablet dewasa selama 7–10 hari|
-||Kloramfenikol 500 mg 4×/hari selama 7–10 hari|
-|**Disentri amoeba**|Metronidazol 500–750 mg 3×/hari selama 5–10 hari|
+| Penyakit             | Obat dan dosis                                       |
+| -------------------- | ---------------------------------------------------- |
+| **Disentri basiler** | **Siprofloksasin** 500 mg 2×/hari selama 1–3 hari    |
+|                      | **Levofloksasin** 500 mg 1×/hari selama 3 hari       |
+|                      | **Kotrimoksazol** 2×2 tablet dewasa                  |
+| **Kolera**           | **Tetrasiklin** 500 mg 4×/hari selama 3 hari         |
+|                      | **Doksisiklin** 300 mg dosis tunggal                 |
+|                      | **Siprofloksasin** 500 mg 2×/hari                    |
+| **Demam tifoid**     | **Siprofloksasin** 500 mg 2×/hari selama 7 hari      |
+|                      | **Levofloksasin** 500 mg 1×/hari selama 7 hari       |
+|                      | **Kotrimoksazol** 2×2 tablet dewasa selama 7–10 hari |
+|                      | **Kloramfenikol** 500 mg 4×/hari selama 7–10 hari    |
+| **Disentri amoeba**  | **Metronidazol** 500–750 mg 3×/hari selama 5–10 hari |
 
-> ⚠️ **Catatan:** dosis/regimen di atas adalah **persis yang tercantum dalam sumber kuliah** dan tidak saya koreksi atau perbarui menggunakan pedoman terbaru.
+### Mekanisme Antibiotik
+
+|Golongan|Contoh|Mekanisme kerja|
+|---|---|---|
+|**Kuinolon/fluorokuinolon**|Siprofloksasin, levofloksasin|Menghambat **DNA gyrase dan topoisomerase IV** → mengganggu replikasi DNA bakteri|
+|**Tetrasiklin**|Tetrasiklin, doksisiklin|Menghambat **sintesis protein** dengan berikatan pada subunit **30S ribosom**|
+|**Makrolida**|Klaritromisin|Menghambat **sintesis protein** dengan berikatan pada subunit **50S ribosom**|
+|**Penisilin**|Amoksisilin|Menghambat **sintesis dinding sel bakteri**|
+|**Kloramfenikol**|Kloramfenikol|Menghambat **sintesis protein** melalui subunit **50S ribosom**|
+|**Sulfonamid + trimetoprim**|Kotrimoksazol|Menghambat **sintesis asam folat bakteri** pada dua tahap berbeda|
+|**Nitroimidazol**|Metronidazol|Merusak **DNA bakteri** melalui metabolit aktif yang menyebabkan kerusakan DNA|
 
 ---
 
