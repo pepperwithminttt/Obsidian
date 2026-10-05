@@ -18,7 +18,9 @@
 
 ### Sekresi asam lambung
 
-Pada diagram mekanisme sekresi asam, beberapa titik kerja obat utama adalah:
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791204678000svm0ui.png)
+
+Pada diagram mekanisme sekresi asam di atas, beberapa titik kerja obat utama adalah:
 
 - **Histamin → reseptor H₂ → sel parietal → sekresi asam**
     - Dihambat oleh **antagonis reseptor H₂**, misalnya ranitidin.
@@ -35,6 +37,8 @@ Gambaran histologi menunjukkan:
 - **Sel parietal** → menghasilkan HCl dan _intrinsic factor_.
 - **Sel enterochromaffin-like (ECL)** → menghasilkan histamin yang merangsang sekresi asam.
 - **Sel chief** → berhubungan dengan sekresi komponen pencernaan, terutama pepsinogen.
+
+![gh|393](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179120583800014s973.png)
 
 ### Kelompok obat gastritis/ulkus peptikum
 
