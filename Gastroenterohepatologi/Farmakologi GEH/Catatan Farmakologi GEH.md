@@ -312,7 +312,7 @@ Terapi antibiotik harus menggunakan **kombinasi**, bukan satu antibiotik saja.
 
 Secara umum obat antidiare dapat menurunkan peristaltik sehingga memberikan lebih banyak waktu bagi cairan untuk diabsorpsi dari isi usus.
 
-Kelompok yang tercantum:
+Contoh:
 
 - Antikolinergik
 - Protektan/adsorben
@@ -393,7 +393,7 @@ Efek samping:
 
 ### Antibiotik pada diare
 
-Materi menyebutkan teori bahwa gangguan flora normal dapat meningkatkan bakteri anaerob. Salah satu pendekatan yang dicantumkan adalah antibiotik yang efektif terhadap bakteri anaerob, misalnya **metronidazol**.
+Teori terjadinya diare berkaitan dengan gangguan flora normal yang dapat meningkatkan bakteri anaerob. Salah satu pendekatan dalam mengobatinya adalah antibiotik yang efektif terhadap bakteri anaerob, misalnya **metronidazol**.
 
 ---
 
