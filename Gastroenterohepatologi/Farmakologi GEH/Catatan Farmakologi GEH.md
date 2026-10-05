@@ -78,15 +78,15 @@ Contoh:
 
 Efek samping/masalah lain:
 
-- Toksisitas aluminium terutama pada gangguan ginjal.
-- Dapat berhubungan dengan osteoporosis, ensefalopati, dan miopati.
+- **Toksisitas aluminium** terutama pada gangguan ginjal.
+	- Dapat berhubungan dengan **osteoporosis, ensefalopati, dan miopati.**
 - Hiperkalsemia.
-- Retensi fosfat.
-- Presipitasi kalsium di ginjal.
+	- Retensi fosfat.
+	- Presipitasi kalsium di ginjal.
 - Dapat mengganggu absorpsi beberapa obat.
-- **Berikan dengan jarak ±2 jam sebelum atau sesudah obat lain.**
+	- Berikan dengan jarak ±2 jam sebelum atau sesudah obat lain.
 
-> 🧠 **Hafalan:** **Mg = Mules/Diare**, **Al = Alone di toilet (konstipasi)**, **Ca = Carbon dioxide → Cembung/kembung**.
+> 🧠 **Hafalan:** **Mg = Mules/Diare**, **Al = Alone di toilet (konstipasi)**, **Ca = Carbon dioxide → Cembung/kembung**. #Ingat 
 
 ### Antagonis reseptor H₂
 
