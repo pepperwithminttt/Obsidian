@@ -1,6 +1,9 @@
 # Kandidiasis Oral
 
 - **Definisi:** Kandidiasis oral adalah manifestasi infeksi jamur pada rongga mulut yang terutama disebabkan oleh _Candida albicans_. Kondisi ini sering muncul sebagai **infeksi oportunistik**, terutama ketika imunitas host menurun, misalnya pada HIV.
+
+![gh|258](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791209203000td44vp.png)
+
 - **Faktor yang berperan:**
     - **Sistemik:** usia, diabetes melitus, imunodefisiensi (termasuk HIV), keganasan seperti leukemia, defisiensi nutrisi, dan penggunaan obat-obatan.
     - **Lokal:** gangguan fungsi kelenjar saliva yang menyebabkan penurunan produksi saliva.
@@ -17,6 +20,8 @@
 |**Median rhomboid glossitis**|Lesi eritematosa berbentuk oval pada posterior dorsum lidah akibat atrofi papila filiformis; permukaan dapat berlobus.|
 |**Cheilocandidiasis**|Pengerasan kulit dan ulserasi pada bibir; lingkungan lembap akibat sering menjilat bibir atau mengisap jempol mendukung pertumbuhan _Candida_.|
 |**Kandidiasis hiperplastik**|Disebut juga kandidiasis leukoplakia; sering mengenai mukosa bukal anterior dekat komisura dan terutama sisi lateral lidah.|
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791209278000vc8rxs.png)
 
 ### Patogenesis
 
