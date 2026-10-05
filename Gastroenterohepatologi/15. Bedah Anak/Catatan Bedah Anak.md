@@ -759,7 +759,7 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
     - Antibiotik.
 - **Reduksi hidrostatik:**
     - Menggunakan kontras barium atau water-soluble contrast enema.
-    - Materi mencantumkan tekanan sekitar 3 feet.
+    - Tekanan sekitar 3 feet.
     - Dapat diulangi sampai 3 kali selama 3 menit.
 - **Reduksi pneumatik:**
     - Bayi: sekitar **80 mmHg**.
