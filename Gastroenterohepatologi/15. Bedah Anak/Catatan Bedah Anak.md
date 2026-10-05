@@ -1,864 +1,906 @@
-# Atresia Bilier
+# Atresia Bilier 🟡
 
-**Definisi & gambaran umum**
+## Pendahuluan
 
-- **Atresia bilier** = obliterasi progresif duktus biliaris ekstrahepatik akibat proses inflamasi.
-- Dapat mengenai **sebagian atau seluruh traktus biliaris**.
-- Duktus biliaris dapat:
-    - tidak terbentuk sama sekali, atau
-    - tersisa sebagai **fibrous cord** → struktur seperti tali fibrotik.
-- Merupakan kondisi yang memerlukan **intervensi pembedahan pada usia infant/bayi**.
+- Atresia bilier adalah keadaan **obliterasi progresif duktus biliar ekstrahepatik akibat inflamasi**.
+- Dapat mengenai sebagian atau seluruh traktus biliar.
+- Duktus biliar dapat:
+    - Tidak terbentuk sama sekali, atau
+    - Tampak sebagai **fibrous cord**.
+- Merupakan kondisi yang membutuhkan **intervensi pembedahan pada usia infant**.
 
-**Sejarah**
+### Sejarah
 
-- **1892** → pertama kali diperkenalkan oleh **Jhon Thompson**.
-- **1916** → Holmes, dokter anak dan ahli patologi, melaporkan kasus operasi pertama.
+- 1892: pertama kali diperkenalkan oleh **John Thompson**.
+- 1916: Holmes, pediatrician dan pathologist, melaporkan kasus operasi pertama.
 
-**Etiologi**
+## Etiologi
 
-- Etiologi pasti **belum diketahui** dan bersifat multifaktorial.
+- Etiologi pasti masih belum diketahui dan bersifat **multifaktorial**.
 - Faktor yang secara teoritis berperan:
-    - genetik
-    - inflamasi
-    - infeksi
+    - Genetik
+    - Inflamasi
+    - Infeksi
 
-**Embriologi**
+## Embriologi
 
-- Sistem biliaris berasal dari **divertikulum hepatik** dari _foregut_ pada **minggu ke-4 kehamilan**.
-- Struktur ini berdiferensiasi ke arah kranial dan kaudal → berkembang menjadi:
-    - duktus biliaris intrahepatik
-    - duktus biliaris ekstrahepatik
-- Selama perkembangan, duktus biliaris mengalami **rekanalisasi** hingga terbentuk traktus biliaris yang utuh.
-- Gangguan proses rekanalisasi diduga berperan dalam terjadinya atresia bilier, tetapi mekanisme ini **masih kontroversial**.
+- Sistem biliar berasal dari **divertikulum hepatik foregut** pada minggu ke-4 kehamilan.
+- Struktur ini berdiferensiasi ke arah kranial dan kaudal, kemudian berkembang menjadi:
+    - Duktus biliar intrahepatik
+    - Duktus biliar ekstrahepatik
+- Duktus biliar kemudian mengalami **rekanalisasi** sehingga terbentuk traktus biliar yang utuh.
+- Gangguan proses rekanalisasi diduga berperan dalam terjadinya atresia bilier, tetapi teori ini masih kontroversial.
 
-**Patologi**
+## Patologi
 
-- Ditemukan **fibrous biliary remnant** → sisa duktus biliaris yang mengalami fibrosis.
-- Inflamasi pada biopsi hepar dapat bervariasi.
-- Secara histologis, _fibrous remnant_ dapat menunjukkan:
-    - struktur duktal yang masih paten,
-    - patensi parsial, atau
-    - tidak ditemukan struktur duktal sama sekali.
+- Ditemukan **fibrous biliary remnant**.
+- Inflamasi pada biopsi hepar bervariasi.
+- Secara histologis, fibrous remnant dapat menunjukkan:
+    - Patensi struktur duktal
+    - Patensi parsial struktur duktal
+    - Tidak ditemukannya struktur duktal.
 
-**Manifestasi klinis**
+## Tipe #Ingat
 
-- **Jaundice persisten** → ikterus yang menetap.
-- **Hepatomegali** → pembesaran hepar.
-- **Feses akolik** → feses pucat seperti dempul karena tidak adanya/berkurangnya aliran empedu ke usus.
-- **Urin berwarna gelap** → berkaitan dengan peningkatan bilirubin terkonjugasi.
+- Berdasarkan temuan makroskopis dan kolangiografis:
+    - **Tipe I:** oklusi duktus **biliaris** komunis.
+    - **Tipe IIa:** obliterasi duktus **hepatikus** komunis.
+    - **Tipe IIb:** obliterasi duktus **biliaris** komunis, **hepatikus**, dan sistikus**,** dengan **dilatasi kistik** duktus pada porta hepatis, tanpa keterlibatan kandung empedu.
+    - **Tipe III:** obliterasi duktus **biliaris** komunis, **hepatikus**, dan **sistikus tanpa duktus yang dapat dianastomosis pada porta hepatis** (Intinya absen semuanya).
 
-**Diagnosis**
+![gh|297](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791188019000s6xfiz.png)
 
-- **Klinis:** jaundice yang menetap.
-- **Laboratorium:**
-    - bilirubin terkonjugasi meningkat
-    - alkaline phosphatase biasanya meningkat
-    - tes fungsi hepar tidak selalu terlalu bermakna
-    - pemeriksaan **TORCH**
-- **Radiologi/penunjang:**
-    - USG biliaris → dapat ditemukan **triangular cord sign**
-    - hepatobiliary scintigraphy
-    - MRI
-    - MRCP (_magnetic resonance cholangiopancreatography_)
-    - ERCP (_endoscopic retrograde cholangiopancreatography_)
-    - biopsi hepar
+## Manifestasi klinis
 
-**Tatalaksana**
+- **Jaundice persisten**.
+- Hepatomegali.
+- **Feses akolik**, yaitu feses berwarna pucat seperti dempul akibat tidak masuknya empedu ke usus.
+- Urin berwarna gelap.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791188315000mz42mz.png)
+
+## Diagnosis
+
+- Klinis: jaundice yang menetap.
+- Laboratorium:
+    - Bilirubin konjugasi meningkat.
+    - Alkalin fosfatase biasanya meningkat.
+    - Tes fungsi hepar tidak terlalu bermakna.
+    - Pemeriksaan TORCH.
+- Radiologi:
+    - USG biliar, termasuk **triangular cord sign**.
+    - Hepatobiliary scintigraphy.
+    - MRI.
+    - MRCP.
+    - ERCP.
+- Biopsi hepar.
+
+## Tatalaksana
 
 - **Preoperatif:**
-    - antibiotik spektrum luas
-    - vitamin K **1 mg IM**, atau
-    - vitamin larut air **A, D, E, K** secara oral
+    - Antibiotik spektrum luas.
+    - Vitamin K 1 mg intramuskular atau vitamin larut air A, D, E, K secara per oral.
 - **Operasi:**
-    - **Roux-en-Y hepatic porto-enterostomy (prosedur Kasai)**
-    - transplantasi hepar
-- **Postoperatif:**
-    - pertahankan NGT
-    - terapi pascaoperasi:
-        - **Ursodiol (Actigall): 10–15 mg/kg/dosis, 2×/hari**
-        - **Trimethoprim-sulfamethoxazole:** 2–3 mg/kg/hari berdasarkan komponen trimethoprim
-        - **Vitamin ADEK:** 1 mL/hari
-        - **Prednisone:** 2 mg/kg/hari, kemudian diturunkan bertahap selama 6 minggu
+    - **Roux-en-Y hepatic porto-enterostomy (Kasai procedure)**.
+    - Transplantasi hepar.
+- **Regimen medis pasca-hepatic porto-enterostomy**:
+    - Ursodeoxycholic acid/ursodiol 10–15 mg/kg/dosis, 2 kali sehari.
+    - Trimethoprim-sulfamethoxazole 2,5 mg/kg/hari berdasarkan komponen trimethoprim.
+    - Vitamin ADEK drops 1 mL/hari.
+    - Prednisone 2 mg/kg/hari, kemudian diturunkan bertahap selama 6 minggu.
+- Pascaoperasi: pertahankan NGT sesuai kebutuhan klinis.
 
 **Komplikasi**
 
-- Gangguan nutrisi
-- Kolangitis
-- Hipertensi portal
+- Gangguan nutrisi.
+- Kolangitis.
+- Hipertensi portal.
 
 🧠 **Tips hafalan:**  
-**BAK = Bilier → Akolik → Kasai**
+**Atresia bilier = JAUDE + FESES pucat + URIN gelap → KASAI.**  
+Ingat **KASAI = salurkan empedu ke usus melalui porto-enterostomy**.
 
-- Bilier tersumbat
-- Akolik + urin gelap + jaundice
-- Kasai sebagai operasi utama
+# Hernia Umbilikalis 👶
 
----
+## Pendahuluan
 
-# Hernia Umbilikalis
+- Hernia umbilikalis adalah kondisi ketika organ intraabdomen, biasanya **usus atau jaringan lemak omentum**, menonjol melalui cincin umbilikalis akibat kelemahan atau kegagalan penutupan dinding abdomen di daerah umbilikus.
 
-**Definisi**
+![gh|392](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791188751000dutg8a.png)
 
-- **Hernia umbilikalis** = penonjolan organ intraabdomen, biasanya **usus atau jaringan lemak/omentum**, melalui **cincin umbilikalis** akibat kelemahan atau kegagalan penutupan dinding abdomen di daerah umbilikus.
+### Anatomi
 
-**Anatomi**
-
-- Saat lahir, umbilikus dikelilingi **cincin fasia yang padat** dan terdapat defek pada **linea alba**.
-- Pada pembukaan umbilikus masih terdapat _umbilical remnant_ yang berasal dari:
-    - arteri umbilikalis dan urachus → bagian inferior
-    - vena umbilikalis → bagian superior
+- Saat lahir, umbilikus dikelilingi cincin fasia yang padat dan terdapat defek pada **linea alba**.
+- Pada pembukaan umbilikus masih terdapat umbilical remnant:
+    - Arteri umbilikalis dan urachus berada inferior.
+    - Vena umbilikalis berada superior.
 - **Fascia Richet** berasal dari fascia transversalis dan menyokong basis umbilikus.
 - Peritoneum berada di bawah cincin umbilikus, sedangkan kulit menutupi umbilikus setelah pemisahan tali pusat.
-- Jika fascia Richet lemah atau tidak terbentuk → terjadi hernia umbilikalis.
+- **Bila fascia Richet lemah atau tidak terbentuk, dapat terjadi hernia umbilikalis.**
 
-**Jenis/kelainan yang perlu dibedakan**
+### Tipe dan perbedaan penting
 
-- **Hernia umbilikalis indirek:** isi peritoneum mengalami herniasi dari arah superior menuju cincin umbilikus.
-- Berbeda dengan **hernia umbilical cord**, yaitu defek peritoneum dengan herniasi usus ke dalam tali pusat dan ditutupi amnion.
+- Hernia umbilikalis indirek: isi peritoneum mengalami herniasi dari arah superior menuju cincin umbilikus.
+- Hernia umbilikalis pada anak harus dibedakan dari **hernia umbilical cord**, klo hernia umbilical cord:
+    - Merupakan defek peritoneum.
+    - Usus mengalami herniasi ke dalam tali pusat.
+    - Isi hernia terbungkus oleh amnion.
 
-**Insiden & perjalanan**
+## Insiden / perjalanan alami
 
-- Pada sebagian anak, cincin umbilikalis dapat menutup **spontan** dalam beberapa minggu, bulan, atau tahun setelah lahir.
-- Penutupan spontan terutama terjadi bila diameter cincin **<1 cm**.
+- Pada sebagian anak, cincin umbilikus dapat menutup spontan dalam beberapa minggu, bulan, atau tahun setelah lahir.
+- Penutupan spontan terutama ditemukan bila diameter cincin **<1 cm**.
 
-**Manifestasi klinis**
+## Manifestasi klinis
 
-- Tampak benjolan/protrusi di daerah umbilikus, sesuai gambaran klinis pada materi.
-- Ukuran dan tampilan hernia berkaitan dengan ukuran defek cincin umbilikalis.
+- Tampak benjolan pada daerah umbilikus.
+- Gambaran dapat bervariasi dari hernia kecil hingga **large para-umbilical hernia**.
+- Benjolan dapat terlihat lebih jelas saat tekanan intraabdomen meningkat, misalnya saat menangis atau mengejan.
+- Slide juga menampilkan gambaran hernia umbilikalis pada anak dan hasil setelah herniorafi dengan hasil kosmetik yang baik.
 
-**Radiologi**
+## Radiologi
 
-- USG
-- Foto polos abdomen
+- USG.
+- Foto polos abdomen.
 
-**Diagnosis banding**
+## Diagnosis banding
 
-- _Urachal remnant_
-- Granuloma umbilikalis
+- Urachal remnant.
+- Granuloma umbilikalis.
 
-**Tatalaksana**
+## Tatalaksana
 
-- **Koinisisasi**
-- Pembedahan
+- Koinisisasi.
+- Pembedahan.
 
-**Indikasi pembedahan**
+### Indikasi pembedahan
 
 - **Absolut:**
-    - inkarserata → isi hernia terjebak dan tidak dapat direduksi
-    - strangulata → suplai darah isi hernia terganggu
-    - perforasi
-    - eviserasi
+    - Inkarserasi.
+    - Strangulasi.
+    - Perforasi.
+    - Eviserasi.
 - **Relatif:**
-    - hernia persisten
-    - menetap hingga usia **2 tahun** → direkomendasikan pembedahan
-    - adanya tanda **abdomen akut**
+    - Hernia persisten.
+- Bila menetap hingga usia **2 tahun**, direkomendasikan untuk pembedahan.
+- Pembedahan juga dipertimbangkan bila terdapat tanda **abdomen akut**.
 
-**Komplikasi**
+🧠 **Tips hafalan:**  
+**“2 tahun + komplikasi = operasi.”**  
+Kalau kecil, sering masih punya kesempatan menutup sendiri.
 
-- Bergantung pada apakah operasi dilakukan secara cepat atau terlambat.
+# Omfalitis 🔴
 
-🧠 **Tips hafalan indikasi absolut:**  
-**I-S-P-E** → **Inkarserata – Strangulata – Perforasi – Eviserasi**.
+**Pendahuluan**
 
----
-
-# Omfalitis
-
-**Definisi**
-
-- **Omfalitis** = infeksi jaringan di sekitar tali pusat/umbilikus, terutama pada neonatus.
-
-**Kuman penyebab tersering**
-
-- _Staphylococcus aureus_
-- _Streptococcus_ beta-hemolitikus
-- _Escherichia coli_
-- _Klebsiella_
-- _Pseudomonas_
+- Omfalitis adalah **infeksi jaringan di sekitar tali pusat/umbilikus**, terutama pada neonatus.
+- Kuman penyebab yang tercantum:
+    - _Staphylococcus aureus_
+    - _Streptococcus_ beta-hemolitikus
+    - _Escherichia coli_
+    - _Klebsiella_
+    - _Pseudomonas_
 
 **Manifestasi klinis**
 
-- Cairan **purulen** keluar dari umbilikus.
-- **Selulitis periumbilikalis**.
+- Cairan purulen keluar dari umbilikus.
+- Selulitis periumbilikalis.
 - Omfalitis dapat berkembang menjadi selulitis berat dan **necrotizing fasciitis**.
-
-**Tanda infeksi berat/necrotizing fasciitis**
-
-- Distensi abdomen
-- Takikardia
-- Purpura
-- Lepuh
-- Pireksia/demam
-- Hipotermia
-- Leukositosis
-
-⚠️ **Penting:** necrotizing fasciitis dan gangren umbilikalis dapat menyebabkan kematian.
+- Tanda yang dapat ditemukan:
+    - Distensi abdomen.
+    - Takikardia.
+    - Purpura.
+    - Melepuh.
+    - Pireksia.
+    - Hipotermia.
+    - Leukositosis.
 
 **Faktor risiko**
 
-- Lahir di rumah
-- Berat lahir rendah
-- Penggunaan kateter umbilikalis
-- Sepsis
+- Lahir di rumah.
+- Berat lahir rendah.
+- Penggunaan kateter umbilikus.
+- Sepsis.
 
 **Radiologi**
 
-- Foto polos abdomen
-- CT-scan abdomen
+- Foto polos abdomen.
+- CT-scan abdomen.
 
 **Tatalaksana**
 
-- Kultur → dapat menunjukkan **flora polimikrobial**.
-- Bila terdapat **necrotizing fasciitis atau gangren umbilikalis → segera lakukan debridement**.
-- Eksisi jaringan yang terinfeksi meliputi:
-    - kulit
-    - lemak
-    - fascia
-    - hingga mencapai batas jaringan yang baik.
+- Kultur dapat menunjukkan **flora polimikrobial**.
+- Necrotizing fasciitis dan gangren umbilikalis dapat menyebabkan kematian sehingga harus segera dilakukan **debridement**.
+- Eksisi dilakukan terhadap:
+    - Kulit yang terinfeksi.
+    - Lemak.
+    - Fascia.
+    - Dilanjutkan hingga mencapai jaringan dengan batas yang baik.
 
-🧠 **Tips hafalan:**  
-**Omfalitis = pus + selulitis + neonatus → jangan disepelekan karena bisa menjadi nekrotisasi.**
+🧠 **Red flag:**  
+Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan anggap infeksi lokal biasa.
 
----
+# Hirschsprung Disease 🧸
 
-# Penyakit Hirschsprung
+**Pendahuluan**
 
-**Definisi**
-
-- **Penyakit Hirschsprung** = gangguan perkembangan komponen intrinsik sistem saraf enterik dengan **tidak adanya sel ganglion** pada:
-    - pleksus mienterik
-    - pleksus submukosa  
-        di bagian distal usus.
-- Akibatnya terjadi **segmen aganglionik** yang tidak mampu melakukan peristaltik propulsif secara normal.
+- Hirschsprung disease (HD) merupakan gangguan perkembangan komponen intrinsik **sistem nervus enterik**.
+- Karakteristik utama adalah **tidak terdapatnya sel ganglion pada pleksus mienterikus dan submukosa** usus bagian distal.
 - Insidens:
-    - sekitar **1 : 5.000 kelahiran hidup**
-    - Indonesia: sekitar **1 : 3.250 kelahiran hidup**
+    - Sekitar **1 : 5.000 kelahiran hidup**.
+    - Indonesia: sekitar **1 : 3.250 kelahiran hidup**.
 
-**Sejarah**
+**Sejarah singkat**
 
-- Abad ke-17 → Frederick Ruysch mengamati anak yang meninggal akibat obstruksi usus.
-- 1800 → Battini mendeskripsikan _megacolon_.
-- 1887 → Harald Hirschsprung.
-- 1901 → Tittel menemukan sel aganglionik pada kolon distal.
-- 1946 → Ehrenpreis melakukan operasi pertama pada Hirschsprung.
-- 1949 → Swenson mempublikasikan **rektosigmoidektomi**.
+- Abad ke-17: Frederick Ruysch menggambarkan anak yang meninggal akibat obstruksi usus.
+- 1800: Battini menghubungkan keadaan dengan megakolon.
+- 1887: Harald Hirschsprung mendeskripsikan kondisi tersebut.
+- 1901: Tittel menemukan sel aganglionik pada kolon distal.
+- 1946: Ehrenpreis melakukan operasi pertama HD.
+- 1949: Swenson mempublikasikan rectosigmoidectomy.
 
-**Etiologi & patogenesis**
+**Etiologi dan patogenesis**
 
-- Sel **neural crest** gagal mencapai usus distal karena:
-    - maturasi/diferensiasi sel ganglion terjadi terlalu cepat, atau
-    - sel ganglion berhasil mencapai distal tetapi gagal bertahan hidup atau berproliferasi.
-- Faktor genetik:
+- Sel neural crest tidak mencapai bagian distal usus karena:
+    - Terjadi maturasi/diferensiasi sel menjadi sel ganglion terlalu cepat, atau
+    - Sel ganglion berhasil mencapai distal tetapi gagal bertahan atau berproliferasi.
+- Faktor genetik yang tercantum:
     - **RET proto-oncogene**
     - **SOX10**
-    - **S1P1 (ZFHXIB)**
+    - **S1P1/ZFHXIB**
     - **PHOX2B**
 
 **Manifestasi klinis**
 
-- Obstruksi usus pada neonatus:
-    - sekitar **50–90%** mengalami distensi abdomen
-    - muntah, dapat menjadi **bilious**/mengandung empedu
-    - intoleransi makanan
-    - **delayed meconium** → keterlambatan pengeluaran mekonium
-- Konstipasi kronik
+- Dapat muncul sebagai **obstruksi usus neonatus**.
+- Sekitar 50–90% dapat mengalami:
+    - Distensi abdomen.
+    - Muntah, dapat menjadi muntah bilious.
+    - Intoleransi makanan.
+    - **Delayed meconium passage**.
+- Anak yang lebih besar dapat mengalami **konstipasi kronik**.
+- Secara anatomi, segmen aganglionik distal menyebabkan gangguan relaksasi dan hambatan pengeluaran isi usus sehingga kolon proksimal dapat mengalami dilatasi (**megakolon**).
 
 **Radiologi**
 
-- **Water-soluble contrast enema / colon in loop**
-- Dapat digunakan untuk melihat gambaran segmen yang mengalami kelainan.
+- Pemeriksaan yang digunakan: **water-soluble contrast enema / colon in loop**.
+- Dapat ditemukan **transition zone**, yaitu perubahan dari segmen distal yang sempit ke kolon proksimal yang lebih melebar.
+- Gambaran dapat berupa:
+    - Rectum sempit dengan pelebaran progresif ke arah proksimal, menghasilkan gambaran **tunnel/funnel appearance**.
+    - Transition zone dapat terlihat pada distal sigmoid.
+    - Pada total colon aganglionosis, seluruh kolon dapat terlibat.
 
 **Diagnosis definitif**
 
-- **Biopsi rektum = gold standard diagnosis.**
+- **Biopsi rektum dengan pemeriksaan histologi = gold standard.**
 - Dapat dilakukan dengan **suction biopsy**.
 - Histopatologi dengan pewarnaan HE:
-    1. Tidak terdapat sel ganglion pada pleksus submukosa dan mienterik.
-    2. Terdapat peningkatan aktivitas **acetylcholinesterase (AChE)** pada serabut saraf parasimpatik di:
-        - lamina propria mukosa
-        - muscularis mucosae
-        - otot sirkuler muscularis propria
+    1. Tidak terdapat sel ganglion pada submukosa dan pleksus mienterikus.
+    2. Peningkatan aktivitas **acetylcholinesterase (AChE)** pada serabut saraf parasimpatik di:
+        - Lamina propria mukosa.
+        - Muscularis mucosae.
+        - Otot sirkular muscularis propria.
+- Gambaran histologis pada slide menunjukkan pleksus mienterikus normal dibandingkan dengan aganglionosis, serta peningkatan aktivitas AChE pada mukosa rektum aganglionik.
 
-**Manometri rektal**
+**Rectal manometry**
 
-- Menilai **RAIR (recto-anal inhibitory reflex)**.
-- RAIR = refleks relaksasi sfingter ani interna sebagai respons terhadap distensi rektum.
-- Pada anak normal → **RAIR ada**.
-- Pada Hirschsprung → **RAIR tidak ditemukan**.
+- **Recto-anal inhibitory reflex (RAIR)** adalah refleks relaksasi sfingter ani internal sebagai respons terhadap distensi rektum.
+- RAIR terdapat pada anak normal tetapi **tidak ditemukan pada Hirschsprung disease**.
+- Pemeriksaan dapat dilakukan menggunakan manometri rektal.
 
 **Diagnosis banding**
 
-- Atresia intestinal
-- Ileus mekonium
-- Sindrom sumbatan mekonium (_meconium plug syndrome_)
+- Atresia intestinal.
+- Mekonium ileus.
+- Meconium plug syndrome.
 
 **Tatalaksana awal**
 
-- **Resusitasi**, terutama pada:
-    - bayi dengan tanda obstruksi usus
-    - anak dengan enterokolitis
-- Pasang **NGT**.
+- Resusitasi terutama pada:
+    - Bayi dengan tanda obstruksi usus.
+    - Anak dengan enterokolitis.
+- Pasang NGT.
 - Antibiotik spektrum luas.
-- **Irigasi rektum / wash out / spooling**.
+- Irigasi rektum / **wash out / spooling**.
 
 **Tatalaksana definitif**
 
 - **Pull-through**.
-- Pada anak yang lebih besar dengan kolon sangat dilatasi, operasi dapat ditunda hingga diameter kolon kembali sesuai untuk dilakukan _pull-through_.
-- **Levelling colostomy** dapat dilakukan pada kondisi tertentu.
-- Teknik operasi:
-    - Swenson
-    - Duhamel
-    - Soave
-    - Rehbein
-    - State
-    - laparoskopi
+- Pada anak besar dengan kolon yang sangat dilatasi, operasi dapat ditunda sampai diameter kolon mencapai ukuran yang sesuai untuk pull-through.
+- **Levelling colostomy** dapat dilakukan sesuai kondisi.
+- Teknik yang tercantum:
+    - Swenson.
+    - Duhamel.
+    - Soave.
+    - Rehbein.
+    - State.
+    - Laparoskopi.
 
 **Komplikasi**
 
-1. **Hirschsprung-associated enterocolitis (HAEC)**
-    - Gejala: diare dan muntah.
-    - Bila berat → **life-threatening**.
-    - Dapat berkembang menjadi **toxic megacolon**.
-    - Manifestasi:
-        - demam
-        - muntah empedu
-        - diare eksplosif
-        - distensi abdomen
-        - dehidrasi
-        - syok
-2. Ulserasi dan **iskemik-nekrotik mukosa** di atas segmen aganglionik → dapat menyebabkan:
-    - sepsis
-    - pneumatosis
-    - peritonitis
-3. Perforasi
-4. Gangguan pertumbuhan
+- **Hirschsprung-associated enterocolitis (HAEC)**:
+    - Diare.
+    - Muntah.
+    - Bila berat dapat menjadi kondisi yang mengancam nyawa.
+    - Dapat berkembang menjadi **toxic megacolon** dengan:
+        - Demam.
+        - Muntah empedu.
+        - Diare eksplosif.
+        - Distensi abdomen.
+        - Dehidrasi.
+        - Syok.
+- Ulserasi dan nekrosis iskemik mukosa di atas segmen aganglionosis dapat menyebabkan:
+    - Sepsis.
+    - Pneumatosis.
+    - Peritonitis.
+- Perforasi.
+- Gangguan pertumbuhan.
 
-🧠 **Tips hafalan Hirschsprung:**  
-**“Tidak ada ganglion → tidak ada relaksasi → tidak ada propulsi.”**
+**HAEC score**
 
-Untuk diagnosis:
+- Komponen klinis/radiologis yang tercantum pada materi meliputi:
+    - Diare eksplosif.
+    - Diare berbau busuk.
+    - Diare berdarah.
+    - Riwayat enterokolitis sebelumnya.
+    - Pengeluaran gas dan feses eksplosif saat pemeriksaan rektal.
+    - Distensi abdomen.
+    - Penurunan perfusi perifer.
+    - Letargi.
+    - Demam.
+    - Multiple air-fluid levels.
+    - Dilatasi loop usus.
+    - Sawtooth appearance dengan mukosa ireguler.
+    - Cut-off sign pada rektosigmoid.
+    - Pneumatosis.
+    - Leukositosis.
+    - Pergeseran hitung leukosit ke kiri.
+- Pada materi, skor **≥10** berhubungan dengan diagnosis HAEC positif berdasarkan panel ahli internasional.
 
-> **Hirschsprung = biopsi rektum = gold standard.**
+🧠 **Tips hafalan HD:**  
+**“Tidak ada ganglion = tidak bisa relaksasi.”**  
+Trias klasik untuk bayi: **distensi + muntah bilious + delayed meconium**.  
+Diagnosis definitif: **biopsi rektum**.
 
-Untuk RAIR:
+# Malformasi Anorektal (MAR) 👶🏻
 
-> **Normal = relaksasi ada; Hirschsprung = RAIR hilang.**
+**Pendahuluan**
 
----
-
-# Malformasi Anorektal (MAR)
-
-**Definisi**
-
-- **Malformasi anorektal (MAR)** = kelainan kongenital akibat kegagalan perkembangan anus dan rektum selama masa embrio.
+- Malformasi anorektal adalah kelainan kongenital akibat kegagalan perkembangan **anus dan rektum selama masa embrio**.
 - Insidens sekitar **1 : 5.000 kelahiran hidup**.
+- Pada materi, **MAR lebih sering berupa fistula rektovestibuler dibandingkan fistula rektouretra**.
 
 **Embriologi**
 
 - **Kloaka** pada embrio merupakan rongga yang berhubungan dengan:
-    - hindgut
-    - tailgut
-    - allantois
-    - duktus mesonefrik
-- Terbentuk sekitar **hari ke-21 kehamilan**.
-- Membran kloaka menghilang sekitar **minggu ke-7**, kemudian terbentuk dua muara:
-    - urogenital
-    - anal
-- Perkembangan dianggap lengkap sekitar **minggu ke-9**.
+    - Hindgut.
+    - Tailgut.
+    - Allantois.
+    - Duktus mesonefrik.
+- Terbentuk sekitar hari ke-21 kehamilan.
+- Membran kloaka menghilang sekitar minggu ke-7.
+- Setelah itu terbentuk dua muara:
+    - Urogenital.
+    - Anal.
+- Perkembangan dianggap lengkap sekitar minggu ke-9, meskipun diferensiasi jenis kelamin belum dapat dilakukan pada tahap tersebut.
 
 **Asosiasi sindromik**
 
-- MAR dapat berhubungan dengan **VACTERL**:
+- MAR dapat berasosiasi dengan **VACTERL**:
     - **V**ertebral
     - **A**nal
     - **C**ardiac
-    - **T**racheoesophageal
+    - **T**racheo-esophageal
     - **R**enal
     - **L**imb
 
-**Jenis fistula yang dapat ditemukan**
+**Jenis fistula / gambaran klinis**
 
-- Fistula perineal
-- Fistula _midline raphe_
-- Fistula _bucket handle_
-- Fistula rektovestibular
-- Fistula rektovaginal
-- Fistula rektouretra
-- Fistula rektovesika
-- Kloaka persisten
+- Flat bottom.
+- Fistula rektovaginal.
+- Fistula rektovestibuler.
+- Fistula perineal.
+- Fistula midline raphe.
+- Fistula bucket-handle.
+- Fistula rektovesika.
+- Fistula rektouretra.
 
-**Klinis**
+**Evaluasi bayi laki-laki**
 
-- Tidak terdapat lubang anus.
-- Dapat disertai atau tanpa fistula.
-- Distensi abdomen.
-- Muntah.
+- Observasi 16–24 jam.
+- Pemeriksaan:
+    - Inspeksi perineum.
+    - USG abdomen.
+    - Urinalisis.
+- Bila ditemukan fistula perineal, bucket-handle atau midline raphe, dapat dilakukan penilaian untuk menentukan apakah operasi minimal/PSARP dapat dilakukan tanpa kolostomi.
+- Bila tidak ditemukan bukti klinis fistula:
+    - Cross-table lateral film dalam posisi prone.
+    - Ukur jarak kolon/udara paling distal ke kulit.
+    - **>1 cm:** MAR letak tinggi.
+    - **<1 cm:** MAR letak rendah.
+- MAR letak tinggi dapat memerlukan kolostomi kemudian operasi definitif 4–8 minggu berikutnya.
+- Perlu mencari malformasi terkait dan memastikan pertumbuhan normal.
 
-### Algoritma pasien laki-laki
+**Evaluasi bayi perempuan**
 
-- Observasi **16–24 jam** + USG abdomen.
-- Lakukan inspeksi perineum dan urinalisis.
-- Bila terdapat bukti klinis (**80–90%**):
-    - fistula perineal
-    - _bucket handle_
-    - _midline raphe fistula_  
-        → **minimal PSARP tanpa kolostomi**.
-- Bila terdapat **flat bottom + mekonium dalam urin** → **kolostomi**.
-- Bila tidak ada bukti klinis yang jelas (**10–20%**) → _cross-table lateral film_ dengan pasien posisi prone.
-    - Jarak usus-kulit **>1 cm** → MAR letak tinggi → kolostomi.
-    - Jarak **<1 cm** → **minimal PSARP tanpa kolostomi**.
-- Bila dilakukan kolostomi:
-    - evaluasi malformasi terkait
-    - pastikan pertumbuhan normal
-    - sekitar **4–8 minggu** kemudian → PSARP.
-
-### Algoritma pasien perempuan
-
-- Observasi **16–24 jam** + USG abdomen.
-- Inspeksi perineum.
-- Sekitar **95%** memiliki fistula, sedangkan sekitar **5%** tidak memiliki fistula.
-- Bila fistula:
-    - **kloaka** → evaluasi urologi-ginekologi segera → kolostomi ± vaginostomi/diversi urin → sekitar 6 bulan → **PSARVUP**
-    - **vestibular/vaginal** → kolostomi → 4–8 minggu → **limited PSARP**
-    - **perineal/kutaneus** → **minimal PSARP tanpa kolostomi**
-- Bila tidak ada fistula:
-    - _cross-table lateral film_ posisi prone.
-    - Jarak usus-kulit **<1 cm** → minimal PSARP tanpa kolostomi.
-    - Jarak **>1 cm** atau meragukan → kolostomi → 4–8 minggu → PSARP.
+- Fistula ditemukan pada sekitar 95% kasus pada algoritma slide.
+- Jenis yang dapat ditemukan:
+    - Cloaca.
+    - Vestibular/vaginal.
+    - Perineal/cutaneous.
+- Bila tidak ditemukan fistula, dilakukan cross-table lateral film.
+- Evaluasi sistem genitourinaria diperlukan.
+- Pada kasus tertentu dapat diperlukan:
+    - Kolostomi.
+    - Vaginostomi.
+    - Diversi urin.
+- Operasi definitif bergantung pada anatomi dan jenis kelainan:
+    - PSARP.
+    - PSARVUP pada kloaka.
+- Perlu rule out associated malformations dan memastikan pertumbuhan normal.
 
 **Radiologi**
 
-- Setelah **24 jam** bila fistula tidak ditemukan:
-    - foto _knee-chest_
-    - _cross-table lateral_ posisi prone
-- Ukur jarak kolom udara paling distal terhadap kulit:
-    - **>1 cm** → MAR letak tinggi
-    - **<1 cm** → MAR letak rendah
+- Setelah 24 jam bila fistula tidak ditemukan:
+    - Foto knee-chest.
+    - Cross-table lateral dengan posisi prone.
+- Yang dinilai adalah jarak kolom udara paling distal terhadap kulit.
+- **>1 cm = MAR letak tinggi.**
+- **<1 cm = MAR letak rendah.**
 
 **Tatalaksana**
 
-- **Kolostomi** terutama pada:
-    - MAR tanpa fistula letak tinggi
-    - fistula rektouretra
-    - fistula rektovesika
-    - kloaka persisten
-- Pada **fistula rektovestibular**, terdapat kontroversi antara kolostomi dan operasi definitif.
+- **Kolostomi**:
+    - MAR tanpa fistula letak tinggi.
+    - Fistula rektouretra.
+    - Fistula rektovesika.
+    - Persistent cloaca.
+    - Pada fistula rektovestibuler, indikasi kolostomi bergantung pada kondisi dan pendekatan yang digunakan.
 - **PSARP (posterior sagittal anorectoplasty)**:
-    - dilakukan sekitar **4–8 minggu setelah kolostomi**
+    - Umumnya dilakukan sekitar 4–8 minggu setelah kolostomi pada kasus yang memerlukannya.
 - **Anoplasti**:
-    - MAR tanpa fistula letak rendah
-    - MAR dengan fistula rektoperineum
+    - MAR tanpa fistula letak rendah.
+    - MAR dengan fistula rektoperineum.
 
-### Kloaka persisten
+**Persistent cloaca**
 
-- **Kloaka persisten** = rektum, vagina, dan uretra bergabung menjadi **satu lubang**.
-- Panjang saluran bersama bervariasi **1–10 cm**:
-    - **short-channel:** <3 cm
-    - **long-channel:** >3 cm
-- Pada _long-channel_, fungsi traktus urinarius dapat terganggu.
-- Pada _short-channel_, biasanya:
-    - perineum terbentuk baik
-    - otot baik
-    - sakrum baik
-    - persarafan baik
-- Vagina biasanya mengalami distensi dan terisi sekret → **hydrocolpos**.
-- Hydrocolpos dapat terjadi hingga **40%** kasus.
-- Hydrocolpos dapat menekan **trigonum vesika** dan mengganggu drainase ureter.
-- Vagina dan uterus dapat mengalami septasi atau terpisah menjadi:
-    - dua hemivagina
-    - dua hemiuterus
+- Terjadi penyatuan **rektum, vagina, dan uretra dalam satu lubang**.
+- Panjang common channel bervariasi sekitar 1–10 cm:
+    - **Short-channel:** <3 cm.
+    - **Long-channel:** >3 cm.
+- Pada long-channel, fungsi urinarius dapat terganggu.
+- Pada short-channel, perineum, otot, sakrum, dan persarafan biasanya terbentuk lebih baik.
+- Vagina biasanya mengalami distensi akibat terisi sekresi (**hydrocolpos**).
+- Hydrocolpos dilaporkan dapat mencapai 40%.
+- Hydrocolpos dapat:
+    - Menekan trigonum buli.
+    - Mengganggu drainase ureter.
+- Vagina dan uterus dapat mengalami septasi atau bahkan terbagi menjadi dua hemivagina atau dua hemiuterus.
+- Tujuan koreksi:
+    - Kontrol urinaria.
+    - Kontrol bowel.
+    - Fungsi seksual.
+- Pendekatan terbaru yang tercantum: **PSARVUP**.
 
-**Tujuan koreksi kloaka**
+**Evaluasi klinis umum**
 
-- Kontrol urinaria
-- Kontrol bowel/defekasi
-- Mempertahankan fungsi seksual
-
-**Pendekatan terbaru**
-
-- **PSARVUP (posterior sagittal anorectal-vaginal-urethral plasty)**.
-
-**Pemeriksaan awal**
-
-- Anamnesis:
-    - tidak ada lubang anus ± fistula
-    - perut kembung
-    - muntah
+- Riwayat:
+    - Tidak terdapat lubang anus dengan atau tanpa fistula.
+    - Perut kembung.
+    - Muntah.
 - Pemeriksaan fisik:
-    - tidak terdapat lubang anus ± fistula
-    - distensi abdomen
+    - Tidak terdapat lubang anus.
+    - Dapat ditemukan fistula.
+    - Distensi abdomen.
 - Pemeriksaan penunjang:
-    - foto BNO
-    - _cross-table lateral_ posisi knee-chest/prone pada MAR tanpa fistula
-    - distal kolografi untuk melihat fistula
+    - Foto BNO.
+    - Cross-table lateral pada posisi knee-chest atau prone untuk MAR tanpa fistula.
+    - Distal colography untuk melihat fistula.
 
 **Komplikasi**
 
-- Infeksi luka
-- Striktur ani
-- Striktur anorektal
-- Fistula uretrovagina pada kasus kloaka
-- Paralisis nervus femoralis reversibel
-- Fistula rektouretra berulang
-- Fibrosis dan retraksi vagina pada kasus kloaka
+- Infeksi luka.
+- Striktur ani.
+- Striktur anorektal.
+- Fistula uretrovagina pada kasus kloaka.
+- Paralisis nervus femoralis reversibel.
+- Fistula rektouretra berulang.
+- Fibrosis dan retraksi vagina pada kasus kloaka.
 
 **Perawatan pascaoperasi**
 
-1. **Antibiotik**
-    - spektrum luas selama **48–72 jam** pascabedah.
-2. **Kateter Foley**
-    - pada fistula rektouretra → dipertahankan **5–7 hari**.
-3. **Nutrisi**
-    - diberikan segera setelah operasi.
-4. **Dilatasi anus**
-    - dimulai **2 minggu setelah operasi**
-    - 2×/hari
-    - diameter dilator ditingkatkan **1 mm/minggu**
-    - dilakukan 2×/hari sampai pasien tidak merasa nyeri
-    - kemudian frekuensi diturunkan bertahap.
+- Antibiotik spektrum luas selama **48–72 jam** pascaoperasi.
+- Kateter Foley:
+    - Pada fistula rektouretra dipertahankan **5–7 hari**.
+- Nutrisi diberikan segera setelah operasi.
+- **Dilatasi anus**:
+    - Dimulai 2 minggu setelah pembedahan.
+    - 2 kali sehari.
+    - Diameter dilator ditingkatkan 1 mm per minggu.
+    - Dilakukan 2 kali sehari sampai pasien tidak merasa nyeri.
+    - Frekuensi kemudian diturunkan bertahap.
+- Jadwal yang tercantum:
+    - 1×/hari selama 1 bulan.
+    - 2×/hari selama 1 bulan.
+    - Setiap 3 hari selama 1 bulan.
+    - 2×/minggu selama 1 bulan.
+    - 1×/minggu selama 1 bulan.
+    - Setiap bulan selama 3 bulan.
 
-**Jadwal penurunan frekuensi dilatasi**
+🧠 **Tips hafalan MAR:**  
+**“Lihat fistula → ukur jarak → tentukan tinggi/rendah → pilih operasi.”**
 
-- 1×/hari selama 1 bulan
-- 2×/hari selama 1 bulan
-- setiap 3 hari selama 1 bulan
-- 2×/minggu selama 1 bulan
-- 1×/minggu selama 1 bulan
-- setiap bulan selama 3 bulan
+Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
 
-🧠 **Tips hafalan MAR:**
+# Fisura Ani 🩸
 
-> **Tidak ada anus → cari fistula → tentukan tinggi/rendah → pilih PSARP/anoplasti/kolostomi.**
+**Pendahuluan**
 
-Untuk kloaka:
-
-> **3 organ → 1 lubang:** rektum + vagina + uretra.
-
----
-
-# Fisura Ani
-
-**Definisi**
-
-- **Fisura ani** = robekan longitudinal atau ulserasi pada epitel kanal anal distal yang memanjang hingga **anal verge**.
-- Sebagian besar fisura akut dapat sembuh spontan dalam beberapa minggu, tetapi sebagian berkembang menjadi kronik.
-- Pada anak, fisura ani sering menyebabkan **hematochezia** → perdarahan rektum dengan darah merah segar.
+- Fisura ani adalah **robekan longitudinal atau ulserasi epitel kanal anal distal** yang memanjang hingga anal verge.
+- Sebagian besar fisura akut dapat sembuh spontan dalam beberapa minggu, tetapi sebagian dapat berkembang menjadi kronik.
+- Pada anak, fisura ani sering menyebabkan **hematochezia** dan merupakan salah satu lesi yang sering ditemukan pada keluhan nyeri anus.
 - Penyebab pasti pada anak belum diketahui.
 
 **Patogenesis**
 
-- Sering bersifat idiopatik.
-- Pada anak, sering berkaitan dengan **konstipasi sekunder akibat nyeri saat defekasi**.
-- Mekanisme klasik:  
-    **feses keras → robekan → nyeri → anak menahan defekasi → retensi feses → feses semakin keras → fisura sulit sembuh.**
-- Menahan defekasi menyebabkan distensi rektum dan perubahan sensasi rektal sehingga frekuensi defekasi menurun.
-- Ketakutan terhadap nyeri saat BAB semakin memperberat retensi fekal.
+- Patogenesis fisura ani pada anak berbeda dari dewasa dan masih belum sepenuhnya diketahui.
+- Sering berhubungan dengan **konstipasi sekunder akibat nyeri saat defekasi**.
+- Konsep klasik:
+    - Feses keras menyebabkan trauma dan robekan mukosa.
+    - Anak kemudian takut atau sengaja menahan defekasi karena nyeri.
+    - Retensi feses menyebabkan distensi rektum.
+    - Sensasi rektal meningkat.
+    - Frekuensi defekasi menurun.
+    - Feses semakin mengeras.
+    - Defekasi semakin sulit.
+    - Fisura semakin sulit sembuh.
+- Terjadi suatu **siklus nyeri–menahan defekasi–feses keras–fisura**.
 
 **Diagnosis**
 
 - **Anamnesis:**
-    - perdarahan per rektum → merah segar
-    - anak menangis saat defekasi
-    - konstipasi
+    - Perdarahan per rektum berwarna merah segar.
+    - Anak menangis saat defekasi.
+    - Konstipasi.
 - **Pemeriksaan fisik:**
-    - inspeksi menunjukkan robekan longitudinal dari distal hingga linea dentata
-    - lokasi tersering:
-        - **midline posterior**
-        - pada bayi dapat terjadi di berbagai bagian anus
-        - sumber juga mencantumkan **midline anterior sebagai lokasi yang paling sering pada bayi**
-    - _skin tag_ di sekitar fisura → berhubungan dengan fisura kronik/subkronik.
-
-**Fisura atipikal**
-
-- Dapat multipel.
-- Sering berada pada midline.
-- Biasanya lebih besar dan ireguler.
-- Dapat dilakukan:
-    - biopsi
-    - kultur
-    - kolonoskopi
-- Tujuan → menyingkirkan:
-    - penyakit Crohn
-    - imunodefisiensi
-    - tuberkulosis
-    - infeksi menular seksual
-    - keganasan
+    - Inspeksi menunjukkan robekan longitudinal dari distal hingga linea dentata.
+    - Lokasi tersering:
+        - Midline posterior.
+        - Pada bayi, dapat ditemukan di berbagai lokasi; materi juga mencantumkan midline anterior sebagai lokasi yang sering pada bayi.
+    - **Skin tag** pada daerah fisura berhubungan dengan fisura kronik atau subkronik.
+- **Fisura atipikal:**
+    - Dapat multipel.
+    - Sering berada pada midline.
+    - Biasanya besar dan ireguler.
+    - Dapat dilakukan biopsi, kultur, dan kolonoskopi untuk menyingkirkan:
+        - Crohn disease.
+        - Imunodefisiensi.
+        - Tuberkulosis.
+        - Infeksi venerik.
+        - Malignansi.
 
 **Tatalaksana**
 
-- Lubrikan dapat digunakan untuk mengurangi nyeri ketika feses melewati anus.
+- Dapat menggunakan lubrikan untuk mengurangi nyeri saat feses melewati anus.
 - Tujuan terapi:
-    - mencegah nyeri saat defekasi
-    - mencegah retensi fekal
-    - mencegah feses keras
-    - menyembuhkan fisura
-- Fisura ani idiopatik pada anak dapat sembuh spontan tanpa terapi spesifik dalam beberapa bulan.
+    - Mencegah nyeri saat defekasi.
+    - Mencegah retensi fekal.
+    - Mencegah feses keras.
+    - Menyembuhkan fisura.
+- Fisura ani idiopatik pada anak dapat sembuh tanpa terapi spesifik dalam beberapa bulan.
 - Fisura simptomatik memerlukan penanganan lebih lanjut.
-- Bila berkaitan dengan konstipasi dan/atau nyeri saat defekasi:
-    - diet yang melunakkan feses
-    - dapat diberikan laksatif
+- Bila berhubungan dengan konstipasi dan/atau nyeri saat defekasi:
+    - Diet untuk melunakkan feses.
+    - Dapat diberikan laksatif.
 
-**Tatalaksana pembedahan**
+**Pembedahan / terapi lanjutan**
 
-- Fisurektomi
-- Dilatasi anus dengan anestesi umum
-- _Lateral internal sphincterotomy_
-- _Lateral subcutaneous sphincterotomy_
-- Injeksi **botulinum toxin** pada otot sfingter untuk fisura kronik:
-    - dosis **15–25 U berdasarkan usia**
-    - diberikan pada keempat kuadran
+- Fissurektomi.
+- Dilatasi anus dengan anestesi umum.
+- Lateral internal sphincterotomy.
+- Lateral subcutaneous sphincterotomy.
 - Hematochezia akan berhenti jika fisura membaik.
+- Injeksi **botulinum toxin** pada otot sfingter merupakan salah satu terapi pada fisura kronik.
+- Dosis yang tercantum pada materi: **15–25 U berdasarkan usia, pada empat kuadran**.
 
-🧠 **Tips hafalan patogenesis:**
+🧠 **Tips hafalan:**  
+**Fisura anak = “keras → sakit → tahan → makin keras”.**  
+Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 
-**NYERI → TAHAN BAB → FESES KERAS → ROBEK LAGI → NYERI** 🔄
+# Invaginasi (Intussusception) 🌀
 
-Jadi target terapi utamanya adalah **memutus siklus tersebut**.
+**Pendahuluan**
 
----
+- Invaginasi adalah masuknya **satu segmen usus proksimal ke dalam segmen usus distal**.
+- Pertama kali dilaporkan oleh Paul Barbette di Amsterdam pada 1674.
+- Jonathan Hutchinson melakukan operasi pertama yang berhasil pada anak usia 2 tahun.
+- Hirschsprung kemudian menggunakan reduksi hidrostatik.
 
-# Invaginasi (Intususepsi)
+**Patogenesis**
 
-**Definisi**
+- **Intussusceptum** = segmen usus yang masuk ke dalam.
+- **Intussuscipiens** = segmen usus yang menerima invaginasi.
+- Mesenterium ikut tertarik masuk.
+- Tarikan dan kompresi pembuluh darah menyebabkan:
+    - Gangguan aliran vena.
+    - Edema.
+    - Kongesti.
+    - Gangguan aliran arteri bila berlanjut.
+    - Iskemia.
+    - Nekrosis.
+    - Perdarahan mukosa.
+    - Perforasi.
+- Secara klinis, proses tersebut menyebabkan obstruksi dan dapat berakhir dengan peritonitis serta sepsis.
 
-- **Invaginasi/intususepsi** = masuknya satu segmen usus proksimal ke dalam segmen usus distal.
-- Pertama kali dilaporkan oleh **Paul Barbette di Amsterdam pada 1674**.
-- Jonathan Hutchinson berhasil melakukan operasi pada anak usia 2 tahun.
-- Hirschsprung memperkenalkan reduksi hidrostatik.
+**Tipe berdasarkan penyebab**
 
-**Jenis**
-
-- **Invaginasi primer/idiopatik**
-- **Invaginasi sekunder**
-    - biasanya pada anak sekitar **15 tahun**
-    - perlu dipikirkan adanya **pathologic lead point (PLP)**.
+- **Primer/idiopatik:**
+    - Tidak ditemukan pathological lead point.
+    - Umumnya pada anak kecil.
+    - Dapat berhubungan dengan pembesaran jaringan limfoid/Peyer’s patches, terutama setelah infeksi.
+- **Sekunder:**
+    - Lebih sering pada anak yang lebih besar, terutama sekitar >2 tahun.
+    - Biasanya terdapat **pathologic lead point (PLP)**.
+- Contoh PLP pada materi:
+    - Divertikulum Meckel.
+    - Apendisitis.
+    - Polip usus.
+    - Karsinoid.
+    - Limfoma non-Hodgkin.
+    - Benda asing.
+    - Jaringan heterotopik, misalnya lambung atau pankreas.
+    - Duplikasi usus.
+- Materi juga menampilkan invaginasi sekunder dengan **sekret kistik yang kental, fibrosis, dan lead point**.
 
 **Insiden**
 
-- Usia tersering: **5–9 bulan**
-- Sekitar **50%** terjadi pada usia <1 tahun.
-- Sekitar **10–25%** terjadi setelah usia 2 tahun.
-- Kebanyakan anak memiliki status gizi baik dan sehat.
-- _Peak incidence_ bersamaan dengan epidemi:
-    - ISPA
-    - gastroenteritis
+- Paling sering pada usia **5–9 bulan**.
+- Sekitar 50% kasus terjadi sebelum usia 1 tahun.
+- Sekitar 10–25% terjadi setelah usia 2 tahun.
+- Kebanyakan anak bergizi baik dan sehat.
+- Puncak insiden bersamaan dengan epidemi **ISPA dan gastroenteritis**.
 
 **Manifestasi klinis**
 
-- **Gejala klasik:**
-    - nyeri perut
-    - muntah
-- **Tanda klasik:**
-    - massa abdomen
-    - perdarahan rektum → **red currant jelly stool**
-
-**Gambaran nyeri**
-
-- Kolik akut dan hilang timbul.
-- Saat serangan:
-    - tungkai ditarik ke arah abdomen
-    - hiper-ekstensi
-    - anak menggeliat
-- Di antara serangan, anak dapat tampak normal atau tidur.
-
-**Muntah**
-
-- Awalnya berisi makanan yang belum tercerna.
-- Kemudian dapat menjadi **hijau/bilious** karena mengandung empedu.
-
-**Feses**
-
-- Darah bercampur lendir.
-- Gambaran klasik: **red currant jelly stool**.
+- Gejala klasik:
+    - Nyeri perut.
+    - Muntah.
+- Tanda klasik:
+    - Massa abdomen.
+    - Perdarahan rektum berupa **red currant jelly stool**.
+- Nyeri bersifat **kolik akut dan hilang timbul**:
+    - Anak menarik tungkai ke abdomen.
+    - Hiperextensi.
+    - Menggeliat.
+    - Di antara serangan, anak dapat tampak normal atau tidur.
+- Muntah:
+    - Awalnya berisi makanan yang belum tercerna.
+    - Kemudian dapat menjadi muntah hijau/bilious.
+- Feses dapat bercampur darah dan lendir, menghasilkan gambaran **red currant jelly stool**.
 
 **Pemeriksaan fisik**
 
-- Anak dapat tampak sehat dengan gizi cukup.
-- Di antara serangan dapat tampak normal.
-- **Dance's sign:** kuadran kanan bawah abdomen terasa kosong.
-- **Sausage sign:** massa abdomen berbentuk seperti sosis dapat teraba.
+- Anak dapat tampak sehat dan bergizi cukup.
+- Di antara serangan tampak normal.
+- **Dance’s sign:** kuadran kanan bawah abdomen terasa kosong.
+- **Sausage sign:** teraba massa berbentuk seperti sosis.
 - Hiperperistaltik saat serangan nyeri.
-- Colok dubur dapat menemukan _red currant jelly stool_.
+- Colok dubur dapat menunjukkan red currant jelly stool.
 
 **Radiologi**
 
 - **Foto polos abdomen:**
-    - massa
-    - distribusi udara abnormal
-    - kolon hanya sedikit berisi udara
-    - bila sudah terjadi obstruksi → dapat tampak **air-fluid level**
+    - Massa.
+    - Distribusi udara abnormal.
+    - Kolon hanya berisi sedikit udara.
+    - Bila telah terjadi obstruksi, dapat ditemukan **air-fluid level**.
 - **USG:**
-    - potongan transversal → **target lesion / doughnut sign**
-    - potongan longitudinal → **pseudo-kidney sign**
+    - Potongan transversal: **target lesion / doughnut sign**.
+    - Potongan longitudinal: **pseudo-kidney sign**.
 
-**Tatalaksana awal**
+**Tatalaksana nonoperatif**
 
-- Pasang **NGT**.
-- Resusitasi cairan.
-- Analisis darah.
-- Antibiotik.
-
-**Reduksi nonoperatif**
-
-- **Reduksi hidrostatik**
-    - menggunakan kontras barium atau kontras larut air melalui enema
-    - tekanan sekitar **3 feet**
-    - dapat diulang hingga **3 kali**
-    - selama sekitar **3 menit**
-- **Reduksi pneumatik**
-    - bayi: **80 mmHg**
-    - anak: **110–120 mmHg**
+- Persiapan:
+    - NGT.
+    - Resusitasi cairan.
+    - Analisis darah.
+    - Antibiotik.
+- **Reduksi hidrostatik:**
+    - Menggunakan kontras barium atau water-soluble contrast enema.
+    - Materi mencantumkan tekanan sekitar 3 feet.
+    - Dapat diulangi sampai 3 kali selama 3 menit.
+- **Reduksi pneumatik:**
+    - Bayi: sekitar **80 mmHg**.
+    - Anak: sekitar **110–120 mmHg**.
 
 **Kontraindikasi reduksi nonoperatif**
 
-- Tanda peritonitis
-- Perforasi
-- Sepsis
-- Kemungkinan usus sudah mengalami gangren
-- Bayi <6 bulan
-
-**Tanda reduksi berhasil**
-
-- Terdapat refluks kontras ke **ileum terminal**.
+- Tanda peritonitis.
+- Perforasi.
+- Sepsis.
+- Kecurigaan usus sudah mengalami gangren.
+- Materi mencantumkan bayi <6 bulan sebagai kontraindikasi.
+- Tanda reduksi berhasil:
+    - Terdapat refluks kontras ke **ileum terminale**.
 
 **Tatalaksana operatif**
 
 - Dilakukan melalui:
-    - laparotomi, atau
-    - laparoskopi
-- Reduksi dilakukan dengan **milking dari distal ke proksimal**.
+    - Laparotomi, atau
+    - Laparoskopi.
+- Reduksi dilakukan dengan teknik **milking dari distal ke proksimal**.
 - Bila terjadi robekan serosa:
-    - nilai apakah milking masih memungkinkan
-    - bila tidak memungkinkan → jangan dipaksakan karena dapat menyebabkan ruptur dan kontaminasi
-    - lakukan **reseksi dan anastomosis** bila diperlukan.
-- Setelah reduksi berhasil, nilai viabilitas usus:
-    - kompres dengan kasa + NaCl 0,9% hangat
-    - usus yang viabel menunjukkan perubahan warna menjadi merah
-    - peristaltik positif
-- Pada pasien **>2 tahun**, cari **pathologic lead point (PLP)**.
+    - Nilai apakah reduksi masih dapat dilanjutkan.
+    - Bila tidak memungkinkan, jangan dipaksakan karena dapat menyebabkan ruptur dan kontaminasi.
+    - Dilakukan reseksi dan anastomosis.
+- Setelah reduksi berhasil:
+    - Nilai viabilitas usus.
+    - Usus dapat dikompres dengan kasa yang dibasahi NaCl 0,9% hangat.
+    - Tanda viabilitas: warna kembali merah dan peristaltik positif.
+- Pada pasien >2 tahun, cari **pathologic lead point**.
 
 **Komplikasi**
 
-- Iskemia → nekrosis → perforasi intestinal
-- **Short bowel syndrome**
+- Iskemia.
+- Nekrosis.
+- Perforasi intestinal.
+- Short bowel syndrome.
 
 **Invaginasi rekuren**
 
-- Reduksi nonoperatif dikontraindikasikan pada:
-    - rekurensi >1 kali
-    - anak >2 tahun yang episode pertamanya sudah direduksi dengan barium
-    - kecurigaan adanya _pathologic lead point_
+- Kontraindikasi reduksi nonoperatif pada keadaan:
+    - Rekurensi >1 kali.
+    - Anak >2 tahun yang episode pertamanya telah dilakukan reduksi barium.
+    - Kecurigaan adanya pathologic lead point.
 
-🧠 **Tips hafalan invaginasi:**
+🧠 **Tips hafalan klasik:**  
+**“Pain + Vomit + Sausage + Jelly.”**
 
-**“3 klasik”**
+- **Pain:** kolik hilang timbul.
+- **Vomit:** muntah, kemudian dapat bilious.
+- **Sausage:** massa abdomen.
+- **Jelly:** red currant jelly stool.
 
-- **Kolik**
-- **Muntah**
-- **Currant jelly**
+USG: **Target = transversal, Pseudo-kidney = longitudinal.**
 
-**USG:**
+# Fistula 🔗
 
-> **Transversal = target/doughnut** 🎯  
-> **Longitudinal = pseudo-kidney** 🫘
+**Pendahuluan**
 
-**Alur tatalaksana:**
-
-> Stabilkan → reduksi nonoperatif bila aman → operasi bila kontraindikasi/gagal.
-
----
-
-# Fistula
-
-**Definisi**
-
-- **Fistula** = hubungan abnormal antara:
-    - dua permukaan/organ yang dilapisi epitel → **internal fistula**
-    - organ berongga dengan lingkungan eksternal → **external fistula**
-    - dua pembuluh darah
+- Fistula adalah **hubungan abnormal antara dua permukaan/organ yang dilapisi epitel**, hubungan antara organ berongga dengan eksterior, atau hubungan abnormal antara dua pembuluh darah.
 - Istilah fistula bermakna **saluran**.
-- Faktor risiko antara lain gangguan sistemik seperti **sepsis**.
+- Faktor risiko termasuk gangguan sistemik seperti **sepsis**.
 
 **Etiologi**
 
-- Kongenital
-- Trauma
-- Infeksi
-- Perforasi atau cedera
-- Abses
-- Komplikasi operasi
-- Inflamasi
-- Radiasi
-- Tumor
+- Kongenital.
+- Trauma.
+- Infeksi.
+- Perforasi atau injury yang disertai abses.
+- Komplikasi operasi.
+- Inflamasi.
+- Radiasi.
+- Tumor.
 
 **Patofisiologi**
 
 - **Kongenital:**
-    - berasal dari _remnant_ duktus embrionik yang menetap
-    - kemudian mengalami obliterasi/gangguan perkembangan
-    - contoh:
-        - fistula branchial
-        - fistula rektovesika
-        - fistula rektovestibular
-- **Didapat (_acquired_):**
-    - biasanya berkaitan dengan:
-        - benda asing
-        - jaringan nekrotik
-        - infeksi mikroba
-        - drainase abses yang tidak adekuat
-    - contoh:
-        - fistula enterokutan
-        - abses perianal
+    - Berasal dari remnant duktus embrionik yang menetap.
+    - Remnant kemudian mengalami obliterasi atau gangguan perkembangan embrionik.
+    - Contoh:
+        - Fistula branchial.
+        - Fistula rektovesika.
+        - Fistula rektovestibuler.
+- **Dapatan/acquired:**
+    - Biasanya sekunder terhadap:
+        - Benda asing.
+        - Jaringan nekrotik pada daerah yang terpapar.
+        - Infeksi mikroba.
+        - Drainase abses yang tidak adekuat.
+    - Contoh:
+        - Fistula enterokutan.
+        - Abses perianal.
 
 **Fistula enterokutan**
 
-- Dapat menutup spontan, bergantung pada:
-    - anatomi
-    - etiologi
-    - status nutrisi
-    - produksi fistula
+- Fistula dapat menutup spontan, bergantung pada:
+    - Anatomi.
+    - Etiologi.
+    - Status nutrisi.
+    - Produksi/output fistula.
+- Berdasarkan output:
+    - **Low output:** <200 cc/24 jam.
+    - **Moderate output:** 200–500 cc/24 jam.
+    - **High output:** >500 cc/24 jam.
 
-**Berdasarkan jumlah produksi**
+**Faktor yang memengaruhi penutupan spontan**
 
-- **Low output:** <200 cc/24 jam
-- **Moderate output:** 200–500 cc/24 jam
-- **High output:** >500 cc/24 jam
+- Faktor yang mendukung penutupan:
+    - Organ asal tertentu seperti esofagus, duodenal stump, lambung, pankreas, bilier, jejunum, atau ileum.
+    - Etiologi pascaoperasi/anastomotic leak, appendicitis, diverticulitis.
+    - Output rendah.
+    - Status nutrisi baik, termasuk transferrin >200.
+    - Tidak ada sepsis.
+    - Kontinuitas usus baik.
+    - Tidak ada obstruksi distal.
+    - Tidak ada abses.
+    - Tidak ada radiasi.
+    - Traktus >2 cm.
+    - Defek <1 cm.
+    - Operasi awal dilakukan di institusi yang sama.
+- Faktor yang menghambat:
+    - Output tinggi.
+    - Malnutrisi, transferrin <200.
+    - Sepsis.
+    - Penyakit pada usus sekitar.
+    - Obstruksi distal.
+    - Abses.
+    - Diskontinuitas usus.
+    - Radiasi.
+    - Traktus <1 cm.
+    - Defek >1 cm.
+    - Pasien dirujuk dari institusi lain.
 
-**Contoh fistula**
+**Jenis fistula lain**
 
-- Fistula enterokutan
-- Fistula arteriovenosa
-- Fistula trakeoesofageal
-- Fistula perianal
-- Fistula obstetrik
+- **Arteriovenous fistula**
+    - Hubungan abnormal antara arteri dan vena.
+    - Materi menampilkan contoh hubungan vaskular, termasuk akses ke mesin dialisis.
+- **Fistula trakeoesofageal**
+    - Hubungan abnormal antara trakea dan esofagus.
+- **Fistula perianal**
+    - Saluran abnormal di sekitar anus.
+- **Fistula obstetrik**
+    - Hubungan abnormal yang dapat terjadi antara organ genital dan saluran urin/cerna akibat komplikasi obstetrik.
+- Fistula lain dapat berupa berbagai hubungan abnormal antarorgan atau dengan permukaan tubuh.
 
-**Radiologi/penunjang**
+**Radiologi / evaluasi**
 
-- USG
-- Fistulografi
-- CT-scan
-- MRI
-- Endoskopi
-- Kolonoskopi
+- USG.
+- Fistulografi.
+- CT-scan.
+- MRI.
+- Endoskopi.
+- Kolonoskopi.
+- Untuk **fistula-in-ano**, MRI ditampilkan sebagai pemeriksaan penting/"gold standard" untuk pencitraan pada materi.
 
 **Komplikasi**
 
-- Imbalans elektrolit
-- Sepsis dan komplikasi yang berkaitan
-- Gangguan status nutrisi
-- Ekskoriasi kulit di sekitar luka
+- Imbalans elektrolit.
+- Sepsis dan komplikasi yang berhubungan dengannya.
+- Gangguan status nutrisi.
+- Ekskoriasi jaringan di sekitar luka.
 
 **Tatalaksana**
 
-- Resusitasi
-- Nutrisi adekuat
-- Kontrol sepsis dan fistula
-- Antibiotik
-- Pembedahan
+- Resusitasi.
+- Nutrisi adekuat.
+- Kontrol sepsis dan fistula.
+- Antibiotik.
+- Pembedahan.
 
-🧠 **Tips hafalan fistula enterokutan:**
+🧠 **Tips hafalan fistula enterokutan:**  
+**“NUTRISI + SEPSIS + OUTPUT + ANATOMI.”**  
+Empat hal tersebut sangat menentukan apakah fistula punya peluang menutup spontan.
 
-> **<200 = Low → 200–500 = Moderate → >500 = High**
+# Ringkasan Hafalan Cepat 🧠✨
 
-Jadi urutannya gampang: **L-M-H = <200, 200–500, >500**.
+|Penyakit|Kunci klinis|Pemeriksaan penting|Tatalaksana utama|
+|---|---|---|---|
+|**Atresia bilier**|Jaundice persisten, hepatomegali, feses akolik, urin gelap|Bilirubin konjugasi, USG, scintigraphy, MRCP/ERCP, biopsi|**Kasai**, transplantasi hepar|
+|**Hernia umbilikalis**|Benjolan umbilikus|Klinis ± USG|Observasi bila kecil; operasi bila persisten/komplikasi|
+|**Omfalitis**|Purulen + selulitis umbilikus pada neonatus|Kultur, foto abdomen/CT sesuai indikasi|Antibiotik sesuai kondisi + debridement bila nekrotizing fasciitis/gangren|
+|**Hirschsprung**|Delayed meconium, distensi, muntah bilious, konstipasi|**Biopsi rektum = gold standard**|Wash out, kemudian **pull-through**|
+|**MAR**|Tidak ada anus ± fistula|Inspeksi, cross-table lateral, distal colography|Anoplasti/PSARP ± kolostomi|
+|**Fisura ani**|Nyeri saat defekasi + hematochezia merah segar|Inspeksi|Lunakkan feses, kontrol nyeri; terapi lanjutan bila kronik|
+|**Invaginasi**|Kolik + muntah + massa + red currant jelly|**USG: target/doughnut sign**|Reduksi hidrostatik/pneumatik; operasi bila kontraindikasi/gagal|
+|**Fistula**|Saluran abnormal antarorgan/permukaan|Fistulografi, CT, MRI, endoskopi|Resusitasi, nutrisi, kontrol sepsis, antibiotik, operasi|
+
+**⭐ Super-high-yield:**
+
+- **Atresia bilier:** bayi kuning terus + **feses akolik** → pikirkan atresia bilier.
+- **Hirschsprung:** **tidak ada ganglion** → tidak ada relaksasi → obstruksi distal.
+- **MAR:** tentukan **ada/tidak fistula + tinggi/rendah**.
+- **Fisura:** **nyeri → tahan BAB → feses makin keras → fisura makin berat**.
+- **Invaginasi:** **kolik + sausage mass + red currant jelly**, USG **target sign**.
+- **Fistula enterokutan:** pikirkan **output, nutrisi, sepsis, anatomi**.
