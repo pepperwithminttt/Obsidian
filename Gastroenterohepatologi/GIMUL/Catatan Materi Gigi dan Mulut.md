@@ -175,15 +175,15 @@ Gambar: Glossitis Atrofik ↓
 
 ### Definisi
 
-- Angina Ludwig a**selulitis difus** pada ruang **submandibular, sublingual, dan submental**, dengan kecenderungan menyebar cepat ke jaringan sekitar. Selulitis merupakan proses inflamasi difus pada jaringan submukosa atau subkutan.
+- Angina Ludwig adalah **selulitis difus** pada ruang **submandibular, sublingual, dan submental**, dengan kecenderungan menyebar cepat ke jaringan sekitar. Selulitis merupakan **proses inflamasi difus** pada jaringan submukosa atau subkutan.
 - Umumnya terjadi pada individu sehat, tetapi dapat diperberat oleh **diabetes melitus, neutropenia, alkoholisme, anemia aplastik, glomerulonefritis, dan lupus eritematosus sistemik**.
 - Paling banyak pada usia **20–60 tahun** dan laki-laki lebih sering terkena dengan rasio sekitar **3:1–4:1**.
 
 ### Etiologi dan Patofisiologi
 
-- Umumnya merupakan **infeksi odontogenik**, terutama berasal dari molar kedua atau ketiga mandibula.
-- Akar gigi tersebut berada di atas otot **mylohyoid**, sehingga abses dapat menyebar ke ruang submandibular.
-- Bakteri yang terlibat antara lain **Streptococcus, Staphylococcus, dan Bacteroides**.
+- Umumnya merupakan **infeksi odontogenik**, terutama **berasal dari molar kedua** atau **ketiga mandibula**.
+- Akar gigi tersebut berada di atas otot mylohyoid, sehingga abses dapat menyebar ke ruang submandibular.
+- Biasanya disebabkan oleh bakteri **Streptococcus, Staphylococcus, dan Bacteroides**.
 - Sekitar 50% kasus bersifat **polimikrobial**, melibatkan bakteri Gram-positif/Gram-negatif serta aerob/anaerob.
 - Infeksi biasanya bermula di ruang submandibular kemudian menyebar ke ruang sublingual.
 - Karena penyebaran **tidak melalui sistem limfatik**, infeksi bersifat **bilateral** dan polimikrobial.
@@ -201,6 +201,8 @@ Gambar: Glossitis Atrofik ↓
 
 > 🚨 **Kunci Angina Ludwig: “3 ruang + papan + lidah naik + airway terancam.”**
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791213306000h3fwlp.png)
+
 ### Diagnosis dan Tatalaksana
 
 - Diagnosis berdasarkan anamnesis, pemeriksaan fisik, pemeriksaan laboratorium/darah, dan foto rontgen.
@@ -213,8 +215,10 @@ Gambar: Glossitis Atrofik ↓
 
 # Karies Gigi
 
-- **Definisi:** penyakit infeksi yang merusak struktur jaringan keras gigi.
-- Prevalensi yang tercantum dalam materi: **72,1% di Indonesia** berdasarkan Riskesdas Nasional 2013.
+### Definisi
+
+- Karies gigi adalah **penyakit infeksi yang merusak struktur jaringan keras gigi**.
+- Prevalensi: **72,1% di Indonesia** berdasarkan Riskesdas Nasional 2013.
 
 ### Etiologi dan Patogenesis
 
@@ -226,8 +230,6 @@ Karies bersifat **multifaktorial** dan memerlukan interaksi 4 faktor:
 4. **Waktu**
 
 **Alur:** mikroorganisme + host + substrat → berlangsung dalam waktu tertentu → kerusakan **email → dentin → pulpa**.
-
-> 🧠 **Hafalan klasik: “Ke-Ma-Wa” → Kuman – Makanan – Waktu + gigi sebagai Host.**
 
 ### Klasifikasi
 
