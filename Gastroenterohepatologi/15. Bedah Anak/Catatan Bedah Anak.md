@@ -423,7 +423,7 @@ Diagnosis definitif: **biopsi rektum**.
     - **R**enal
     - **L**imb
 
-## Jenis fistula / gambaran klinis
+## Jenis Fistula dan Gambaran Klinis
 
 - Flat bottom.
 - Fistula rektovaginal.
@@ -433,6 +433,10 @@ Diagnosis definitif: **biopsi rektum**.
 - Fistula bucket-handle.
 - Fistula rektovesika.
 - Fistula rektouretra.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193062000b1fvie.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911930760007oydrj.png)
 
 ## Evaluasi bayi laki-laki
 
@@ -452,7 +456,7 @@ Diagnosis definitif: **biopsi rektum**.
 
 ## Evaluasi bayi perempuan
 
-- Fistula ditemukan pada sekitar 95% kasus pada algoritma slide.
+- Fistula ditemukan pada sekitar 95% kasus.
 - Jenis yang dapat ditemukan:
     - Cloaca.
     - Vestibular/vaginal.
@@ -473,6 +477,9 @@ Diagnosis definitif: **biopsi rektum**.
 - Setelah 24 jam bila fistula tidak ditemukan:
     - Foto knee-chest.
     - Cross-table lateral dengan posisi prone.
+
+![gh|267](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179119316600035gmh2.png)
+
 - Yang dinilai adalah jarak kolom udara paling distal terhadap kulit.
 - **>1 cm = MAR letak tinggi.**
 - **<1 cm = MAR letak rendah.**
@@ -491,7 +498,7 @@ Diagnosis definitif: **biopsi rektum**.
     - MAR tanpa fistula letak rendah.
     - MAR dengan fistula rektoperineum.
 
-### Persistent cloaca
+## Persistent Cloaca
 
 - Terjadi penyatuan **rektum, vagina, dan uretra dalam satu lubang**.
 - Panjang common channel bervariasi sekitar 1–10 cm:
@@ -548,7 +555,7 @@ Diagnosis definitif: **biopsi rektum**.
     - Diameter dilator ditingkatkan 1 mm per minggu.
     - Dilakukan 2 kali sehari sampai pasien tidak merasa nyeri.
     - Frekuensi kemudian diturunkan bertahap.
-- Jadwal yang tercantum:
+- Jadwal:
     - 1×/hari selama 1 bulan.
     - 2×/hari selama 1 bulan.
     - Setiap 3 hari selama 1 bulan.
@@ -563,14 +570,14 @@ Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
 
 # Fisura Ani 🩸
 
-**Pendahuluan**
+## Pendahuluan
 
 - Fisura ani adalah **robekan longitudinal atau ulserasi epitel kanal anal distal** yang memanjang hingga anal verge.
 - Sebagian besar fisura akut dapat sembuh spontan dalam beberapa minggu, tetapi sebagian dapat berkembang menjadi kronik.
 - Pada anak, fisura ani sering menyebabkan **hematochezia** dan merupakan salah satu lesi yang sering ditemukan pada keluhan nyeri anus.
 - Penyebab pasti pada anak belum diketahui.
 
-**Patogenesis**
+## Patogenesis
 
 - Patogenesis fisura ani pada anak berbeda dari dewasa dan masih belum sepenuhnya diketahui.
 - Sering berhubungan dengan **konstipasi sekunder akibat nyeri saat defekasi**.
@@ -585,7 +592,7 @@ Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
     - Fisura semakin sulit sembuh.
 - Terjadi suatu **siklus nyeri–menahan defekasi–feses keras–fisura**.
 
-**Diagnosis**
+## Diagnosis
 
 - **Anamnesis:**
     - Perdarahan per rektum berwarna merah segar.
@@ -595,7 +602,7 @@ Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
     - Inspeksi menunjukkan robekan longitudinal dari distal hingga linea dentata.
     - Lokasi tersering:
         - Midline posterior.
-        - Pada bayi, dapat ditemukan di berbagai lokasi; materi juga mencantumkan midline anterior sebagai lokasi yang sering pada bayi.
+        - Pada bayi, dapat ditemukan di berbagai lokasi dengan midline anterior sebagai lokasi yang sering.
     - **Skin tag** pada daerah fisura berhubungan dengan fisura kronik atau subkronik.
 - **Fisura atipikal:**
     - Dapat multipel.
@@ -608,7 +615,9 @@ Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
         - Infeksi venerik.
         - Malignansi.
 
-**Tatalaksana**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193572000p6gse8.png)
+
+## Tatalaksana
 
 - Dapat menggunakan lubrikan untuk mengurangi nyeri saat feses melewati anus.
 - Tujuan terapi:
@@ -622,7 +631,7 @@ Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
     - Diet untuk melunakkan feses.
     - Dapat diberikan laksatif.
 
-**Pembedahan / terapi lanjutan**
+## Pembedahan / terapi lanjutan
 
 - Fissurektomi.
 - Dilatasi anus dengan anestesi umum.
@@ -630,7 +639,7 @@ Untuk cloaca: **3 organ 1 lubang = rektum + vagina + uretra.**
 - Lateral subcutaneous sphincterotomy.
 - Hematochezia akan berhenti jika fisura membaik.
 - Injeksi **botulinum toxin** pada otot sfingter merupakan salah satu terapi pada fisura kronik.
-- Dosis yang tercantum pada materi: **15–25 U berdasarkan usia, pada empat kuadran**.
+- Dosis: **15–25 U berdasarkan usia, pada empat kuadran**.
 
 🧠 **Tips hafalan:**  
 **Fisura anak = “keras → sakit → tahan → makin keras”.**  
@@ -638,14 +647,16 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 
 # Invaginasi (Intussusception) 🌀
 
-**Pendahuluan**
+## Pendahuluan
 
 - Invaginasi adalah masuknya **satu segmen usus proksimal ke dalam segmen usus distal**.
 - Pertama kali dilaporkan oleh Paul Barbette di Amsterdam pada 1674.
 - Jonathan Hutchinson melakukan operasi pertama yang berhasil pada anak usia 2 tahun.
 - Hirschsprung kemudian menggunakan reduksi hidrostatik.
 
-**Patogenesis**
+![gh|391](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193608000i4rpjl.png)
+
+## Patogenesis
 
 - **Intussusceptum** = segmen usus yang masuk ke dalam.
 - **Intussuscipiens** = segmen usus yang menerima invaginasi.
@@ -661,7 +672,7 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
     - Perforasi.
 - Secara klinis, proses tersebut menyebabkan obstruksi dan dapat berakhir dengan peritonitis serta sepsis.
 
-**Tipe berdasarkan penyebab**
+## Tipe berdasarkan penyebab
 
 - **Primer/idiopatik:**
     - Tidak ditemukan pathological lead point.
@@ -670,7 +681,10 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 - **Sekunder:**
     - Lebih sering pada anak yang lebih besar, terutama sekitar >2 tahun.
     - Biasanya terdapat **pathologic lead point (PLP)**.
-- Contoh PLP pada materi:
+
+![gh|218](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193712000fyphid.png)
+
+- **Contoh PLP:**
     - Divertikulum Meckel.
     - Apendisitis.
     - Polip usus.
@@ -679,9 +693,10 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
     - Benda asing.
     - Jaringan heterotopik, misalnya lambung atau pankreas.
     - Duplikasi usus.
-- Materi juga menampilkan invaginasi sekunder dengan **sekret kistik yang kental, fibrosis, dan lead point**.
 
-**Insiden**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193857000vvz59c.png)
+
+## Insiden
 
 - Paling sering pada usia **5–9 bulan**.
 - Sekitar 50% kasus terjadi sebelum usia 1 tahun.
@@ -689,14 +704,14 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 - Kebanyakan anak bergizi baik dan sehat.
 - Puncak insiden bersamaan dengan epidemi **ISPA dan gastroenteritis**.
 
-**Manifestasi klinis**
+## Manifestasi klinis
 
 - Gejala klasik:
     - Nyeri perut.
     - Muntah.
 - Tanda klasik:
     - Massa abdomen.
-    - Perdarahan rektum berupa **red currant jelly stool**.
+    - Perdarahan rektum berupa **red currant jelly stool**. #Ingat 
 - Nyeri bersifat **kolik akut dan hilang timbul**:
     - Anak menarik tungkai ke abdomen.
     - Hiperextensi.
@@ -707,7 +722,10 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
     - Kemudian dapat menjadi muntah hijau/bilious.
 - Feses dapat bercampur darah dan lendir, menghasilkan gambaran **red currant jelly stool**.
 
-**Pemeriksaan fisik**
+![gh|307](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911939300000flc99.png)
+
+
+## Pemeriksaan fisik
 
 - Anak dapat tampak sehat dan bergizi cukup.
 - Di antara serangan tampak normal.
@@ -716,18 +734,23 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 - Hiperperistaltik saat serangan nyeri.
 - Colok dubur dapat menunjukkan red currant jelly stool.
 
-**Radiologi**
+## Radiologi
 
 - **Foto polos abdomen:**
     - Massa.
     - Distribusi udara abnormal.
     - Kolon hanya berisi sedikit udara.
     - Bila telah terjadi obstruksi, dapat ditemukan **air-fluid level**.
+
+![gh|371](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193968000wpez0q.png)
+
 - **USG:**
     - Potongan transversal: **target lesion / doughnut sign**.
     - Potongan longitudinal: **pseudo-kidney sign**.
 
-**Tatalaksana nonoperatif**
+![gh|462](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791193989000z3vhx9.png)
+
+## Tatalaksana nonoperatif
 
 - Persiapan:
     - NGT.
@@ -742,7 +765,7 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
     - Bayi: sekitar **80 mmHg**.
     - Anak: sekitar **110–120 mmHg**.
 
-**Kontraindikasi reduksi nonoperatif**
+### Kontraindikasi reduksi nonoperatif
 
 - Tanda peritonitis.
 - Perforasi.
@@ -752,7 +775,7 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
 - Tanda reduksi berhasil:
     - Terdapat refluks kontras ke **ileum terminale**.
 
-**Tatalaksana operatif**
+## Tatalaksana operatif
 
 - Dilakukan melalui:
     - Laparotomi, atau
@@ -768,14 +791,14 @@ Putus siklusnya dengan **melunakkan feses dan mengurangi nyeri**.
     - Tanda viabilitas: warna kembali merah dan peristaltik positif.
 - Pada pasien >2 tahun, cari **pathologic lead point**.
 
-**Komplikasi**
+## Komplikasi
 
 - Iskemia.
 - Nekrosis.
 - Perforasi intestinal.
 - Short bowel syndrome.
 
-**Invaginasi rekuren**
+### Invaginasi rekuren
 
 - Kontraindikasi reduksi nonoperatif pada keadaan:
     - Rekurensi >1 kali.
