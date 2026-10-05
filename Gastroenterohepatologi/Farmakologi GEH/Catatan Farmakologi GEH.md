@@ -1,7 +1,7 @@
 # Farmakoterapi Saluran Cerna dan Hati
-## 1. Gastritis dan Ulkus Peptikum 🩺
+# 1. Gastritis dan Ulkus Peptikum 🩺
 
-### Dasar patofisiologi
+## Dasar patofisiologi
 
 - **Ulkus peptikum** terjadi akibat **ketidakseimbangan antara faktor agresif dan faktor defensif mukosa lambung/duodenum**.
 - **Faktor agresif:**
@@ -16,7 +16,7 @@
     - Prostaglandin
     - Nitric oxide
 
-### Sekresi asam lambung
+## Sekresi asam lambung
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791204678000svm0ui.png)
 
@@ -40,7 +40,7 @@ Gambaran histologi menunjukkan:
 
 ![gh|393](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179120583800014s973.png)
 
-### Kelompok obat gastritis/ulkus peptikum
+## Kelompok obat gastritis/ulkus peptikum
 
 |Golongan|Contoh|Prinsip kerja|
 |---|---|---|
@@ -125,7 +125,7 @@ Contoh:
 
 ### Proton Pump Inhibitors (PPI)
 
-PPI merupakan **penekan sekresi asam lambung paling poten** dalam kelompok yang dibahas.
+PPI merupakan **penekan sekresi asam lambung paling poten**.
 
 - Efek penekanan asam berlangsung sekitar **24–48 jam**.
 - Menghambat **H⁺/K⁺-ATPase secara ireversibel**.
@@ -150,7 +150,7 @@ PPI merupakan **penekan sekresi asam lambung paling poten** dalam kelompok yang 
 - Penyakit hati dapat menurunkan _clearance_ lansoprazol → perlu pengurangan dosis.
 - Efek samping: dispepsia, konstipasi, diare.
 
-**Sediaan yang tercantum:**
+**Sediaan obat:**
 
 |Obat|Dosis dalam materi|
 |---|---|
@@ -164,7 +164,7 @@ PPI merupakan **penekan sekresi asam lambung paling poten** dalam kelompok yang 
 
 ### Potassium-Competitive Acid Blocker (PCAB)
 
-PCAB merupakan obat penekan asam yang lebih baru.
+PCAB merupakan **obat baru** untuk menekan asam lambung.
 
 - Digunakan pada **ulkus peptikum dan GERD**.
 - Durasi kerja lebih lama dibandingkan PPI.
@@ -199,7 +199,7 @@ Hal ini berlawanan dengan OAINS yang menghambat siklooksigenase sehingga menurun
 - Dapat memperburuk penyakit radang usus.
 - **Kontraindikasi pada trimester pertama kehamilan** karena efek uterotrofik.
 
-**Dosis dalam materi:**
+**Dosis:**
 
 - Misoprostol **200 µg, 4×1**.
 - Terutama sebagai profilaksis ulkus peptikum pada pasien berisiko tinggi, misalnya lansia dan pasien dengan ulkus akibat OAINS.
@@ -245,7 +245,7 @@ Terapi antibiotik harus menggunakan **kombinasi**, bukan satu antibiotik saja.
 - **Tetrasiklin/doksisiklin** → menghambat sintesis protein.
 - **Metronidazol** → sering digunakan bila terdapat resistensi terhadap amoksisilin/tetrasiklin atau pasien tidak dapat mentoleransinya.
 
-Regimen yang tercantum:
+#Ingat Regimen pengobatan standar untuk ulkus peptikum:
 
 - **PPI + klaritromisin 500 mg + amoksisilin 1.000 mg, 2×1**
 - **PPI + klaritromisin 500 mg + metronidazol 500 mg, 2×1**
@@ -267,26 +267,23 @@ Regimen yang tercantum:
 
 ### Laksatif
 
-|Golongan|Mekanisme|Contoh|
-|---|---|---|
-|**Pembentuk massa (_bulk-forming_)**|Menyerap air → meningkatkan massa feses → distensi usus → merangsang refleks defekasi|Psyllium, metilselulosa, kalsium polikarbofil, agar|
-|**Pelunak feses/emolien**|Meningkatkan kandungan air dan lemak dalam feses serta melumasi feses/dinding usus|Dioktil natrium sulfosuksinat, parafin cair, minyak zaitun|
-|**Pencahar stimulan**|Merangsang saraf usus → meningkatkan peristaltik|Minyak jarak, senna, cascara, bisakodil, fenolftalein|
-|**Osmotik**|Menarik air ke lumen usus|MgSO₄, laktulosa|
+| Golongan                             | Mekanisme                                                                                 | Contoh                                                     |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **Pembentuk massa (_bulk-forming_)** | Menyerap air → **meningkatkan massa feses** → distensi usus → merangsang refleks defekasi | Psyllium, metilselulosa, kalsium polikarbofil, agar        |
+| **Pelunak feses/emolien**            | **Meningkatkan kandungan air dan lemak** dalam feses serta melumasi feses/dinding usus    | Dioktil natrium sulfosuksinat, parafin cair, minyak zaitun |
+| **Pencahar stimulan**                | **Merangsang saraf** usus → meningkatkan **peristaltik**                                  | Minyak jarak, senna, cascara, bisakodil, fenolftalein      |
+| **Osmotik**                          | Menarik air ke lumen usus                                                                 | MgSO₄, laktulosa                                           |
 
 **Catatan:**
 
 - **MgSO₄:** hati-hati pada gangguan ginjal.
-- **Laktulosa:** 15–30 mL/hari dalam materi.
+- **Laktulosa:** 15–30 mL/hari.
 
 **Efek samping:**
 
 - **Bulk-forming:** impaksi, kelebihan cairan.
 - **Emolien:** ruam kulit, penurunan absorpsi vitamin.
 - **Stimulan:** malabsorpsi nutrien, ruam kulit, iritasi lambung dan rektum.
-
-> 🧠 **Hafalan urutan:**  
-> **Bulk → lembutkan dengan air → rangsang saraf → tarik air (osmotik).**
 
 ---
 
