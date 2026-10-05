@@ -397,7 +397,7 @@ Diagnosis definitif: **biopsi rektum**.
 
 - Malformasi anorektal adalah kelainan kongenital akibat kegagalan perkembangan **anus dan rektum selama masa embrio**.
 - Insidens sekitar **1 : 5.000 kelahiran hidup**.
-- **MAR lebih sering berupa fistula rektovestibuler dibandingkan fistula rektouretra**.
+- **MAR lebih sering berupa fistula rektovestibuler pada perempuan dan fistula rektouretra** pada laki-laki.
 
 ## Embriologi
 
@@ -413,7 +413,7 @@ Diagnosis definitif: **biopsi rektum**.
     - Anal.
 - Perkembangan dianggap lengkap sekitar minggu ke-9, meskipun diferensiasi jenis kelamin belum dapat dilakukan pada tahap tersebut.
 
-**Asosiasi sindromik**
+### Asosiasi sindromik
 
 - MAR dapat berasosiasi dengan **VACTERL**:
     - **V**ertebral
@@ -423,7 +423,7 @@ Diagnosis definitif: **biopsi rektum**.
     - **R**enal
     - **L**imb
 
-**Jenis fistula / gambaran klinis**
+## Jenis fistula / gambaran klinis
 
 - Flat bottom.
 - Fistula rektovaginal.
@@ -434,7 +434,7 @@ Diagnosis definitif: **biopsi rektum**.
 - Fistula rektovesika.
 - Fistula rektouretra.
 
-**Evaluasi bayi laki-laki**
+## Evaluasi bayi laki-laki
 
 - Observasi 16–24 jam.
 - Pemeriksaan:
@@ -450,7 +450,7 @@ Diagnosis definitif: **biopsi rektum**.
 - MAR letak tinggi dapat memerlukan kolostomi kemudian operasi definitif 4–8 minggu berikutnya.
 - Perlu mencari malformasi terkait dan memastikan pertumbuhan normal.
 
-**Evaluasi bayi perempuan**
+## Evaluasi bayi perempuan
 
 - Fistula ditemukan pada sekitar 95% kasus pada algoritma slide.
 - Jenis yang dapat ditemukan:
@@ -468,7 +468,7 @@ Diagnosis definitif: **biopsi rektum**.
     - PSARVUP pada kloaka.
 - Perlu rule out associated malformations dan memastikan pertumbuhan normal.
 
-**Radiologi**
+## Radiologi
 
 - Setelah 24 jam bila fistula tidak ditemukan:
     - Foto knee-chest.
@@ -477,7 +477,7 @@ Diagnosis definitif: **biopsi rektum**.
 - **>1 cm = MAR letak tinggi.**
 - **<1 cm = MAR letak rendah.**
 
-**Tatalaksana**
+## Tatalaksana
 
 - **Kolostomi**:
     - MAR tanpa fistula letak tinggi.
@@ -491,7 +491,7 @@ Diagnosis definitif: **biopsi rektum**.
     - MAR tanpa fistula letak rendah.
     - MAR dengan fistula rektoperineum.
 
-**Persistent cloaca**
+### Persistent cloaca
 
 - Terjadi penyatuan **rektum, vagina, dan uretra dalam satu lubang**.
 - Panjang common channel bervariasi sekitar 1–10 cm:
@@ -511,7 +511,7 @@ Diagnosis definitif: **biopsi rektum**.
     - Fungsi seksual.
 - Pendekatan terbaru yang tercantum: **PSARVUP**.
 
-**Evaluasi klinis umum**
+### Evaluasi klinis umum
 
 - Riwayat:
     - Tidak terdapat lubang anus dengan atau tanpa fistula.
@@ -526,7 +526,7 @@ Diagnosis definitif: **biopsi rektum**.
     - Cross-table lateral pada posisi knee-chest atau prone untuk MAR tanpa fistula.
     - Distal colography untuk melihat fistula.
 
-**Komplikasi**
+## Komplikasi
 
 - Infeksi luka.
 - Striktur ani.
@@ -536,7 +536,7 @@ Diagnosis definitif: **biopsi rektum**.
 - Fistula rektouretra berulang.
 - Fibrosis dan retraksi vagina pada kasus kloaka.
 
-**Perawatan pascaoperasi**
+## Perawatan pascaoperasi
 
 - Antibiotik spektrum luas selama **48–72 jam** pascaoperasi.
 - Kateter Foley:
