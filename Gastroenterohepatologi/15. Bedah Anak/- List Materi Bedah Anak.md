@@ -1,14 +1,15 @@
-1. Penyakit Hirschsprung
-2. Intususepsi
-3. Malrotasi traktus gastrointestinal
-4. Atresia biliaris/intestinal
-5. Akalasia
-6. Atresia esofagus/anus
-7. Stenosis pilorik
-8. Fistula umbilikal
-9. Omphalocoelegastroschisis
-10. Fistula anorektal
-11. Hernia
-12. Enterokolitis nekrotik
-13. Infeksi pada umbilikus
-14. Divertikulum Meckel
+1. Penyakit Hirschsprung (2)
+2. Intususepsi (3B)
+3. Malrotasi traktus gastrointestinal (2)
+4. Atresia biliaris (2)
+5. Atresia intestinal (2)
+6. Akalasia (2)
+7. Atresia esofagus (2)
+8. Atresia anus (2)
+9. Stenosis pilorik (2)
+10. Fistula umbilikal, omphalocoele-gastroschisis (2)
+11. Fistula anorektal (2)
+12. Hernia umbilikalis (3A)
+13. Enterokolitis nekrotik (1)
+14. Infeksi pada umbilikus (4)
+15. Divertikulum Meckel (2)

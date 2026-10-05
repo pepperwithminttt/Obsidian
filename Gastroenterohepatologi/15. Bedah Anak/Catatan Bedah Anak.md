@@ -136,7 +136,9 @@ Ingat **KASAI = salurkan empedu ke usus melalui porto-enterostomy**.
 - Tampak benjolan pada daerah umbilikus.
 - Gambaran dapat bervariasi dari hernia kecil hingga **large para-umbilical hernia**.
 - Benjolan dapat terlihat lebih jelas saat tekanan intraabdomen meningkat, misalnya saat menangis atau mengejan.
-- Slide juga menampilkan gambaran hernia umbilikalis pada anak dan hasil setelah herniorafi dengan hasil kosmetik yang baik.
+- Di bawah ini gambaran hernia umbilikalis pada anak dan hasil setelah herniorafi dengan hasil kosmetik yang baik.
+
+![gh|347](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791189212000ouxt02.png)
 
 ## Radiologi
 
@@ -171,17 +173,19 @@ Kalau kecil, sering masih punya kesempatan menutup sendiri.
 
 # Omfalitis 🔴
 
-**Pendahuluan**
+## Pendahuluan
 
 - Omfalitis adalah **infeksi jaringan di sekitar tali pusat/umbilikus**, terutama pada neonatus.
-- Kuman penyebab yang tercantum:
+- Kuman penyebab tersering:
     - _Staphylococcus aureus_
     - _Streptococcus_ beta-hemolitikus
     - _Escherichia coli_
     - _Klebsiella_
     - _Pseudomonas_
 
-**Manifestasi klinis**
+![gh|328](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791189366000z96yx3.png)
+
+## Manifestasi klinis
 
 - Cairan purulen keluar dari umbilikus.
 - Selulitis periumbilikalis.
@@ -195,19 +199,27 @@ Kalau kecil, sering masih punya kesempatan menutup sendiri.
     - Hipotermia.
     - Leukositosis.
 
-**Faktor risiko**
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791189487000aywbmu.png)
+
+## Faktor risiko
 
 - Lahir di rumah.
 - Berat lahir rendah.
 - Penggunaan kateter umbilikus.
 - Sepsis.
 
-**Radiologi**
+## Radiologi
 
 - Foto polos abdomen.
 - CT-scan abdomen.
 
-**Tatalaksana**
+## Tatalaksana
+
+- **Medical care**
+	- Antimicrobial therapy
+	- Steroid
+	- Supportive care
+- **Surgical care**
 
 - Kultur dapat menunjukkan **flora polimikrobial**.
 - Necrotizing fasciitis dan gangren umbilikalis dapat menyebabkan kematian sehingga harus segera dilakukan **debridement**.
@@ -222,7 +234,7 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
 
 # Hirschsprung Disease 🧸
 
-**Pendahuluan**
+## Pendahuluan
 
 - Hirschsprung disease (HD) merupakan gangguan perkembangan komponen intrinsik **sistem nervus enterik**.
 - Karakteristik utama adalah **tidak terdapatnya sel ganglion pada pleksus mienterikus dan submukosa** usus bagian distal.
@@ -230,7 +242,7 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
     - Sekitar **1 : 5.000 kelahiran hidup**.
     - Indonesia: sekitar **1 : 3.250 kelahiran hidup**.
 
-**Sejarah singkat**
+### Sejarah singkat
 
 - Abad ke-17: Frederick Ruysch menggambarkan anak yang meninggal akibat obstruksi usus.
 - 1800: Battini menghubungkan keadaan dengan megakolon.
@@ -239,7 +251,7 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
 - 1946: Ehrenpreis melakukan operasi pertama HD.
 - 1949: Swenson mempublikasikan rectosigmoidectomy.
 
-**Etiologi dan patogenesis**
+## Etiologi dan patogenesis
 
 - Sel neural crest tidak mencapai bagian distal usus karena:
     - Terjadi maturasi/diferensiasi sel menjadi sel ganglion terlalu cepat, atau
@@ -250,7 +262,7 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
     - **S1P1/ZFHXIB**
     - **PHOX2B**
 
-**Manifestasi klinis**
+## Manifestasi klinis
 
 - Dapat muncul sebagai **obstruksi usus neonatus**.
 - Sekitar 50–90% dapat mengalami:
@@ -261,7 +273,11 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
 - Anak yang lebih besar dapat mengalami **konstipasi kronik**.
 - Secara anatomi, segmen aganglionik distal menyebabkan gangguan relaksasi dan hambatan pengeluaran isi usus sehingga kolon proksimal dapat mengalami dilatasi (**megakolon**).
 
-**Radiologi**
+![gh|458](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190275000zk58am.png)
+![gh|268](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190352000n168fh.png)
+![gh|153](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17911903730009cxyke.png)
+
+## Radiologi
 
 - Pemeriksaan yang digunakan: **water-soluble contrast enema / colon in loop**.
 - Dapat ditemukan **transition zone**, yaitu perubahan dari segmen distal yang sempit ke kolon proksimal yang lebih melebar.
@@ -269,6 +285,8 @@ Neonatus + infeksi umbilikus + **purulen/cellulitis + tanda sistemik** = jangan 
     - Rectum sempit dengan pelebaran progresif ke arah proksimal, menghasilkan gambaran **tunnel/funnel appearance**.
     - Transition zone dapat terlihat pada distal sigmoid.
     - Pada total colon aganglionosis, seluruh kolon dapat terlibat.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791190423000onjogt.png)
 
 **Diagnosis definitif**
 
