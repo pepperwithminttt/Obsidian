@@ -79,7 +79,7 @@ Jumlah alkohol perlu dinilai berdasarkan **gram alkohol/minggu**, bukan sekadar 
 - **MetALD:** faktor metabolik dan alkohol sama-sama berperan.
 - **ALD:** alkohol merupakan faktor dominan.
 
-💡 Cara hafal:
+💡 Cara hafal: #Ingat 
 
 **Wanita: 140 → 350**  
 **Pria: 210 → 420**
