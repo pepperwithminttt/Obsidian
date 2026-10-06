@@ -1,5 +1,5 @@
 # LIVER NEOPLASMS
-**Level Kompetensi 2
+**Level Kompetensi 2**
 
 # 1. Klasifikasi Neoplasma Hati
 
@@ -663,7 +663,7 @@ Pertimbangkan:
 
 ---
 
-# 8. TUMOR MARKERS
+# 8. TUMOR MARKERS #Ingat 
 
 |Marker|Kegunaan utama|Catatan|
 |---|---|---|
