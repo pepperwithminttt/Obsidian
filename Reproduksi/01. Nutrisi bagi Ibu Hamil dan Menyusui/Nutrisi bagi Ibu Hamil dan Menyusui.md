@@ -316,7 +316,7 @@ Angka berikut merupakan **tambahan** terhadap acuan perempuan usia 19–29 tahun
 | Klor | 2.250 mg | +0 |
 | Tembaga | 900 µg | +100 µg |
 
----
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17917814400000y98ev.png)
 
 # 5. Menghubungkan materi dengan kasus klinis 🩺
 
