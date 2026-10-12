@@ -418,9 +418,7 @@ Nilai berikut adalah **tambahan kebutuhan**, bukan total kebutuhan harian.
 
 ---
 
-# 7. Nutrisi pascapersalinan, mitos, dan hafalan akhir 🌷
-
-## A. Nutrisi pascapersalinan
+# 7. Nutrisi pascapersalina dan mitos yang sering ada🌷
 
 Ibu memerlukan energi dan protein untuk pemulihan jaringan serta produksi ASI. Perhatikan kecukupan cairan, kualitas diet, anemia, dan kemungkinan defisiensi mikronutrien. Suplementasi sebaiknya disesuaikan dengan kebutuhan dan indikasi, bukan diberikan dengan asumsi semua ibu memerlukan dosis yang sama.
 
@@ -428,7 +426,7 @@ Ibu memerlukan energi dan protein untuk pemulihan jaringan serta produksi ASI. P
 - **“Kafein harus dihindari sepenuhnya.” — Tidak selalu.** Asupan perlu dibatasi karena kafein masuk ke ASI dan konsumsi berlebihan dapat memengaruhi tidur atau perilaku bayi.
 - **“Makanan pedas harus dihindari.” — Tidak selalu.** Umumnya tidak perlu dilarang jika ibu dan bayi menoleransinya; evaluasi bila ada reaksi yang konsisten.
 
-## B. Ringkasan hafalan satu menit
+# Rangkuman Materi
 
 - **Kehamilan:** kebutuhan energi meningkat bertahap; kebutuhan mikronutrien harus dipenuhi sejak awal.
 - **Gizi berlebih/obesitas:** resistensi insulin, GDM, hipertensi/preeklamsia, makrosomia, dan LGA.
