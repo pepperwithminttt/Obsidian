@@ -128,7 +128,7 @@ Sumber: Marshall. Nutrition in pregnancy: lifelong consequences. American Journa
 
 ## A. Gizi berlebih dan obesitas maternal
 
-Asupan energi berlebih dan obesitas dapat meningkatkan inflamasi serta resistensi insulin. Perubahan ini berkaitan dengan risiko GDM, gangguan hipertensi/preeklamsia, persalinan sesar, makrosomia, dan *large for gestational age* (LGA). Dampak metabolik maternal juga diteliti hubungannya dengan pemrograman metabolik keturunan.
+Asupan energi berlebih dan obesitas dapat **meningkatkan inflamasi serta resistensi insulin**. Perubahan ini berkaitan dengan risiko **GDM, gangguan hipertensi/preeklamsia, persalinan sesar, makrosomia, dan *large for gestational age* (LGA)**. Dampak metabolik maternal juga diteliti hubungannya dengan pemrograman metabolik keturunan.
 
 ![Mekanisme obesitas maternal](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17917677110002hllbo.png)
 
@@ -139,9 +139,7 @@ Asupan energi berlebih dan obesitas dapat meningkatkan inflamasi serta resistens
 
 Kekurangan energi, protein, atau mikronutrien dapat mengganggu pembentukan jaringan ibu dan janin. Dampak yang perlu diingat meliputi anemia, gangguan pertumbuhan janin, **berat lahir rendah (LBW; <2.500 g)**, dan **persalinan prematur (sebelum 37 minggu)**.
 
-Meta-analisis Han et al. (2011; 78 studi, 1.025.794 perempuan) yang dikutip materi melaporkan bahwa maternal underweight berasosiasi dengan persalinan prematur (adjusted RR 1,29; 95% CI 1,15–1,46) dan LBW (adjusted RR 1,64; 95% CI 1,38–1,94). RR (*relative risk*) membandingkan risiko antara kelompok, sedangkan OR membandingkan *odds*.
-
-Defisiensi yang penting secara klinis:
+Defisiensi mikronutrien yang penting secara klinis:
 
 | Zat gizi | Mengapa penting | Konsekuensi defisiensi yang ditekankan materi |
 |---|---|---|
@@ -156,22 +154,85 @@ Defisiensi yang penting secara klinis:
 ## C. Hipertensi gestasional, preeklamsia, dan eklamsia
 
 - **Hipertensi gestasional:** hipertensi yang muncul selama kehamilan tanpa memenuhi kriteria preeklamsia.
-- **Preeklamsia:** gangguan hipertensi kehamilan dengan proteinuria dan/atau disfungsi organ maternal sesuai kriteria diagnosis.
+- **Preeklamsia:** gangguan hipertensi kehamilan dengan **proteinuria** dan/atau **disfungsi organ maternal** sesuai kriteria diagnosis.
 - **Eklamsia:** kejang terkait preeklamsia yang tidak dijelaskan oleh penyebab lain.
 
-Secara ringkas, stres oksidatif dan inflamasi serta ketidakseimbangan faktor angiogenik (termasuk VEGF dan PlGF) berkontribusi pada **disfungsi endotel**. Pembuluh darah tidak mengatur tonus dan permeabilitas secara normal, resistensi vaskular meningkat, lalu timbul hipertensi; keterlibatan ginjal dapat menyebabkan proteinuria. Komplikasi berat dapat mengenai hati, ginjal, sistem hematologi, jantung, dan otak.
+### 1. Mekanisme preeklamsia
+
+1. Hipoksia plasenta: pasokan oksigen ke jaringan plasenta tidak memadai.    
+2. Peningkatan ROS (reactive oxygen species): terbentuk stres oksidatif ketika produksi spesies oksigen reaktif melebihi kapasitas pertahanan antioksidan.
+3. Peningkatan sitokin proinflamasi: termasuk TNF-α dan IL-6.
+4. Ketidakseimbangan faktor angiogenik: peningkatan faktor antiangiogenik sFlt-1 dan sEng serta penurunan faktor proangiogenik VEGF dan PlGF.
+5. Disfungsi endotel maternal: fungsi lapisan sel yang melapisi pembuluh darah terganggu.
+6. Penurunan NO (nitric oxide): berkurangnya sinyal vasodilatasi berkontribusi terhadap vasokonstriksi.
+7. Manifestasi klinis: hipertensi, proteinuria, dan kerusakan endotel atau organ.
+
+Keterangan singkatan:
+- VEGF: vascular endothelial growth factor.
+- PlGF: placental growth factor.
+- sFlt-1: soluble fms-like tyrosine kinase-1.
+- sEng: soluble endoglin.
+- NO: nitric oxide, mediator vasodilatasi.
+
+### 2. Dampak sistemik preeklamsia
+
+- Hati: HELLP syndrome (*hemolysis, elevated liver enzymes, low platelet count*).
+- Ginjal: hipertensi, proteinuria, dan gangguan endotel glomerulus.
+- Tungkai: retensi air dan edema.
+- Pankreas/metabolisme: hubungan dengan sensitivitas insulin dan diabetes.
+- Jantung dan pembuluh darah: inflamasi serta disfungsi endotel berkaitan dengan penyakit jantung iskemik dan stroke.
+- Jaringan adiposa: obesitas merupakan kondisi yang berhubungan dengan inflamasi dan perubahan metabolik.
 
 ![Komplikasi hipertensi kehamilan](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791768119000skfco5.png)
 
-Komplikasi yang perlu dikenal adalah **HELLP syndrome** (*hemolysis, elevated liver enzymes, low platelet count*): hemolisis, peningkatan enzim hati, dan trombosit rendah. Nutrisi seimbang, pemantauan kenaikan berat badan, aktivitas fisik sesuai kondisi, dan pemenuhan kalsium bila asupan rendah dapat menjadi bagian dukungan kesehatan, tetapi tidak menggantikan pemeriksaan atau tata laksana medis preeklamsia. Materi menyebut bahwa hubungan asupan garam dengan preeklamsia tidak dapat disimpulkan sebagai hubungan langsung sederhana. Pada kasus berat, hiponatremia dapat terjadi karena retensi air yang dipengaruhi hormon antidiuretik (ADH); pengaturan cairan harus dilakukan secara klinis, bukan mandiri.
+Materi juga menampilkan hubungan konsumsi garam dengan preeklamsia. Kesimpulan studi yang dikutip menyatakan preeklamsia tidak berkaitan secara langsung dengan konsumsi garam, meskipun konsumsi berlebihan dapat meningkatkan risiko proteinuria dan mungkin berkontribusi pada gangguan hipertensi.
+
+Pada preeklamsia berat atau eklamsia, **hiponatremia** (natrium serum di bawah 135 mmol/L) **dapat terjadi akibat pelepasan hormon antidiuretik** yang tidak semata-mata dipicu oleh osmolaritas, sehingga tubuh menahan air berlebihan. Karena itu, pembatasan atau pemberian cairan pada kondisi berat harus mengikuti pengawasan klinis, bukan dilakukan sendiri.
+
+> **ADH (antidiuretic hormone atau vasopresin)** bisa menyebabkan hiponatremia karena meningkatkan retensi air oleh ginjal, sehingga natrium dalam darah menjadi lebih encer. 🧠💧
 
 ## D. Mual, muntah, dan hiperemesis gravidarum
 
-**Emesis gravidarum** adalah mual-muntah selama kehamilan. **Hiperemesis gravidarum (HG)** adalah bentuk berat yang dapat mengganggu asupan, menyebabkan dehidrasi, dan menimbulkan komplikasi metabolik. Faktor yang dibahas dalam materi mencakup hCG, estrogen, progesteron, perubahan fungsi tiroid pada sebagian pasien, kemungkinan hubungan dengan *Helicobacter pylori*, faktor imunologis, dan psikososial.
+- **Emesis gravidarum**: mual dan muntah selama kehamilan.
+- **Hiperemesis gravidarum (HG)**: bentuk berat dengan gangguan asupan, dehidrasi, dan/atau komplikasi metabolik yang dapat memerlukan perawatan medis.
 
-Muntah berkepanjangan dapat menyebabkan dehidrasi, kekurangan energi, malnutrisi, dan defisiensi **tiamin (vitamin B1)**. Pada HG berat, tiamin perlu dipertimbangkan terutama sebelum dekstrosa untuk mengurangi risiko ensefalopati Wernicke.
+Faktor yang mempengaruhi meliputi:
 
-Dukungan sesuai toleransi dapat berupa makan sedikit tetapi sering, memilih makanan dengan aroma yang tidak menyengat, mencoba makanan dingin/kering atau bertekstur lembut, dan minum sedikit-sedikit tetapi sering. Jahe dapat membantu sebagian pasien. Bila berat, penanganan dapat mencakup antiemetik, cairan intravena, tiamin, serta dukungan nutrisi enteral/parenteral sesuai penilaian klinis.
+- **Peningkatan hormon kehamilan** seperti **human chorionic gonadotropin (hCG)**, **estrogen**, dan **progesteron**.
+- **Perubahan fungsi tiroid** pada sebagian pasien.
+- Kemungkinan keterkaitan dengan **Helicobacter pylori**, faktor **imunologis**, dan faktor **psikososial**.
+
+**Muntah berkepanjangan** dapat menyebabkan **dehidrasi**, **penurunan asupan energi**, **malnutrisi**, dan **kekurangan vitamin B1** (tiamin). **Pada HG berat, pemberian tiamin penting** terutama sebelum pemberian dekstrosa untuk **mengurangi risiko ensefalopati Wernicke**.
+
+### Dampak nutrisi pada mual dan muntah berkepanjangan
+
+- Asupan energi dan zat gizi tidak memadai.
+- Penurunan berat badan.
+- Gangguan cairan dan elektrolit.
+- Defisiensi mikronutrien, terutama bila asupan sangat terbatas.
+- Gangguan metabolik dan komplikasi yang membutuhkan penanganan medis.
+
+#### Dampak Defisiensi Mikronutrien pada Kehamilan
+
+| Mikronutrien            | Implikasi defisiensi                                                  | Kebijakan suplementasi                                                                                                                                            | Risiko/luaran                                                                                                                 |
+| ----------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Besi (Fe)               | • Anemia pada ibu.<br>• Penurunan kapasitas pengangkutan oksigen.     | • Suplementasi universal sesuai prevalensi anemia (60 mg/hari untuk pencegahan defisiensi besi pada ibu hamil).<br>• Suplementasi terarah pada kelompok berisiko. | • Anemia maternal.<br>• Risiko persalinan prematur dan berat lahir rendah (low birth weight/LBW), terutama pada anemia berat. |
+| Asam folat (vitamin B9) | • Gangguan sintesis DNA.<br>• Gangguan penutupan tabung saraf embrio. | • 400–800 µg/hari, dimulai 2 bulan sebelum konsepsi hingga 3 bulan pertama kehamilan (universal).                                                                 | Neural tube defects (NTD): spina bifida dan anensefali.                                                                       |
+| Iodium (I)              | • Penurunan produksi hormon tiroid ibu dan janin.                     | • 250 µg/hari pada ibu hamil dan menyusui (anjuran WHO dalam tabel).                                                                                              | • Gangguan perkembangan otak dan neurokognitif.<br>• Risiko keguguran dan lahir mati pada defisiensi berat.                   |
+| Vitamin D               | • Gangguan homeostasis kalsium.<br>• Gangguan metabolisme tulang.     | • 10 µg/hari (600 IU/hari), sesuai anjuran WHO; dapat ditingkatkan pada kelompok berisiko sesuai indikasi.                                                        | • Risiko preeklamsia, terutama pada asupan rendah.<br>• Gangguan pertumbuhan tulang janin.                                    |
+| Vitamin A               | • Gangguan penglihatan.<br>• Penurunan imunitas ibu.                  | • Hanya direkomendasikan pada kondisi defisiensi, bukan pemberian dosis tinggi secara rutin.                                                                      | • Rabun senja.<br>• Risiko terhadap kesehatan ibu dan janin, terutama pada defisiensi berat.                                  |
+| Vitamin B12             | • Gangguan pembentukan sel darah.<br>• Gangguan metabolisme saraf.    | • Dosis sesuai kebutuhan, terutama pada vegetarian/vegan atau ibu dengan risiko malabsorpsi.                                                                      | • Anemia megaloblastik.<br>• Potensi gangguan perkembangan neurologis janin.                                                  |
+| Kalsium (Ca)            | • Gangguan mineralisasi tulang.<br>• Gangguan regulasi fisiologis.    | • Suplementasi pada ibu dengan asupan rendah (umumnya 1.000–1.500 mg/hari menurut tabel).                                                                         | • Risiko preeklamsia lebih tinggi pada asupan rendah.                                                                         |
+| Seng (Zn)               | • Gangguan fungsi enzim, imunitas, dan pertumbuhan sel.               | • Suplementasi pada kelompok berisiko, dengan dosis sesuai kebutuhan.                                                                                             | • Gangguan imunitas.<br>• Potensi hubungan dengan prematuritas dan gangguan pertumbuhan janin; bukti tidak konsisten.         |
+
+Pendekatan nutrisi dan penanganan bertahap:
+
+- Makan sedikit tetapi sering, sesuai toleransi.
+- Memilih makanan yang aromanya tidak menyengat; makanan dingin atau kering dapat lebih mudah diterima.
+- Mencoba makanan yang dapat ditoleransi, misalnya kentang, roti panggang, sup, buah, yoghurt, atau makanan bertekstur lembut.
+- Memenuhi cairan dengan tegukan kecil dan sering; larutan rehidrasi dapat diperlukan.
+- Jahe dapat membantu sebagian pasien.
+- Jika dibutuhkan, tata laksana medis dapat mencakup piridoksin (vitamin B6), antihistamin atau antiemetik lain, cairan intravena, tiamin, dan dukungan nutrisi enteral atau parenteral sesuai tingkat keparahan.
 
 ![Contoh makanan yang dapat ditoleransi](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770034000w2mb3a.png)
 
@@ -181,9 +242,7 @@ Makanan pedas, asam, asin, atau manis tidak harus selalu dihindari; sesuaikan de
 
 ## A. Folat (vitamin B9)
 
-Folat diperlukan untuk sintesis DNA, pembelahan sel, dan pembentukan eritrosit. Pada embrio, folat penting untuk penutupan tabung saraf; kekurangan pada awal kehamilan meningkatkan risiko NTD seperti spina bifida dan anensefali. Materi mencantumkan asam folat **400–800 µg/hari**, dimulai sebelum konsepsi dan dilanjutkan pada awal kehamilan; kelompok berisiko tinggi dapat memerlukan dosis khusus sesuai arahan dokter. Sumbernya meliputi sayuran berdaun hijau, kacang-kacangan, polong-polongan, jeruk, alpukat, dan pangan fortifikasi.
-
-**Hafalan:** folat = sintesis DNA + pembelahan sel + tabung saraf.
+Folat diperlukan untuk sintesis DNA, pembelahan sel, dan pembentukan eritrosit. Pada embrio, folat penting untuk penutupan tabung saraf; kekurangan pada awal kehamilan meningkatkan risiko NTD seperti spina bifida dan anensefali. Disarankan untuk mengonsumsi asam folat **400–800 µg/hari**, dimulai sebelum konsepsi dan dilanjutkan pada awal kehamilan; kelompok berisiko tinggi dapat memerlukan dosis khusus sesuai arahan dokter. Sumbernya meliputi sayuran berdaun hijau, kacang-kacangan, polong-polongan, jeruk, alpukat, dan pangan fortifikasi.
 
 ## B. Besi
 
