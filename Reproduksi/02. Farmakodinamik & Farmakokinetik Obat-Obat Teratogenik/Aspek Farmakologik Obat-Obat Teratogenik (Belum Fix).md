@@ -9,13 +9,14 @@
 
 Prinsip pemberian obat selama kehamilan:
 
-- Hindari penggunaan obat yang tidak diperlukan, terutama pada trimester I, ketika organogenesis berlangsung.
-- Pertimbangkan kemungkinan kehamilan sebelum meresepkan obat yang berpotensi membahayakan janin.
-- Penggunaan obat jangka panjang memerlukan konseling mengenai manfaat, risiko, dan pemantauan.
-- Obat yang benar-benar diperlukan untuk mengendalikan penyakit ibu tidak boleh dihentikan secara sembarangan.
-- Utamakan obat tunggal dan terapi jangka pendek jika memungkinkan, daripada kombinasi banyak obat atau terapi jangka panjang.
-- Gunakan dosis efektif terendah yang tetap mampu mengendalikan penyakit.
+- Hindari penggunaan obat yang tidak diperlukan, **terutama pada trimester I, ketika organogenesis berlangsung**.
+- **Pertimbangkan kemungkinan kehamilan** sebelum meresepkan obat yang berpotensi membahayakan janin.
+- Penggunaan obat jangka panjang memerlukan **konseling** mengenai manfaat, risiko, dan pemantauan.
+- Obat yang benar-benar diperlukan untuk mengendalikan penyakit ibu **tidak boleh dihentikan secara sembarangan**.
+- **Utamakan obat tunggal dan terapi jangka pendek** jika memungkinkan, daripada kombinasi banyak obat atau terapi jangka panjang.
+- Gunakan **dosis efektif terendah** yang tetap mampu mengendalikan penyakit.
 - Pertimbangkan cara pemberian alternatif apabila sesuai.
+- Pilih obat tanpa efek samping.
 - Berikan obat hanya jika manfaat bagi ibu dan janin diperkirakan lebih besar daripada risikonya.
 
 💡 Tips menghafal: 5P sebelum meresepkan
@@ -24,11 +25,11 @@ Perlu atau tidak? → Periode kehamilan → Pilihan obat → Porsi dosis → Pan
 
 # 2. Teratogenesis dan Jenis Kelainan Janin
 
-Teratogenesis adalah proses terjadinya gangguan perkembangan embrio atau janin akibat paparan faktor yang mengganggu pembentukan struktur atau fungsi normalnya.
+**Teratogenesis** adalah **proses terjadinya gangguan perkembangan embrio atau janin** akibat paparan faktor yang mengganggu pembentukan struktur atau fungsi normalnya.
 
 Teratogen adalah obat, zat kimia, organisme, faktor fisik, atau keadaan defisiensi yang dapat menyebabkan kelainan struktur maupun fungsi pada janin dan berlanjut setelah lahir.
 
-Contoh faktor teratogenik yang disebutkan dalam materi:
+Contoh faktor teratogenik:
 
 - Infeksi.
 - Radiasi.
@@ -39,99 +40,89 @@ Contoh faktor teratogenik yang disebutkan dalam materi:
 
 Tiga jenis kelainan perkembangan yang perlu dibedakan:
 
-|Jenis|Penjelasan|Gambaran utama|
-|---|---|---|
-|Malformasi|Kelainan akibat proses pembentukan organ (morfogenesis) yang intrinsik atau berasal dari gangguan proses perkembangan itu sendiri.|Organ terbentuk secara abnormal sejak proses pembentukannya.|
-|Deformasi|Perubahan bentuk, kondisi, atau posisi bagian tubuh akibat gaya mekanis dari luar (ekstrinsik).|Struktur yang semula terbentuk normal berubah bentuk atau posisi akibat tekanan mekanis.|
-|Disrupsi|Kerusakan jaringan yang sebelumnya berkembang normal akibat faktor eksternal.|Jaringan yang sudah terbentuk mengalami kerusakan atau kehilangan bagian.|
+| Jenis          | Penjelasan                                                                                                                                 | Gambaran utama                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Malformasi** | Kelainan akibat proses pembentukan organ (morfogenesis) yang **intrinsik** atau **berasal dari gangguan proses perkembangan itu sendiri**. | Organ terbentuk secara abnormal sejak proses pembentukannya.                             |
+| **Deformasi**  | Perubahan bentuk, kondisi, atau posisi bagian tubuh **akibat gaya mekanis dari luar (ekstrinsik)**.                                        | Struktur yang semula terbentuk normal berubah bentuk atau posisi akibat tekanan mekanis. |
+| **Disrupsi**   | **Kerusakan jaringan** yang sebelumnya berkembang normal **akibat faktor eksternal**.                                                      | Jaringan yang sudah terbentuk mengalami kerusakan atau kehilangan bagian.                |
 
-💡 Jembatan keledai: Malformasi = salah membentuk; deformasi = berubah bentuk; disrupsi = jaringan rusak.
+💡 Jembatan keledai: **Malformasi = salah membentuk**; **deformasi = berubah bentuk**; **disrupsi = jaringan rusak**.
 
 Waktu paparan sangat menentukan jenis kelainan yang mungkin muncul. Masa organogenesis, terutama trimester I, merupakan periode penting untuk pembentukan struktur organ. Namun, paparan pada trimester II atau III tetap dapat mengganggu pertumbuhan, pematangan organ, dan fungsi neonatal.
 
-# 3. Kategori Risiko Obat pada Kehamilan Menurut FDA dalam Materi
+# 3. Kategori Risiko Obat pada Kehamilan Menurut FDA
 
 Materi menggunakan klasifikasi lama FDA (Food and Drug Administration):
 
-|Kategori|Makna dalam materi|
-|---|---|
-|A|Penelitian terkontrol pada manusia tidak menunjukkan risiko terhadap janin.|
-|B|Tidak ditemukan risiko pada penelitian hewan, tetapi penelitian manusia terbatas; atau risiko pada hewan tidak terbukti pada penelitian manusia.|
-|C|Risiko belum dapat disingkirkan. Penelitian hewan mungkin menunjukkan risiko atau data tidak memadai; manfaat potensial dapat membenarkan penggunaan.|
-|D|Terdapat bukti positif risiko terhadap janin manusia, tetapi manfaat obat dalam keadaan tertentu mungkin lebih besar daripada risikonya.|
-|X|Risiko terhadap janin dinilai lebih besar daripada manfaatnya; penggunaan selama kehamilan dikontraindikasikan dalam sistem klasifikasi tersebut.|
-|Tidak dikategorikan|Tidak ada kategori risiko yang ditetapkan dalam tabel tersebut. Ini bukan berarti obat terbukti aman.|
+| Kategori | Makna dalam materi                                                                                                                                                                       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A        | Penelitian terkontrol pada manusia **tidak menunjukkan risiko terhadap janin**.                                                                                                          |
+| B        | Tidak ada risiko pada janin manusia meski kemungkinan risiko terhadap hewan; atau **tidak ada risiko pada penelitian hewan, tetapi belum diteliti pada manusia**.                        |
+| C        | **Risiko belum dapat disingkirkan karena penelitian terhadap manusia terbatas**; penelitian hewan mungkin atau tidak menunjukkan risiko. Manfaat potensial dapat membenarkan penggunaan. |
+| D        | Terdapat bukti positif **risiko terhadap janin manusia**, tetapi **manfaat obat** dalam keadaan tertentu **mungkin lebih besar daripada risikonya**.                                     |
+| X        | Risiko terhadap janin dinilai lebih besar daripada manfaatnya; penggunaan selama kehamilan **dikontraindikasikan** dan tidak ada alasan untuk penggunaan selama kehamilan.               |
+| Unrated  | Belum ada kategori risiko pada kehamilan yang telah ditetapkan.                                                                                                                          |
 
-Perbedaan penting: kategori C bukan berarti pasti menyebabkan kelainan, sedangkan kategori D bukan berarti tidak boleh digunakan dalam setiap keadaan. Penilaian tetap bergantung pada indikasi, alternatif, usia kehamilan, dan keseimbangan manfaat-risiko.
+**Cara hafal**: #Ingat
 
-## Obat kategori X yang dicantumkan dalam materi
+- A: **Tidak** berisiko
+- B: Tidak berisiko **pada beberapa penelitian**
+- C: **Mungkin** berisiko
+- D: **Ada** bukti positif dari risiko
 
-Obat-obat berikut ditempatkan dalam kategori X pada slide:
+## Contoh obat kategori X
 
 - Acitretin dan etretinate.
-    
 - Estrogen.
-    
 - Isotretinoin.
-    
 - Flutamide.
-    
 - Finasteride.
-    
 - Methotrexate.
-    
 - Stanozolol.
-    
 - Fluorouracil.
-    
 - Thalidomide.
-    
 
-Materi secara khusus menyebutkan methotrexate dan thalidomide harus dihindari ketika kehamilan direncanakan, baik pada laki-laki maupun perempuan. Rincian konseling prakonsepsi dan masa penghentian obat harus mengikuti pedoman spesifik obat.
+> **Methotrexate** dan **thalidomide** harus dihindari ketika kehamilan direncanakan, baik pada laki-laki maupun perempuan. Rincian konseling prakonsepsi dan masa penghentian obat harus mengikuti pedoman spesifik obat.
 
-## Obat kategori D atau yang tidak dikategorikan dalam materi
+## Contoh obat kategori D atau yang tidak dikategorikan (unrated)
 
-|Kategori D|Tidak dikategorikan dalam tabel|
-|---|---|
-|Aspirin dosis tinggi atau sediaan lepas lambat tertentu|Griseofulvin|
-|Azathioprine|Spironolactone|
-|Bleomycin||
-|Colchicine||
-|Cyclophosphamide||
-|Hydroxyurea||
-|Mechlorethamine||
-|Penicillamine||
-|Potassium iodide||
-|Tetracycline||
+| Kategori D                                              | Unrated        |
+| ------------------------------------------------------- | -------------- |
+| Aspirin dosis tinggi atau sediaan lepas lambat tertentu | Griseofulvin   |
+| Azathioprine                                            | Spironolactone |
+| Bleomycin                                               |                |
+| Colchicine                                              |                |
+| Cyclophosphamide                                        |                |
+| Hydroxyurea                                             |                |
+| Mechlorethamine                                         |                |
+| Penicillamine                                           |                |
+| Potassium iodide                                        |                |
+| Tetracycline                                            |                |
 
-Daftar tersebut mengikuti slide, bukan daftar lengkap seluruh obat yang berisiko pada kehamilan. Penilaian keamanan obat harus mempertimbangkan data klinis terbaru, dosis, indikasi, dan waktu paparan.
+# 4. Obat Teratogenik Spesifik  dan Efek Sampingnya pada Janin #Ingat 
 
-# 4. Obat Teratogenik Spesifik dan Kelainan Janin
-
-Tabel berikut merangkum isi tabel teratogen pada slide, termasuk adverse effects (efek merugikan), critical period (periode kritis paparan), dan istilah medisnya.
-
-|Obat|Efek pada embrio, janin, atau neonatus|Periode kritis menurut materi|
-|---|---|---|
-|Aminopterin / methotrexate|Kelainan sistem saraf pusat (SSP), anggota gerak, dan tulang|Hari ke-14–69|
-|Amiodarone|Gangguan fungsi tiroid neonatus|Trimester II–III|
-|ACE inhibitor|Oligohidramnion, kelainan atau kegagalan ginjal, hambatan pertumbuhan janin, kontraktur sendi, kematian prenatal|Trimester II–III|
-|Carbamazepine|Spina bifida, hipoplasia falang, hambatan pertumbuhan janin|Hari ke-14–60|
-|Cyclophosphamide|Kelainan SSP dan tulang, terutama tengkorak dan jari; hambatan pertumbuhan, celah langit-langit, kematian neonatus|Hari ke-14–60|
-|Fluconazole|Brachycephaly, kelainan wajah dan tulang tengkorak, celah langit-langit, kelainan jantung dan tulang|Trimester I; materi menyoroti dosis tinggi, terutama pemberian parenteral|
-|Indomethacin|Oligohidramnion, anuria, enterokolitis nekrotikans, penutupan dini duktus arteriosus|Trimester II–III|
-|Lithium|Kelainan jantung, terutama anomali Ebstein|Hari ke-14–60|
-|Methylene blue|Atresia jejunum|Trimester II|
-|Misoprostol|Anomali Möbius, defisiensi anggota gerak melintang terminal, artrogriposis multipel kongenital, kaki pengkor|Trimester I–II|
-|Penicillamine|Kelainan jaringan ikat|Hari ke-14–60|
-|Phenytoin|Kelainan struktur dan perkembangan SSP, celah wajah, hipoplasia wajah tengah, kelainan jantung, hipoplasia kuku jari|Hari ke-14–60|
-|Retinoid (isotretinoin, acitretin)|Kelainan SSP, mata, jantung, pembuluh darah besar, dan anggota gerak; mikrotia, mikrognatia, celah bibir/langit-langit, kelainan timus|Tidak ditentukan dalam slide|
-|SSRI|Komplikasi prenatal dan peningkatan anomali minor menurut slide|Trimester III|
-|Tetracycline|Perubahan warna gigi sulung|Trimester II–III|
-|Thalidomide|Kelainan saraf kranial, pemendekan anggota gerak (phocomelia), kelainan mata, jantung, wajah, ginjal, dan saluran urogenital|Hari ke-27–40|
-|Trimethoprim|Cacat tabung saraf, celah oral, hipospadia, kelainan kardiovaskular|Trimester I|
-|Trimethadione|Keterlambatan perkembangan SSP, mikrosefali, celah bibir/langit-langit, kelainan hidung, urogenital, gastrointestinal, dan jantung|Hari ke-14–60|
-|Valproic acid|Kelainan SSP, keterlambatan perkembangan, brachycephaly, kraniosinostosis, mikrosefali, hipertelorisme, hipoplasia wajah tengah, celah bibir/langit-langit, kelainan anggota gerak, spina bifida|Hari ke-14–60|
-|Warfarin|Kelainan SSP dan mata, hambatan pertumbuhan, perdarahan neonatus, hipoplasia hidung, kelainan vertebra, epifisis bertitik|Minggu ke-6–9; setelah minggu ke-9, kelainan SSP, mata, dan kerusakan jaringan|
+| Obat                               | Efek pada embrio, janin, atau neonatus                                                                                                                                                           | Periode kritis                                                                 |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Aminopterin / methotrexate         | Kelainan sistem saraf pusat (SSP), anggota gerak, dan tulang                                                                                                                                     | Hari ke-14–69                                                                  |
+| Amiodarone                         | Gangguan fungsi tiroid neonatus                                                                                                                                                                  | Trimester II–III                                                               |
+| ACE inhibitor                      | Oligohidramnion, kelainan atau kegagalan ginjal, hambatan pertumbuhan janin, kontraktur sendi, kematian prenatal                                                                                 | Trimester II–III                                                               |
+| Carbamazepine                      | Spina bifida, hipoplasia falang, hambatan pertumbuhan janin                                                                                                                                      | Hari ke-14–60                                                                  |
+| Cyclophosphamide                   | Kelainan SSP dan tulang, terutama tengkorak dan jari; hambatan pertumbuhan, celah langit-langit, kematian neonatus                                                                               | Hari ke-14–60                                                                  |
+| Fluconazole                        | Brachycephaly, kelainan wajah dan tulang tengkorak, celah langit-langit, kelainan jantung dan tulang                                                                                             | Trimester I; materi menyoroti dosis tinggi, terutama pemberian parenteral      |
+| Indomethacin                       | Oligohidramnion, anuria, enterokolitis nekrotikans, penutupan dini duktus arteriosus                                                                                                             | Trimester II–III                                                               |
+| Lithium                            | Kelainan jantung, terutama anomali Ebstein                                                                                                                                                       | Hari ke-14–60                                                                  |
+| Methylene blue                     | Atresia jejunum                                                                                                                                                                                  | Trimester II                                                                   |
+| Misoprostol                        | Anomali Möbius, defisiensi anggota gerak melintang terminal, artrogriposis multipel kongenital, kaki pengkor                                                                                     | Trimester I–II                                                                 |
+| Penicillamine                      | Kelainan jaringan ikat                                                                                                                                                                           | Hari ke-14–60                                                                  |
+| Phenytoin                          | Kelainan struktur dan perkembangan SSP, celah wajah, hipoplasia wajah tengah, kelainan jantung, hipoplasia kuku jari                                                                             | Hari ke-14–60                                                                  |
+| Retinoid (isotretinoin, acitretin) | Kelainan SSP, mata, jantung, pembuluh darah besar, dan anggota gerak; mikrotia, mikrognatia, celah bibir/langit-langit, kelainan timus                                                           | Tidak ditentukan dalam slide                                                   |
+| SSRI                               | Komplikasi prenatal dan peningkatan anomali minor menurut slide                                                                                                                                  | Trimester III                                                                  |
+| Tetracycline                       | Perubahan warna gigi sulung                                                                                                                                                                      | Trimester II–III                                                               |
+| Thalidomide                        | Kelainan saraf kranial, pemendekan anggota gerak (phocomelia), kelainan mata, jantung, wajah, ginjal, dan saluran urogenital                                                                     | Hari ke-27–40                                                                  |
+| Trimethoprim                       | Cacat tabung saraf, celah oral, hipospadia, kelainan kardiovaskular                                                                                                                              | Trimester I                                                                    |
+| Trimethadione                      | Keterlambatan perkembangan SSP, mikrosefali, celah bibir/langit-langit, kelainan hidung, urogenital, gastrointestinal, dan jantung                                                               | Hari ke-14–60                                                                  |
+| Valproic acid                      | Kelainan SSP, keterlambatan perkembangan, brachycephaly, kraniosinostosis, mikrosefali, hipertelorisme, hipoplasia wajah tengah, celah bibir/langit-langit, kelainan anggota gerak, spina bifida | Hari ke-14–60                                                                  |
+| Warfarin                           | Kelainan SSP dan mata, hambatan pertumbuhan, perdarahan neonatus, hipoplasia hidung, kelainan vertebra, epifisis bertitik                                                                        | Minggu ke-6–9; setelah minggu ke-9, kelainan SSP, mata, dan kerusakan jaringan |
 
 ## Penjelasan istilah penting pada tabel
 
