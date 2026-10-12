@@ -1,6 +1,8 @@
-# 1. Dasar Nutrisi pada Kehamilan 🤰
+# 1. Mengapa kebutuhan gizi berubah selama kehamilan? 🌱
 
-## A. Apakah ibu hamil harus makan untuk dua orang?
+## A. Energi dan adaptasi tubuh
+
+> *Apakah ibu hamil harus makan untuk dua orang?*
 
 Mitos. Ibu hamil tidak perlu makan dua kali lipat. Kebutuhan energi berbeda menurut trimester, status gizi maternal, dan kebutuhan metabolik selama kehamilan.
 
@@ -12,29 +14,23 @@ Proses pemenuhan nutrisi janin berlangsung melalui tiga tahap:
 
 Plasenta merupakan organ pertukaran maternal–janin. Tali pusat menghubungkan janin dengan plasenta; vena umbilikalis membawa darah kaya oksigen dan zat gizi menuju janin, sedangkan arteri umbilikalis membawa darah dari janin menuju plasenta untuk pertukaran gas dan produk sisa.
 
-## B. Perubahan Kebutuhan Energi Menurut Trimester
-
-- **Trimester I:** kebutuhan energi umumnya **belum meningkat secara substansial** karena pertumbuhan janin masih terbatas. Perubahan pengeluaran energi juga dapat diimbangi oleh perubahan aktivitas fisik.
+- **Trimester I:** kebutuhan energi umumnya **belum meningkat secara substansial** karena pertumbuhan janin masih terbatas. Perubahan pengeluaran energi juga dapat diimbangi oleh perubahan aktivitas fisik. Namun, kebutuhan mikronutrien penting—terutama folat—sudah harus terpenuhi sejak awal.
 - **Trimester II:** kebutuhan energi **meningkat seiring pertumbuhan janin dan plasenta**, peningkatan volume darah serta curah jantung, dan pembesaran uterus serta jaringan payudara. Ibu juga mulai menyimpan energi, terutama dalam bentuk lemak, sebagai cadangan untuk kehamilan dan menyusui.
 - **Trimester III:** kebutuhan energi **umumnya paling tinggi** karena pertumbuhan janin berlangsung cepat, massa tubuh ibu meningkat, dan kebutuhan metabolik kehamilan terus bertambah.
 
-Menurut tabel **Angka Kecukupan Gizi (AKG) Indonesia dalam Permenkes No. 28 Tahun 2019**, tambahan kebutuhan energi pada perempuan hamil adalah:
-
-|Periode|Tambahan energi|
-|---|---|
-|Trimester I|+180 kkal/hari|
-|Trimester II|+300 kkal/hari|
-|Trimester III|+300 kkal/hari|
-|Menyusui 6 bulan pertama|+330 kkal/hari|
-|Menyusui 6 bulan kedua|+400 kkal/hari|
+| Periode                  | Tambahan energi |
+| ------------------------ | --------------: |
+| Kehamilan trimester I    |  +180 kkal/hari |
+| Kehamilan trimester II   |  +300 kkal/hari |
+| Kehamilan trimester III  |  +300 kkal/hari |
+| Menyusui 6 bulan pertama |  +330 kkal/hari |
+| Menyusui 6 bulan kedua   |  +400 kkal/hari |
 
 Angka ini merupakan **tambahan terhadap kebutuhan dasar**, bukan total kebutuhan energi harian.
 
 Tabel lebih lengkapnya:
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791766748000bji0rb.png)
-
-# 2. Perubahan fisiologis selama kehamilan
 
 Kehamilan menimbulkan adaptasi pada berbagai sistem organ untuk mendukung pertumbuhan janin dan mempersiapkan persalinan.
 
@@ -64,7 +60,7 @@ Kehamilan menimbulkan adaptasi pada berbagai sistem organ untuk mendukung pertum
 5. **Hati**:
 	- Pada kehamilan terdapat perubahan enzim hati yang terlibat dalam metabolisme oksidatif, termasuk **sitokrom P450**. Sistem ini berperan dalam metabolisme berbagai senyawa, termasuk obat-obatan.
 
-## Perubahan metabolisme glukosa dan insulin
+## B. Perubahan glukosa dan insulin: dasar diabetes gestasional
 
 Pada **awal kehamilan, sensitivitas insulin** dapat **meningkat**, sedangkan pada **trimester II dan III** terjadi **peningkatan resistensi insulin**. Perubahan ini membantu mengalihkan penggunaan energi ibu dari karbohidrat menuju lemak sehingga glukosa lebih tersedia bagi janin.
 
@@ -80,88 +76,88 @@ Pada ibu dengan obesitas, resistensi insulin dapat sudah ada sebelum kehamilan. 
 
 **Tips menghafal 🧠**: trimester I cenderung lebih sensitif terhadap insulin; trimester II–III lebih resisten terhadap insulin. Ingat bahwa tubuh ibu berusaha menyediakan glukosa untuk janin.
 
-# 3. Mengapa Nutrisi Penting Selama Kehamilan? (Skipable)
+# 2. Menilai status gizi dan memilih pola makan 🍽️
 
-Diagram di bawah ini menghubungkan pola makan dan gaya hidup dengan perubahan fisiologis, hormon, fungsi imun, metabolisme, serta mikrobiota usus.
+## A. Status gizi dan kenaikan berat badan
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791775086000m7yx8x.png)
+Indeks massa tubuh (IMT) sebelum hamil membantu menilai status gizi awal dan menentukan kisaran kenaikan berat badan gestasional yang sesuai. Penilaian tidak cukup hanya melihat angka timbangan: riwayat makan, kondisi klinis, pertumbuhan janin, serta pola kenaikan berat badan juga perlu dipertimbangkan.
 
-## A. Jalur yang ditunjukkan dalam diagram
+![Penilaian IMT dan kenaikan berat badan](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770757000nm39cf.png)
 
-- Pola makan dan gaya hidup tidak sesuai: dapat memengaruhi lingkungan hormonal dan keseimbangan mikrobiota usus.
-- Perubahan endokrin: memengaruhi regulasi hormon dan metabolisme.
-- Perubahan sistem pernapasan, kardiovaskular, gastrointestinal, ginjal, dan hematologi: merupakan bagian dari adaptasi kehamilan yang juga memengaruhi kebutuhan zat gizi.
-- Fungsi imun: berinteraksi dengan hormon dan lingkungan mikroba maternal.
-- Metabolisme: berperan dalam pengolahan energi dan zat gizi.
-- Disbiosis: ketidakseimbangan komposisi atau fungsi mikrobiota, yang dalam diagram dihubungkan dengan GDM, persalinan prematur, preeklamsia, dan peningkatan risiko janin.
-- Eubiosis: keadaan keseimbangan mikrobiota yang dikaitkan dengan kesehatan ibu dan janin yang lebih baik.
+Dua ekstrem sama-sama perlu dihindari. Kenaikan berat badan berlebihan dan obesitas berkaitan dengan gangguan metabolik serta luaran obstetri tertentu; berat badan rendah atau asupan yang tidak memadai berkaitan dengan pertumbuhan janin yang kurang dan risiko bayi lahir prematur atau berat lahir rendah.
 
-Diagram juga menampilkan adaptasi pola makan dan gaya hidup sebagai jalur untuk mendukung metabolisme dan keseimbangan mikrobiota.
+## B. Pola makan: kualitas dan kecukupan lebih penting daripada label diet
 
-## B. Status nutrisi, pangan fungsional, dan luaran kehamilan
+- **Mediterania:** sayur, buah, polong-polongan, kacang, biji-bijian utuh, minyak zaitun, ikan, dan sumber protein beragam; menekankan lemak tidak jenuh serta membatasi daging merah.
+- **DASH (*Dietary Approaches to Stop Hypertension*):** kaya sayur, buah, serat, dan mineral; membatasi natrium serta menekankan pola yang mendukung pengendalian tekanan darah.
+- **Vegetarian/vegan:** dapat kaya serat dan pangan nabati, tetapi perlu perencanaan untuk memenuhi protein, zat besi, vitamin B12, kalsium, vitamin D, iodium, dan zat gizi lain.
+- **Flexitarian/Nordic:** mengutamakan pangan nabati, biji-bijian utuh, ikan, dan sumber protein yang bervariasi.
+- **Pola Barat (*Western diet*):** cenderung tinggi makanan ultra-proses, gula tambahan, garam, dan lemak jenuh sehingga kualitas diet dapat memburuk. Sebaiknya dihindari.
+- **Ketogenik, Atkins, atau pola sangat restriktif:** pembatasan kelompok pangan dapat menyulitkan pemenuhan serat dan mikronutrien; bukan pola rutin yang sebaiknya dijalankan saat hamil tanpa pengawasan profesional.
 
-1. Status nutrisi maternal: mencakup kekurangan gizi (undernutrition), kelebihan gizi atau obesitas (overnutrition/obesity), dan defisiensi mikronutrien.
-2. Pangan fungsional (functional food): mencakup pangan kaya probiotik dan prebiotik, folat, besi, kalsium, asam lemak omega-3, serta serealia dan produk susu yang difortifikasi.
-3. Luaran kehamilan: pola makan yang sesuai ditujukan untuk menurunkan risiko diabetes gestasional, mengurangi preeklamsia, dan mengurangi kelainan pertumbuhan janin.
+![Perbandingan pola makan](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770554000e5q3lt.png)
 
-Luaran yang dapat berhubungan dengan masalah nutrisi maternal:
+![Pola diet dan luaran kehamilan](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770594000m0eb0f.png)
 
-- Persalinan prematur.
-- Bayi berat lahir rendah.
-- Penyakit pernapasan.
-- Trauma lahir.
-- Anemia.
-- Gangguan hipertensi.
-- Diabetes gestasional.
-- Peningkatan mortalitas.
+Pola makan maternal juga berpotensi memengaruhi mikrobiota usus, metabolit mikroba, inflamasi plasenta, fungsi sawar plasenta, dan pemrograman epigenetik. Jalur ini dipelajari kaitannya dengan pertumbuhan janin, berat lahir, prematuritas, serta risiko metabolik dan perkembangan saraf di kemudian hari; hubungan tersebut tidak berarti satu pola makan pasti menyebabkan satu luaran pada setiap individu.
 
-# 4. Masalah Gizi dan Komplikasi pada Kehamilan ⚠️
+### Pola Diet yang Disarankan untuk Kehamilan #Ingat 
 
-## A. Kelebihan Gizi, Obesitas, dan Diabetes Gestasional
-### 1. Mekanisme pada obesitas maternal
+#### Pola diet optimal
 
-Diagram di bawah ini memperlihatkan interaksi antara jaringan adiposa ibu, plasenta, janin, dan kemungkinan dampak lintas generasi.
+| Name                                               | Includes                                                                                                                                                                                                                                  | Excludes                                                                                                                                        | Benefits                                                                                                                                 | Risks                                                               |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Mediterranean diet**                             | Pangan nabati: sayuran, buah-buahan, biji-bijian utuh, kacang-kacangan, polong-polongan, kacang pohon, herba, rempah-rempah, minyak zaitun, ikan, unggas, dan anggur merah. Hingga 40% kalori berasal dari lemak.                         | Membatasi daging merah hingga beberapa kali per bulan.                                                                                          | Mengurangi risiko penyakit kardiovaskular (CVD), mortalitas, kanker, dan penyakit kognitif.                                              | —                                                                   |
+| Dietary Approaches to Stop Hypertension **(DASH)** | Karbohidrat seimbang (58%), lemak lebih rendah (28%), dan protein sedang (18%). Tinggi serat, kalsium, fosfor, magnesium, dan kalium.                                                                                                     | Rendah kolesterol, lemak, dan natrium.                                                                                                          | Mengurangi berat badan, menurunkan tekanan darah (BP) dan kolesterol, serta mengurangi risiko CVD dan kehilangan massa tulang.           | Memerlukan suplementasi vitamin D.                                  |
+| **Flexitarian diet**                               | Sebagian besar waktu menerapkan pola vegetarian, memperbanyak sayuran, biji-bijian utuh, protein nabati atau non-daging (new meat), produk susu, serta sedikit gula dan rempah. Berfokus pada makanan rumahan dengan kurang dari 5 bahan. | Daging dan produk susu tetap dikonsumsi dalam jumlah sedang.                                                                                    | Menurunkan tekanan darah dan kolesterol, mengurangi berat badan, serta menurunkan risiko penyakit jantung, stroke, dan diabetes melitus. | Mungkin memerlukan suplementasi kalsium, vitamin B12, dan zat besi. |
+| **Nordic diet**                                    | Buah-buahan, sayuran, polong-polongan, kentang, biji-bijian utuh, kacang-kacangan, biji-bijian, roti gandum hitam, ikan, makanan laut, produk susu rendah lemak, herba, rempah-rempah, dan minyak kanola.                                 | Daging merah dan lemak hewani dalam jumlah sedikit; minuman berpemanis gula, gula tambahan, daging olahan, dan makanan dari biji-bijian olahan. | Mengurangi berat badan, menurunkan tekanan darah, dan menurunkan penanda inflamasi.                                                      | —                                                                   |
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17917677110002hllbo.png)
+#### Diet yang perlu dihindari selama kehamilan
 
-- Obesitas maternal berkaitan dengan peningkatan jaringan adiposa dan resistensi insulin.    
-- Jaringan adiposa berlebih dapat meningkatkan sitokin proinflamasi.
-- Peningkatan glukosa dan mobilisasi asam lemak dapat memengaruhi lingkungan metabolik plasenta.
-- Perubahan tersebut dapat berhubungan dengan hiperinsulinemia janin, yaitu peningkatan kadar insulin janin, serta peningkatan adipogenesis atau pembentukan jaringan lemak.
-- Perubahan epigenetik yang ditunjukkan dalam gambar mencakup metilasi DNA, modifikasi histon, dan regulasi oleh mikroRNA. Perubahan ini berpotensi memengaruhi ekspresi gen terkait adipogenesis.
-- Setelah lahir, lingkungan makan berlebih dan kenaikan berat badan dapat berkontribusi terhadap obesitas pada masa anak-anak.
-- Diagram menunjukkan kemungkinan lingkaran antargenerasi: obesitas dan gangguan metabolik pada keturunan dapat meningkatkan risiko obesitas maternal pada generasi berikutnya.
+| Name                        | Includes                                                                                                                       | Excludes                                                                                                                    | Benefits                                                                                     | Risks                                                                                                                                                   |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Atkins diet** (20–40–100) | Rendah karbohidrat (20 g), tinggi lemak, ikan, unggas, telur, keju, dan sumber lemak.                                          | Membatasi sayuran berpati, biji-bijian, polong-polongan, gula sederhana, dan susu.                                          | —                                                                                            | Memerlukan vitamin C, vitamin B, folat, kalsium, dan magnesium.                                                                                         |
+| **Paleo diet**              | Daging tanpa lemak, ikan, telur, kacang-kacangan, biji-bijian, buah-buahan, sayuran, dan minyak.                               | Makanan olahan, gandum, biji-bijian lain, polong-polongan, produk susu, kentang, gula rafinasi, garam, dan minyak rafinasi. | Mengurangi berat badan dan menurunkan risiko diabetes melitus, penyakit jantung, dan kanker. | Memerlukan kalsium, vitamin B, vitamin D, dan nutrisi dari biji-bijian utuh.                                                                            |
+| **Ketogenic diet**          | Pembatasan karbohidrat ekstrem (ketosis), unggas, daging berlemak, babi, ikan, sayuran berdaun hijau, minyak, dan lemak padat. | Menghindari sayuran berpati, roti, pasta, biji-bijian lain, dan buah-buahan.                                                | Mengurangi berat badan.                                                                      | Tidak direkomendasikan selama kehamilan karena berpotensi mengubah perkembangan otak janin. Memerlukan vitamin C, vitamin B, folat, kalsium, dan serat. |
 
-### B. Luaran klinis kelebihan gizi
+Singkatan: BP = blood pressure (tekanan darah); CVD = cardiovascular disease (penyakit kardiovaskular).
 
-Beberapa risiko utama kelebihan gizi:
+Sumber: Marshall. Nutrition in pregnancy: lifelong consequences. American Journal of Obstetrics & Gynecology, 2022.
 
-- **GDM (Gestational Diabetes Mellitus)**: gangguan toleransi glukosa yang pertama kali terdeteksi selama kehamilan.
-- Gangguan hipertensi kehamilan/**preeklamsia**: dapat menyebabkan komplikasi maternal dan neonatal.
-- **LGA (large for gestational age)**: ukuran janin di atas persentil ke-90 untuk usia gestasi.
-- **Makrosomia**: berat lahir besar yaitu lebih dari 4.000 gram.
-- **Persalinan sesar**: risiko dapat meningkat pada ibu dengan kelebihan gizi.
-- **Persalinan prematur**: asosiasi dilaporkan dalam sebagian analisis.
+# 3. Bagaimana masalah gizi berhubungan dengan komplikasi kehamilan? ⚠️
 
-## B. Hipertensi Gestasional, Preeklamsia, dan Eklamsia
+## A. Gizi berlebih dan obesitas maternal
 
-- **Hipertensi gestasional**: hipertensi yang muncul selama kehamilan tanpa memenuhi kriteria preeklamsia.
-- **Preeklamsia**: gangguan hipertensi pada kehamilan yang disertai proteinuria dan/atau disfungsi organ maternal sesuai kriteria diagnostik.
-- **Eklamsia**: kejang yang berkaitan dengan preeklamsia dan tidak dijelaskan oleh penyebab lain.
-### 1. Adaptasi metabolik ibu–plasenta–janin
+Asupan energi berlebih dan obesitas dapat **meningkatkan inflamasi serta resistensi insulin**. Perubahan ini berkaitan dengan risiko **GDM, gangguan hipertensi/preeklamsia, persalinan sesar, makrosomia, dan *large for gestational age* (LGA)**. Dampak metabolik maternal juga diteliti hubungannya dengan pemrograman metabolik keturunan.
 
-Terdapat interaksi antara kondisi maternal dan kebutuhan janin.
+![Mekanisme obesitas maternal](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17917677110002hllbo.png)
 
-Faktor maternal:
+- **Makrosomia:** berat lahir besar yaitu ≥4.000 g.
+- **LGA:** berat/ukuran janin di atas persentil ke-90 untuk usia gestasi. LGA tidak sama persis dengan makrosomia karena LGA memperhitungkan usia gestasi.
 
-- Diabetes melitus tipe 1 (T1DM).
-- Diabetes melitus tipe 2 (T2DM).
-- Diabetes gestasional (GDM).
-- Obesitas.
+## B. Gizi kurang dan defisiensi mikronutrien
 
-Kondisi tersebut dapat berhubungan dengan peningkatan glukosa maternal. Plasenta dan janin kemudian mengalami respons adaptif terhadap pasokan glukosa dan kebutuhan oksigen. Terdapat juga peningkatan kebutuhan insulin dan respons adaptif pada sisi maternal maupun janin.
+Kekurangan energi, protein, atau mikronutrien dapat mengganggu pembentukan jaringan ibu dan janin. Dampak yang perlu diingat meliputi anemia, gangguan pertumbuhan janin, **berat lahir rendah (LBW; <2.500 g)**, dan **persalinan prematur (sebelum 37 minggu)**.
 
-### 2. Mekanisme preeklamsia
+Defisiensi mikronutrien yang penting secara klinis:
+
+| Zat gizi | Mengapa penting | Konsekuensi defisiensi yang ditekankan materi |
+|---|---|---|
+| Besi | Sintesis hemoglobin dan transportasi oksigen | Anemia; pada kondisi tertentu berkaitan dengan prematuritas/LBW |
+| Folat (B9) | Sintesis DNA dan pembelahan sel | *Neural tube defects* (NTD), termasuk spina bifida dan anensefali |
+| Iodium | Sintesis hormon tiroid T3/T4 | Gangguan perkembangan otak dan neurokognitif, terutama pada defisiensi berat |
+| Vitamin D dan kalsium | Homeostasis kalsium dan mineralisasi tulang | Gangguan mineralisasi; asupan kalsium rendah berkaitan dengan risiko preeklamsia |
+| Vitamin A | Penglihatan, epitel, imunitas, diferensiasi | Rabun senja dan gangguan fungsi epitel/imunitas |
+| Vitamin B12 | Pembentukan sel darah dan fungsi saraf | Anemia megaloblastik dan potensi gangguan neurologis |
+| Seng | Fungsi enzim, imunitas, pertumbuhan sel | Gangguan fungsi biologis; kaitan dengan luaran kehamilan tidak selalu konsisten |
+
+## C. Hipertensi gestasional, preeklamsia, dan eklamsia
+
+- **Hipertensi gestasional:** hipertensi yang muncul selama kehamilan tanpa memenuhi kriteria preeklamsia.
+- **Preeklamsia:** gangguan hipertensi kehamilan dengan **proteinuria** dan/atau **disfungsi organ maternal** sesuai kriteria diagnosis.
+- **Eklamsia:** kejang terkait preeklamsia yang tidak dijelaskan oleh penyebab lain.
+
+### 1. Mekanisme preeklamsia
 
 1. Hipoksia plasenta: pasokan oksigen ke jaringan plasenta tidak memadai.    
 2. Peningkatan ROS (reactive oxygen species): terbentuk stres oksidatif ketika produksi spesies oksigen reaktif melebihi kapasitas pertahanan antioksidan.
@@ -178,16 +174,16 @@ Keterangan singkatan:
 - sEng: soluble endoglin.
 - NO: nitric oxide, mediator vasodilatasi.
 
-### 3. Dampak sistemik preeklamsia
+### 2. Dampak sistemik preeklamsia
 
-- Hati: HELLP syndrome (hemolysis, elevated liver enzymes, low platelet count).
+- Hati: HELLP syndrome (*hemolysis, elevated liver enzymes, low platelet count*).
 - Ginjal: hipertensi, proteinuria, dan gangguan endotel glomerulus.
 - Tungkai: retensi air dan edema.
 - Pankreas/metabolisme: hubungan dengan sensitivitas insulin dan diabetes.
 - Jantung dan pembuluh darah: inflamasi serta disfungsi endotel berkaitan dengan penyakit jantung iskemik dan stroke.
 - Jaringan adiposa: obesitas merupakan kondisi yang berhubungan dengan inflamasi dan perubahan metabolik.
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791768119000skfco5.png)
+![Komplikasi hipertensi kehamilan](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791768119000skfco5.png)
 
 Materi juga menampilkan hubungan konsumsi garam dengan preeklamsia. Kesimpulan studi yang dikutip menyatakan preeklamsia tidak berkaitan secara langsung dengan konsumsi garam, meskipun konsumsi berlebihan dapat meningkatkan risiko proteinuria dan mungkin berkontribusi pada gangguan hipertensi.
 
@@ -195,7 +191,7 @@ Pada preeklamsia berat atau eklamsia, **hiponatremia** (natrium serum di bawah 1
 
 > **ADH (antidiuretic hormone atau vasopresin)** bisa menyebabkan hiponatremia karena meningkatkan retensi air oleh ginjal, sehingga natrium dalam darah menjadi lebih encer. 🧠💧
 
-## C. Mual, muntah, dan hiperemesis gravidarum
+## D. Mual, muntah, dan hiperemesis gravidarum
 
 - **Emesis gravidarum**: mual dan muntah selama kehamilan.
 - **Hiperemesis gravidarum (HG)**: bentuk berat dengan gangguan asupan, dehidrasi, dan/atau komplikasi metabolik yang dapat memerlukan perawatan medis.
@@ -207,20 +203,6 @@ Faktor yang mempengaruhi meliputi:
 - Kemungkinan keterkaitan dengan **Helicobacter pylori**, faktor **imunologis**, dan faktor **psikososial**.
 
 **Muntah berkepanjangan** dapat menyebabkan **dehidrasi**, **penurunan asupan energi**, **malnutrisi**, dan **kekurangan vitamin B1** (tiamin). **Pada HG berat, pemberian tiamin penting** terutama sebelum pemberian dekstrosa untuk **mengurangi risiko ensefalopati Wernicke**.
-
-### Hubungan fungsi tiroid, GDF15, dan muntah
-
-- GDF15 (growth differentiation factor 15): faktor yang berperan sebagai mediator mual dan muntah pada kehamilan. Peningkatan GDF15 dikaitkan dengan gejala yang lebih berat, termasuk hiperemesis gravidarum.
-- RYR2 (ryanodine receptor 2): reseptor yang terlibat dalam jalur mekanisme yang dikaitkan dengan hiperemesis gravidarum.
-- Hubungan mekanisme dengan hiperemesis gravidarum: perubahan fungsi tiroid dan aktivasi RYR2 merupakan bagian dari jalur yang berkaitan dengan hiperemesis gravidarum. Peningkatan GDF15 juga dikaitkan dengan bertambah beratnya gejala.
-
-Jalur terjadinya gejala: plasenta dan janin menghasilkan sinyal yang memengaruhi batang otak (brainstem). Respons ini berkaitan dengan timbulnya mual dan muntah, yang dapat menyebabkan komplikasi berikut:
-
-- Dehidrasi: kekurangan cairan tubuh akibat asupan cairan yang tidak mencukupi dan kehilangan cairan melalui muntah.
-- Anoreksia: penurunan atau hilangnya nafsu makan sehingga asupan makanan berkurang.
-- Kakeksia: sindrom kehilangan berat badan dan massa tubuh yang berat, biasanya berkaitan dengan penyakit atau gangguan metabolik.
-
-Ketiga kondisi tersebut dapat memperburuk status gizi ibu. Pada hiperemesis gravidarum yang berat, mual dan muntah berkepanjangan dapat mengurangi asupan makanan dan cairan, sehingga meningkatkan risiko dehidrasi serta penurunan berat badan dan massa tubuh.
 
 ### Dampak nutrisi pada mual dan muntah berkepanjangan
 
@@ -252,85 +234,213 @@ Pendekatan nutrisi dan penanganan bertahap:
 - Jahe dapat membantu sebagian pasien.
 - Jika dibutuhkan, tata laksana medis dapat mencakup piridoksin (vitamin B6), antihistamin atau antiemetik lain, cairan intravena, tiamin, dan dukungan nutrisi enteral atau parenteral sesuai tingkat keparahan.
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770034000w2mb3a.png)
+![Contoh makanan yang dapat ditoleransi](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770034000w2mb3a.png)
 
-Makanan pedas, asam, asin, atau manis tidak harus selalu dihindari. Pemilihannya disesuaikan dengan toleransi masing-masing ibu.
+Makanan pedas, asam, asin, atau manis tidak harus selalu dihindari; sesuaikan dengan toleransi ibu.
 
-# 5. Penilaian Status Gizi dan Kebutuhan Energi Ibu Hamil 📊
+# 4. Mikronutrien: fungsi, sumber, dan hal yang harus diingat 🧬
 
-## A. Indeks massa tubuh dan kenaikan berat badan
+## A. Folat (vitamin B9)
 
-Indeks massa tubuh (IMT) sebelum hamil digunakan untuk menilai status gizi awal dan menentukan kisaran kenaikan berat badan yang dianjurkan.
+Folat diperlukan untuk sintesis DNA, pembelahan sel, dan pembentukan eritrosit. Pada embrio, folat penting untuk penutupan tabung saraf; kekurangan pada awal kehamilan meningkatkan risiko NTD seperti spina bifida dan anensefali. Disarankan untuk mengonsumsi asam folat **400–800 µg/hari**, dimulai sebelum konsepsi dan dilanjutkan pada awal kehamilan; kelompok berisiko tinggi dapat memerlukan dosis khusus sesuai arahan dokter. Sumbernya meliputi sayuran berdaun hijau, kacang-kacangan, polong-polongan, jeruk, alpukat, dan pangan fortifikasi.
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770757000nm39cf.png)
-## B. Pola makan dan luaran kehamilan
+## B. Besi
 
-Materi membandingkan beberapa pola makan:
+Besi digunakan untuk membuat hemoglobin, protein eritrosit yang mengangkut oksigen. Besi terutama diserap di duodenum, diangkut oleh transferrin, dipakai sumsum tulang untuk eritropoiesis, dan disimpan sebagai ferritin. Hepcidin mengatur ketersediaan besi dengan menghambat ferroportin.
 
-- **Pola Mediterania**: kaya sayur, buah, kacang-kacangan, biji-bijian utuh, dan lemak tidak jenuh; dikaitkan dengan **profil metabolik dan inflamasi yang lebih baik**.
-- **Pola DASH**: menekankan sayur, buah, dan makanan kaya mineral, serta membatasi natrium; digunakan sebagai **pola makan untuk membantu pengendalian tekanan darah**.
-- **Pola vegetarian** atau **vegan**: dapat menyediakan **serat dan pangan nabati dalam jumlah tinggi**, tetapi perlu perhatian terhadap zat besi, vitamin B12, kalsium, vitamin D, protein, dan zat gizi lain.
-- **Pola Barat (Western diet)**: tinggi makanan ultra-proses, gula tambahan, lemak jenuh, dan garam; berpotensi **memperburuk kualitas diet** serta kesehatan metabolik.
-- **Pola ketogenik**: **pembatasan karbohidrat** yang sangat ketat; keamanan dan kecukupan gizinya selama kehamilan perlu diperhatikan, sehingga **bukan pola diet rutin yang dianjurkan** tanpa pengawasan profesional.
+Sumber besi hewani antara lain daging, hati, ikan, kerang, dan unggas; sumber nabati meliputi kacang-kacangan dan sayuran hijau. **Vitamin C membantu absorpsi besi nonheme**, sedangkan polifenol teh dapat menghambat absorpsi bila dikonsumsi berdekatan dengan makanan/suplemen besi. Anemia tidak selalu berarti defisiensi besi; evaluasi dapat memerlukan indeks eritrosit dan ferritin sesuai konteks klinis.
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770554000e5q3lt.png)
+## C. Iodium, vitamin A, kalsium, dan vitamin D
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791770594000m0eb0f.png)
+- **Iodium:** bahan baku hormon tiroid T3 dan T4 yang berperan dalam metabolisme dan perkembangan otak janin. Sumbernya termasuk garam beriodium, ikan/makanan laut, susu, dan telur. Garam laut atau garam Himalaya tidak otomatis mengandung iodium yang cukup.
+- **Vitamin A:** mencakup retinol, retinal, dan asam retinoat; beta-karoten adalah prekursor. Vitamin A mendukung penglihatan, integritas epitel, imunitas, pertumbuhan, dan diferensiasi embrio. Kekurangan dapat menyebabkan rabun senja; kelebihan retinol/retinoid tertentu dapat bersifat teratogenik, sehingga suplemen dosis tinggi tidak boleh digunakan tanpa indikasi.
+- **Kalsium:** dibutuhkan untuk mineralisasi tulang, kontraksi otot, transmisi saraf, dan pensinyalan sel. Sumbernya meliputi susu, yoghurt, keju, tahu yang dibuat dengan garam kalsium, ikan yang dimakan bersama tulangnya, dan sayuran tertentu.
+- **Vitamin D:** meningkatkan absorpsi kalsium dan fosfat serta mendukung mineralisasi tulang. Sumbernya termasuk ikan berlemak, kuning telur, pangan fortifikasi, dan jamur yang terpapar UV. Suplementasi kalsium/vitamin D mengikuti kebutuhan, risiko, dan pedoman yang berlaku.
 
-Pola makan maternal juga dapat memengaruhi mikrobiota, metabolit mikroba, inflamasi plasenta, fungsi sawar plasenta, dan pemrograman epigenetik. Jalur tersebut berpotensi berhubungan dengan pertumbuhan janin, berat lahir, kelahiran prematur, serta risiko metabolik dan perkembangan saraf di kemudian hari.
+## D. Kekurangan, kelebihan, dan absorpsi
 
-### Pola Diet yang Disarankan untuk Kehamilan #Ingat 
+| Zat gizi | Dampak kekurangan | Catatan kelebihan/absorpsi |
+|---|---|---|
+| Besi | Anemia, penurunan transportasi oksigen | Suplementasi berlebih dapat menimbulkan efek samping; dosis mengikuti indikasi |
+| Folat | Gangguan sintesis DNA dan NTD | Dosis tinggi dapat menutupi manifestasi hematologis defisiensi B12 |
+| Kalsium | Gangguan mineralisasi; asupan rendah berkaitan dengan risiko preeklamsia | Suplementasi berlebihan dapat menimbulkan efek samping |
+| Iodium | Gangguan hormon tiroid dan perkembangan saraf | Kelebihan juga dapat mengganggu fungsi tiroid |
+| Vitamin D | Gangguan homeostasis kalsium dan mineralisasi | Kelebihan dapat menyebabkan hiperkalsemia |
+| Vitamin A | Rabun senja dan gangguan epitel/imunitas | Retinol/retinoid berlebihan dapat bersifat teratogenik |
+| Vitamin B12 | Anemia megaloblastik dan gangguan neurologis | Perhatian khusus pada vegan dan gangguan malabsorpsi |
+| Seng | Gangguan enzim, imunitas, dan pertumbuhan | Dosis tinggi jangka panjang dapat mengganggu status tembaga |
+| Selenium | Gangguan fungsi biologis yang bergantung pada selenium | Kelebihan menyebabkan selenosis |
+| Magnesium | Gangguan neuromuskular pada defisiensi berat | Risiko kelebihan bergantung pada dosis dan fungsi ginjal |
 
-#### Pola diet optimal
+Faktor absorpsi yang mudah diuji: vitamin C meningkatkan absorpsi besi nonheme; polifenol teh dan fitat dapat menurunkannya pada kondisi tertentu; vitamin D membantu absorpsi kalsium. Goitrogen pada beberapa pangan lebih menjadi perhatian ketika asupan iodium rendah, tetapi pangan tersebut tidak otomatis harus dihindari dalam diet seimbang.
 
-| Name                                               | Includes                                                                                                                                                                                                                                  | Excludes                                                                                                                                        | Benefits                                                                                                                                 | Risks                                                               |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **Mediterranean diet**                             | Pangan nabati: sayuran, buah-buahan, biji-bijian utuh, kacang-kacangan, polong-polongan, kacang pohon, herba, rempah-rempah, minyak zaitun, ikan, unggas, dan anggur merah. Hingga 40% kalori berasal dari lemak.                         | Membatasi daging merah hingga beberapa kali per bulan.                                                                                          | Mengurangi risiko penyakit kardiovaskular (CVD), mortalitas, kanker, dan penyakit kognitif.                                              | —                                                                   |
-| Dietary Approaches to Stop Hypertension **(DASH)** | Karbohidrat seimbang (58%), lemak lebih rendah (28%), dan protein sedang (18%). Tinggi serat, kalsium, fosfor, magnesium, dan kalium.                                                                                                     | Rendah kolesterol, lemak, dan natrium.                                                                                                          | Mengurangi berat badan, menurunkan tekanan darah (BP) dan kolesterol, serta mengurangi risiko CVD dan kehilangan massa tulang.           | Memerlukan suplementasi vitamin D.                                  |
-| **Flexitarian diet**                               | Sebagian besar waktu menerapkan pola vegetarian, memperbanyak sayuran, biji-bijian utuh, protein nabati atau non-daging (new meat), produk susu, serta sedikit gula dan rempah. Berfokus pada makanan rumahan dengan kurang dari 5 bahan. | Daging dan produk susu tetap dikonsumsi dalam jumlah sedang.                                                                                    | Menurunkan tekanan darah dan kolesterol, mengurangi berat badan, serta menurunkan risiko penyakit jantung, stroke, dan diabetes melitus. | Mungkin memerlukan suplementasi kalsium, vitamin B12, dan zat besi. |
-| **Nordic diet**                                    | Buah-buahan, sayuran, polong-polongan, kentang, biji-bijian utuh, kacang-kacangan, biji-bijian, roti gandum hitam, ikan, makanan laut, produk susu rendah lemak, herba, rempah-rempah, dan minyak kanola.                                 | Daging merah dan lemak hewani dalam jumlah sedikit; minuman berpemanis gula, gula tambahan, daging olahan, dan makanan dari biji-bijian olahan. | Mengurangi berat badan, menurunkan tekanan darah, dan menurunkan penanda inflamasi.                                                      | —                                                                   |
+## E. Tabel tambahan AKG kehamilan pada slide
 
-#### Diet yang perlu dihindari selama kehamilan
+Angka berikut merupakan **tambahan** terhadap acuan perempuan usia 19–29 tahun sebagaimana disajikan pada materi.
 
-| Name                        | Includes                                                                                                                       | Excludes                                                                                                                    | Benefits                                                                                     | Risks                                                                                                                                                   |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Atkins diet** (20–40–100) | Rendah karbohidrat (20 g), tinggi lemak, ikan, unggas, telur, keju, dan sumber lemak.                                          | Membatasi sayuran berpati, biji-bijian, polong-polongan, gula sederhana, dan susu.                                          | —                                                                                            | Memerlukan vitamin C, vitamin B, folat, kalsium, dan magnesium.                                                                                         |
-| **Paleo diet**              | Daging tanpa lemak, ikan, telur, kacang-kacangan, biji-bijian, buah-buahan, sayuran, dan minyak.                               | Makanan olahan, gandum, biji-bijian lain, polong-polongan, produk susu, kentang, gula rafinasi, garam, dan minyak rafinasi. | Mengurangi berat badan dan menurunkan risiko diabetes melitus, penyakit jantung, dan kanker. | Memerlukan kalsium, vitamin B, vitamin D, dan nutrisi dari biji-bijian utuh.                                                                            |
-| **Ketogenic diet**          | Pembatasan karbohidrat ekstrem (ketosis), unggas, daging berlemak, babi, ikan, sayuran berdaun hijau, minyak, dan lemak padat. | Menghindari sayuran berpati, roti, pasta, biji-bijian lain, dan buah-buahan.                                                | Mengurangi berat badan.                                                                      | Tidak direkomendasikan selama kehamilan karena berpotensi mengubah perkembangan otak janin. Memerlukan vitamin C, vitamin B, folat, kalsium, dan serat. |
+### Vitamin
 
-Singkatan: BP = blood pressure (tekanan darah); CVD = cardiovascular disease (penyakit kardiovaskular).
+| Vitamin | Acuan perempuan 19–29 tahun | Tambahan kehamilan |
+|---|---:|---:|
+| Vitamin A | 600 µg RE | +300 µg RE |
+| Vitamin D | 15 µg | +0 |
+| Vitamin E | 15 mg | +0 |
+| Vitamin K | 55 µg | +0 |
+| Vitamin B1 | 1,1 mg | +0,3 mg |
+| Vitamin B2 | 1,1 mg | +0,3 mg |
+| Vitamin B3 | 14 mg | +4 mg |
+| Vitamin B5 | 5 mg | +1 mg |
+| Vitamin B6 | 1,3 mg | +0,6 mg |
+| Folat | 400 µg | +200 µg |
+| Vitamin B12 | 4 µg | +0,5 µg |
+| Biotin | 30 µg | +0 |
+| Kolin | 425 mg | +25 mg |
+| Vitamin C | 75 mg | +10 mg |
 
-Sumber: Marshall. Nutrition in pregnancy: lifelong consequences. American Journal of Obstetrics & Gynecology, 2022.
+### Mineral
 
-# 6. Ringkasan Akhir dan Tips Menghafal 🌷
+| Mineral | Acuan perempuan 19–29 tahun | Tambahan kehamilan |
+|---|---:|---:|
+| Kalsium | 1.000 mg | +200 mg |
+| Fosfor | 700 mg | +0 |
+| Magnesium | 330 mg | +0 |
+| Besi | 18 mg | +0 trimester I; +9 mg trimester II–III |
+| Iodium | 150 µg | +70 µg |
+| Seng | 8 mg | +2 mg trimester I; +4 mg trimester II–III |
+| Selenium | 24 µg | +5 µg |
+| Mangan | 1,8 mg | +0,2 mg |
+| Fluor | 3 mg | +0 |
+| Kromium | 30 µg | +5 µg |
+| Kalium | 4.700 mg | +0 |
+| Natrium | 1.500 mg | +0 |
+| Klor | 2.250 mg | +0 |
+| Tembaga | 900 µg | +100 µg |
 
-- Kehamilan: nutrisi memengaruhi pertumbuhan janin, luaran kehamilan, dan kesehatan jangka panjang keturunan.
-    
-- Gizi berlebih: ingat GDM, gangguan hipertensi, makrosomia, dan LGA.
-    
-- Gizi kurang: ingat prematuritas, LBW, anemia, serta defisiensi mikronutrien.
-    
-- Preeklamsia: disfungsi endotel, vasokonstriksi, hipertensi, dan kemungkinan proteinuria serta kerusakan organ.
-    
-- Hiperemesis gravidarum: muntah berat, dehidrasi, gangguan asupan, dan risiko defisiensi tiamin.
-    
-- Folat: pembentukan tabung saraf.
-    
-- Besi: hemoglobin dan transportasi oksigen.
-    
-- Iodium: hormon tiroid dan perkembangan otak.
-    
-- Vitamin A: penglihatan, epitel, dan imunitas.
-    
-- Kalsium + vitamin D: kesehatan tulang ibu dan pembentukan rangka janin.
-    
-- Menyusui: prolaktin menghasilkan ASI, oksitosin mengeluarkan ASI.
-    
-- Perlekatan: mulut terbuka lebar, bibir bawah keluar, dagu menyentuh payudara, dan areola lebih tampak di atas.
-    
-- Produksi ASI: pengeluaran yang efektif dan sering lebih penting daripada sekadar menambah makanan atau minuman.
-    
-- Pascapersalinan: perhatikan pemulihan jaringan, anemia, kecukupan energi dan protein, serta hidrasi.
-    
+---
 
-Inti materi: penilaian status gizi sejak awal, pemenuhan zat gizi sesuai kebutuhan, suplementasi berdasarkan indikasi, serta pemantauan ibu dan bayi merupakan dasar dukungan nutrisi yang baik selama kehamilan dan menyusui.
+# 5. Menghubungkan materi dengan kasus klinis 🩺
+
+## A. Anemia pada kehamilan
+
+**Kasus dalam slide:** perempuan 27 tahun, usia kehamilan 28 minggu, lelah dan pusing saat beraktivitas, pola makan didominasi mi instan, Hb 9,5 g/dL.
+
+1. Hb rendah mendukung adanya anemia, tetapi **tidak cukup untuk memastikan penyebabnya**.
+2. Pertimbangkan darah lengkap dan MCV; ferritin dapat membantu menilai cadangan besi, dengan catatan ferritin bisa meningkat pada inflamasi.
+3. Perbaiki kualitas diet dengan sumber besi dan vitamin C; beri jarak antara teh dan konsumsi besi.
+4. Hb 9,5 g/dL memerlukan evaluasi dan terapi klinis yang sesuai; diet saja mungkin tidak cukup.
+
+## B. Diabetes melitus gestasional
+
+Resistensi insulin meningkat terutama trimester II–III karena hormon plasenta. Bila sel beta pankreas tidak mampu meningkatkan sekresi insulin secara memadai, hiperglikemia muncul. Ibu tidak otomatis harus berhenti makan nasi: yang perlu diatur adalah porsi dan distribusi karbohidrat, kualitas sumber karbohidrat, jadwal makan, serta pemantauan glukosa. Jika target glukosa tidak tercapai, terapi farmakologis dapat dibutuhkan sesuai evaluasi klinis.
+
+---
+
+# 6. Laktasi: bagaimana ASI diproduksi dan dikeluarkan? 🤱
+
+Setelah persalinan, fokus gizi tidak berhenti: tubuh ibu perlu pulih sekaligus menyediakan zat gizi untuk produksi ASI. Proses menyusui sendiri dikendalikan oleh refleks hormonal dan efektivitas pengeluaran ASI.
+
+## A. Prolaktin, oksitosin, dan pelekatan
+
+- **Prolaktin** berasal dari hipofisis anterior dan merangsang sel alveoli payudara untuk **memproduksi ASI**.
+- **Oksitosin** berasal dari hipofisis posterior dan merangsang kontraksi sel mioepitel, sehingga ASI terdorong ke duktus dan puting (*let-down reflex*).
+- Hisapan bayi merangsang respons kedua hormon. Pengeluaran ASI yang sering dan efektif membantu mempertahankan produksi.
+
+**Hafalan cepat:** prolaktin = produksi; oksitosin = pengeluaran.
+
+Empat tanda pelekatan (*latch*) yang baik:
+1. Areola lebih tampak di atas bibir atas dibandingkan di bawah bibir bawah.
+2. Mulut bayi terbuka lebar.
+3. Bibir bawah terlipat ke arah luar.
+4. Dagu bayi menyentuh payudara.
+
+Pelekatan tidak efektif dapat menyebabkan nyeri puting, transfer ASI kurang, bayi tetap lapar, kenaikan berat badan tidak adekuat, dan penurunan produksi. Nyeri yang menetap perlu evaluasi posisi serta pelekatan.
+
+## B. Komposisi dan faktor yang memengaruhi ASI
+
+ASI mengandung karbohidrat, protein, lemak, vitamin, mineral, asam lemak, *human milk oligosaccharides* (HMO), imunoglobulin, laktoferin, sitokin, enzim, faktor pertumbuhan, metabolit, dan komponen bioaktif lainnya. Komposisi berubah menurut tahap laktasi; kolostrum tidak sama dengan ASI matur. Pengolahan, pembekuan, penyimpanan, dan pasteurisasi dapat memengaruhi sebagian komponen bioaktif.
+
+Faktor yang dapat memengaruhi laktasi meliputi status gizi dan IMT sebelum hamil, kualitas diet dan kenaikan berat badan gestasional, kondisi kesehatan (termasuk GDM), frekuensi serta efektivitas menyusui/pemerahan, dan faktor metabolik, genetik, lingkungan, maupun psikososial. Makanan atau minuman tertentu tidak otomatis meningkatkan volume ASI; efektivitas pengeluaran ASI tetap penting.
+
+## C. Tambahan AKG ibu menyusui pada slide
+
+Nilai berikut adalah **tambahan kebutuhan**, bukan total kebutuhan harian.
+
+### Energi dan makronutrien
+
+| Zat gizi | 6 bulan pertama | 6 bulan kedua |
+|---|---:|---:|
+| Energi | +330 kkal/hari | +400 kkal/hari |
+| Protein | +20 g/hari | +15 g/hari |
+| Lemak total | +22 g/hari | +22 g/hari |
+| Omega-3 | +0,2 g/hari | +0,2 g/hari |
+| Omega-6 | +2 g/hari | +2 g/hari |
+| Karbohidrat | +45 g/hari | +55 g/hari |
+| Serat | +5 g/hari | +6 g/hari |
+| Air | +800 ml/hari | +650 ml/hari |
+
+### Vitamin
+
+| Vitamin | 6 bulan pertama | 6 bulan kedua |
+|---|---:|---:|
+| Vitamin A | +350 µg RE/hari | +350 µg RE/hari |
+| Vitamin D | +0 µg/hari | +0 µg/hari |
+| Vitamin E | +4 mg/hari | +4 mg/hari |
+| Vitamin K | +0 µg/hari | +0 µg/hari |
+| Vitamin B1 | +0,4 mg/hari | +0,4 mg/hari |
+| Vitamin B2 | +0,5 mg/hari | +0,5 mg/hari |
+| Vitamin B3 | +3 mg/hari | +3 mg/hari |
+| Vitamin B5 | +2 mg/hari | +2 mg/hari |
+| Vitamin B6 | +0,6 mg/hari | +0,6 mg/hari |
+| Folat | +100 µg/hari | +100 µg/hari |
+| Vitamin B12 | +1 µg/hari | +1 µg/hari |
+| Biotin | +5 µg/hari | +5 µg/hari |
+| Kolin | +125 mg/hari | +125 mg/hari |
+| Vitamin C | +45 mg/hari | +45 mg/hari |
+
+### Mineral
+
+| Mineral | 6 bulan pertama | 6 bulan kedua |
+|---|---:|---:|
+| Kalsium | +200 mg/hari | +200 mg/hari |
+| Fosfor | +0 mg/hari | +0 mg/hari |
+| Magnesium | +0 mg/hari | +0 mg/hari |
+| Besi | +0 mg/hari | +0 mg/hari |
+| Iodium | +140 µg/hari | +140 µg/hari |
+| Seng | +5 mg/hari | +5 mg/hari |
+| Selenium | +10 µg/hari | +10 µg/hari |
+| Mangan | +0,8 mg/hari | +0,8 mg/hari |
+| Fluor | +0 mg/hari | +0 mg/hari |
+| Kromium | +20 µg/hari | +20 µg/hari |
+| Kalium | +400 mg/hari | +400 mg/hari |
+| Natrium | +0 mg/hari | +0 mg/hari |
+| Klor | +0 mg/hari | +0 mg/hari |
+| Tembaga | +400 µg/hari | +400 µg/hari |
+
+---
+
+# 7. Nutrisi pascapersalinan, mitos, dan hafalan akhir 🌷
+
+## A. Nutrisi pascapersalinan
+
+Ibu memerlukan energi dan protein untuk pemulihan jaringan serta produksi ASI. Perhatikan kecukupan cairan, kualitas diet, anemia, dan kemungkinan defisiensi mikronutrien. Suplementasi sebaiknya disesuaikan dengan kebutuhan dan indikasi, bukan diberikan dengan asumsi semua ibu memerlukan dosis yang sama.
+
+- **“Ibu menyusui harus makan dua kali lebih banyak.” — Mitos.** Materi mencantumkan tambahan sekitar 330–400 kkal/hari, bergantung tahap laktasi dan kebutuhan individual.
+- **“Kafein harus dihindari sepenuhnya.” — Tidak selalu.** Asupan perlu dibatasi karena kafein masuk ke ASI dan konsumsi berlebihan dapat memengaruhi tidur atau perilaku bayi.
+- **“Makanan pedas harus dihindari.” — Tidak selalu.** Umumnya tidak perlu dilarang jika ibu dan bayi menoleransinya; evaluasi bila ada reaksi yang konsisten.
+
+## B. Ringkasan hafalan satu menit
+
+- **Kehamilan:** kebutuhan energi meningkat bertahap; kebutuhan mikronutrien harus dipenuhi sejak awal.
+- **Gizi berlebih/obesitas:** resistensi insulin, GDM, hipertensi/preeklamsia, makrosomia, dan LGA.
+- **Gizi kurang:** anemia, gangguan pertumbuhan, prematuritas, dan LBW.
+- **Preeklamsia:** disfungsi endotel → hipertensi dan proteinuria dan/atau disfungsi organ; eklamsia melibatkan kejang.
+- **Hiperemesis:** muntah berat → dehidrasi dan malnutrisi; ingat tiamin pada kondisi berat.
+- **Folat:** DNA dan penutupan tabung saraf.
+- **Besi:** hemoglobin dan transportasi oksigen.
+- **Iodium:** hormon tiroid dan perkembangan otak.
+- **Vitamin A:** penglihatan, epitel, imunitas; kelebihan retinol berisiko teratogenik.
+- **Kalsium + vitamin D:** mineralisasi tulang dan homeostasis kalsium.
+- **Prolaktin:** produksi ASI. **Oksitosin:** pengeluaran ASI.
+- **Pelekatan baik:** mulut lebar, bibir bawah keluar, dagu menyentuh payudara, areola lebih tampak di atas.
+
+**Benang merah:** status gizi dinilai sejak awal, pola makan dibuat seimbang dan cukup, suplementasi disesuaikan kebutuhan, dan komplikasi tetap memerlukan evaluasi klinis. Nutrisi membantu mengurangi risiko dan mendukung kesehatan, tetapi tidak menggantikan diagnosis maupun tata laksana medis.
