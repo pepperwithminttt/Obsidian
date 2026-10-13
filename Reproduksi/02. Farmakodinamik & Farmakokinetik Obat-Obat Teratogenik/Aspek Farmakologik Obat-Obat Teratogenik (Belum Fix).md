@@ -99,262 +99,222 @@ Materi menggunakan klasifikasi lama FDA (Food and Drug Administration):
 | Potassium iodide                                        |                |
 | Tetracycline                                            |                |
 
-# 4. Obat Teratogenik Spesifik  dan Efek Sampingnya pada Janin #Ingat 
+# 4. Teratogen Spesifik  dan Efek Sampingnya pada Janin #Ingat 
 
-| Obat                               | Efek pada embrio, janin, atau neonatus                                                                                                                                                           | Periode kritis                                                                 |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Aminopterin / methotrexate         | Kelainan sistem saraf pusat (SSP), anggota gerak, dan tulang                                                                                                                                     | Hari ke-14–69                                                                  |
-| Amiodarone                         | Gangguan fungsi tiroid neonatus                                                                                                                                                                  | Trimester II–III                                                               |
-| ACE inhibitor                      | Oligohidramnion, kelainan atau kegagalan ginjal, hambatan pertumbuhan janin, kontraktur sendi, kematian prenatal                                                                                 | Trimester II–III                                                               |
-| Carbamazepine                      | Spina bifida, hipoplasia falang, hambatan pertumbuhan janin                                                                                                                                      | Hari ke-14–60                                                                  |
-| Cyclophosphamide                   | Kelainan SSP dan tulang, terutama tengkorak dan jari; hambatan pertumbuhan, celah langit-langit, kematian neonatus                                                                               | Hari ke-14–60                                                                  |
-| Fluconazole                        | Brachycephaly, kelainan wajah dan tulang tengkorak, celah langit-langit, kelainan jantung dan tulang                                                                                             | Trimester I; materi menyoroti dosis tinggi, terutama pemberian parenteral      |
-| Indomethacin                       | Oligohidramnion, anuria, enterokolitis nekrotikans, penutupan dini duktus arteriosus                                                                                                             | Trimester II–III                                                               |
-| Lithium                            | Kelainan jantung, terutama anomali Ebstein                                                                                                                                                       | Hari ke-14–60                                                                  |
-| Methylene blue                     | Atresia jejunum                                                                                                                                                                                  | Trimester II                                                                   |
-| Misoprostol                        | Anomali Möbius, defisiensi anggota gerak melintang terminal, artrogriposis multipel kongenital, kaki pengkor                                                                                     | Trimester I–II                                                                 |
-| Penicillamine                      | Kelainan jaringan ikat                                                                                                                                                                           | Hari ke-14–60                                                                  |
-| Phenytoin                          | Kelainan struktur dan perkembangan SSP, celah wajah, hipoplasia wajah tengah, kelainan jantung, hipoplasia kuku jari                                                                             | Hari ke-14–60                                                                  |
-| Retinoid (isotretinoin, acitretin) | Kelainan SSP, mata, jantung, pembuluh darah besar, dan anggota gerak; mikrotia, mikrognatia, celah bibir/langit-langit, kelainan timus                                                           | Tidak ditentukan dalam slide                                                   |
-| SSRI                               | Komplikasi prenatal dan peningkatan anomali minor menurut slide                                                                                                                                  | Trimester III                                                                  |
-| Tetracycline                       | Perubahan warna gigi sulung                                                                                                                                                                      | Trimester II–III                                                               |
-| Thalidomide                        | Kelainan saraf kranial, pemendekan anggota gerak (phocomelia), kelainan mata, jantung, wajah, ginjal, dan saluran urogenital                                                                     | Hari ke-27–40                                                                  |
-| Trimethoprim                       | Cacat tabung saraf, celah oral, hipospadia, kelainan kardiovaskular                                                                                                                              | Trimester I                                                                    |
-| Trimethadione                      | Keterlambatan perkembangan SSP, mikrosefali, celah bibir/langit-langit, kelainan hidung, urogenital, gastrointestinal, dan jantung                                                               | Hari ke-14–60                                                                  |
-| Valproic acid                      | Kelainan SSP, keterlambatan perkembangan, brachycephaly, kraniosinostosis, mikrosefali, hipertelorisme, hipoplasia wajah tengah, celah bibir/langit-langit, kelainan anggota gerak, spina bifida | Hari ke-14–60                                                                  |
-| Warfarin                           | Kelainan SSP dan mata, hambatan pertumbuhan, perdarahan neonatus, hipoplasia hidung, kelainan vertebra, epifisis bertitik                                                                        | Minggu ke-6–9; setelah minggu ke-9, kelainan SSP, mata, dan kerusakan jaringan |
+| Obat                                                                               | Efek pada embrio, janin, atau neonatus                                                                                                                                                           | Periode kritis                                                                 |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Aminopterin / methotrexate                                                         | Kelainan sistem saraf pusat (SSP), anggota gerak, dan tulang                                                                                                                                     | Hari ke-14–69                                                                  |
+| Amiodarone                                                                         | Gangguan fungsi tiroid neonatus                                                                                                                                                                  | Trimester II–III                                                               |
+| ACE inhibitor                                                                      | Oligohidramnion, kelainan atau kegagalan ginjal, hambatan pertumbuhan janin, kontraktur sendi, kematian prenatal                                                                                 | Trimester II–III                                                               |
+| Carbamazepine                                                                      | Spina bifida, hipoplasia falang, hambatan pertumbuhan janin                                                                                                                                      | Hari ke-14–60                                                                  |
+| Cyclophosphamide                                                                   | Kelainan SSP dan tulang, terutama tengkorak dan jari; hambatan pertumbuhan, celah langit-langit, kematian neonatus                                                                               | Hari ke-14–60                                                                  |
+| Fluconazole (risiko diduga hanya pada dosis tinggi, terutama pemberian parenteral) | Brachycephaly, kelainan wajah dan tulang tengkorak, celah langit-langit, kelainan jantung dan tulang                                                                                             | Trimester I                                                                    |
+| Indomethacin                                                                       | Oligohidramnion, anuria, enterokolitis nekrotikans, penutupan dini duktus arteriosus                                                                                                             | Trimester II–III                                                               |
+| Lithium                                                                            | Kelainan jantung, terutama anomali Ebstein                                                                                                                                                       | Hari ke-14–60                                                                  |
+| Methylene blue                                                                     | Atresia jejunum                                                                                                                                                                                  | Trimester II                                                                   |
+| Misoprostol                                                                        | Anomali Möbius, defisiensi anggota gerak melintang terminal, artrogriposis multipel kongenital, kaki pengkor                                                                                     | Trimester I–II                                                                 |
+| Penicillamine                                                                      | Kelainan jaringan ikat                                                                                                                                                                           | Hari ke-14–60                                                                  |
+| Phenytoin                                                                          | Kelainan struktur dan perkembangan SSP, celah wajah, hipoplasia wajah tengah, kelainan jantung, hipoplasia kuku jari                                                                             | Hari ke-14–60                                                                  |
+| Retinoid (isotretinoin, acitretin)                                                 | Kelainan SSP, mata, jantung, pembuluh darah besar, dan anggota gerak; mikrotia, mikrognatia, celah bibir/langit-langit, kelainan timus                                                           | Tidak ditentukan dalam slide                                                   |
+| SSRI                                                                               | Komplikasi prenatal dan peningkatan anomali minor                                                                                                                                                | Trimester III                                                                  |
+| Tetracycline                                                                       | Perubahan warna gigi sulung                                                                                                                                                                      | Trimester II–III                                                               |
+| Thalidomide                                                                        | Kelainan saraf kranial, pemendekan anggota gerak (phocomelia), kelainan mata, jantung, wajah, ginjal, dan saluran urogenital                                                                     | Hari ke-27–40                                                                  |
+| Trimethoprim                                                                       | Cacat tabung saraf, celah oral, hipospadia, kelainan kardiovaskular                                                                                                                              | Trimester I                                                                    |
+| Trimethadione                                                                      | Keterlambatan perkembangan SSP, mikrosefali, celah bibir/langit-langit, kelainan hidung, urogenital, gastrointestinal, dan jantung                                                               | Hari ke-14–60                                                                  |
+| Valproic acid                                                                      | Kelainan SSP, keterlambatan perkembangan, brachycephaly, kraniosinostosis, mikrosefali, hipertelorisme, hipoplasia wajah tengah, celah bibir/langit-langit, kelainan anggota gerak, spina bifida | Hari ke-14–60                                                                  |
+| Warfarin                                                                           | Kelainan SSP dan mata, hambatan pertumbuhan, perdarahan neonatus, hipoplasia hidung, kelainan vertebra, epifisis bertitik                                                                        | Minggu ke-6–9; setelah minggu ke-9, kelainan SSP, mata, dan kerusakan jaringan |
+
+
+### Penggunaan Zat Nonresep selama Kehamilan (Nonprescription Substance Use)
+
+|Teratogen|Efek merugikan (Adverse effects)|Periode kritis|
+|---|---|---|
+|Alkohol (Alcohol)|Fisura palpebra pendek (short palpebral fissures), perubahan karakteristik wajah (altered facies), hambatan pertumbuhan prenatal dan pascanatal, disabilitas intelektual ringan hingga sedang (mild to moderate intellectual disability), serta mikrosefali|Sepanjang kehamilan|
+|Tembakau (Tobacco)|Berat badan lahir rendah (low birth weight/LBW) dan keguguran (miscarriage)|Tidak diketahui|
+|Toluena (Toluene)|Kelainan sistem saraf pusat (SSP), keterlambatan perkembangan, mikrosefali, dan hambatan pertumbuhan janin (IUGR)|Tidak diketahui|
 
 ## Penjelasan istilah penting pada tabel
 
-- SSP/CNS: sistem saraf pusat, meliputi otak dan sumsum tulang belakang.
-    
-- Oligohidramnion: volume cairan ketuban terlalu sedikit.
-    
-- Anuria: produksi urine sangat sedikit atau tidak ada.
-    
-- IUGR (intrauterine growth restriction): pertumbuhan janin terhambat di dalam rahim.
-    
-- Hipoplasia: perkembangan organ atau jaringan yang tidak mencapai ukuran normal.
-    
-- Falang: tulang pembentuk jari tangan dan kaki.
-    
-- Spina bifida: kelainan penutupan tabung saraf yang menyebabkan pembentukan tulang belakang tidak sempurna.
-    
-- Atresia jejunum: tidak terbentuknya atau tertutupnya lumen jejunum, bagian usus halus.
-    
-- Anomali Ebstein: kelainan bawaan katup trikuspid dan struktur jantung kanan.
-    
-- Anomali Möbius: kelainan neurologis bawaan yang terutama mengganggu fungsi saraf kranial VI dan VII, sehingga dapat menyebabkan gangguan gerakan mata dan ekspresi wajah.
-    
-- Artrogriposis: kontraktur beberapa sendi yang sudah ada sejak lahir.
-    
-- Talipes equinovarus: kelainan kaki pengkor, yaitu kaki mengarah ke bawah dan ke dalam.
-    
+- **SSP/CNS**: sistem saraf pusat, meliputi otak dan sumsum tulang belakang.
+- **Oligohidramnion**: volume cairan ketuban terlalu sedikit.
+- **Anuria**: produksi urine sangat sedikit atau tidak ada.
+- **IUGR** *(intrauterine growth restriction)*: pertumbuhan janin terhambat di dalam rahim.
+- **Hipoplasia**: perkembangan organ atau jaringan yang tidak mencapai ukuran normal.
+- **Falang**: tulang pembentuk jari tangan dan kaki.
+- **Spina bifida**: kelainan penutupan tabung saraf yang menyebabkan pembentukan tulang belakang tidak sempurna.
+- **Atresia jejunum**: tidak terbentuknya atau tertutupnya lumen jejunum, bagian usus halus.
+- **Anomali Ebstein**: kelainan bawaan katup trikuspid dan struktur jantung kanan.
+- **Anomali Möbius**: kelainan neurologis bawaan yang terutama mengganggu fungsi saraf kranial VI dan VII, sehingga dapat menyebabkan gangguan gerakan mata dan ekspresi wajah.
+- **Artrogriposis**: kontraktur beberapa sendi yang sudah ada sejak lahir.
+- **Talipes equinovarus**: kelainan kaki pengkor, yaitu kaki mengarah ke bawah dan ke dalam.
 - Mikrotia: daun telinga berukuran kecil atau tidak berkembang sempurna.
-    
-- Mikrognatia: rahang berukuran lebih kecil dari normal.
-    
-- Kraniosinostosis: penutupan dini satu atau lebih sutura tengkorak.
-    
-- Hipertelorisme okular: jarak antarmata lebih lebar daripada normal.
-    
-- Hipospadia: muara uretra terletak di bagian bawah penis, bukan di ujungnya.
-    
-- Phocomelia: pemendekan berat anggota gerak dengan tangan atau kaki tampak dekat dengan badan.
-    
-- Epifisis bertitik (stippling): gambaran titik-titik kalsifikasi pada epifisis tulang.
-    
+- **Mikrognatia**: rahang berukuran lebih kecil dari normal.
+- **Kraniosinostosis**: penutupan dini satu atau lebih sutura tengkorak.
+- **Hipertelorisme okular**: jarak antarmata lebih lebar daripada normal.
+- **Hipospadia**: muara uretra terletak di bagian bawah penis, bukan di ujungnya.
+- **Phocomelia**: pemendekan berat anggota gerak dengan tangan atau kaki tampak dekat dengan badan.
+- **Epifisis bertitik** *(stippling)*: gambaran titik-titik kalsifikasi pada epifisis tulang.
+- **Fisura palpebra**: celah mata di antara kelopak mata atas dan bawah.
+- **Altered facies**: perubahan karakteristik atau bentuk wajah.
+- **Disabilitas intelektual**: keterbatasan fungsi intelektual dan kemampuan adaptif.
+- **Mikrosefali**: ukuran lingkar kepala lebih kecil daripada yang diharapkan berdasarkan usia dan jenis kelamin.
+- **Toluena**: pelarut organik yang dapat ditemukan dalam sejumlah produk industri dan bahan hirup tertentu.
 
 💡 Tips hafalan berdasarkan ciri khas:
 
-- Retinoid → wajah, jantung, SSP, timus. Waspadai isotretinoin dan acitretin pada kehamilan.
-    
-- Valproat dan carbamazepine → tabung saraf. Spina bifida menjadi petunjuk penting, khususnya pada valproat.
-    
-- Thalidomide → anggota gerak. Ingat phocomelia dan periode kritis hari ke-27–40.
-    
-- Tetracycline → gigi. Ingat perubahan warna gigi sulung.
-    
-- ACE inhibitor → ginjal dan cairan ketuban. Gangguan ginjal janin dapat menyebabkan oligohidramnion.
-    
-- Indomethacin → duktus arteriosus. Penggunaan pada usia kehamilan lanjut dapat menyebabkan penutupan dini duktus.
-    
-- Warfarin → hidung dan tulang. Ingat hipoplasia hidung dan kelainan tulang pada paparan selama kehamilan.
-    
+- **Retinoid** → wajah, jantung, SSP, timus. Waspadai isotretinoin dan acitretin pada kehamilan.
+- **Valproat** dan **carbamazepine** → tabung saraf. Spina bifida menjadi petunjuk penting, khususnya pada valproat.
+- **Thalidomide** → anggota gerak. Ingat phocomelia dan periode kritis hari ke-27–40.
+- **Tetracycline** → gigi. Ingat perubahan warna gigi sulung.
+- **ACE inhibitor** → ginjal dan cairan ketuban. Gangguan ginjal janin dapat menyebabkan oligohidramnion.
+- **Indomethacin** → duktus arteriosus. Penggunaan pada usia kehamilan lanjut dapat menyebabkan penutupan dini duktus.
+- **Warfarin** → hidung dan tulang. Ingat hipoplasia hidung dan kelainan tulang pada paparan selama kehamilan.
+- 🍺 **Alkohol** → wajah + pertumbuhan + otak, dan risikonya dapat terjadi sepanjang kehamilan.
+- 🚬 **Tembakau** → bayi kecil + keguguran.
+- 🧪 **Toluena** → SSP + perkembangan + pertumbuhan janin.
 
-# 5. Obat Psikotropik pada Kehamilan
+# 5. Efek Obat Psikotropik pada Fetus dan Neonatus
 
-Materi membahas dua kelompok efek yang perlu diingat berdasarkan waktu paparan.
+- **Benzodiazepin pada trimester I**: terkait dengan **peningkatan risiko celah bibir dan langit-langit**.
+- **Paparan obat psikotropik pada trimester III**: dapat dikaitkan dengan **floppy infant syndrome** atau gejala putus obat neonatal (neonatal withdrawal syndrome).
 
-- Benzodiazepin pada trimester I: slide mengaitkannya dengan peningkatan risiko celah bibir dan langit-langit.
-    
-- Paparan obat psikotropik pada trimester III: dapat dikaitkan dengan floppy infant syndrome atau gejala putus obat neonatal (neonatal withdrawal syndrome).
-    
-
-Manifestasi yang dicantumkan pada slide meliputi:
+Manifestasi klinis *floppy infant syndrome* meliputi:
 
 - Sedasi ringan.
-    
 - Hipotonia, yaitu penurunan tonus otot.
-    
 - Malas atau kesulitan menyusu.
-    
 - Episode apnea, yaitu berhentinya napas sementara.
-    
 - Sianosis, yaitu perubahan warna kulit atau mukosa menjadi kebiruan akibat oksigenasi yang tidak memadai.
-    
 - Gangguan respons metabolik.
-    
 - Kejang.
-    
 
 Catatan: risiko berbeda menurut jenis obat, dosis, durasi, dan waktu paparan. Daftar ini tidak berarti semua benzodiazepin atau semua obat psikotropik memiliki risiko yang sama.
 
 # 6. Antibiotik dan Antivirus pada Kehamilan
 
-## Antibiotik menurut kategori FDA dalam slide
+## Antibiotik menurut kategori FDA
 
-|Golongan|Obat yang dicantumkan|Kategori pada slide|
-|---|---|---|
-|Penisilin|Penisilin G dan V, ampisilin, amoksisilin|B|
-|Tetrasiklin|Tetracycline|D; dikaitkan dengan gangguan pertumbuhan tulang dan anomali gigi|
-|Kloramfenikol|Chloramphenicol|C|
-|Aminoglikosida|Streptomycin, kanamycin|D; ototoksisitas permanen|
-|Aminoglikosida|Gentamicin, amikacin|D|
-|Kuinolon|Ciprofloxacin, ofloxacin, pefloxacin, levofloxacin|C|
-|Makrolida|Erythromycin, azithromycin|B|
-|Makrolida|Spiramycin, clarithromycin|C|
-|Linkosamida|Lincomycin, clindamycin|B|
-|Sefalosporin|Cefadroxil, cefuroxime, ceftriaxone, cefotaxime|B|
-|Karbapenem|Meropenem|B|
-|Sulfonamida/kombinasi|Kotrimoksazol, sulfametoksazol|C|
-|Antagonis folat|Trimethoprim|C|
+| Golongan              | Contoh obat                                        | Kategori                                                         |
+| --------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
+| Penisilin             | Penisilin G dan V, ampisilin, amoksisilin          | B                                                                |
+| Tetrasiklin           | Tetracycline                                       | D; dikaitkan dengan gangguan pertumbuhan tulang dan anomali gigi |
+| Kloramfenikol         | Chloramphenicol                                    | C                                                                |
+| Aminoglikosida        | Streptomycin, kanamycin                            | D; ototoksisitas permanen                                        |
+| Aminoglikosida        | Gentamicin, amikacin                               | D                                                                |
+| Kuinolon              | Ciprofloxacin, ofloxacin, pefloxacin, levofloxacin | C                                                                |
+| Makrolida             | Erythromycin, azithromycin                         | B                                                                |
+| Makrolida             | Spiramycin, clarithromycin                         | C                                                                |
+| Linkosamida           | Lincomycin, clindamycin                            | B                                                                |
+| Sefalosporin          | Cefadroxil, cefuroxime, ceftriaxone, cefotaxime    | B                                                                |
+| Karbapenem            | Meropenem                                          | B                                                                |
+| Sulfonamida/kombinasi | Kotrimoksazol, sulfametoksazol                     | C                                                                |
+| Antagonis folat       | Trimethoprim                                       | C                                                                |
 
 Ototoksisitas adalah kerusakan telinga dalam yang dapat menyebabkan gangguan pendengaran atau keseimbangan. Efek tersebut menjadi perhatian khusus pada aminoglikosida tertentu, terutama streptomycin.
 
 ## Antivirus herpes simpleks genitalis
 
-|Obat|Kategori pada slide|
-|---|---|
-|Acyclovir|B|
-|Famciclovir|B|
-|Valacyclovir|B|
-|Ganciclovir|C|
-|Valganciclovir|C|
-
-Kategori di atas adalah kategori historis dalam materi. Pemilihan antivirus pada kehamilan tetap harus didasarkan pada indikasi, bukti keamanan terkini, dan pedoman klinis.
+| Obat           | Kategori |
+| -------------- | -------- |
+| Acyclovir      | B        |
+| Famciclovir    | B        |
+| Valacyclovir   | B        |
+| Ganciclovir    | C        |
+| Valganciclovir | C        |
 
 # 7. Analgesik, Antitusif, Ekspektoran, Antihistamin, dan Simpatomimetik
 
 ## Analgesik
 
-AINS (antiinflamasi nonsteroid) digunakan untuk mengurangi nyeri, demam, dan peradangan. Slide mencantumkan:
+AINS (antiinflamasi nonsteroid) digunakan untuk mengurangi nyeri, demam, dan peradangan. Contoh:
 
-|Obat|Kategori dalam slide|
-|---|---|
-|Acetaminophen/paracetamol|B|
-|Aspirin|C/D pada trimester III|
-|Ibuprofen|B/D pada trimester III|
-|Piroxicam|C/D pada trimester III|
-|Asam mefenamat|C/D pada trimester III|
-|Diclofenac|B/D pada trimester III|
+| Obat                      | Kategori               |
+| ------------------------- | ---------------------- |
+| Acetaminophen/paracetamol | B                      |
+| Aspirin                   | C/D pada trimester III |
+| Ibuprofen                 | B/D pada trimester III |
+| Piroxicam                 | C/D pada trimester III |
+| Asam mefenamat            | C/D pada trimester III |
+| Diclofenac                | B/D pada trimester III |
 
 Perhatian penting: AINS pada kehamilan lanjut dapat mengganggu fungsi ginjal janin dan menyebabkan oligohidramnion; obat tertentu juga dapat menyebabkan penutupan dini duktus arteriosus. Paracetamol dan AINS tidak boleh dianggap setara dalam profil risiko.
 
 ## Antitusif dan ekspektoran
 
-|Obat|Kategori dalam slide|Efek yang dicantumkan|
-|---|---|---|
-|Dextromethorphan|C|Dicantumkan sebagai antitusif|
-|Codeine|C/D|Pada dosis tinggi dan penggunaan lama, slide mencantumkan gejala putus obat, hambatan pertumbuhan, depresi pernapasan, dan celah bibir/langit-langit|
-|Guaifenesin|C|Slide menyebut peningkatan hernia inguinal dan kelainan kardiovaskular|
+| Obat             | Kategori | Efek                                                                                                                                                    |
+| ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dextromethorphan | C        | -                                                                                                                                                       |
+| Codeine          | C/D      | Pada dosis tinggi dan penggunaan lama, efek samping termasuk gejala putus obat, hambatan pertumbuhan, depresi pernapasan, dan celah bibir/langit-langit |
+| Guaifenesin      | C        | Peningkatan risiko hernia inguinal dan defek kardiovaskular                                                                                             |
 
-- Antitusif: menekan refleks batuk.
-    
-- Ekspektoran: membantu pengeluaran dahak dari saluran pernapasan.
-    
+- **Antitusif**: menekan refleks batuk.
+- **Ekspektoran**: membantu pengeluaran dahak dari saluran pernapasan.
 - Depresi pernapasan: penurunan dorongan atau efektivitas bernapas sehingga ventilasi tidak memadai.
-    
 - Gejala putus obat neonatal: gejala akibat penghentian mendadak paparan zat yang menyebabkan ketergantungan atau adaptasi fisiologis pada janin.
-    
 
 ## Antihistamin
 
-|Obat|Kategori dalam slide|Keterangan pada slide|
-|---|---|---|
-|Diphenhydramine|B|Antihistamin|
-|Chlorpheniramine|B|Antihistamin|
-|Fexofenadine|C|Antihistamin|
-|Loratadine|C/B|Slide mencantumkan celah langit-langit, mikrotia, mikroftalmia, dan ketulian|
-|Cetirizine|C/B|Slide mencantumkan abortus spontan dan ginjal ektopik|
+| Obat             | Kategori | Keterangan                                                                      |
+| ---------------- | -------- | ------------------------------------------------------------------------------- |
+| Diphenhydramine  | B        | Antihistamin                                                                    |
+| Chlorpheniramine | B        | Antihistamin                                                                    |
+| Fexofenadine     | C        | Antihistamin                                                                    |
+| Loratadine       | C/B      | Efek samping termasuk celah langit-langit, mikrotia, mikroftalmia, dan ketulian |
+| Cetirizine       | C/B      | Efek samping termasuk abortus spontan dan ginjal ektopik                        |
 
 Mikroftalmia adalah ukuran bola mata yang lebih kecil daripada normal. Ginjal ektopik adalah ginjal yang berada di lokasi yang tidak lazim akibat gangguan perkembangan atau migrasi.
-
-Keterangan kategori dan efek pada tabel mengikuti materi kuliah; hubungan sebab-akibat tidak dapat dipastikan hanya dari daftar tersebut.
 
 ## Obat simpatomimetik
 
 Slide mencantumkan phenylephrine, pseudoephedrine, dan fexofenadine pada bagian ini. Fexofenadine sebenarnya termasuk antihistamin, bukan simpatomimetik.
 
-Efek yang tercantum pada slide untuk paparan trimester I meliputi:
+Efek samping untuk paparan trimester I meliputi:
 
 - Kelainan mata dan telinga.
-    
 - Sindaktili, yaitu dua atau lebih jari yang menyatu.
-    
 - Preauricular skin tag, yaitu tonjolan kulit di depan telinga.
-    
 - Kaki bengkok.
-    
 - Hernia inguinal.
-    
 - Hipoksia janin, yaitu kekurangan oksigen pada janin.
-    
 
 Daftar ini perlu dipahami sebagai isi slide, bukan bukti bahwa setiap obat pasti menyebabkan semua kelainan tersebut.
 
-# 8. Malaria pada Kehamilan
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1791851091000mm8lvq.png)
 
-## Pemilihan obat antimalaria menurut materi
+# 8. Antimalaria pada Kehamilan
 
-|Obat|Keterangan pada slide|
-|---|---|
-|Klorokuin|Dicantumkan aman pada semua trimester|
-|Kina|Dicantumkan aman pada semua trimester|
-|Amodiakuin|Tidak direkomendasikan pada trimester I|
-|Meflokuin|Tidak direkomendasikan pada trimester I|
-|Sulfadoksin/pirimetamin|Tidak direkomendasikan pada trimester I|
-|Artesunat/artemeter|Tidak direkomendasikan pada trimester I|
+| Obat                    | Keterangan                              |
+| ----------------------- | --------------------------------------- |
+| Klorokuin               | Aman pada semua trimester               |
+| Kina                    | Aman pada semua trimester               |
+| Amodiakuin              | Tidak direkomendasikan pada trimester I |
+| Meflokuin               | Tidak direkomendasikan pada trimester I |
+| Sulfadoksin/pirimetamin | Tidak direkomendasikan pada trimester I |
+| Artesunat/artemeter     | Tidak direkomendasikan pada trimester I |
 
-Kemoprofilaksis malaria adalah pemberian obat untuk mencegah malaria pada orang yang berisiko terpapar, bukan untuk mengobati infeksi yang sudah terjadi.
+Untuk **kemoprofilaksis malaria**: klorokuin 300 mg per minggu, dimulai 1–2 minggu sebelum memasuki daerah endemis dan dilanjutkan hingga 4 minggu setelah kembali.
 
-Materi mencantumkan klorokuin 300 mg per minggu, dimulai 1–2 minggu sebelum memasuki daerah endemis dan dilanjutkan hingga 4 minggu setelah kembali.
+> Kemoprofilaksis malaria adalah pemberian obat untuk mencegah malaria pada orang yang berisiko terpapar, bukan untuk mengobati infeksi yang sudah terjadi.
 
-## Pengobatan berdasarkan usia kehamilan dalam slide
+## Rekomendasi Kebijakan Nasional Terapi Malaria
 
-|Usia kehamilan|Plasmodium falciparum|Plasmodium vivax|
-|---|---|---|
-|Trimester I (0–3 bulan)|Kina tablet + klindamisin selama 7 hari|Kina tablet selama 7 hari|
-|Trimester II (4–6 bulan)|ACT selama 3 hari|ACT selama 3 hari|
-|Trimester III (7–9 bulan)|ACT selama 3 hari|ACT selama 3 hari|
+| Usia kehamilan            | Pengobatan Plasmodium falciparum        | Pengobatan Plasmodium vivax |
+| ------------------------- | --------------------------------------- | --------------------------- |
+| Trimester I (0–3 bulan)   | Kina tablet + klindamisin selama 7 hari | Kina tablet selama 7 hari   |
+| Trimester II (4–6 bulan)  | ACT tablet selama 3 hari                | ACT tablet selama 3 hari    |
+| Trimester III (7–9 bulan) | ACT tablet selama 3 hari                | ACT tablet selama 3 hari    |
 
 Keterangan:
 
-- ACT (artemisinin-based combination therapy): terapi kombinasi berbasis artemisinin.
-    
+- **ACT** *(artemisinin-based combination therapy)*: terapi kombinasi berbasis artemisinin.
 - P. falciparum dapat menyebabkan malaria berat, sedangkan P. vivax memiliki risiko kekambuhan akibat bentuk parasit dorman di hati.
-    
-
-⚠️ Penting: tabel ini mereproduksi rekomendasi dalam slide. Pilihan obat malaria pada kehamilan harus mengikuti pedoman nasional terbaru, jenis parasit, tingkat keparahan, pola resistansi, dan ketersediaan obat. Jangan memakai dosis kemoprofilaksis dari slide sebagai resep mandiri.
 
 # 9. Tuberkulosis pada Kehamilan
 
-Menurut materi, prinsip pengobatan tuberkulosis (TB) pada ibu hamil mengikuti pengobatan TB pada umumnya, dengan perhatian khusus terhadap keamanan obat.
+Prinsip pengobatan tuberkulosis (TB) pada ibu hamil mengikuti pengobatan TB pada umumnya, dengan perhatian khusus terhadap keamanan obat.
 
-- Streptomycin: dikaitkan dengan ototoksisitas permanen, terutama gangguan pendengaran.
-    
-- Rifampicin: slide menyebut kelainan kongenital yang meliputi gangguan fungsi organ, lesi sistem saraf pusat, dan kelainan darah, serta menganjurkan penghindaran pada trimester I.
-    
+- **Streptomycin**: dikaitkan dengan ototoksisitas permanen, terutama gangguan pendengaran.
+- **Rifampicin**: dikaitkan dengan kelainan kongenital yang meliputi gangguan fungsi organ, lesi sistem saraf pusat, dan kelainan darah, serta menganjurkan penghindaran pada trimester I.
 
 Catatan klinis: keterangan mengenai rifampicin pada slide perlu diverifikasi karena rifampicin merupakan komponen penting terapi TB dan umumnya digunakan ketika diindikasikan selama kehamilan. Pengobatan TB tidak boleh ditunda atau dihentikan tanpa penilaian dokter karena penyakit yang tidak terobati juga berbahaya bagi ibu dan janin.
 
@@ -362,104 +322,75 @@ Catatan klinis: keterangan mengenai rifampicin pada slide perlu diverifikasi kar
 
 Tujuan terapi diabetes melitus (DM) pada kehamilan adalah mencapai target glukosa darah untuk mengurangi komplikasi pada ibu dan janin.
 
-|Obat|Keterangan dalam materi|
-|---|---|
-|Insulin|Dicantumkan sebagai terapi lini pertama; dosis disesuaikan dengan target glukosa darah.|
-|Metformin|Dicantumkan dapat digunakan bila glukosa darah terkontrol; risiko hipoglikemia dan peningkatan berat badan lebih kecil dibandingkan beberapa pilihan lain.|
-|Sulfonilurea|Dinilai kurang unggul dibandingkan insulin dan metformin; dikaitkan dengan risiko hipoglikemia neonatal, makrosomia, serta keterbatasan data keamanan jangka panjang.|
+| Obat                      | Keterangan                                                                                                                                                            |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insulin (Kategori B)      | Sebagai terapi **lini pertama**; dosis disesuaikan dengan target glukosa darah.                                                                                       |
+| Metformin (Kategori B)    | Dapat digunakan bila glukosa darah terkontrol; risiko hipoglikemia dan peningkatan berat badan lebih kecil dibandingkan beberapa pilihan lain.                        |
+| Sulfonilurea (Kategori B) | Dinilai kurang unggul dibandingkan insulin dan metformin; dikaitkan dengan risiko hipoglikemia neonatal, makrosomia, serta keterbatasan data keamanan jangka panjang. |
 
 Istilah penting:
 
 - Hipoglikemia: kadar glukosa darah terlalu rendah.
-    
-- Makrosomia: ukuran atau berat badan bayi berlebihan; slide menggunakan batas berat badan lebih dari 4.000 gram.
-    
-- Hipoglikemia neonatal: kadar glukosa darah rendah pada bayi baru lahir.
-    
+- Makrosomia: ukuran atau berat badan bayi berlebihan; batas berat badan lebih dari 4.000 gram.
 
-💡 Tips hafalan: insulin → mengendalikan glukosa secara langsung; metformin → membantu pengendalian glukosa dengan risiko hipoglikemia yang relatif rendah; sulfonilurea → waspadai hipoglikemia pada bayi.
+💡 Tips hafalan: **insulin** → mengendalikan glukosa secara langsung; **metformin** → membantu pengendalian glukosa dengan risiko hipoglikemia yang relatif rendah; **sulfonilurea** → waspadai hipoglikemia pada bayi.
 
 Pemilihan terapi aktual bergantung pada jenis diabetes, kontrol glikemik, kondisi ibu dan janin, serta pedoman yang berlaku.
 
 # 11. Sifilis pada Kehamilan
 
-Materi mencantumkan penisilin sebagai terapi utama sifilis pada kehamilan, dengan pilihan menurut stadium penyakit.
+Penisilin merupakan terapi utama sifilis pada kehamilan, dengan regimen tergantung stadium penyakit.
 
-|Stadium|Regimen yang tercantum dalam slide|
-|---|---|
-|Primer, sekunder, atau laten awal|Benzathine penicillin G 2,4 juta unit secara intramuskular (IM), dosis tunggal|
-|Laten akhir, tersier, atau durasi tidak diketahui|Benzathine penicillin G 2,4 juta unit IM per dosis, dengan interval satu minggu untuk total tiga dosis|
-|Neurosifilis|Aqueous crystalline penicillin G 18–24 juta unit per hari, diberikan 3–4 juta unit intravena (IV) setiap 4 jam atau melalui infus kontinu selama 10–14 hari|
-|Alternatif neurosifilis yang dicantumkan|Procaine penicillin 2,4 juta unit IM sekali sehari ditambah probenecid 500 mg oral empat kali sehari selama 10–14 hari|
+| Stadium                                           | Regimen obat                                                                                                                                                |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Primer, sekunder, atau laten awal                 | Benzathine penicillin G 2,4 juta unit secara intramuskular (IM), dosis tunggal                                                                              |
+| Laten akhir, tersier, atau durasi tidak diketahui | Benzathine penicillin G 2,4 juta unit IM per dosis, dengan interval satu minggu untuk total tiga dosis                                                      |
+| Neurosifilis                                      | Aqueous crystalline penicillin G 18–24 juta unit per hari, diberikan 3–4 juta unit intravena (IV) setiap 4 jam atau melalui infus kontinu selama 10–14 hari |
+| Alternatif untuk neurosifilis                     | Procaine penicillin 2,4 juta unit IM sekali sehari ditambah probenecid 500 mg oral empat kali sehari selama 10–14 hari                                      |
 
 Neurosifilis adalah infeksi Treponema pallidum yang melibatkan sistem saraf pusat.
 
-⚠️ Terdapat kemungkinan salah ketik OCR pada bagian dosis procaine penicillin: teks hasil ekstraksi menulis “24 juta unit IM”, sedangkan dosis yang lazim tercantum untuk regimen tersebut adalah 2,4 juta unit IM. Angka pada slide harus diperiksa langsung sebelum digunakan. Regimen juga perlu disesuaikan dengan stadium, evaluasi klinis, dan pedoman terkini.
-
 # 12. Toksoplasmosis pada Kehamilan
 
-Materi membagi terapi menjadi dua pendekatan:
+Pendekatan untuk pengobatan toksoplasmosis terbagi menjadi dua:
 
-- Spiramycin
-
-- Dicantumkan untuk menurunkan transmisi vertikal, khususnya pada trimester I.
-    
-- Slide menyatakan obat ini tidak melewati plasenta.
-    
-- Penggunaan disebut dilanjutkan hingga persalinan.
-    
-- Dosis yang tercantum: 3 gram per hari.
-    
-
-- Kombinasi pyrimethamine dan sulfadiazine
-
-- Dicantumkan untuk digunakan pada akhir trimester II, mulai sekitar minggu ke-18, atau trimester III.
-    
-- Pyrimethamine memiliki efek antagonis folat dan dapat menekan sumsum tulang sehingga berisiko menimbulkan gangguan pembentukan sel darah.
-    
-- Dosis pada slide: pyrimethamine 25–50 mg oral sekali sehari, dikombinasikan dengan sulfonamida selama 1–3 minggu, kemudian dosis dikurangi setengah dan dilanjutkan selama 4–5 minggu.
-    
-
-Transmisi vertikal adalah perpindahan infeksi dari ibu kepada janin. Pada toksoplasmosis, pilihan terapi bergantung pada usia kehamilan, bukti infeksi janin, dan hasil pemeriksaan yang relevan. Pernyataan bahwa spiramycin tidak melewati plasenta sebaiknya dipahami sebagai penyederhanaan pada slide, bukan pernyataan absolut.
+- **Spiramycin**
+	- Menurunkan transmisi vertikal, khususnya pada trimester I.
+	- Tidak melewati plasenta.
+	- Diberikan hingga persalinan.
+	- Dosis: 3 gram per hari.
+- **Kombinasi pyrimethamine dan sulfadiazine**
+	- Diberikan pada akhir trimester II, mulai sekitar minggu ke-18, atau trimester III.
+	- Pyrimethamine memiliki efek antagonis folat dan dapat menekan sumsum tulang sehingga berisiko menimbulkan gangguan pembentukan sel darah.
+	- Dosis: pyrimethamine 25–50 mg oral sekali sehari, dikombinasikan dengan sulfonamida selama 1–3 minggu, kemudian dosis dikurangi setengah dan dilanjutkan selama 4–5 minggu.
 
 # 13. Hepatitis pada Kehamilan
 
-Slide membahas penggunaan antivirus pada ibu hamil dengan viremia tinggi untuk mengurangi mother-to-child transmission (MTCT), yaitu penularan dari ibu ke anak.
+ACG dan AASLD merekomendasikan inisiasi antivirus pada pasien dengan viremia tinggi dipertimbangkan sekitar minggu ke-28–32 kehamilan untuk mengurangi *mother-to-child transmission* (MTCT), yaitu penularan dari ibu ke anak.
 
-Menurut materi, inisiasi antivirus pada pasien dengan viremia tinggi dipertimbangkan sekitar minggu ke-28–32 kehamilan.
+| Antivirus        | Kategori | Keterangan                                                      |
+| ---------------- | -------- | --------------------------------------------------------------- |
+| Lamivudine (LAM) | C        | Dimulai pada minggu ke-23 dengan dosis 100 mg/hari              |
+| Tenofovir (TDF)  | B        | Lebih efektif dibandingkan lamivudine, dengan dosis 600 mg/hari |
+| Telbivudine      | C        | Diberikan pada trimester II–III dengan dosis 600 mg/hari        |
 
-|Antivirus|Kategori dalam slide|Keterangan pada slide|
-|---|---|---|
-|Lamivudine (LAM)|C|Dicantumkan mulai minggu ke-23 dengan dosis 100 mg/hari|
-|Tenofovir (TDF)|B|Dicantumkan lebih efektif dibandingkan lamivudine, dengan dosis 600 mg/hari|
-|Telbivudine|C|Dicantumkan untuk trimester II–III dengan dosis 600 mg/hari|
+# 14. Rangkuman 🧠
 
-Catatan penting: dosis tenofovir 600 mg/hari dalam slide perlu diverifikasi karena tidak sesuai dengan dosis lazim tenofovir disoproxil fumarate untuk hepatitis B kronis. Jangan menggunakannya sebagai panduan dosis klinis. Pemilihan antivirus bergantung pada jenis hepatitis, terutama apakah infeksi disebabkan oleh virus hepatitis B, jumlah virus dalam darah, fungsi hati, dan pedoman terkini.
-
-# 14. Ringkasan Hafalan Menjelang Ujian 🧠
-
-Waktu paparan
+### Waktu paparan
 
 Trimester I sangat penting untuk organogenesis. Paparan trimester II–III tetap dapat memengaruhi pertumbuhan, fungsi organ, dan adaptasi neonatus.
 
-Obat dan efek khas
+### Obat dan efek khas
 
-- Retinoid → kelainan kraniofasial, jantung, SSP, timus.
-    
-- Valproat → spina bifida dan kelainan perkembangan.
-    
-- Thalidomide → phocomelia.
-    
-- Tetracycline → perubahan warna gigi.
-    
-- ACE inhibitor → gangguan ginjal janin dan oligohidramnion.
-    
-- Indomethacin → penutupan dini duktus arteriosus.
-    
-- Aminoglikosida tertentu → ototoksisitas.
-    
+- **Retinoid** → kelainan kraniofasial, jantung, SSP, timus.
+- **Valproat** → spina bifida dan kelainan perkembangan.
+- **Thalidomide** → phocomelia.
+- **Tetracycline** → perubahan warna gigi.
+- **ACE inhibitor** → gangguan ginjal janin dan oligohidramnion.
+- **Indomethacin** → penutupan dini duktus arteriosus.
+- **Aminoglikosida tertentu** → ototoksisitas.
 
-Prinsip resep
+### Prinsip resep
 
 Gunakan obat yang memang diperlukan, pilih alternatif dengan bukti keamanan yang lebih baik, berikan dosis efektif, dan pertimbangkan usia kehamilan serta kondisi ibu.
 
