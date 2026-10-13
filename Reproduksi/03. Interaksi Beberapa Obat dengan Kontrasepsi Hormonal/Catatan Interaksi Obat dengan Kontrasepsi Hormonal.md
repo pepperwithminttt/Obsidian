@@ -125,8 +125,8 @@ Hubungan interaksi pada kelompok ini tidak selalu berupa penurunan penyerapan. M
 
 ## F. Obat lain yang dapat menurunkan efektivitas kontrasepsi
 
-- Lamotrigine: kontrasepsi yang mengandung estrogen dapat meningkatkan metabolisme lamotrigine sehingga konsentrasi lamotrigine turun. Sebaliknya, penghentian estrogen dapat menaikkan kembali konsentrasi lamotrigine dan meningkatkan risiko efek samping.
-- Griseofulvin: merupakan obat yang dapat menurunkan efektivitas kontrasepsi. Besarnya interaksi dan kebutuhan kontrasepsi tambahan perlu dinilai berdasarkan pedoman yang digunakan.
+- **Lamotrigine**: kontrasepsi yang mengandung estrogen dapat meningkatkan metabolisme lamotrigine sehingga konsentrasi lamotrigine turun. Sebaliknya, penghentian estrogen dapat menaikkan kembali konsentrasi lamotrigine dan meningkatkan risiko efek samping.
+- **Griseofulvin**: merupakan obat yang dapat menurunkan efektivitas kontrasepsi. Besarnya interaksi dan kebutuhan kontrasepsi tambahan perlu dinilai berdasarkan pedoman yang digunakan.
 
 # 4. Dampak Klinis Interaksi Kontrasepsi Hormonal
 
@@ -139,26 +139,15 @@ Interaksi obat dengan kontrasepsi hormonal dapat menimbulkan tiga kelompok masal
 |Efek toksik obat|Konsentrasi obat lain dapat meningkat atau menurun sehingga risiko efek samping maupun kegagalan terapi berubah.|
 
 - Perdarahan intermenstruasi: perdarahan yang muncul di luar jadwal menstruasi.
-    
 - Amenorea: tidak terjadinya menstruasi selama periode tertentu.
-    
 - Toksisitas: efek berbahaya akibat paparan obat, termasuk akibat konsentrasi yang terlalu tinggi.
-    
-
-Perdarahan sela tidak selalu berarti kontrasepsi gagal, dan tidak adanya perdarahan juga tidak memastikan kehamilan. Bila ada kemungkinan kegagalan kontrasepsi, lakukan evaluasi kehamilan sesuai waktu yang tepat.
 
 # 5. Penanganan Interaksi Obat
 
-Slide mencantumkan empat pendekatan umum:
-
-1. Memodifikasi dosis obat. Penyesuaian dilakukan berdasarkan jenis obat, efek klinis, dan pemantauan yang relevan.
-    
-2. Mengubah cara atau waktu konsumsi. Langkah ini hanya bermanfaat untuk interaksi tertentu; memisahkan waktu minum tidak menyelesaikan interaksi akibat induksi enzim.
-    
-3. Menambahkan obat lain. Misalnya, terapi tambahan bila memang diperlukan berdasarkan evaluasi klinis.
-    
-4. Menggunakan modalitas penanganan lain. Termasuk mengganti obat pemicu interaksi atau memilih metode kontrasepsi alternatif.
-    
+1. **Memodifikasi dosis obat**. Penyesuaian dilakukan berdasarkan jenis obat, efek klinis, dan pemantauan yang relevan.
+2. **Mengubah cara atau waktu konsumsi**. Langkah ini hanya bermanfaat untuk interaksi tertentu; memisahkan waktu minum tidak menyelesaikan interaksi akibat induksi enzim.
+3. **Menambahkan obat lain**. Misalnya, terapi tambahan bila memang diperlukan berdasarkan evaluasi klinis.
+4. **Menggunakan modalitas penanganan lain**. Termasuk mengganti obat pemicu interaksi atau memilih metode kontrasepsi alternatif.
 
 Dalam praktik, langkah terpenting adalah mengidentifikasi obat yang berinteraksi dan menentukan apakah kontrasepsi atau obat lainnya perlu diganti.
 
@@ -166,22 +155,17 @@ Khusus kontrasepsi hormonal: jika pasien menggunakan obat penginduksi enzim, ten
 
 # 6. Pencegahan dan Konseling
 
-Materi menekankan perlunya pemantauan ketika obat atau kontrasepsi oral mulai digunakan, dosis atau jenisnya diubah, maupun dihentikan.
+Perlu pemantauan ketika obat atau kontrasepsi oral mulai digunakan, dosis atau jenisnya diubah, maupun dihentikan.
 
 Poin konseling yang perlu disampaikan:
 
 - Beri tahu dokter atau apoteker mengenai seluruh obat yang digunakan, termasuk obat bebas, suplemen, dan produk herbal.
-    
 - Evaluasi interaksi sebelum memulai obat baru.
-    
 - Pantau efek terapi dan efek samping ketika obat yang berinteraksi dimulai, diubah, atau dihentikan.
-    
 - Pertimbangkan metode kontrasepsi yang sesuai dengan kondisi medis, obat yang digunakan, dan preferensi pasien.
-    
 - Perempuan usia subur dengan epilepsi memerlukan perhatian khusus karena sejumlah obat antikejang dapat berinteraksi dengan kontrasepsi hormonal.
-    
 
-## Ringkasan hafalan 🧠
+# Rangkuman 🧠
 
 Induksi enzim → metabolisme meningkat → kadar hormon kontrasepsi tertentu turun → efektivitas kontrasepsi dapat turun.
 
