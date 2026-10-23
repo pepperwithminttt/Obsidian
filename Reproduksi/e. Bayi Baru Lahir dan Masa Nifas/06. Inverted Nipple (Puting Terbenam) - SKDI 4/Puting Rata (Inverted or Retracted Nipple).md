@@ -8,9 +8,9 @@
 
 # Pencegahan
 
-- Saat ANC pastikan kondisi puting susu, ibu sudah dapat diedukasi dan atasi putting tidak keluar
+- Saat ANC pastikan kondisi puting susu, ibu sudah dapat diedukasi dan atasi puting tidak keluar
 - Harus terus sering menyusui
-- Bila tidak berhasil à pompa ASI
+- Bila tidak berhasil bisa pompa ASI
 
 # Tatalaksana
 
