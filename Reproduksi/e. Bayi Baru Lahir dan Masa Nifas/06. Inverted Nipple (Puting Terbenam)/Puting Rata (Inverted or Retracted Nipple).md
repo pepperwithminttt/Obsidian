@@ -3,7 +3,7 @@
 
 # Definisi
 
-- Yaitu keadaan dimana putting tidak keluar
+- Yaitu keadaan di mana puting tidak keluar
 - Bisa karena kelainan anatomi yang tidak bisa lagi diperbaiki (permanen), bisa juga yang tidak permanen
 
 # Pencegahan
