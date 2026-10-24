@@ -3,37 +3,29 @@
 
 # 1. Definisi
 
-Endometriosis adalah penyakit ginekologis kronis yang ditandai oleh adanya jaringan menyerupai endometrium di luar uterus. Jaringan tersebut dapat mengalami perubahan menyerupai endometrium normal dan berkaitan dengan nyeri panggul serta infertilitas.
+Endometriosis adalah penyakit ginekologis kronis yang ditandai oleh **adanya jaringan menyerupai endometrium di luar cavum uteri**. Jaringan tersebut dapat mengalami perubahan menyerupai endometrium normal dan berkaitan dengan nyeri panggul serta infertilitas.
 
 Endometriosis dikenal sebagai:
 
-- The disease of theory: patogenesis belum sepenuhnya diketahui.
-    
-- The great imitator: gejalanya beragam dan dapat menyerupai penyakit lain.
-    
-- The silent invader: dapat berkembang dengan gejala minimal atau tanpa gejala.
-    
-- The puzzling disease: mekanisme penyakit kompleks.
-    
-- The frustrating disease: diagnosis dan penanganannya memiliki tantangan tersendiri.
-    
+| Istilah                 | Makna                                                      |
+| ----------------------- | ---------------------------------------------------------- |
+| The disease of theory   | Patogenesis belum sepenuhnya diketahui.                    |
+| The great imitator      | Gejala beragam dan dapat menyerupai penyakit lain.         |
+| The silent invader      | Dapat berkembang dengan gejala minimal atau tanpa gejala.  |
+| The puzzling disease    | Mekanisme penyakit kompleks.                               |
+| The frustrating disease | Diagnosis dan penanganannya memiliki tantangan tersendiri. |
 
 ## Tantangan dalam endometriosis
 
 1. Patogenesis belum seluruhnya terungkap.
-    
 2. Gambaran klinis sangat beragam.
-    
 3. Diagnosis tidak selalu mudah.
-    
 4. Tidak ada satu metode penanganan yang sesuai untuk semua pasien.
-    
 5. Pencegahan spesifik belum tersedia.
-    
 
 # 2. Epidemiologi
 
-Prevalensi endometriosis belum diketahui secara pasti. Angka kejadian pada kelompok tertentu yang dicantumkan dalam materi adalah:
+Prevalensi endometriosis belum diketahui secara pasti. Angka kejadian pada kelompok tertentu adalah:
 
 |Kelompok penderita|Insiden endometriosis|
 |---|---|
@@ -43,28 +35,20 @@ Prevalensi endometriosis belum diketahui secara pasti. Angka kejadian pada kelom
 |Infertilitas|40%|
 |Dismenorea|50%|
 
-Angka tersebut merupakan perkiraan yang tercantum pada slide, bukan prevalensi pasti pada seluruh populasi.
+Angka tersebut merupakan perkiraan dan bukan prevalensi pasti pada seluruh populasi.
 
 # 3. Faktor Risiko
 
 Faktor yang berhubungan dengan peningkatan risiko endometriosis meliputi:
 
 - Nullipara, yaitu perempuan yang belum pernah melahirkan.
-    
 - Menarke lebih dini.
-    
 - Siklus menstruasi pendek.
-    
 - Perdarahan menstruasi yang banyak dan berlangsung lama.
-    
 - Stenosis serviks, yaitu penyempitan kanalis servikalis.
-    
 - Infertilitas.
-    
 - Penggunaan estrogen jangka panjang.
-    
 - Tumor penghasil estrogen (estrogen-secreting tumor), seperti tumor sel granulosa dan tumor sel teka.
-    
 
 Faktor-faktor tersebut berkaitan dengan paparan menstruasi, aliran darah menstruasi yang terhambat, atau pengaruh hormonal.
 
@@ -76,29 +60,20 @@ Etiologi endometriosis belum diketahui secara pasti. Berbagai teori dikemukakan 
 
 Darah menstruasi mengalir melalui tuba Fallopi menuju rongga pelvis, membawa serpihan jaringan endometrium. Sel-sel tersebut kemudian dapat melekat pada permukaan peritoneum, mengalami implantasi, dan tumbuh di lokasi lain.
 
-Data yang dicantumkan untuk mendukung teori ini:
+Data yang mendukung teori ini:
 
 - Sekitar 70–90% perempuan mengalami aliran menstruasi retrograd ke rongga pelvis.
-    
 - Sekitar 79% sel endometrium dalam aliran tersebut dilaporkan masih hidup (viable).
-    
-- Sekitar 3–10% perempuan mengalami endometriosis.
-    
+- Sekitar 3–10% perempuan mengalami endometriosis.  
 
 Faktor pendukung teori Sampson:
 
 - Endometriosis lebih sering ditemukan pada perempuan dengan anomali Müllerian.
-    
 - Stenosis serviks dapat menghambat aliran menstruasi keluar sehingga meningkatkan aliran retrograd.
-    
 - Sel endometrium hidup dalam cairan peritoneum selama menstruasi dapat melekat dan menembus permukaan mesotelium peritoneum.
-    
 - Menarke dini dan siklus menstruasi pendek meningkatkan frekuensi paparan menstruasi.
-    
 - Lokasi yang sering terkena meliputi ovarium, kavum Douglasi, ligamentum uterosakral, permukaan posterior uterus, dan bagian posterior ligamentum latum.
-    
 - Endometriosis dapat diinduksi secara eksperimental pada hewan melalui tindakan yang menyebabkan menstruasi ke rongga peritoneum.
-    
 
 ## B. Teori penyebaran hematogen dan limfogen
 
@@ -116,11 +91,8 @@ Teori metastasis limfatik dan vaskular dikemukakan oleh Halban pada tahun 1924.
 Jaringan endometrium dapat tersebar secara langsung selama tindakan pembedahan. Implantasi dapat terjadi pada lokasi luka operasi, misalnya:
 
 - Insisi seksio sesarea.
-    
 - Luka operasi histerektomi.
-    
 - Luka episiotomi.
-    
 
 ## D. Teori sisa sel embrionik
 
@@ -133,9 +105,7 @@ Sel-sel tersebut kemudian merespons hormon ovarium dan berkembang menjadi jaring
 Teori ini dikemukakan oleh Iwanoff dan Meyer pada tahun 1919.
 
 - Endometrium dan peritoneum pelvis berasal dari epitel selomik yang sama.
-    
 - Paparan estrogen dalam waktu lama diduga dapat menyebabkan metaplasia epitel selomik menjadi jaringan menyerupai endometrium.
-    
 
 ## F. Teori induksi
 
@@ -146,13 +116,9 @@ Teori Levander dan Normann (1955) menyatakan bahwa jaringan endometrium yang ter
 Endometrioma dapat terbentuk melalui proses berikut:
 
 1. Jaringan endometriosis melekat pada permukaan ovarium.
-    
 2. Permukaan korteks ovarium mengalami invaginasi.
-    
 3. Jaringan endometriosis masuk ke dalam korteks ovarium.
-    
 4. Terbentuk kista endometriosis atau endometrioma.
-    
 
 ## H. Teori hormonal
 
@@ -163,11 +129,8 @@ Faktor yang mengurangi produksi estrogen endogen, seperti amenore, menopause, da
 ## I. Teori imunologi dan lingkungan
 
 - Gangguan cell-mediated immunity diduga menurunkan respons sel T dan sel natural killer (NK) terhadap jaringan endometrium di luar uterus.
-    
 - Perubahan imunitas seluler dan humoral diduga berperan dalam perkembangan penyakit.
-    
 - Dioksin dari lingkungan diduga dapat menyebabkan disfungsi sistem imun.
-    
 
 ## J. Teori genetik
 
@@ -182,15 +145,10 @@ Sel punca yang beredar dari sumsum tulang diduga dapat berdiferensiasi menjadi j
 Secara histologis, lesi endometriosis dapat mengandung:
 
 - Kelenjar yang menyerupai kelenjar endometrium.
-    
 - Stroma yang menyerupai stroma endometrium.
-    
 - Kombinasi kelenjar dan stroma.
-    
 - Hemosiderin, yang berasal dari pemecahan hemoglobin akibat perdarahan berulang.
-    
 - Makrofag, termasuk makrofag yang mengandung hemosiderin.
-    
 
 Temuan kelenjar dan stroma menyerupai endometrium, disertai atau tanpa hemosiderin, membantu menggambarkan karakteristik histologis lesi endometriosis.
 
@@ -221,18 +179,13 @@ Lokasi yang sering ditemukan adalah ovarium dan kavum Douglasi.
 |Endometriosis pelvis|Lesi endometriosis berada pada organ atau peritoneum pelvis.|
 |Endometriosis ekstra-pelvis|Lesi endometriosis berada di luar rongga pelvis.|
 
-Catatan: Adenomiosis merupakan kondisi ketika jaringan menyerupai endometrium terdapat di dalam miometrium, sedangkan endometriosis pelvis umumnya merujuk pada lesi di luar uterus.
-
 ## B. Berdasarkan bentuk lesi dan patogenesis
 
 Terdapat tiga tipe utama:
 
 1. Endometriosis superfisial peritoneum.
-    
 2. Endometriosis ovarium atau endometrioma.
-    
 3. Endometriosis susukan dalam (deep infiltrating endometriosis).
-    
 
 ## C. Endometriosis superfisial peritoneum
 
@@ -244,6 +197,8 @@ Lesi ditemukan pada organ atau peritoneum pelvis, terutama ovarium dan kavum Dou
 |Lesi nonklasik red flame-like|Lesi berwarna merah.|
 |Lesi nonklasik white ossification|Lesi berwarna putih.|
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792868914000xd5trh.png)
+
 Secara histologis, lesi aktif cenderung mengandung lebih banyak kelenjar, sedangkan lesi nonaktif cenderung memiliki lebih banyak stroma.
 
 ## D. Endometrioma
@@ -253,28 +208,24 @@ Endometrioma adalah kista endometriosis yang terbentuk pada ovarium.
 Karakteristiknya:
 
 - Berisi cairan kental berwarna cokelat.
-    
 - Dapat menyerupai pseudokista.
-    
 - Berkaitan dengan invaginasi korteks ovarium setelah implantasi jaringan endometriosis.
-    
 - Dapat disertai adhesi atau perlengketan pada struktur di sekitarnya.
-    
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17928689460000w85bm.png)
 
 ## E. Endometriosis susukan dalam (deep infiltrating endometriosis/DIE)
 
-DIE ditandai oleh nodul yang menginvasi jaringan hingga lebih dari 5 mm di bawah permukaan peritoneum.
+DIE ditandai oleh nodul yang menginvasi jaringan hingga **lebih dari 5 mm di bawah permukaan peritoneum**.
 
 Karakteristiknya:
 
 - Dapat terdiri atas jaringan fibromuskular dan jaringan menyerupai adenomiosis.
-    
 - Sering ditemukan pada ligamentum uterosakral dan daerah kavum Douglasi.
-    
 - Dapat ditemukan sepanjang struktur yang berkaitan dengan duktus Müllerian.
-    
 - Dapat mengenai bagian dalam miometrium, yang berkaitan dengan adenomiosis, serta forniks posterior vagina pada daerah rektovaginal.
-    
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792868986000kb2ijx.png)
 
 # 8. Gambaran Klinis
 
@@ -290,7 +241,7 @@ Nyeri dapat muncul dalam beberapa bentuk:
 |Nyeri panggul|Nyeri pada daerah panggul|
 |Dispareunia|Nyeri saat berhubungan seksual|
 
-Angka yang ditampilkan pada slide untuk keluhan nyeri adalah:
+Angka prevalensi untuk keluhan nyeri adalah:
 
 |Keluhan|Persentase|
 |---|---|
@@ -304,7 +255,7 @@ Massa dapat berupa endometrioma, yaitu kista endometriosis pada ovarium. Ukurann
 
 ## C. Infertilitas
 
-Endometriosis dapat berkaitan dengan infertilitas. Angka infertilitas yang dicantumkan pada slide adalah 55% di Australia dan 43% di Inggris.
+Endometriosis dapat berkaitan dengan infertilitas. Angka infertilitas adalah 55% di Australia dan 43% di Inggris.
 
 Hal penting: Derajat endometriosis tidak selalu berkorelasi dengan beratnya gejala. Pasien dengan stadium lanjut dapat mengalami nyeri ringan atau bahkan tidak bergejala, sedangkan pasien dengan stadium lebih ringan dapat mengalami nyeri berat.
 
@@ -317,13 +268,9 @@ Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan p
 Keluhan yang perlu diperhatikan terutama:
 
 - Dismenorea atau nyeri saat menstruasi.
-    
 - Nyeri panggul.
-    
 - Dispareunia atau nyeri saat berhubungan seksual.
-    
 - Infertilitas.
-    
 
 Derajat penyakit tidak dapat dipastikan hanya dari beratnya keluhan.
 
@@ -334,15 +281,10 @@ Pada endometriosis ringan, pemeriksaan fisik dapat tampak normal, terutama jika 
 Pada penyakit yang lebih berat, dapat ditemukan:
 
 - Pergeseran serviks sekitar 1 cm atau lebih ke kiri atau kanan dari garis tengah.
-    
 - Nyeri pada pemeriksaan bimanual.
-    
 - Nodul pada ligamentum uterosakral atau bagian posterior kavum Douglasi.
-    
 - Massa kistik pada adneksa dengan ukuran, bentuk, dan konsistensi yang bervariasi, terkadang asimetris.
-    
 - Uterus terfiksasi dalam posisi retrofleksi.
-    
 
 Pemeriksaan yang disebutkan meliputi pemeriksaan vaginal toucher (VT) dan rectal toucher (RT).
 
@@ -365,11 +307,8 @@ CA-125 merupakan penanda tumor yang dapat meningkat pada endometriosis, tetapi t
 Kegunaan dan keterbatasan:
 
 - Tidak digunakan untuk skrining karena sensitivitasnya rendah.
-    
 - Dapat digunakan untuk memantau perkembangan penyakit.
-    
 - Nilai CA-125 tidak dapat digunakan sendirian untuk menentukan stadium endometriosis.
-    
 
 ### 2. Ultrasonografi transvaginal (TVUS)
 
@@ -380,9 +319,13 @@ TVUS dapat mendeteksi endometrioma, tetapi memiliki keterbatasan untuk menunjukk
 |Sensitivitas|83%|
 |Spesifisitas|98%|
 
+![gh|483](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792869165000yfkzzi.png)
+
 ### 3. CT scan
 
-CT scan dapat digunakan untuk menilai endometrioma solid maupun kistik. Namun, pemeriksaan ini memiliki keterbatasan berupa spesifisitas yang rendah dan paparan radiasi, sehingga MRI lebih diutamakan dalam konteks yang dijelaskan pada slide.
+CT scan dapat digunakan untuk menilai endometrioma solid maupun kistik. Namun, pemeriksaan ini memiliki keterbatasan berupa spesifisitas yang rendah dan paparan radiasi, sehingga lebih diutamakan MRI.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792869183000hxrccg.png)
 
 ### 4. MRI
 
@@ -390,58 +333,53 @@ MRI merupakan modalitas pencitraan yang disebutkan sebagai pengganti CT scan kar
 
 ### 5. Laparoskopi
 
-Laparoskopi ditampilkan sebagai pemeriksaan baku emas untuk diagnosis endometriosis dalam materi kuliah ini.
+#Ingat Laparoskopi adalah pemeriksaan **baku emas** *(gold standart)* untuk diagnosis endometriosis.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792869278000a8dbue.png)
 
 Pemeriksaan dilakukan dengan melihat langsung rongga pelvis menggunakan alat laparoskop. Hasilnya bergantung pada kemampuan operator dalam mengenali lesi endometriosis.
 
-# 10. Klasifikasi Stadium Endometriosis
+# 10. Klasifikasi Stadium Endometriosis #Ingat
 
-Klasifikasi yang digunakan membagi endometriosis menjadi empat stadium berdasarkan jumlah nodul, kedalaman implantasi, endometrioma, dan luas perlengketan.
+Endometriosis dibagi menjadi empat stadium berdasarkan jumlah nodul, kedalaman implantasi, endometrioma, dan luas perlengketan.
 
-|Stadium|Derajat|Karakteristik|
-|---|---|---|
-|I|Minimal|Sedikit nodul endometriosis, dapat berwarna merah, cokelat, atau biru.|
-|II|Ringan|Nodul lebih banyak dan implantasi mulai lebih dalam; belum tampak perlengketan.|
-|III|Sedang|Nodul lebih banyak, implantasi lebih dalam, terdapat endometrioma kecil pada salah satu ovarium, dan mulai terlihat perlengketan halus di sekitar ovarium.|
-|IV|Berat|Nodul semakin banyak dan lebih dalam, terdapat endometrioma besar, serta perlengketan luas, biasanya antara uterus dan rektum.|
+| Stadium | Derajat | Karakteristik                                                                                                                                                      |
+| ------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| I       | Minimal | **Sedikit nodul** endometriosis, dapat berwarna merah, cokelat, atau biru.                                                                                         |
+| II      | Ringan  | **Nodul lebih banyak** dan implantasi mulai lebih dalam; **belum tampak perlengketan**.                                                                            |
+| III     | Sedang  | Nodul lebih banyak, implantasi lebih dalam, terdapat **endometrioma kecil** pada salah satu ovarium, dan **mulai terlihat perlengketan** halus di sekitar ovarium. |
+| IV      | Berat   | Nodul semakin banyak dan lebih dalam, terdapat **endometrioma besar**, serta **perlengketan luas**, biasanya antara uterus dan rektum.                             |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792869471000z0jv3c.png)
 
 Materi juga mencantumkan Revised American Fertility Society (AFS) 1985 sebagai sistem klasifikasi.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17928696070002z7tqa.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792869640000kjbmh6.png)
 
 # 11. Diagnosis Banding
 
 Penyakit yang perlu dipertimbangkan sebagai diagnosis banding endometriosis:
 
 1. Penyakit infeksi panggul kronis.
-    
 2. Salpingitis akut.
-    
 3. Kista hemoragik korpus luteum.
-    
 4. Torsi kista.
-    
 5. Neoplasma ovarium.
-    
 6. Kehamilan ektopik.
-    
 
-# 12. Ringkasan untuk Mengingat
+# 12. Rangkuman
 
-- Definisi: jaringan menyerupai endometrium di luar uterus.
-    
-- Faktor risiko: menarke dini, siklus pendek, perdarahan banyak dan lama, nullipara, serta stenosis serviks.
-    
-- Teori utama: menstruasi retrograd, penyebaran vaskular atau limfatik, implantasi iatrogenik, metaplasia selomik, dan teori hormonal maupun imunologi.
-    
-- Lokasi umum: ovarium dan kavum Douglasi.
-    
-- Tiga gambaran klinis utama: nyeri, endometrioma, dan infertilitas.
-    
-- CA-125: sensitivitas rendah sehingga tidak digunakan untuk skrining.
-    
-- TVUS: membantu mendeteksi endometrioma.
-    
-- Laparoskopi: pemeriksaan baku emas yang dicantumkan dalam materi.
-    
-- Stadium I–IV: derajat penyakit meningkat seiring bertambahnya jumlah dan kedalaman lesi serta luas perlengketan.
-    
-- Korelasi gejala: beratnya nyeri tidak selalu sesuai dengan stadium penyakit.
+| Aspek                 | Ringkasan                                                                                                                               |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Definisi              | Jaringan menyerupai endometrium di luar uterus.                                                                                         |
+| Faktor risiko         | Menarke dini, siklus menstruasi pendek, perdarahan banyak dan lama, nullipara, serta stenosis serviks.                                  |
+| Teori utama           | Menstruasi retrograd, penyebaran vaskular atau limfatik, implantasi iatrogenik, metaplasia selomik, serta teori hormonal dan imunologi. |
+| Lokasi umum           | Ovarium dan kavum Douglasi.                                                                                                             |
+| Gambaran klinis utama | Nyeri, endometrioma, dan infertilitas.                                                                                                  |
+| CA-125                | Sensitivitas rendah sehingga tidak digunakan untuk skrining.                                                                            |
+| TVUS                  | Membantu mendeteksi endometrioma.                                                                                                       |
+| Laparoskopi           | Pemeriksaan baku emas.                                                                                                                  |
+| Stadium I–IV          | Derajat penyakit meningkat seiring bertambahnya jumlah dan kedalaman lesi serta luas perlengketan.                                      |
+| Korelasi gejala       | Beratnya nyeri tidak selalu sesuai dengan stadium penyakit.                                                                             |
