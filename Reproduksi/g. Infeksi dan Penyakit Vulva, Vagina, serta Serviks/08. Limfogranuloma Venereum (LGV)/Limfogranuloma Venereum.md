@@ -111,12 +111,12 @@ Merupakan bentuk kronis yang melibatkan sistem limfatik genital, terutama pada s
 
 Diagnosis banding bergantung pada bentuk klinis yang ditemukan.
 
-| Bentuk klinis LGV      | Diagnosis banding                                                       |
-| ---------------------- | ----------------------------------------------------------------------- |
-| Lesi genital primer    | Herpes genital, sifilis, dan chancroid                                  |
-| Sindrom inguinal       | Skrofuloderma dan hernia inguinalis                                     |
-| Keterlibatan anorektal | Penyakit Crohn, terutama jika menyerupai proktokolitis kronis           |
-| Lesi eksofitik         | Tumor atau lesi proliferatif lain yang memiliki gambaran menyerupai LGV |
+| Bentuk klinis LGV      | Diagnosis banding                                                             |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| Lesi genital primer    | Herpes genital, sifilis (tdk nyeri, LGV jga tdk nyeri), dan chancroid (nyeri) |
+| Sindrom inguinal       | Skrofuloderma dan hernia inguinalis                                           |
+| Keterlibatan anorektal | Penyakit Crohn, terutama jika menyerupai proktokolitis kronis                 |
+| Lesi eksofitik         | Tumor atau lesi proliferatif lain yang memiliki gambaran menyerupai LGV       |
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792818704000vno34r.png)
 
@@ -147,13 +147,13 @@ Pemeriksaan difokuskan pada:
 
 ## C. Pemeriksaan penunjang
 
-1. **Uji Frei** #Ingat 
+1. **Uji Frei**
 
 - Literatur lama melaporkan hasil positif pada sekitar 95% pasien dengan LGV bentuk bubonik dan sekitar 90% pasien dengan elephantiasis genital ulseratif.
-- Sensitivitas pemeriksaan ini kurang memadai.
+- Sensitivitas pemeriksaan ini kurang memadai → **makanya yang direkomendasikan (GOLD STANDARD) sekarang itu NAAT (Nucleic Acid Amplification Test)** #Ingat 
 
 1. **Pemeriksaan serologis**
-
+ 
 - Complement-fixation test.
 - Microimmunofluorescence test.
 
