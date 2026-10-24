@@ -309,3 +309,15 @@ Tips menghafal:
 - Furunkel: infeksi folikel membentuk abses.
 - Karbunkel: kumpulan furunkel.
 - HS: Hurley menilai kerusakan kronis — stadium I tanpa sinus/parut, stadium II sinus/parut terpisah, stadium III sinus luas saling berhubungan.
+
+## Rangkuman Tatalaksana Abses Folikel Rambut dan Kelenjar Sebasea
+
+|Penyakit|Terapi nonfarmakologis / tindakan|Terapi topikal|Terapi sistemik|
+|---|---|---|---|
+|Folikulitis superfisialis dan profunda|Menghindari faktor predisposisi, iritasi, dan kelembapan berlebih; kompres NaCl 0,9% atau larutan antiseptik.|Mupirosin, neomisin, atau basitrasin salep.|Ampisilin, amoksisilin, kloksasilin, linkomisin, klindamisin, atau eritromisin sesuai indikasi.|
+|Furunkel dan karbunkel|Insisi dan drainase bila terbentuk abses yang memerlukan pengeluaran pus.|Mupirosin 2%, basitrasin, atau neomisin.|Antibiotik bila terdapat selulitis, demam, atau indikasi klinis lain: ampisilin, amoksisilin, kloksasilin, linkomisin, klindamisin, eritromisin, atau sefadroksil.|
+|Hidradenitis supurativa (Hurley I)|Mengurangi faktor yang memperberat, seperti merokok, obesitas, gesekan, dan kelembapan; injeksi triamcinolone intralesi.|Klindamisin 1%, metronidazol 0,75%, atau eritromisin 2%.|Tetrasiklin oral; alternatif pada kasus refrakter meliputi klindamisin + rifampisin, doksisiklin, minosiklin, dapson, atau trimetoprim-sulfametoksazol. Terapi antiandrogen oral pada pasien terpilih.|
+|Hidradenitis supurativa (Hurley II)|Eksisi lokal; laser CO₂ atau Nd:YAG pada kasus terpilih.|Terapi topikal seperti pada stadium I dapat digunakan sesuai kondisi lesi.|Antibiotik oral seperti pada stadium I; regimen disesuaikan dengan respons terapi.|
+|Hidradenitis supurativa (Hurley III)|Eksisi luas dan/atau laser CO₂ sesuai indikasi.|Terapi topikal dapat menjadi terapi tambahan, tetapi umumnya tidak cukup sebagai terapi tunggal.|Antibiotik sistemik; pada kasus tertentu dapat dipertimbangkan kombinasi rifampisin, ofloksasin, dan metronidazol.|
+
+Catatan penting: Tabel merangkum pilihan terapi yang tercantum dalam bahan kuliah, bukan berarti semua antibiotik setara atau dapat dipilih bebas. Antibiotik dan dosis harus disesuaikan dengan kondisi pasien, alergi, pola resistensi, dan pedoman klinis. Pada furunkel atau karbunkel yang membentuk abses, drainase merupakan tindakan penting; pada hidradenitis supurativa, terapi disesuaikan dengan stadium dan sifat penyakit yang kronis.
