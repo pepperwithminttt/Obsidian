@@ -158,7 +158,7 @@ Diagnosis kerja mencakup jenis PUA, kode penyebab berdasarkan PALM–COEIN, dan 
 | Perempuan 38 tahun, siklus teratur, menstruasi banyak, **uterus berbenjol**              | PUA kronik, suspek mioma uteri (PUA-L)                    |
 | **Akseptor KB suntik 3 bulan** dengan bercak tidak teratur                               | PUA kronik akibat faktor iatrogenik (PUA-I)               |
 
-# 11. Tata Laksana Awal PUA Akut
+# 11. Tata Laksana Awal PUA Akut #Ingat
 
 PUA akut memerlukan penilaian cepat terhadap stabilitas hemodinamik dan pengendalian perdarahan. Terapi disesuaikan dengan kondisi klinis, kontraindikasi, dan respons pasien.
 
@@ -182,7 +182,7 @@ PUA akut memerlukan penilaian cepat terhadap stabilitas hemodinamik dan pengenda
 
 Kriteria rujukan segera: perdarahan tidak berhenti dalam 12–24 jam atau kondisi hemodinamik memburuk. Penanganan lanjutan, termasuk dilatasi dan kuretase, dilakukan oleh dokter spesialis obstetri dan ginekologi (SpOG) sesuai indikasi.
 
-# 12. Tata Laksana Awal PUA Kronik
+# 12. Tata Laksana Awal PUA Kronik #Ingat
 
 |Kelompok|Tata laksana awal|
 |---|---|
