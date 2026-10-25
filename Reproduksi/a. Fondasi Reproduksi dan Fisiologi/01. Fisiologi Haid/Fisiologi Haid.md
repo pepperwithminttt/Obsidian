@@ -259,7 +259,7 @@ Amenore dapat dibagi menjadi dua bentuk, yaitu fisiologis dan patologis.
 **Pemeriksaan penunjang:**
 
 - Pemeriksaan hormonal sesuai dugaan penyebab.
-- Pemeriksaan tiroid, termasuk T3/T4 sebagaimana tercantum dalam materi.
+- Pemeriksaan tiroid, termasuk T3/T4.
 - Pemeriksaan pencitraan atau radiologi sesuai indikasi.
 
 ### Penanganan amenore
