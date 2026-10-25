@@ -218,11 +218,8 @@ Pemeriksaan dilakukan pada kedua pasangan karena penyebab infertilitas dapat ber
 Pada pria
 
 - Pemeriksaan genitalia dan testis.
-    
 - Penilaian kelainan saluran keluar, misalnya hipospadia.
-    
 - Penilaian kelainan anatomi yang dapat memengaruhi fungsi reproduksi.
-    
 
 Pada perempuan
 
@@ -240,54 +237,68 @@ Pada perempuan
 
 Analisis sperma merupakan pemeriksaan utama untuk menilai faktor pria.
 
-Persiapan dan prosedur sesuai slide:
+Persiapan dan prosedur:
 
 - Pengumpulan sampel setelah abstinensia seksual selama 48 jam.
-    
 - Evaluasi sampel sekitar 1 jam setelah ejakulasi.
-    
 - Jika ditemukan parameter abnormal, pemeriksaan diulang dua kali dengan jarak sekitar 2 minggu.
-    
 - Parameter yang dinilai: volume semen, jumlah atau konsentrasi sperma, motilitas, dan morfologi.
-    
 
-### Nilai rujukan yang dicantumkan
+### Nilai rujukan analisis sperma normal
 
-|Parameter|Nilai tradisional|WHO 2010|
-|---|---|---|
-|Konsentrasi sperma|>20 juta/mL|>15 juta/mL|
-|Motilitas progresif (kategori a+b pada klasifikasi lama)|>50%|>40%|
-|Morfologi normal|>15%|>4%|
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792921362000zke43h.png)
 
-Angka di atas mengikuti tabel dalam kuliah dan merupakan nilai rujukan yang digunakan pada slide, bukan otomatis batas rujukan laboratorium terkini.
+### Interpretasi analisis sperma
 
-### Istilah kelainan analisis sperma
+| Parameter                                                | Nilai tradisional | WHO 2010    | Bila kurang dari nilai referensi |
+| -------------------------------------------------------- | ----------------- | ----------- | -------------------------------- |
+| Konsentrasi sperma                                       | ≥20 juta/mL       | ≥15 juta/mL | Oligospermia                     |
+| Motilitas progresif (kategori a+b pada klasifikasi lama) | ≥50%              | ≥40%        | Asthenospermia                   |
+| Morfologi normal                                         | ≥15%              | ≥4%         | Teratozoospermia                 |
 
-|Istilah|Pengertian|
-|---|---|
-|Oligospermia|Konsentrasi sperma rendah.|
-|Asthenospermia|Motilitas sperma rendah.|
-|Teratozoospermia|Proporsi sperma dengan morfologi normal rendah.|
-|OAT (oligo-astheno-teratozoospermia)|Kelainan konsentrasi, motilitas, dan morfologi secara bersamaan.|
-|Cryptozoospermia|Sperma hanya ditemukan dalam jumlah sangat sedikit, biasanya setelah pemeriksaan atau pemekatan sampel.|
-|Azoospermia|Tidak ditemukan sperma dalam cairan ejakulat.|
-|Aspermia|Tidak terdapat cairan semen saat ejakulasi.|
+#### Istilah kelainan analisis sperma
+
+| Istilah                              | Pengertian                                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Oligospermia                         | Konsentrasi sperma rendah.                                                                              |
+| Asthenospermia                       | Motilitas sperma rendah.                                                                                |
+| Teratozoospermia                     | Proporsi sperma dengan morfologi normal rendah.                                                         |
+| OAT (oligo-astheno-teratozoospermia) | Kelainan konsentrasi, motilitas, dan morfologi secara bersamaan.                                        |
+| Cryptozoospermia                     | Sperma hanya ditemukan dalam jumlah sangat sedikit, biasanya setelah pemeriksaan atau pemekatan sampel. |
+| Azoospermia                          | Tidak ditemukan sperma dalam cairan ejakulat.                                                           |
+| Aspermia                             | Tidak terdapat cairan semen saat ejakulasi.                                                             |
 
 Pada azoospermia, pengambilan sperma dapat dilakukan melalui:
 
 - PESA (percutaneous epididymal sperm aspiration): aspirasi sperma dari epididimis.
-    
 - TESE (testicular sperm extraction): pengambilan sperma dari jaringan testis.
-    
 
-## 4.4. Pemeriksaan faktor ovulasi
+## 4.4. Pemeriksaan faktor serviks
 
-|Pemeriksaan|Interpretasi|
-|---|---|
-|Suhu badan basal (SBB)|Pola bifasik mendukung terjadinya ovulasi. Perbedaan suhu yang dicantumkan sekitar 0,4–0,8°C.|
+Pemeriksaan faktor serviks bertujuan menilai produksi mukus serviks serta interaksi antara sperma dan mukus serviks. Metodenya adalah dengan PCT.
 
-| Progesteron serum | Diambil sekitar 1 minggu sebelum perkiraan menstruasi berikutnya, mendekati puncak fase luteal. Kadar Regimen di atas ditulis ulang dari slide kuliah, bukan instruksi penggunaan mandiri. Dosis, indikasi, dan langkah berikutnya harus ditentukan dokter berdasarkan respons pasien dan pemantauan risiko stimulasi ovarium.
+### Post-Coital Test (PCT) / Tes Pascasenggama
 
+| Aspek                    | Keterangan                                                                                           |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Tujuan                   | Menilai produksi mukus serviks dan interaksi sperma dengan mukus serviks.                            |
+| Waktu pemeriksaan        | Sekitar waktu ovulasi.                                                                               |
+| Waktu pengambilan sampel | 6–10 jam setelah senggama.                                                                           |
+| Metode                   | Mengambil sampel mukus serviks setelah senggama, kemudian mengevaluasi sperma menggunakan mikroskop. |
+| Hasil jika normal        | ≥10 sperma motil per lapang pandang.                                                                 |
+
+![gh|189](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929219380002jad4c.png)
+
+Interpretasi gambar: sperma diamati di dalam mukus serviks untuk menilai keberadaan dan motilitasnya setelah hubungan seksual.
+
+## 4.5. Pemeriksaan faktor ovulasi
+
+| Pemeriksaan            | Interpretasi                                                                                                                                                                     |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Suhu badan basal (SBB) | Jika pola SBB **bifasik berarti memang ada ovulasi**. Perbedaan suhu antara saat ovulasi dan tidak adalah sekitar 0,4–0,8°C.                                                     |
+| Progesteron serum      | Jika kadar **progesteron serum >3 ng/mL → anovulasi** (tidak ada ovulasi). Diambil sekitar 1 minggu sebelum perkiraan onset menstruasi berikutnya, mendekati puncak fase luteal. |
+
+![gh|421](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792922076000ayjofm.png)
 ### B. Gonadotropin
 
 |Obat|Fungsi|Regimen yang dicantumkan|
