@@ -141,13 +141,9 @@ Serviks berperan dalam membantu sperma masuk ke traktus reproduksi perempuan. Mu
 Penyebab gangguan faktor serviks:
 
 - Kelainan anatomi: retroversi, serviks panjang, dan stenosis serviks.
-    
 - Infeksi: termasuk infeksi Ureaplasma.
-    
 - Faktor imunologi: antibodi antisperma yang dapat mengganggu interaksi sperma dengan mukus serviks.
-    
 - Gangguan mukus serviks: produksi atau karakteristik mukus yang tidak mendukung transportasi sperma.
-    
 
 ### c. Faktor uterus
 
@@ -168,15 +164,11 @@ Gangguan ovulasi menyebabkan oosit tidak dilepaskan secara normal sehingga kesem
 Penyebab atau kondisi yang berkaitan dengan gangguan ovulasi:
 
 - Sindrom ovarium polikistik (polycystic ovary syndrome, PCOS).
-    
 - Hiperprolaktinemia.
-    
 - Hipertiroidisme.
-    
 - Gangguan fungsi ovarium dan respons terhadap hormon gonadotropin.
-    
 
-Mekanisme utama: gangguan pematangan folikel atau pelepasan oosit menyebabkan ovulasi tidak terjadi atau berlangsung tidak teratur.
+Mekanisme utama: gangguan pematangan folikel atau pelepasan oosit menyebabkan ovulasi tidak terjadi atau berlangsung tidak teratur. **Biasanya pasien yang begini itu haidnya tidak teratur.**
 
 ### e. Faktor tuba
 
@@ -185,19 +177,12 @@ Tuba falopi berfungsi menangkap oosit melalui fimbria dan menjadi tempat transpo
 Penyebab tersering gangguan tuba meliputi:
 
 - Penyakit radang panggul (pelvic inflammatory disease, PID) dan infeksi menular seksual (IMS).
-    
 - Abortus septik.
-    
 - Riwayat penggunaan IUD yang berkaitan dengan infeksi.
-    
 - Riwayat operasi pelvis atau tuba.
-    
 - Apendisitis perforasi.
-    
 - Tuberkulosis.
-    
-- Endometriosis.
-    
+- Endometriosis.    
 
 Gangguan patensi atau kerusakan anatomi tuba dapat menghambat pertemuan sperma dan oosit, transportasi hasil fertilisasi, serta meningkatkan risiko kehamilan ektopik.
 
@@ -206,15 +191,10 @@ Gangguan patensi atau kerusakan anatomi tuba dapat menghambat pertemuan sperma d
 Endometriosis dapat berhubungan dengan infertilitas melalui beberapa mekanisme:
 
 1. Adhesi dan distorsi anatomi: terutama pada endometriosis berat, sehingga hubungan antara ovarium, fimbria, dan tuba terganggu.
-    
 2. Gangguan pematangan folikel: perkembangan oosit dapat terganggu.
-    
 3. Gangguan ovum pick-up: fimbria kesulitan menangkap oosit yang dilepaskan ovarium.
-    
 4. Gangguan transportasi: perpindahan oosit atau hasil konsepsi terganggu.
-    
 5. Efek toksik cairan peritoneal: lingkungan peritoneum dapat memengaruhi proses reproduksi.
-    
 
 Pada endometriosis minimal atau ringan, hubungan sebab-akibat dengan infertilitas belum jelas. Pada endometriosis berat, adhesi dan distorsi anatomi menjadi mekanisme penting.
 
@@ -223,8 +203,6 @@ Pada endometriosis minimal atau ringan, hubungan sebab-akibat dengan infertilita
 Pemeriksaan dilakukan pada kedua pasangan karena penyebab infertilitas dapat berasal dari pria, perempuan, atau kombinasi keduanya.
 
 ## 4.1. Anamnesis
-
-Hasil OCR gambar anamnesis dilengkapi dengan label visual yang terbaca pada slide.
 
 |Aspek|Hal yang dinilai|
 |---|---|
