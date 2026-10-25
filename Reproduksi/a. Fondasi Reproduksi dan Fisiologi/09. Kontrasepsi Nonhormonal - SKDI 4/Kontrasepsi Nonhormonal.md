@@ -396,7 +396,7 @@ AKDR dapat dipertimbangkan pada perempuan usia reproduksi yang:
 
 ## F. Kondisi yang Tidak Sesuai untuk Pemasangan (WHO Kelas 4)
 
-Kondisi yang disebutkan sebagai kontraindikasi meliputi:
+Kondisi yang menjadi kontraindikasi meliputi:
 
 - Kehamilan yang diketahui atau dicurigai.
 - Perdarahan pervaginam yang belum diketahui penyebabnya.
