@@ -156,10 +156,24 @@ Dipertimbangkan bila terapi awal tidak efektif, tidak dapat digunakan, atau tida
 
 Injeksi intrakavernosa memerlukan edukasi dan pemantauan klinis karena dapat menimbulkan nyeri, perdarahan, atau priapismus (ereksi berkepanjangan).
 
+![gh|415](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792947690000k7k9e4.png)
+
+![gh|547](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792947720000xpji3x.png)
+
+![gh|552](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792947785000y64jnb.png)
+
+![gh|564](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929489710006ryk2o.png)
+
+![gh|552](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179294901300081i9gx.png)
+
 ### Lini ketiga
 
 - **Prostesis penis**: dapat berupa prostesis malleable/semi-kaku atau inflatable/dapat dikembangkan.
 - **Revaskularisasi penis**: dipertimbangkan pada pasien terpilih dengan indikasi vaskular tertentu.
+
+![gh|540](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792949033000o1fbf5.png)
+
+![gh|537](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792949049000h3zq8m.png)
 
 ## Contoh kasus disfungsi ereksi
 
@@ -173,7 +187,7 @@ Gambaran tersebut paling sesuai dengan **disfungsi ereksi multifaktorial**, teru
 
 ## Definisi
 
-Ejakulasi dini adalah kondisi menetap atau berulang ketika ejakulasi terjadi dengan stimulasi minimal, sebelum atau segera setelah penetrasi, lebih cepat daripada yang diinginkan, serta menimbulkan distres atau masalah interpersonal.
+Ejakulasi dini adalah kondisi menetap atau berulang ketika **ejakulasi terjadi dengan stimulasi minimal**, sebelum atau segera setelah penetrasi, **lebih cepat daripada yang diinginkan**, serta **menimbulkan distres** atau masalah interpersonal.
 
 Penilaian tidak hanya berdasarkan durasi. Perasaan kehilangan kendali, ketidakpuasan, distres, penghindaran hubungan seksual, dan dampaknya terhadap pasangan juga perlu diperhatikan.
 
@@ -183,14 +197,18 @@ Penilaian tidak hanya berdasarkan durasi. Perasaan kehilangan kendali, ketidakpu
 
 IELT membantu penilaian, tetapi tidak boleh digunakan sendirian untuk menetapkan diagnosis. Keluhan, kendali terhadap ejakulasi, konsistensi kejadian, dan distres pasien/pasangan juga penting.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792949912000k6uxxc.png)
+
+**Note**: Klo diliat dri grafik di atas, kebanyakan org IELT-nya itu sekitar 6 menit.
+
 ## Klasifikasi
 
-| Jenis | Gambaran umum | Etiologi yang digambarkan | Pendekatan yang disebutkan |
-|---|---|---|---|
-| **Lifelong/primer** | Terjadi sejak pengalaman seksual awal; IELT sangat cepat | Faktor genetik dan neurobiologis | Terapi medikamentosa |
-| **Acquired/sekunder** | Muncul setelah sebelumnya tidak mengalami masalah serupa | Faktor psikologis atau kondisi medis | Psikoterapi dan/atau obat |
-| **Natural variation** | Variasi normal durasi ejakulasi; waktu dapat berada dalam rentang normal | Variasi normal | Edukasi dan reassurance |
-| **Premature-like ejaculatory dysfunction** | Keluhan merasa ejakulasi terlalu cepat meskipun IELT normal atau panjang | Terutama faktor psikologis/persepsi | Psikoterapi dan konseling |
+| Jenis                                      | Gambaran umum                                                            | Etiologi                             | Pendekatan                |
+| ------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------ | ------------------------- |
+| **Lifelong/primer**                        | Terjadi sejak pengalaman seksual awal; IELT sangat cepat                 | Faktor genetik dan neurobiologis     | Terapi medikamentosa      |
+| **Acquired/sekunder**                      | Muncul setelah sebelumnya tidak mengalami masalah serupa                 | Faktor psikologis atau kondisi medis | Psikoterapi dan/atau obat |
+| **Natural variation**                      | Variasi normal durasi ejakulasi; waktu dapat berada dalam rentang normal | Variasi normal                       | Edukasi dan reassurance   |
+| **Premature-like ejaculatory dysfunction** | Keluhan merasa ejakulasi terlalu cepat meskipun IELT normal atau panjang | Terutama faktor psikologis/persepsi  | Psikoterapi dan konseling |
 
 Klasifikasi ini membantu membedakan ejakulasi dini yang sebenarnya dari variasi normal atau persepsi subjektif bahwa ejakulasi terlalu cepat.
 
@@ -199,6 +217,76 @@ Klasifikasi ini membantu membedakan ejakulasi dini yang sebenarnya dari variasi 
 - **Sekunder** = baru muncul kemudian.  
 - **Natural variation** = variasi normal.  
 - **Premature-like** = merasa terlalu cepat, padahal waktu dapat normal atau panjang.
+
+## Prevalensi
+
+Prevalensi ejakulasi dini (premature ejaculation/PE) bervariasi berdasarkan definisi diagnostik, jumlah sampel, dan negara tempat penelitian dilakukan.
+
+|Definisi diagnostik|Jumlah sampel (N)|Prevalensi PE|Negara|
+|---|---|---|---|
+|DSM-IV-TR¹|12.558|21,2%|Italia|
+|DSM-IV-TR²|1.115|18,2%|Prancis, Amerika Serikat, Jerman, Italia, Polandia|
+|Early Ejaculation³|1.119|30,3%|Brasil|
+|Premature Ejaculation⁴|307|66%|Jerman|
+|DSM-IV-TR⁵|298|19,5%|Tiongkok|
+|DSM-IV-TR⁶|12.133|22,7%|Amerika Serikat, Italia, Jerman|
+|Premature Ejaculation|1.500|16%|Prancis|
+
+Referensi:
+
+1. Fasolo, Journal of Sexual Medicine, 2005.
+2. Giuliano, European Urology, 2007.
+3. Moreira Jr., São Paulo Medical Journal, 2005.
+4. Aschka, Journal of Family Practice, 2001.
+5. Lau, Urology, 2005.
+6. Porst, European Urology, 2007.
+7. Buvat, International Journal of Urology, 2009.
+
+## Fisiologi ejakulasi
+
+Ejakulasi terdiri atas dua fase utama, yaitu emisi dan ejakulasi.
+
+|Fase|Proses|
+|---|---|
+|1. Emisi (emission)|Semen dan spermatozoa dikumpulkan ke dalam uretra prostatika. Komponen semen berasal dari epididimis bagian distal, vas deferens, vesikula seminalis, dan prostat.|
+|2. Ejakulasi (ejaculation)|Semen dikeluarkan secara kuat melalui uretra hingga mencapai muara uretra eksternal (meatus uretra). Proses ini melibatkan kontraksi ritmik otot bulbospongiosus, ischiocavernosus, dan otot dasar panggul.|
+
+### Jalur saraf dan mekanisme ejakulasi
+
+1. Rangsangan sensorik
+	- Rangsangan visual, auditori, olfaktori, dan sensorik genital diproses oleh sistem saraf pusat.
+	- Reseptor sensorik mukosa genital, termasuk korpuskula Krause, menghantarkan rangsangan melalui neuron sensorik aferen.
+
+2. Pemrosesan di sistem saraf pusat
+	- Hipotalamus, termasuk area preoptik medial dan nukleus paraventrikular, berperan dalam regulasi respons seksual.
+	- Area periaqueductal gray di otak tengah turut terlibat dalam jalur pengaturan ejakulasi.
+	- Dopamin berperan dalam fasilitasi respons seksual dan ejakulasi.
+
+3. Fase emisi
+	- Jalur simpatis yang berasal dari segmen medula spinalis T10–L2 berperan dalam emisi.
+	- Kontraksi otot polos pada saluran reproduksi dan kelenjar aksesori membantu **memindahkan semen ke uretra prostatika**.
+	- Vesikula seminalis, prostat, dan kelenjar bulbouretralis berkontribusi terhadap volume dan komposisi cairan semen.
+
+4. Fase ejakulasi
+	- Impuls saraf motorik, terutama melalui nervus pudendus, memicu kontraksi ritmik otot bulbospongiosus, ischiocavernosus, dan otot dasar panggul.
+	- Kontraksi tersebut mendorong semen keluar melalui uretra.
+
+5. Orgasme
+	- Ejakulasi dan orgasme sering terjadi bersamaan, tetapi keduanya merupakan proses yang berbeda secara fisiologis.
+
+### Peran serotonin dan SSRI
+
+- Serotonin berperan dalam modulasi refleks ejakulasi di sistem saraf pusat.
+- Secara umum, peningkatan aktivitas serotonin melalui obat golongan selective serotonin reuptake inhibitor (SSRI) dapat menghambat atau menunda ejakulasi.
+- Efek ini dimanfaatkan dalam terapi ejakulasi dini.
+
+### **Tips menghafal fisiologi ejakulasi 🧠**
+
+- Emisi = semen masuk ke uretra prostatika.
+- Ejakulasi = semen keluar melalui meatus uretra.
+- Simpatis T10–L2 = emisi.
+- Nervus pudendus + otot dasar panggul = membantu pengeluaran semen.
+- Serotonin meningkat melalui efek SSRI = ejakulasi tertunda.
 
 ## Etiologi dan faktor yang berkaitan
 
@@ -276,7 +364,7 @@ Pemeriksaan dipilih berdasarkan gejala dan temuan klinis, bukan dilakukan secara
 
 ### 2. Terapi lokal
 
-Pilihan yang disebutkan dalam kuliah meliputi:
+Pilihannya meliputi:
 
 - TEMPE (*Topical Eutectic Mixture for Premature Ejaculation*).
 - EMLA (*Eutectic Mixture of Local Anaesthetic Agents*).
@@ -297,7 +385,7 @@ Pemilihan obat harus mempertimbangkan tipe ejakulasi dini, kondisi penyerta, efe
 
 Jika ejakulasi dini berkaitan dengan disfungsi ereksi, disfungsi ereksi juga perlu ditangani. Penilaian dan tata laksana penyebab yang mendasari penting, terutama pada ejakulasi dini yang baru muncul.
 
-## Alur pendekatan klinis yang dapat disalin
+## Alur pendekatan klinis
 
 1. Identifikasi keluhan ejakulasi dan dampaknya pada pasien/pasangan.
 2. Tentukan apakah keluhan lifelong atau acquired.
@@ -319,7 +407,7 @@ Jika ejakulasi dini berkaitan dengan disfungsi ereksi, disfungsi ereksi juga per
 | Faktor organik | Vaskular, metabolik, neurologis, hormonal | Sensitivitas penis, refleks ejakulasi, endokrin, genetik/neurobiologis |
 | Pendekatan terapi | Modifikasi gaya hidup, terapi penyebab, inhibitor PDE-5, alat/injeksi, operasi pada kasus terpilih | Konseling/perilaku, terapi lokal, obat sistemik, serta terapi DE bila bersamaan |
 
-# Rangkuman akhir
+# Rangkuman
 
 - Disfungsi seksual pria mencakup gangguan hasrat, ereksi, ejakulasi, orgasme, dan kelainan fisik penis.
 - Disfungsi ereksi adalah ketidakmampuan mencapai atau mempertahankan ereksi yang memadai; penyebabnya dapat psikogenik, organik, atau campuran.
