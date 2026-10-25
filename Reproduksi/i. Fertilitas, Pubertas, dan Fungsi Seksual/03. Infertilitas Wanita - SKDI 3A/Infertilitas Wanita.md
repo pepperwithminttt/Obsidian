@@ -460,77 +460,71 @@ Insidensi: sekitar 10–15%.
 
 # 6. Penatalaksanaan Infertilitas
 
-## 6.1. Peran Dokter dalam Penanganan Infertilitas
+Penatalaksanaan infertilitas dilakukan terhadap kedua pasangan, yaitu perempuan dan laki-laki, karena penyebab infertilitas dapat berasal dari salah satu pasangan maupun kombinasi keduanya.
 
-Penanganan infertilitas dapat melibatkan:
+|Pasangan|Bidang yang menangani|
+|---|---|
+|Perempuan|Obstetri dan Ginekologi (Obgin)|
+|Laki-laki|Andrologi|
 
-- Dokter umum.
-    
-- Dokter spesialis obstetri dan ginekologi.
-    
-- Dokter spesialis uro-andrologi.
-    
-- Subspesialis fertilitas dan endokrinologi reproduksi.
-    
+### Peran Dokter Umum dalam Penanganan Infertilitas
 
-## 6.2. Kriteria Pasien dan Tingkat Pelayanan
+Pelayanan infertilitas dibagi menjadi tiga tingkat berdasarkan kompleksitas kasus dan kebutuhan penanganan.
 
-|Kriteria|Level I|Level II|Level III|
-|---|---|---|---|
-|Lama infertilitas|<24 bulan|<36 bulan|Tidak memenuhi kualifikasi layanan primer dan sekunder|
-|Usia perempuan|<30 tahun|<35 tahun|—|
-|Faktor risiko kelainan pelvis atau sperma|Tidak ada|Tidak memenuhi kualifikasi layanan primer|—|
-|Riwayat pengobatan|<4 bulan|—|—|
-|Jenis pelayanan|Pelayanan awal|Pelayanan lanjutan|Teknologi reproduksi berbantu (TRB)|
+|Tingkat pelayanan|Tenaga medis|Peran|
+|---|---|---|
+|Layanan primer (Level I)|Dokter umum|Evaluasi awal dan penanganan dasar infertilitas.|
+|Layanan sekunder (Level II)|Dokter spesialis obstetri dan ginekologi serta spesialis uro-andrologi|Evaluasi dan penanganan lebih lanjut sesuai faktor infertilitas.|
+|Layanan tersier (Level III)|Subspesialis|Penanganan kasus kompleks dan infertilitas yang memerlukan keahlian subspesialistik.|
 
-## 6.3. Pendekatan Bertahap Penatalaksanaan Infertilitas
+### Kriteria Pasien dan Tingkat Pelayanan
 
-Penanganan dilakukan secara bertahap berdasarkan faktor penyebab, usia perempuan, lama infertilitas, dan respons terhadap pengobatan.
+| Kriteria                                  | Level I        | Level II                                  | Level III                                              |
+| ----------------------------------------- | -------------- | ----------------------------------------- | ------------------------------------------------------ |
+| Lama infertilitas                         | <24 bulan      | <36 bulan                                 | Tidak memenuhi kualifikasi layanan primer dan sekunder |
+| Usia perempuan                            | <30 tahun      | <35 tahun                                 |                                                        |
+| Faktor risiko kelainan pelvis atau sperma | Tidak ada      | Tidak memenuhi kualifikasi layanan primer |                                                        |
+| Riwayat pengobatan                        | <4 bulan       |                                           |                                                        |
+| Jenis pelayanan                           | Pelayanan awal | Pelayanan lanjutan                        | Teknologi reproduksi berbantu (TRB)                    |
+
+### Pendekatan Bertahap Penatalaksanaan Infertilitas
+
+Penanganan dilakukan secara bertahap berdasarkan faktor penyebab, usia perempuan, lama infertilitas, dan respons terhadap pengobatan:
 
 1. Identifikasi faktor infertilitas.
-    
 2. Koreksi faktor infertilitas.
-    
 3. Pengobatan sederhana.
-    
 4. Obat penyubur oral dan/atau inseminasi.
-    
 5. Obat penyubur suntik dan/atau inseminasi.
-    
 6. Fertilisasi _in vitro_ atau teknologi reproduksi berbantu lainnya.
-    
 
 Pada perempuan berusia >35 tahun, tiga tahap awal perlu diselesaikan lebih cepat. Pada perempuan berusia <30 tahun, waktu yang lebih panjang dapat diberikan untuk evaluasi dan penanganan awal.
 
-## 6.4. Terapi Medikamentosa
+## 1. Terapi Medikamentosa
 
-### 6.4.1. Klomifen Sitrat
+### a. Klomifen Sitrat
 
 Klomifen sitrat meningkatkan pelepasan gonadotropin FSH dan LH untuk merangsang ovulasi.
 
-Regimen yang dicantumkan:
+Regimen:
 
 - Mulai pada hari ke-5 siklus menstruasi.
-    
 - Dosis awal 50 mg sekali sehari selama 5 hari.
-    
 - Ovulasi diperkirakan terjadi 5–10 hari setelah dosis terakhir.
-    
 - Hubungan seksual dapat dijadwalkan tiga kali seminggu atau berdasarkan pemantauan USG transvaginal.
-    
-- Dosis dapat ditingkatkan sesuai respons; slide mencantumkan 150–200 mg/hari.
-    
-- Jika tidak terjadi ovulasi setelah 3–4 siklus, slide mencantumkan hCG 5.000–10.000 IU.
-### B. Gonadotropin
+- Dosis dapat ditingkatkan sesuai respons hingga 150–200 mg/hari.
+- Jika tidak terjadi ovulasi setelah 3–4 siklus, berikan hCG 5.000–10.000 IU.
 
-|Obat|Fungsi|Regimen yang dicantumkan|
-|---|---|---|
-|HMG (human menopausal gonadotropin)|Mengandung FSH dan LH untuk merangsang pertumbuhan folikel.|75 atau 150 IU; dosis awal 75–150 IU/hari selama 5 hari, dengan evaluasi pada hari ke-5 siklus.|
-|hCG|Memicu ovulasi setelah folikel mencapai kematangan yang sesuai.|5.000 atau 10.000 IU; diberikan ketika diameter folikel sekitar 17–18 mm berdasarkan USG transvaginal.|
+### b. Gonadotropin
 
-Penggunaan gonadotropin memerlukan pengawasan khusus karena biaya dan risiko komplikasinya lebih tinggi. Slide juga menyebutkan FSH dan testosteron dalam konteks terapi pria, tetapi tidak memberikan regimen rinci.
+| Obat                                | Fungsi                                                          | Regimen                                                                                                |
+| ----------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| HMG (human menopausal gonadotropin) | Mengandung FSH dan LH untuk merangsang pertumbuhan folikel.     | 75 atau 150 IU; dosis awal 75–150 IU/hari selama 5 hari, dengan evaluasi pada hari ke-5 siklus.        |
+| hCG                                 | Memicu ovulasi setelah folikel mencapai kematangan yang sesuai. | 5.000 atau 10.000 IU; diberikan ketika diameter folikel sekitar 17–18 mm berdasarkan USG transvaginal. |
 
-## 6.4. Operasi rekonstruksi
+Penggunaan gonadotropin memerlukan pengawasan khusus karena biaya dan risiko komplikasinya lebih tinggi. Untuk pria diterapi FSH dan testosteron.
+
+## 2. Operasi rekonstruksi
 
 Tindakan operatif ditujukan untuk memperbaiki kelainan anatomi yang berkontribusi terhadap infertilitas.
 
@@ -547,123 +541,109 @@ Tindakan operatif ditujukan untuk memperbaiki kelainan anatomi yang berkontribus
 
 Pada endometriosis yang disertai infertilitas, tindakan laparoskopi dapat dikombinasikan dengan terapi hormonal sesuai kondisi klinis.
 
-## 6.5. Teknologi reproduksi berbantu (TRB)
+## 3. Teknologi reproduksi berbantu (TRB)
+
+TRB dilakukan **jika metode lain tidak berhasil**.
 
 ### A. Inseminasi intrauterin (IIU)
 
 IIU merupakan metode yang relatif sederhana. Sperma yang telah dipreparasi dimasukkan ke dalam kavum uteri pada waktu ovulasi.
 
-Indikasi yang dicantumkan:
+Indikasi:
 
 - Faktor serviks.
-    
 - Faktor ovulasi.
-    
 - Endometriosis ringan.
-    
 - Infertilitas idiopatik.
-    
 
 Syarat IIU:
 
 1. Ovulasi spontan atau dengan bantuan medikasi.
-    
 2. Anatomi uterus dan tuba normal, tanpa hambatan mekanik yang bermakna.
-    
 3. Semen mengandung jumlah sperma yang memadai.
-    
 
 IIU tidak sesuai apabila terdapat sumbatan tuba atau gangguan peritoneum/endometriosis berat yang menghambat proses reproduksi.
 
-Angka kehamilan yang dicantumkan: 7–24% per siklus.
+Angka kehamilan: 7–24% per siklus.
 
 ### B. Fertilisasi in vitro (FIV/IVF)
 
 FIV adalah fertilisasi oosit oleh sperma di luar tubuh dalam lingkungan laboratorium yang mendukung perkembangan embrio.
 
-Slide mencantumkan FIV sebagai pilihan ketika IIU gagal.
+FIV dilakukan ketika IIU gagal.
 
-Syarat yang dicantumkan:
+Syarat:
 
 - Uterus dan endometrium normal.
-    
 - Ovarium mampu menghasilkan oosit.
-    
-- Motilitas sperma memenuhi kriteria yang digunakan dalam slide.
-    
+- Motilitas sperma >50.000/ml.
 
-Angka kehamilan yang dicantumkan: 35–40%.
+Angka kehamilan: 35–40%.
 
 Tahap penting dalam FIV adalah ovum pick-up, yaitu pengambilan oosit dari ovarium untuk dipertemukan dengan sperma di laboratorium.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929394900006dejpn.png)
 
 ### C. ICSI (intracytoplasmic sperm injection)
 
 ICSI merupakan teknik penyuntikan satu sperma langsung ke dalam sitoplasma oosit.
 
-Indikasi yang dicantumkan:
+Indikasi:
 
 - OAT berat (extreme oligo-astheno-teratozoospermia).
-    
 - Cryptozoospermia.
-    
 - Azoospermia setelah pengambilan sperma melalui PESA atau TESE.
-    
 
-Angka kehamilan yang dicantumkan: 40–50%.
+Angka kehamilan: 40–50%.
 
-## 6.6. Perbandingan metode reproduksi berbantu
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792939584000sg8ng6.png)
 
-|Aspek|IIU|FIV/IVF|ICSI|
-|---|---|---|---|
-|Prinsip|Sperma yang telah dipreparasi dimasukkan ke kavum uteri.|Fertilisasi berlangsung di luar tubuh.|Satu sperma disuntikkan langsung ke sitoplasma oosit.|
-|Lokasi fertilisasi|Di dalam tubuh.|Di laboratorium.|Di laboratorium.|
-|Kebutuhan patensi tuba|Memerlukan tuba yang paten.|Tidak bergantung pada transportasi melalui tuba untuk mempertemukan gamet.|Tidak bergantung pada transportasi melalui tuba untuk mempertemukan gamet.|
-|Faktor sperma|Memerlukan sperma yang memadai.|Dapat digunakan pada berbagai kondisi infertilitas sesuai evaluasi.|Terutama untuk faktor sperma berat.|
-|Angka kehamilan pada slide|7–24% per siklus.|35–40%.|40–50%.|
+### Perbandingan metode reproduksi berbantu
 
-Angka keberhasilan tersebut merupakan angka yang dicantumkan dalam kuliah dan tidak dapat dibandingkan secara langsung tanpa mempertimbangkan populasi, usia, indikasi, dan definisi keberhasilan yang digunakan.
+| Aspek                  | IIU                                                      | FIV/IVF                                                                    | ICSI                                                                       |
+| ---------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Prinsip                | Sperma yang telah dipreparasi dimasukkan ke kavum uteri. | Fertilisasi berlangsung di luar tubuh.                                     | Satu sperma disuntikkan langsung ke sitoplasma oosit.                      |
+| Lokasi fertilisasi     | Di dalam tubuh.                                          | Di laboratorium.                                                           | Di laboratorium.                                                           |
+| Kebutuhan patensi tuba | Memerlukan tuba yang paten.                              | Tidak bergantung pada transportasi melalui tuba untuk mempertemukan gamet. | Tidak bergantung pada transportasi melalui tuba untuk mempertemukan gamet. |
+| Faktor sperma          | Memerlukan sperma yang memadai.                          | Dapat digunakan pada berbagai kondisi infertilitas sesuai evaluasi.        | Terutama untuk faktor sperma berat.                                        |
+| Angka kehamilan        | 7–24% per siklus.                                        | 35–40%.                                                                    | 40–50%.                                                                    |
 
-## 6.7. Pemilihan metode berdasarkan analisis sperma
+## Pemilihan metode berdasarkan analisis sperma
 
-Slide terakhir menggambarkan pemilihan metode berdasarkan konsentrasi sperma:
+### 6.7. Pemilihan Metode Berdasarkan Konsentrasi Sperma
 
-| Metode | >15 juta/mL | 10–15 juta/mL |  
-Enam faktor utama infertilitas
+|Metode|>15 juta/mL|10–15 juta/mL|<10 juta/mL|<5 juta/mL|
+|---|---|---|---|---|
+|Kehamilan alami|+|±|−|−|
+|IIU|+|+|±|−|
+|FIV|+|+|+|−|
+|ICSI|+|+|+|+|
+
+Keterangan: `+` menunjukkan metode dinilai memungkinkan, `±` menunjukkan kemungkinan terbatas, dan `−` menunjukkan metode dinilai tidak sesuai dalam skema slide.
+
+# Rangkuman
+
+### Enam faktor utama infertilitas
 
 1. Pria: produksi dan kualitas sperma.
-    
 2. Serviks: mukus dan interaksi sperma dengan serviks.
-    
 3. Uterus: kavum uteri dan implantasi.
-    
 4. Ovulasi: pematangan folikel dan pelepasan oosit.
-    
 5. Tuba: penangkapan oosit dan transportasi hasil konsepsi.
-    
 6. Peritoneum: endometriosis, adhesi, dan distorsi anatomi.
-    
 
-Pemeriksaan utama
+### Pemeriksaan utama
 
 - Sperma → analisis semen.
-    
 - Ovulasi → progesteron, LH urine, suhu basal, USG.
-    
 - Uterus → USG, HSG, SIS, histeroskopi.
-    
 - Tuba → HSG, SIS, atau laparoskopi dengan kromotubasi.
-    
 - Endometriosis/peritoneum → laparoskopi diagnostik.
-    
-    Pilihan terapi
-    
+
+### Pilihan terapi 
 
 - Gangguan ovulasi → induksi ovulasi.
-    
 - Kelainan anatomi → koreksi atau operasi sesuai indikasi.
-    
 - Faktor serviks atau infertilitas idiopatik tertentu → IIU.
-    
 - Kegagalan metode sebelumnya atau indikasi tertentu → FIV.
-    
 - Faktor sperma berat → pertimbangkan ICSI.
