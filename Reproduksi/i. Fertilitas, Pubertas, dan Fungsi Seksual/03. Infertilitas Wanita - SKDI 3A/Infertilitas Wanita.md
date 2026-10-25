@@ -1,39 +1,38 @@
-# INFERTILITAS
 
-## 1. Definisi dan Istilah
+> [!NOTE] Level Kompetensi SKDI: 3A
 
-### Definisi infertilitas
+# 1. Definisi
 
-Infertilitas adalah ketidakmampuan pasangan untuk memperoleh kehamilan setelah melakukan hubungan seksual secara teratur tanpa kontrasepsi selama periode tertentu.
+## Definisi infertilitas
 
-- ASRM (2013): tidak terjadi kehamilan setelah 1 tahun hubungan seksual teratur tanpa kontrasepsi.
-    
-- WHO (definisi sebelumnya): tidak terjadi kehamilan setelah 2 tahun.
-    
-- WHO (2020): tidak terjadi kehamilan setelah 1 tahun hubungan seksual teratur tanpa kontrasepsi.
-    
+Infertilitas adalah **ketidakmampuan pasangan untuk memperoleh kehamilan setelah melakukan hubungan seksual secara teratur tanpa kontrasepsi** selama periode tertentu.
 
-### Istilah terkait
+- ASRM (2013): tidak terjadi kehamilan setelah **1 tahun** hubungan seksual teratur tanpa kontrasepsi.
+- WHO (definisi sebelumnya): tidak terjadi kehamilan setelah **2 tahun**.
+- WHO (2020): tidak terjadi kehamilan setelah **1 tahun** hubungan seksual teratur tanpa kontrasepsi.
 
-|Istilah|Definisi|
-|---|---|
-|Fertilitas|Kemampuan pasangan untuk hamil dan menghasilkan keturunan.|
-|Sterilitas|Ketidakmampuan untuk hamil.|
-|Subfertilitas|Penurunan fungsi reproduksi, tetapi tidak berarti steril sepenuhnya.|
-|Fekundabilitas|Probabilitas terjadinya kehamilan dalam satu siklus menstruasi.|
-|Fekunditas|Kemampuan menghasilkan kelahiran hidup dalam suatu siklus reproduksi.|
-|Infekunditas|Ketidakmampuan menghasilkan kelahiran hidup.|
+Note: Bukan AFS (karena di slide AFS) tapi ASRM *(American Society for Reproductive Medicine)*.
 
-### Klasifikasi infertilitas
+## Istilah terkait
 
-- Infertilitas primer: belum pernah terjadi kehamilan sebelumnya.
-    
-- Infertilitas sekunder: infertilitas setelah pernah mengalami minimal satu kehamilan.
-    
+| Istilah        | Definisi                                                                  |
+| -------------- | ------------------------------------------------------------------------- |
+| Fertilitas     | Kemampuan pasangan untuk hamil dan menghasilkan keturunan.                |
+| Sterilitas     | Ketidakmampuan untuk hamil.                                               |
+| Subfertilitas  | Penurunan fungsi reproduksi, tetapi tidak berarti steril sepenuhnya.      |
+| Fekundabilitas | **Probabilitas terjadinya kehamilan** dalam satu siklus menstruasi.       |
+| Fekunditas     | Kemampuan menghasilkan **kelahiran hidup** dalam suatu siklus reproduksi. |
+| Infekunditas   | Ketidakmampuan menghasilkan kelahiran hidup.                              |
+
+## Klasifikasi infertilitas
+
+- **Infertilitas primer**: belum pernah terjadi kehamilan sebelumnya.
+- **Infertilitas sekunder**: infertilitas setelah pernah mengalami minimal satu kehamilan.
 - Infertilitas idiopatik (unexplained infertility): penyebab infertilitas tidak ditemukan setelah pemeriksaan dasar yang sesuai.
-    
 
-### Peluang kehamilan kumulatif
+## Peluang kehamilan kumulatif
+
+*"Semakin lama pernikahan, semakin tinggi kemungkinan hamil bila tidak ada gangguan tertentu."*
 
 |Lama hubungan tanpa kontrasepsi|Persentase kehamilan kumulatif|
 |---|---|
@@ -43,24 +42,55 @@ Infertilitas adalah ketidakmampuan pasangan untuk memperoleh kehamilan setelah m
 |18 bulan|90%|
 |24 bulan|93%|
 
-## 2. Epidemiologi dan Faktor Predisposisi
+# 2. Epidemiologi
 
-### Insidensi infertilitas
-
-Angka yang tercantum dalam kuliah:
+## Insidensi infertilitas
 
 - Negara maju: sekitar 5–8%.
-    
 - Negara berkembang: sekitar 12–18%.
-    
 - WHO: sekitar 8–10% pasangan di dunia.
-    
 - Indonesia: sekitar 6–12%.
-    
 - Referensi lain: sekitar 15% atau 1 dari 7 pasangan.
-    
 
-### Faktor predisposisi
+## Distribusi penyebab infertilitas
+
+Distribusi keseluruhan
+
+|Kelompok penyebab|Persentase|
+|---|---|
+|Faktor perempuan (female)|40%|
+|Faktor pria (male)|40%|
+|Penyebab tidak diketahui (unknown)|20%|
+
+Distribusi penyebab pada pria
+
+|Penyebab|Persentase|
+|---|---|
+|Varikokel|40%|
+|Penyebab tidak diketahui|30%|
+|Kualitas sperma|10%|
+|Infeksi|10%|
+|Kelainan kromosom|10%|
+
+Distribusi penyebab pada perempuan
+
+|Penyebab|Persentase|
+|---|---|
+|Faktor tuba dan ovarium (tubal/ovarian)|40%|
+|Ketidakseimbangan hormon (hormone imbalance)|30%|
+|Penyebab tidak diketahui|20%|
+|Faktor serviks (cervical)|10%|
+
+Inti yang perlu diingat: infertilitas dapat berasal dari faktor pria maupun perempuan, dan keduanya masing-masing menyumbang 40% pada diagram. Sebanyak 20% kasus pada diagram keseluruhan tidak diketahui penyebabnya.
+
+# 3. Etiologi
+
+Faktor-faktor yang berpengaruh pada infertilitas dibagi menjadi dua, yaitu:
+
+1. Faktor Predisposisi sebagai etiologi infertilitas.
+2. Faktor organ genitalia sebagai etiologi infertilitas.
+
+## 3.1. Faktor predisposisi
 
 |Faktor|Pengaruh terhadap kesuburan|
 |---|---|
@@ -77,21 +107,17 @@ Angka yang tercantum dalam kuliah:
 Peningkatan usia perempuan berkaitan dengan:
 
 1. Penurunan cadangan oosit (oocyte pool).
-    
 2. Peningkatan angka mutasi atau kelainan pada oosit.
-    
 3. Penurunan sensitivitas ovarium terhadap hormon gonadotropin.
-    
 4. Penurunan fertilitas dan peningkatan risiko abortus.
-    
 
-Interpretasi grafik pada PDF: fertilitas menurun dengan bertambahnya usia, terutama setelah usia 35 tahun, sementara angka kejadian abortus meningkat pada kelompok usia yang lebih tua.
+Fertilitas menurun dengan bertambahnya usia, terutama setelah usia 35 tahun, sementara angka kejadian abortus meningkat pada kelompok usia yang lebih tua.
 
-## 3. Etiologi dan Patofisiologi Infertilitas
+## 3.2. Faktor Organ Genitalia (etiologi utama infertilitas)
 
 Infertilitas dapat disebabkan oleh gangguan pada faktor pria, serviks, uterus, ovulasi, tuba, dan peritoneum. Faktor-faktor tersebut dapat terjadi sendiri maupun bersamaan.
 
-### 3.1. Faktor pria (sperma)
+### a. Faktor pria (sperma)
 
 Faktor pria diperkirakan berkontribusi sekitar 25–30% terhadap etiologi infertilitas.
 
@@ -108,7 +134,7 @@ Faktor pria diperkirakan berkontribusi sekitar 25–30% terhadap etiologi infert
 |Penyalahgunaan obat|Dapat mengganggu fungsi reproduksi.|
 |Merokok|Dapat memengaruhi kualitas sperma.|
 
-### 3.2. Faktor serviks
+### b. Faktor serviks
 
 Serviks berperan dalam membantu sperma masuk ke traktus reproduksi perempuan. Mukus serviks menjadi medium bagi sperma untuk melewati serviks.
 
@@ -123,7 +149,7 @@ Penyebab gangguan faktor serviks:
 - Gangguan mukus serviks: produksi atau karakteristik mukus yang tidak mendukung transportasi sperma.
     
 
-### 3.3. Faktor uterus
+### c. Faktor uterus
 
 Kelainan uterus dapat mengganggu implantasi, pertumbuhan embrio, atau kondisi kavum uteri.
 
@@ -135,7 +161,7 @@ Kelainan uterus dapat mengganggu implantasi, pertumbuhan embrio, atau kondisi ka
 |Polip endometrium|Dapat mengganggu kondisi kavum uteri dan implantasi.|
 |Hiperplasia endometrium|Menyebabkan perubahan pada endometrium.|
 
-### 3.4. Faktor ovulasi
+### d. Faktor ovulasi
 
 Gangguan ovulasi menyebabkan oosit tidak dilepaskan secara normal sehingga kesempatan terjadinya fertilisasi berkurang.
 
@@ -152,7 +178,7 @@ Penyebab atau kondisi yang berkaitan dengan gangguan ovulasi:
 
 Mekanisme utama: gangguan pematangan folikel atau pelepasan oosit menyebabkan ovulasi tidak terjadi atau berlangsung tidak teratur.
 
-### 3.5. Faktor tuba
+### e. Faktor tuba
 
 Tuba falopi berfungsi menangkap oosit melalui fimbria dan menjadi tempat transportasi oosit serta hasil konsepsi menuju uterus.
 
@@ -175,7 +201,7 @@ Penyebab tersering gangguan tuba meliputi:
 
 Gangguan patensi atau kerusakan anatomi tuba dapat menghambat pertemuan sperma dan oosit, transportasi hasil fertilisasi, serta meningkatkan risiko kehamilan ektopik.
 
-### 3.6. Faktor peritoneum dan endometriosis
+### f. Faktor peritoneum dan endometriosis
 
 Endometriosis dapat berhubungan dengan infertilitas melalui beberapa mekanisme:
 
@@ -192,11 +218,11 @@ Endometriosis dapat berhubungan dengan infertilitas melalui beberapa mekanisme:
 
 Pada endometriosis minimal atau ringan, hubungan sebab-akibat dengan infertilitas belum jelas. Pada endometriosis berat, adhesi dan distorsi anatomi menjadi mekanisme penting.
 
-## 4. Pemeriksaan Infertilitas
+# 4. Pemeriksaan Infertilitas
 
 Pemeriksaan dilakukan pada kedua pasangan karena penyebab infertilitas dapat berasal dari pria, perempuan, atau kombinasi keduanya.
 
-### 4.1. Anamnesis
+## 4.1. Anamnesis
 
 Hasil OCR gambar anamnesis dilengkapi dengan label visual yang terbaca pada slide.
 
@@ -209,7 +235,7 @@ Hasil OCR gambar anamnesis dilengkapi dengan label visual yang terbaca pada slid
 |Riwayat pengobatan|Obat yang dikonsumsi dan pengobatan infertilitas sebelumnya.|
 |Faktor gaya hidup|Merokok, alkohol, dan paparan lingkungan atau pekerjaan.|
 
-### 4.2. Pemeriksaan fisik
+## 4.2. Pemeriksaan fisik
 
 Pada pria
 
@@ -232,7 +258,7 @@ Pada perempuan
 |Ukuran, kontur, posisi, dan mobilitas uterus|Menilai kelainan anatomi, termasuk mioma.|
 |Vagina dan cairan atau sekret|Mencari abnormalitas anatomi serta tanda infeksi atau PID.|
 
-### 4.3. Analisis sperma
+## 4.3. Analisis sperma
 
 Analisis sperma merupakan pemeriksaan utama untuk menilai faktor pria.
 
@@ -247,7 +273,7 @@ Persiapan dan prosedur sesuai slide:
 - Parameter yang dinilai: volume semen, jumlah atau konsentrasi sperma, motilitas, dan morfologi.
     
 
-#### Nilai rujukan yang dicantumkan
+### Nilai rujukan yang dicantumkan
 
 |Parameter|Nilai tradisional|WHO 2010|
 |---|---|---|
@@ -257,7 +283,7 @@ Persiapan dan prosedur sesuai slide:
 
 Angka di atas mengikuti tabel dalam kuliah dan merupakan nilai rujukan yang digunakan pada slide, bukan otomatis batas rujukan laboratorium terkini.
 
-#### Istilah kelainan analisis sperma
+### Istilah kelainan analisis sperma
 
 |Istilah|Pengertian|
 |---|---|
@@ -276,7 +302,7 @@ Pada azoospermia, pengambilan sperma dapat dilakukan melalui:
 - TESE (testicular sperm extraction): pengambilan sperma dari jaringan testis.
     
 
-### 4.4. Pemeriksaan faktor ovulasi
+## 4.4. Pemeriksaan faktor ovulasi
 
 |Pemeriksaan|Interpretasi|
 |---|---|
@@ -284,7 +310,7 @@ Pada azoospermia, pengambilan sperma dapat dilakukan melalui:
 
 | Progesteron serum | Diambil sekitar 1 minggu sebelum perkiraan menstruasi berikutnya, mendekati puncak fase luteal. Kadar Regimen di atas ditulis ulang dari slide kuliah, bukan instruksi penggunaan mandiri. Dosis, indikasi, dan langkah berikutnya harus ditentukan dokter berdasarkan respons pasien dan pemantauan risiko stimulasi ovarium.
 
-#### B. Gonadotropin
+### B. Gonadotropin
 
 |Obat|Fungsi|Regimen yang dicantumkan|
 |---|---|---|
@@ -293,7 +319,7 @@ Pada azoospermia, pengambilan sperma dapat dilakukan melalui:
 
 Penggunaan gonadotropin memerlukan pengawasan khusus karena biaya dan risiko komplikasinya lebih tinggi. Slide juga menyebutkan FSH dan testosteron dalam konteks terapi pria, tetapi tidak memberikan regimen rinci.
 
-### 6.4. Operasi rekonstruksi
+## 6.4. Operasi rekonstruksi
 
 Tindakan operatif ditujukan untuk memperbaiki kelainan anatomi yang berkontribusi terhadap infertilitas.
 
@@ -310,9 +336,9 @@ Tindakan operatif ditujukan untuk memperbaiki kelainan anatomi yang berkontribus
 
 Pada endometriosis yang disertai infertilitas, tindakan laparoskopi dapat dikombinasikan dengan terapi hormonal sesuai kondisi klinis.
 
-### 6.5. Teknologi reproduksi berbantu (TRB)
+## 6.5. Teknologi reproduksi berbantu (TRB)
 
-#### A. Inseminasi intrauterin (IIU)
+### A. Inseminasi intrauterin (IIU)
 
 IIU merupakan metode yang relatif sederhana. Sperma yang telah dipreparasi dimasukkan ke dalam kavum uteri pada waktu ovulasi.
 
@@ -340,7 +366,7 @@ IIU tidak sesuai apabila terdapat sumbatan tuba atau gangguan peritoneum/endomet
 
 Angka kehamilan yang dicantumkan: 7–24% per siklus.
 
-#### B. Fertilisasi in vitro (FIV/IVF)
+### B. Fertilisasi in vitro (FIV/IVF)
 
 FIV adalah fertilisasi oosit oleh sperma di luar tubuh dalam lingkungan laboratorium yang mendukung perkembangan embrio.
 
@@ -359,7 +385,7 @@ Angka kehamilan yang dicantumkan: 35–40%.
 
 Tahap penting dalam FIV adalah ovum pick-up, yaitu pengambilan oosit dari ovarium untuk dipertemukan dengan sperma di laboratorium.
 
-#### C. ICSI (intracytoplasmic sperm injection)
+### C. ICSI (intracytoplasmic sperm injection)
 
 ICSI merupakan teknik penyuntikan satu sperma langsung ke dalam sitoplasma oosit.
 
@@ -374,7 +400,7 @@ Indikasi yang dicantumkan:
 
 Angka kehamilan yang dicantumkan: 40–50%.
 
-### 6.6. Perbandingan metode reproduksi berbantu
+## 6.6. Perbandingan metode reproduksi berbantu
 
 |Aspek|IIU|FIV/IVF|ICSI|
 |---|---|---|---|
@@ -386,7 +412,7 @@ Angka kehamilan yang dicantumkan: 40–50%.
 
 Angka keberhasilan tersebut merupakan angka yang dicantumkan dalam kuliah dan tidak dapat dibandingkan secara langsung tanpa mempertimbangkan populasi, usia, indikasi, dan definisi keberhasilan yang digunakan.
 
-### 6.7. Pemilihan metode berdasarkan analisis sperma
+## 6.7. Pemilihan metode berdasarkan analisis sperma
 
 Slide terakhir menggambarkan pemilihan metode berdasarkan konsentrasi sperma:
 
