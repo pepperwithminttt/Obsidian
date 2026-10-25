@@ -1,3 +1,6 @@
+
+> [!NOTE] Level Kompetensi SKDI: 4
+
 # 1. Folikulitis
 
 ## Definisi dan klasifikasi
