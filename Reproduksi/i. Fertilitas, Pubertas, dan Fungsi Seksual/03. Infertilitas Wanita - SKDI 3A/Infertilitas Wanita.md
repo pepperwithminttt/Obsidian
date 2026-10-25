@@ -292,13 +292,235 @@ Pemeriksaan faktor serviks bertujuan menilai produksi mukus serviks serta intera
 Interpretasi gambar: sperma diamati di dalam mukus serviks untuk menilai keberadaan dan motilitasnya setelah hubungan seksual.
 
 ## 4.5. Pemeriksaan faktor ovulasi
+### Suhu Badan Basal (SBB)
 
-| Pemeriksaan            | Interpretasi                                                                                                                                                                     |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Suhu badan basal (SBB) | Jika pola SBB **bifasik berarti memang ada ovulasi**. Perbedaan suhu antara saat ovulasi dan tidak adalah sekitar 0,4–0,8°C.                                                     |
-| Progesteron serum      | Jika kadar **progesteron serum >3 ng/mL → anovulasi** (tidak ada ovulasi). Diambil sekitar 1 minggu sebelum perkiraan onset menstruasi berikutnya, mendekati puncak fase luteal. |
+- Jika pola SBB **bifasik berarti memang ada ovulasi**.
+- Perbedaan suhu antara saat ovulasi dan tidak adalah sekitar 0,4–0,8°C.
 
 ![gh|421](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792922076000ayjofm.png)
+
+### Kadar Progesteron Serum
+
+- Jika kadar **progesteron serum >3 ng/mL → anovulasi** (tidak ada ovulasi).
+- Diambil sekitar 1 minggu sebelum perkiraan onset menstruasi berikutnya, mendekati puncak fase luteal.
+
+![gh|408](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792923180000queb2f.png)
+
+### Kadar LH Urine
+
+- Lonjakan LH (_luteinizing hormone_) dapat dideteksi melalui pemeriksaan urine untuk memperkirakan waktu ovulasi.
+- Ovulasi diperkirakan terjadi sekitar 14–26 jam setelah deteksi lonjakan LH.
+- Ovulasi hampir selalu terjadi dalam 48 jam setelah lonjakan LH terdeteksi.
+- **Tes ini sangat jarang dilakukan kecuali di daerah terpencil yang tidak ada USG.**
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792923293000lkv9bu.png)
+
+### USG Transvaginal
+
+- Digunakan untuk memantau pertumbuhan dan perkembangan folikel ovarium.
+- Diameter folikel dominan adalah 18–24 mm.
+- USG juga digunakan untuk memantau perkembangan folikel selama stimulasi ovarium.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792923339000yqsuil.png)
+## 4.6. Pemeriksaan faktor uterus
+
+| Pemeriksaan                        | Kegunaan                                                                                                                             |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| USG                                | Menilai ukuran, arah, bentuk, dan kelainan uterus.                                                                                   |
+| HSG (_hysterosalpingography_)      | Menilai ukuran dan bentuk uterus, kavum uteri, dan anomali uteri (uterus unicornu, septata, uterus bikornu, polip, mioma submukosa). |
+| SIS (_saline infusion sonography_) | Menilai kavum uteri dan sensitif untuk mendeteksi polip serta mioma submukosa.                                                       |
+| Histeroskopi                       | **Metode definitif untuk kavum uteri**. Memvisualisasikan kavum uteri secara langsung dan mengevaluasi kelainan di dalamnya.         |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792923643000voobf2.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929236610004sbvsc.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929236800003wvevv.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929236950005hni2j.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792923722000fwp2dn.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179292374000011hpal.png)
+
+## 4.7. Pemeriksaan faktor tuba
+
+Pemeriksaan bertujuan menilai patensi tuba, yaitu apakah tuba falopi terbuka dan memungkinkan transportasi oosit serta hasil konsepsi.
+
+### Hidrotubasi
+
+- Cairan steril (aqua + kanamycin 1 gr + dexamethasone 5 mg) dimasukkan ke kavum uteri dan tuba untuk menilai patensi tanpa bantuan USG.
+- Waktu pelaksanaan pada hari ke-9–10 siklus menstruasi.
+- Kontraindikasi untuk penyakit radang panggul (PID) dan menstruasi tidak teratur.
+- Keterbatasan: tidak dapat menentukan lokasi sumbatan secara jelas (tidak bisa menilai apakah sumbatannya ipsilateral atau bilateral).
+
+![gh|328](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792923992000xpgb63.png)
+
+### SIS untuk Patensi Tuba
+
+- Memasukkan cairan saline steril (NaCl + kanamycin 1 gr + dexamethasone 5 mg) melalui kateter dengan panduan USG transvaginal.
+- Dapat menilai patensi tuba serta kelainan uterus, termasuk polip dan mioma.
+- Waktu pelaksanaan pada hari ke-9–10 siklus menstruasi.
+- Kontraindikasi untuk PID dan gangguan menstruasi.
+- **Bisa menilai apakah sumbatan ipsilateral atau bilateral.**
+
+> [!NOTE] Singkatnya ini hidrotubasi + USG.
+
+#### **Interpretasi SIS:**
+
+| Tuba paten                                  | Tuba nonpaten                                |
+| ------------------------------------------- | -------------------------------------------- |
+| Terdapat sinyal warna (_color signal_).     | Dapat terjadi penggelembungan kavum uteri.   |
+| Terdapat turbulensi cairan di sekitar tuba. | Tekanan terasa berat saat cairan dimasukkan. |
+| Ditemukan cairan bebas di kavum Douglas.    |                                              |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929242100007fzx6p.png)
+
+### HSG untuk Patensi Tuba
+
+- Pemeriksaan radiologi **menggunakan zat kontras**.
+- Waktu optimal: fase proliferatif awal atau sekitar 2–3 hari setelah perdarahan menstruasi berhenti.
+- Tes kehamilan disarankan sebelum prosedur.
+- Risiko PID perlu diperhatikan, terutama pada pasien dengan riwayat PID (berikan doxycycline profilaksis atau pertimbangkan laparoskopi).
+- Kontras berbasis minyak memiliki risiko anafilaksis lebih besar daripada kontras berbasis air.
+- Dapat mendeteksi kelainan tuba, seperti salpingitis, hidrosalping, fimosis tuba, dan kelainan kongenital.
+
+| Kelebihan                                                                     | Kekurangan                                                 |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Terdapat bukti dokumentasi hasil pemeriksaan (documentary evidence).          | Hanya kelainan kavum uteri yang dapat terdeteksi.          |
+| Tidak memerlukan anestesi.                                                    | Bersifat invasif.                                          |
+| Biaya lebih murah.                                                            | Risiko hasil positif palsu dan negatif palsu cukup tinggi. |
+| HSG dengan zat kontras berbasis minyak berpotensi memberikan efek terapeutik. | Menimbulkan ketidaknyamanan pada pasien.                   |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929244660002wd5qk.png)
+
+### Histeroskopi untuk Patensi Tuba
+
+- Histeroskopi yang dilakukan di poliklinik disebut _office hysteroscopy_.
+- Menggunakan media distensi seperti saline, CO₂, manitol, sorbitol, dan glisin.
+- Gelembung udara yang terlihat keluar dari ostium tuba menandakan patensi tuba.
+
+![gh|1140](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929245350000vukyd.png)
+
+### Laparoskopi dengan Kromotubasi
+
+- Menilai patensi tuba dengan visualisasi langsung organ tuba dan seluruh kavum uteri.
+- Patensi tuba dinilai melalui penyuntikan zat warna, seperti metilen biru **(kromotubasi)**.
+- Memiliki akurasi tinggi, tetapi bersifat invasif.
+- Harus dilakukan di kamar operasi dengan anestesi.
+- Dapat digunakan untuk diagnosis sekaligus penanganan kelainan tuba dan pelvis.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792924737000umwp73.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/179292476900065gaxk.png)
+
+|Macam pemeriksaan|Lumen uterus|Lumen tuba: lokasi buntu|Lumen tuba: villi|Patensi|Otot tuba|Anatomi tuba|Anatomi fimbria|Perlekatan dengan peritoneum|Patologi lain|Ovarium|Keterangan|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|HSG|+|+|±|+|−|±|−|−|−|−|Mudah; murah|
+|SIS|++|±|−|+|−|−|−|−|++|±|Paling murah; mudah|
+|Laparoskopi|−|−|−|++|+|+|+|+|++|+|Invasif; mahal|
+
+## 4.8. Pemeriksaan Faktor Peritoneum/Endometriosis
+
+- Laparoskopi merupakan tindakan minimal invasif yang memungkinkan visualisasi langsung kavum peritoneum dan organ pelvis.
+- **Laparoskopi diagnostik merupakan pemeriksaan baku emas diagnosis endometriosis**.
+- Dapat membantu mengidentifikasi mioma uteri, patensi tuba, hidrosalping, dan tanda ovulasi.
+- Diagnosis dan tindakan korektif dapat dilakukan dalam satu prosedur.
+
+Tindakan operatif yang dapat dilakukan:
+
+- Adhesiolisis.
+- Tuboplasti.
+- Kistektomi.
+- Miomektomi.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17929250160004bdkn8.png)
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792925034000txqkws.png)
+
+# 5. Infertilitas yang Tidak Diketahui Penyebabnya (_Unexplained Infertility_)
+
+_Unexplained infertility_ merupakan diagnosis eksklusi setelah penyebab lain tidak ditemukan melalui pemeriksaan dasar infertilitas.
+
+## Kriteria diagnosis
+
+- Analisis sperma normal.
+- Fungsi ovulasi normal.
+- Kavum uteri normal.
+- Minimal satu tuba paten.
+- Tidak ditemukan endometriosis pada laparoskopi.
+
+Insidensi: sekitar 10–15%.
+
+## Penatalaksanaan empiris
+
+1. Induksi ovulasi.
+2. Inseminasi intrauterin (IIU).
+3. Fertilisasi _in vitro_ (FIV).
+
+# 6. Penatalaksanaan Infertilitas
+
+## 6.1. Peran Dokter dalam Penanganan Infertilitas
+
+Penanganan infertilitas dapat melibatkan:
+
+- Dokter umum.
+    
+- Dokter spesialis obstetri dan ginekologi.
+    
+- Dokter spesialis uro-andrologi.
+    
+- Subspesialis fertilitas dan endokrinologi reproduksi.
+    
+
+## 6.2. Kriteria Pasien dan Tingkat Pelayanan
+
+|Kriteria|Level I|Level II|Level III|
+|---|---|---|---|
+|Lama infertilitas|<24 bulan|<36 bulan|Tidak memenuhi kualifikasi layanan primer dan sekunder|
+|Usia perempuan|<30 tahun|<35 tahun|—|
+|Faktor risiko kelainan pelvis atau sperma|Tidak ada|Tidak memenuhi kualifikasi layanan primer|—|
+|Riwayat pengobatan|<4 bulan|—|—|
+|Jenis pelayanan|Pelayanan awal|Pelayanan lanjutan|Teknologi reproduksi berbantu (TRB)|
+
+## 6.3. Pendekatan Bertahap Penatalaksanaan Infertilitas
+
+Penanganan dilakukan secara bertahap berdasarkan faktor penyebab, usia perempuan, lama infertilitas, dan respons terhadap pengobatan.
+
+1. Identifikasi faktor infertilitas.
+    
+2. Koreksi faktor infertilitas.
+    
+3. Pengobatan sederhana.
+    
+4. Obat penyubur oral dan/atau inseminasi.
+    
+5. Obat penyubur suntik dan/atau inseminasi.
+    
+6. Fertilisasi _in vitro_ atau teknologi reproduksi berbantu lainnya.
+    
+
+Pada perempuan berusia >35 tahun, tiga tahap awal perlu diselesaikan lebih cepat. Pada perempuan berusia <30 tahun, waktu yang lebih panjang dapat diberikan untuk evaluasi dan penanganan awal.
+
+## 6.4. Terapi Medikamentosa
+
+### 6.4.1. Klomifen Sitrat
+
+Klomifen sitrat meningkatkan pelepasan gonadotropin FSH dan LH untuk merangsang ovulasi.
+
+Regimen yang dicantumkan:
+
+- Mulai pada hari ke-5 siklus menstruasi.
+    
+- Dosis awal 50 mg sekali sehari selama 5 hari.
+    
+- Ovulasi diperkirakan terjadi 5–10 hari setelah dosis terakhir.
+    
+- Hubungan seksual dapat dijadwalkan tiga kali seminggu atau berdasarkan pemantauan USG transvaginal.
+    
+- Dosis dapat ditingkatkan sesuai respons; slide mencantumkan 150–200 mg/hari.
+    
+- Jika tidak terjadi ovulasi setelah 3–4 siklus, slide mencantumkan hCG 5.000–10.000 IU.
 ### B. Gonadotropin
 
 |Obat|Fungsi|Regimen yang dicantumkan|
