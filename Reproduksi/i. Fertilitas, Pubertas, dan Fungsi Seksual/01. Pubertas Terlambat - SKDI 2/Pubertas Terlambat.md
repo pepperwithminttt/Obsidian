@@ -1,3 +1,6 @@
+
+> [!NOTE] Level Kompetensi SKDI: 2
+
 # 1. Definisi
 
 Pubertas adalah periode ketika seseorang mulai mampu bereproduksi. Periode ini ditandai oleh:
@@ -11,12 +14,12 @@ Pubertas adalah periode ketika seseorang mulai mampu bereproduksi. Periode ini d
 
 ## Usia onset
 
-| Kelompok | Usia onset yang tercantum | Catatan |
-|---|---:|---|
-| Perempuan | 8–13 tahun | Menarke umumnya terjadi pada usia 12–13 tahun. |
+| Kelompok  | Usia onset | Catatan                                           |
+| --------- | ---------: | ------------------------------------------------- |
+| Perempuan | 8–13 tahun | Menarke umumnya terjadi pada usia 12–13 tahun.    |
 | Laki-laki | 9–14 tahun | Tanda awal yang dinilai adalah pembesaran testis. |
 
-Urutan rata-rata perkembangan dari percepatan pertumbuhan, *thelarche*, *pubarche*, hingga menarke berlangsung sekitar 4,5 tahun, dengan kisaran 1–6 tahun.
+Urutan rata-rata perkembangan dari percepatan pertumbuhan, *thelarche*, *pubarche*, hingga *menarche* berlangsung sekitar 4,5 tahun, dengan kisaran 1–6 tahun.
 
 Tanda klinis yang digunakan untuk menilai keterlambatan pubertas antara lain tidak adanya pertumbuhan payudara pada perempuan hingga usia 13 tahun atau belum terjadi pembesaran testis hingga usia 14 tahun. Penilaian tetap mempertimbangkan keseluruhan kondisi klinis.
 
@@ -32,7 +35,7 @@ Tanda klinis yang digunakan untuk menilai keterlambatan pubertas antara lain tid
 
 ## Aksis hipotalamus–hipofisis–gonad
 
-Regulasi pubertas bergantung pada aktivasi kembali aksis hipotalamus–hipofisis–gonad (HPG). Hipotalamus melepaskan *gonadotropin-releasing hormone* (GnRH) secara pulsatif. GnRH menstimulasi hipofisis untuk melepaskan *follicle-stimulating hormone* (FSH) dan *luteinizing hormone* (LH), yang kemudian berperan dalam fungsi dan pematangan gonad.
+Regulasi **pubertas** bergantung pada **aktivasi kembali aksis hipotalamus–hipofisis–gonad (HPG)**. Hipotalamus melepaskan *gonadotropin-releasing hormone* (GnRH) secara pulsatif. GnRH menstimulasi hipofisis untuk melepaskan *follicle-stimulating hormone* (FSH) dan *luteinizing hormone* (LH), yang kemudian berperan dalam fungsi dan pematangan gonad.
 
 Gambaran perkembangan aksis menurut tahap kehidupan:
 - **Masa janin dan bayi:** aktivitas GnRH, FSH, dan LH meningkat secara signifikan.
@@ -54,20 +57,24 @@ Faktor yang memengaruhi onset pubertas meliputi ras, nutrisi, genetik, dan lingk
 
 # 4. Perubahan fisik selama pubertas
 
-## Percepatan pertumbuhan (*growth spurt*)
+## a. Percepatan pertumbuhan (*growth spurt*)
 
 | Kelompok | Pertambahan tinggi badan per tahun | Total pertambahan selama pubertas |
 |---|---:|---:|
 | Perempuan | Sekitar 9 cm/tahun | Sekitar 20–25 cm |
 | Laki-laki | Sekitar 10 cm/tahun | Sekitar 25–30 cm |
 
-## Pertumbuhan tulang
+## b. Pertumbuhan tulang
 
 Pertumbuhan tulang meningkat selama pubertas. Perubahan berlangsung melalui pertambahan panjang tulang, peningkatan kandungan mineral, kemudian peningkatan densitas tulang.
+
+## c. Maturitas karakteristik seksual
 
 # 5. Klasifikasi Tanner
 
 Stadium Tanner digunakan untuk menilai perkembangan karakteristik seksual sekunder. Penilaian payudara dan rambut pubis pada perempuan serta genitalia, volume testis, dan rambut pubis pada laki-laki dilakukan secara terpisah.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792942827000iiecsl.png)
 
 ## Perempuan
 
@@ -91,7 +98,7 @@ Stadium Tanner digunakan untuk menilai perkembangan karakteristik seksual sekund
 
 # 6. Pubertas tarda (*delayed puberty*)
 
-Pubertas tarda adalah tidak adanya atau belum lengkapnya perkembangan karakteristik seksual sekunder pada usia ketika sekitar 95% anak dengan jenis kelamin yang sama telah memulai pubertas.
+Pubertas tarda adalah **tidak adanya atau belum lengkapnya perkembangan karakteristik seksual sekunder** pada usia ketika sekitar 95% anak dengan jenis kelamin yang sama telah memulai pubertas.
 
 Pubertas terlambat dapat menjadi tanda awal gangguan yang mendasari, termasuk gangguan metabolik, penyakit radang usus, atau hipotiroidisme.
 
@@ -99,21 +106,16 @@ Pubertas terlambat dapat menjadi tanda awal gangguan yang mendasari, termasuk ga
 
 Pubertas tarda pada dasarnya dapat berkaitan dengan hipogonadisme melalui dua mekanisme:
 
-1. **Hipogonadisme hipogonadotropik**: aksis hipotalamus–hipofisis tidak aktif atau stimulasi gonadotropin tidak memadai, sehingga kadar FSH dan LH rendah atau tidak meningkat sesuai keadaan.
-2. **Hipogonadisme hipergonadotropik**: kegagalan gonad primer menyebabkan produksi hormon seks menurun, sementara FSH dan LH meningkat akibat berkurangnya umpan balik negatif.
+1. **Hipogonadisme hipogonadotropik**: aksis hipotalamus–hipofisis tidak aktif atau stimulasi gonadotropin tidak memadai, sehingga kadar FSH dan LH rendah atau tidak meningkat sesuai keadaan **(masalahnya di atas di hipotalamus-hipofisis tidak menghasilkan hormon)**.
+2. **Hipogonadisme hipergonadotropik**: kegagalan gonad primer menyebabkan produksi hormon seks menurun, sementara FSH dan LH meningkat akibat berkurangnya umpan balik negatif **(masalahnya di bawah di gonad itu sendiri yang tidak fungsional padahal hormon sudah ada)**.
 
 Sebagian kasus berkaitan dengan keterlambatan konstitusional pertumbuhan dan pubertas. Kondisi ini dapat mencerminkan keterlambatan reaktivasi aksis HPG. Stres kronis akibat penyakit, malnutrisi, penurunan berat badan, atau olahraga berlebihan juga dapat menekan aksis tersebut.
 
 ## Etiologi
 
-| Kelompok | Penyebab yang perlu dipertimbangkan |
-|---|---|
-| Hipogonadisme hipogonadotropik reversibel | Keterlambatan fisiologis/konstitusional; penurunan berat badan atau anoreksia; hipotiroidisme primer; hiperplasia adrenal kongenital; sindrom Cushing; prolaktinoma. |
-| Hipogonadisme hipogonadotropik ireversibel atau menetap | Defisiensi GnRH; hipopituitarisme; kelainan kongenital sistem saraf pusat; adenoma hipofisis lain; kraniofaringioma; tumor hipofisis ganas. |
-| Hipogonadisme hipergonadotropik | Kegagalan ovarium atau gonad, dengan kariotipe abnormal maupun normal. |
-| Kondisi dengan perkembangan seksual yang tidak sesuai pola gonadal biasa (*eugonadisme* dalam klasifikasi slide) | Agenesis Müllerian; septum vagina; himen imperforata; sindrom insensitivitas androgen; umpan balik positif yang tidak sesuai. |
+Hipogonadisme hipogonadotropik terbanyak → defisiensi GnRH fungsional, yang mencerminkan penundaan konstitusional dalam reaktivasi aksis hipotalamus-hipofisis gonad atau efek supresif stres kronis akibat penyakit, malnutrisi, atau olahraga berlebihan.
 
-Daftar etiologi dan persentase pada slide disajikan dalam beberapa kelompok yang saling berdekatan; hubungan sebagian angka dengan kategori tidak cukup jelas untuk dipastikan, sehingga angka persentase tidak dirangkum sebagai angka definitif.
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792943239000uom7i6.png)
 
 # 7. Evaluasi dan diagnosis pubertas tarda
 
@@ -139,13 +141,13 @@ Daftar etiologi dan persentase pada slide disajikan dalam beberapa kelompok yang
 
 ## Pemeriksaan laboratorium
 
-| Pemeriksaan | Kegunaan umum dalam evaluasi |
-|---|---|
-| FSH dan LH | Membantu membedakan hipogonadisme hipergonadotropik dari hipogonadisme hipogonadotropik. |
-| Estradiol | Menilai produksi hormon seks pada perempuan. |
-| Prolaktin | Menilai kemungkinan hiperprolaktinemia. |
-| TSH dan fT4 | Mengevaluasi fungsi tiroid. |
-| DHEA-S | Membantu menilai produksi androgen adrenal. |
+| Pemeriksaan | Kegunaan umum dalam evaluasi                                                                                                             |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| FSH dan LH  | Membantu membedakan hipogonadisme hipergonadotropik (hipogonadisme primer) dari hipogonadisme hipogonadotropik (hipogonadisme sekunder). |
+| Estradiol   | Menilai produksi hormon seks pada perempuan.                                                                                             |
+| Prolaktin   | Menilai kemungkinan hiperprolaktinemia.                                                                                                  |
+| TSH dan fT4 | Mengevaluasi fungsi tiroid.                                                                                                              |
+| DHEA-S      | Membantu menilai produksi androgen adrenal.                                                                                              |
 
 ## Pemeriksaan radiologi dan pemeriksaan lain
 
@@ -162,7 +164,10 @@ Daftar etiologi dan persentase pada slide disajikan dalam beberapa kelompok yang
 
 Hasil laboratorium harus ditafsirkan bersama anamnesis, pemeriksaan fisik, tahap pubertas, dan usia tulang.
 
-# 8. Tatalaksana pubertas tarda
+## Alur Pemeriksaan
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792943540000u68m57.png)
+
+# 8. Tatalaksana pubertas tarda (Cuma Nice to Know)
 
 ## Prinsip dan tujuan
 
@@ -183,11 +188,11 @@ Tatalaksana diarahkan untuk mengoreksi penyebab spesifik serta mendukung perkemb
 
 Pemilihan regimen, dosis, waktu mulai, dan peningkatan dosis hormon perlu disesuaikan oleh dokter berdasarkan etiologi, usia, perkembangan klinis, dan pemantauan pertumbuhan serta maturasi tulang.
 
-# 9. Poin penting untuk diingat
+# 9. Rangkuman
 
 - Pubertas normal memerlukan aktivasi pulsatif GnRH yang menstimulasi FSH dan LH.
 - Tanda awal pubertas perempuan adalah perkembangan payudara; pada laki-laki, pembesaran testis.
-- *Thelarche* adalah perkembangan payudara, *pubarche* adalah pertumbuhan rambut pubis, dan *menarke* adalah menstruasi pertama.
+- *Thelarche* adalah perkembangan payudara, *pubarche* adalah pertumbuhan rambut pubis, dan *menarche* adalah menstruasi pertama.
 - Pubertas tarda dapat disebabkan oleh hipogonadisme hipogonadotropik atau hipergonadotropik.
 - FSH dan LH merupakan pemeriksaan awal penting untuk membedakan kedua mekanisme tersebut.
 - Evaluasi mencakup riwayat keluarga, pertumbuhan, nutrisi, olahraga, tanda penyakit sistemik, usia tulang, serta pemeriksaan hormonal yang relevan.
