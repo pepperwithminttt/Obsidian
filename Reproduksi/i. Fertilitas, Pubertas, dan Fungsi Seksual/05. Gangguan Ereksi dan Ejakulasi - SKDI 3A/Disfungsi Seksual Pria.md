@@ -10,24 +10,22 @@ Disfungsi seksual pada pria adalah gangguan pada salah satu atau beberapa tahap 
 - **Orgasmic dysfunction**: gangguan orgasme.
 - **Kelainan fisik penis**: kelainan struktur atau bentuk penis yang dapat memengaruhi fungsi seksual.
 
-Penilaian perlu mempertimbangkan faktor organik, psikologis, dan hubungan pasangan. Faktor-faktor tersebut dapat terjadi bersamaan.
+Di antaranya, yang paling sering adalah **disfungsi ereksi** dan **ejakulasi prematur**.
 
 # 1. Disfungsi Ereksi
 
 ## Definisi
 
-Disfungsi ereksi adalah ketidakmampuan mencapai atau mempertahankan ereksi penis yang memadai untuk melakukan hubungan seksual yang memuaskan. Keluhan yang konsisten selama sekitar **3 bulan** digunakan sebagai batas waktu pada definisi dalam kuliah ini.
+Disfungsi ereksi adalah ketidakmampuan mencapai atau mempertahankan ereksi penis yang memadai untuk melakukan hubungan seksual yang memuaskan. Keluhan konsisten selama sekitar **3 bulan**.
 
 ## Epidemiologi
 
 - Estimasi jumlah pria yang mengalami disfungsi ereksi secara global: sekitar **152 juta pada 1995** dan diproyeksikan menjadi **322 juta pada 2025**.
-- Pada pria berusia 40 tahun, prevalensi yang dicantumkan adalah sekitar **22%**.
-
-Angka tersebut merupakan estimasi dari penelitian yang dirujuk dalam kuliah dan bukan angka prevalensi universal untuk semua populasi.
+- Pada pria berusia 40 tahun, prevalensinya adalah sekitar **22%**.
 
 ## Etiologi dan faktor risiko
 
-Disfungsi ereksi dapat bersifat psikogenik, organik, atau campuran.
+Disfungsi ereksi dapat bersifat **psikogenik**, **organik**, atau **campuran** antara psikogenik dan organik.
 
 ### Faktor psikogenik
 
@@ -39,7 +37,7 @@ Disfungsi ereksi dapat bersifat psikogenik, organik, atau campuran.
 
 ### Faktor organik
 
-Faktor organik yang perlu dinilai meliputi gangguan metabolik dan vaskular, penyakit kronis, gangguan neurologis, serta kemungkinan gangguan hormonal. Contoh faktor risiko yang ditonjolkan dalam ilustrasi kasus:
+Faktor organik yang perlu dinilai meliputi **gangguan metabolik dan vaskular, penyakit kronis, gangguan neurologis, serta kemungkinan gangguan hormonal**. Contoh faktor risiko yang ditonjolkan dalam ilustrasi kasus:
 
 - Diabetes melitus dengan kontrol glikemik buruk.
 - Hipertensi.
@@ -52,8 +50,6 @@ Disfungsi ereksi sering kali bersifat **multifaktorial**. Faktor psikologis dapa
 ## Fisiologi ereksi secara ringkas
 
 Ereksi memerlukan koordinasi rangsangan saraf, relaksasi otot polos jaringan erektil, peningkatan aliran darah ke penis, dan berkurangnya aliran keluar darah vena. Gangguan pada komponen vaskular, saraf, hormonal, atau psikologis dapat menghambat tercapainya ereksi yang cukup keras atau dipertahankan.
-
-**Tips menghafal — ereksi:** ingat tiga komponen utama **saraf – aliran darah – otot polos**. Saat salah satunya terganggu, ereksi dapat ikut terganggu.
 
 ## Anamnesis
 
@@ -86,16 +82,18 @@ Hal yang perlu digali:
 
 Kuesioner menilai kepercayaan diri dalam mencapai ereksi, kekerasan ereksi untuk penetrasi, kemampuan mempertahankan ereksi setelah penetrasi, kesulitan mempertahankan ereksi hingga hubungan selesai, dan frekuensi keberhasilan hubungan seksual.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1792946299000hl97nf.png)
+
 ### Erection Hardness Scale (EHS)
 
 EHS menilai kekerasan ereksi berdasarkan empat tingkat:
 
-| Tingkat | Gambaran |
-|---|---|
-| 1 | Penis membesar, tetapi tidak keras |
-| 2 | Penis keras, tetapi belum cukup keras untuk penetrasi |
-| 3 | Penis cukup keras untuk penetrasi, tetapi belum sepenuhnya kaku |
-| 4 | Penis sepenuhnya keras dan kaku |
+| Tingkat EHS | Gambaran                                                        | Hubungannya dengan skor IIEF |
+| ----------- | --------------------------------------------------------------- | ---------------------------- |
+| 1           | Penis membesar, tetapi tidak keras                              | 6-10                         |
+| 2           | Penis keras, tetapi belum cukup keras untuk penetrasi           | 11-16                        |
+| 3           | Penis cukup keras untuk penetrasi, tetapi belum sepenuhnya kaku | 17-25                        |
+| 4           | Penis sepenuhnya keras dan kaku                                 | 26-30 (Normal)               |
 
 **Tips menghafal EHS:** makin tinggi angka, makin baik kekerasannya. Tingkat **3** sudah cukup untuk penetrasi, sedangkan tingkat **4** menunjukkan kekakuan optimal.
 
@@ -131,29 +129,29 @@ Tatalaksana dilakukan bertahap dan disesuaikan dengan penyebab, keamanan terapi,
 
 ### Lini pertama
 
-- Mengatasi penyebab yang dapat diperbaiki.
-- Modifikasi gaya hidup: berhenti merokok, olahraga, pengaturan pola makan dan berat badan, pengelolaan stres, serta istirahat yang cukup.
+- **Mengatasi penyebab yang dapat diperbaiki**.
+- **Modifikasi gaya hidup**: berhenti merokok, olahraga, pengaturan pola makan dan berat badan, pengelolaan stres, serta istirahat yang cukup.
 - Mengoptimalkan kontrol penyakit penyerta, misalnya diabetes dan hipertensi.
 - Meninjau obat yang digunakan dan mempertimbangkan penyesuaian bila ada obat yang berkontribusi.
 - Konseling seksual atau psikoseksual bila diperlukan.
-- **Inhibitor PDE-5** sebagai terapi farmakologis lini pertama bila tidak ada kontraindikasi.
+- **Inhibitor PDE-5** sebagai terapi farmakologis lini pertama bila tidak ada kontraindikasi. #Ingat 
 
-Contoh inhibitor PDE-5 yang dibahas:
+Contoh inhibitor PDE-5:
 
-| Obat | Dosis standar dalam tabel kuliah | Waktu sebelum hubungan seksual | Awitan kerja yang tercantum | Durasi efek yang tercantum |
-|---|---:|---|---|---|
-| Sildenafil | 50–100 mg | Sekitar 1 jam | 14–60 menit | Hingga 4 jam |
-| Tadalafil | 10–20 mg | 1–12 jam | 16–45 menit | Hingga 36 jam |
-| Vardenafil | 10–20 mg | Sekitar 1 jam | Sekitar 25 menit | Hingga 4 jam |
+| Obat       | Dosis standar | Waktu sebelum hubungan seksual | Awitan kerja     | Durasi efek   |
+| ---------- | ------------: | ------------------------------ | ---------------- | ------------- |
+| Sildenafil |     50–100 mg | Sekitar 1 jam                  | 14–60 menit      | Hingga 4 jam  |
+| Tadalafil  |      10–20 mg | 1–12 jam                       | 16–45 menit      | Hingga 36 jam |
+| Vardenafil |      10–20 mg | Sekitar 1 jam                  | Sekitar 25 menit | Hingga 4 jam  |
 
-Dosis dan waktu di atas merupakan informasi dari tabel kuliah; pemilihan obat dan dosis harus mengikuti penilaian klinis dan panduan yang berlaku. Inhibitor PDE-5 tidak boleh digunakan bersama nitrat karena risiko hipotensi berat.
+**Note**: Inhibitor PDE-5 tidak boleh digunakan bersama nitrat karena risiko hipotensi berat.
 
 ### Lini kedua
 
 Dipertimbangkan bila terapi awal tidak efektif, tidak dapat digunakan, atau tidak sesuai dengan kebutuhan pasien.
 
 - **Vacuum constriction device**: alat vakum membantu menarik darah ke penis; cincin konstriksi membantu mempertahankan ereksi.
-- **Injeksi intrakavernosa**: obat disuntikkan ke jaringan erektil penis. Pilihan yang tercantum meliputi papaverin dengan atau tanpa fentolamin, prostaglandin E1 (alprostadil/Caverject), atau terapi kombinasi.
+- **Injeksi intrakavernosa**: obat disuntikkan ke jaringan erektil penis. Pilihan obat meliputi papaverin dengan atau tanpa fentolamin, prostaglandin E1 (alprostadil/Caverject), atau terapi kombinasi.
 - **Medicated urethral system for erection**: obat diberikan melalui uretra.
 
 Injeksi intrakavernosa memerlukan edukasi dan pemantauan klinis karena dapat menimbulkan nyeri, perdarahan, atau priapismus (ereksi berkepanjangan).
