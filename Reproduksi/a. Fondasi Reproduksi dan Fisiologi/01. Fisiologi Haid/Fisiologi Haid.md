@@ -303,8 +303,6 @@ Sebelum memberikan terapi hormonal, penyebab amenore perlu dievaluasi, terutama 
 |Jumlah darah|Banyak|Kadang sedikit|
 |Penyebab dan penanganan|Mengikuti evaluasi hipermenore|Mengikuti evaluasi hipomenore|
 
-Cara membedakan: menoragi berfokus pada haid yang memanjang disertai darah banyak, sedangkan brakimenore berfokus pada durasi haid yang terlalu singkat.
-
 ## 8. Perdarahan Bercak (Spotting)
 
 ### A. Premenstrual spotting
