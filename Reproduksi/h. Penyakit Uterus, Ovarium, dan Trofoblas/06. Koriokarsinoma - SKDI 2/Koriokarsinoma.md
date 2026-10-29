@@ -1,5 +1,5 @@
 
-> [!NOTE] Level Kom
+> [!NOTE] Level Kompetensi SKDI: 2
 
 # 1. Konsep dasar
 
