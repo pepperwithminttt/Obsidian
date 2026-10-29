@@ -163,16 +163,16 @@ Anjuran:
 
 Skrining kanker serviks dan vaksinasi HPV bertujuan mencegah kanker serviks, **bukan mencegah kista Nabothi**.
 
-# 11. Rangkuman
+# 11. Rangkuman (Baca!)
 
-- **Kista Nabothi** adalah kista retensi mukus jinak akibat tertutupnya muara kelenjar endoserviks.
+- **Kista Nabothi** adalah **kista retensi mukus jinak akibat tertutupnya muara kelenjar endoserviks**.
 - Kista sering ditemukan secara kebetulan, biasanya kecil, tidak bergejala, dan dapat tunggal atau multipel.
 - Serviks memiliki ektoserviks ber-epitel skuamosa dan endoserviks ber-epitel kolumnar penghasil mukus. Pertemuan keduanya disebut SCJ; zona transformasi merupakan daerah metaplasia.
 - Mekanisme pembentukan kista: **muara kelenjar tertutup → mukus tertahan → rongga melebar menjadi kista**.
-- Metaplasia fisiologis merupakan proses utama; peradangan kronis serta perbaikan jaringan setelah persalinan atau tindakan serviks dapat berkaitan.
+- **Metaplasia fisiologis merupakan proses utama**; peradangan kronis serta perbaikan jaringan setelah persalinan atau tindakan serviks dapat berkaitan.
 - Perdarahan tidak biasa, nyeri menetap, cairan berair berlebihan, atau lesi yang membesar memerlukan evaluasi, bukan langsung dianggap akibat kista.
-- Anamnesis dan pemeriksaan spekulum merupakan bagian penting evaluasi. Kolposkopi, tes infeksi, atau biopsi dilakukan sesuai indikasi.
+- **Anamnesis dan pemeriksaan spekulum** merupakan bagian penting evaluasi. Kolposkopi, tes infeksi, atau biopsi dilakukan sesuai indikasi.
 - HPV/Pap smear adalah skrining kanker serviks, bukan tes konfirmasi kista Nabothi.
-- Kista khas tanpa gejala umumnya cukup diobservasi. Drainase atau eksisi dapat dipertimbangkan bila besar, bergejala, atau mengganggu evaluasi. Lesi mencurigakan perlu dievaluasi lebih lanjut terlebih dahulu.
+- **Kista khas tanpa gejala umumnya cukup diobservasi. Drainase atau eksisi dapat dipertimbangkan bila besar, bergejala, atau mengganggu evaluasi. Lesi mencurigakan perlu dievaluasi lebih lanjut terlebih dahulu**.
 - Tidak ada pencegahan khusus yang terbukti. Jangan memanipulasi kista sendiri; tetap ikuti skrining kanker serviks dan vaksinasi HPV sesuai anjuran.
 - Konseling perlu mencakup sifat jinak lesi, alasan observasi atau tindakan, dampak terhadap rencana reproduksi, tanda bahaya, dan jadwal tindak lanjut.
