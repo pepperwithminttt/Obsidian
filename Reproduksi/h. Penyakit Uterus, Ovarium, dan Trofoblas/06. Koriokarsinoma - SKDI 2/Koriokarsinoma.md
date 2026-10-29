@@ -1,7 +1,7 @@
 
 > [!NOTE] Level Kompetensi SKDI: 2
 
-# 1. Konsep dasar
+# 1. Konsep Dasar
 
 **Gestational trophoblastic disease (GTD)** adalah kelompok kondisi yang berhubungan dengan kehamilan dan berasal dari jaringan trofoblas/plasenta abnormal. Spektrumnya mencakup kelainan jinak atau premaligna hingga neoplasia ganas.
 
@@ -13,7 +13,7 @@
 
 **Inti:** tidak semua GTD merupakan kanker. Mola hidatidosa dapat berkembang menjadi penyakit trofoblastik persisten/ganas, sedangkan GTN mencakup beberapa entitas dengan perilaku biologis yang berbeda.
 
-# 2. Faktor risiko GTD
+# 2. Faktor Risiko GTD
 
 - **Usia:** risiko kehamilan mola meningkat pada usia sangat muda dan usia lebih tua. Peningkatan risiko pada perempuan berusia di atas 50 tahun hingga sekitar tiga kali lipat.
 - **Etnis Asia:** insidensi GTD dilaporkan lebih tinggi di kawasan Asia; perempuan keturunan Asia hampir dua kali lebih mungkin mengalami GTD dibandingkan kelompok non-Asia.
@@ -23,7 +23,7 @@
 
 **Tips menghafal — faktor risiko:** ingat **U-E-R-K-D**: **U**sia, **E**tnis, **R**iwayat mola, **K**eluarga, **D**iet.
 
-# 3. Gambaran klinis GTD
+# 3. Gambaran Klinis GTD
 
 ## Gejala dan tanda
 
@@ -47,7 +47,7 @@
 
 Gambaran klinis tersebut tidak selalu muncul bersamaan. Penilaian harus menggabungkan anamnesis, pemeriksaan fisik, kadar β-hCG, dan pencitraan.
 
-# 4. Perbedaan mola komplet, mola parsial, mola invasif, dan koriokarsinoma
+# 4. Perbedaan Mola Komplet, Mola Parsial, Mola Invasif, dan Koriokarsinoma
 
 | Kondisi                     | Temuan patologis/genetik                                                                                                                                   | Gambaran klinis penting                                                                                                                                                                     |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,6 +56,8 @@ Gambaran klinis tersebut tidak selalu muncul bersamaan. Penilaian harus menggabu
 | **Mola invasif**            | Jaringan mola menginvasi miometrium; dapat menginvasi pembuluh darah/limfatik                                                                              | Dapat menyebabkan perdarahan dan ruptur uterus bila tidak ditangani                                                                                                                         |
 | **Koriokarsinoma**          | Tumor trofoblas ganas dengan anaplasia, perdarahan dan nekrosis; **tidak ditemukan vili korionik**                                                         | Dapat menyebar hematogen, terutama ke paru, vagina, otak, dan hati; sering didiagnosis berdasarkan gambaran klinis dan β-hCG, dengan metastasis yang mungkin sudah ada                      |
 | **PSTT**                    | Tumor dari trofoblas tempat implantasi plasenta; mengandung kromosom maternal dan paternal                                                                 | Pertumbuhan relatif lambat; β-hCG biasanya tidak setinggi koriokarsinoma; dapat menginvasi miometrium dan bermetastasis, misalnya ke paru; sering memerlukan pembedahan dan/atau kemoterapi |
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/1793256874000nq8ch2.png)
 
 ## Poin pembeda koriokarsinoma
 
@@ -72,7 +74,7 @@ Gambaran klinis tersebut tidak selalu muncul bersamaan. Penilaian harus menggabu
 - **Mola invasif:** jaringan mola masuk ke miometrium.  
 - **PSTT:** β-hCG relatif lebih rendah dibandingkan koriokarsinoma.
 
-# 5. Diagnosis dan pemeriksaan penunjang
+# 5. Diagnosis dan Pemeriksaan Penunjang
 
 Evaluasi GTD/GTN menggabungkan:
 
@@ -105,7 +107,7 @@ Evaluasi GTD/GTN menggabungkan:
 
 Diagnosis tidak ditentukan hanya dari satu gejala atau satu nilai β-hCG. Interpretasi harus mempertimbangkan riwayat kehamilan, tren β-hCG, temuan USG, pemeriksaan klinis, dan kemungkinan penyakit metastatik.
 
-# 6. Pemantauan β-hCG setelah mola
+# 6. Pemantauan β-hCG Setelah Mola
 
 Setelah evakuasi mola, pasien memerlukan **pemantauan β-hCG serial** sampai kadar menjadi normal dan sesuai protokol tindak lanjut. Tujuannya adalah memastikan jaringan trofoblas mengalami regresi dan mendeteksi GTN persisten sedini mungkin.
 
@@ -123,7 +125,7 @@ Pengukuran serial dan pemantauan diperlukan setelah evakuasi, disertai anjuran m
 
 **Tips menghafal:** setelah evakuasi mola, yang dicari bukan hanya satu hasil β-hCG normal, melainkan **tren yang turun sampai normal**. Plateau atau kenaikan perlu dievaluasi.
 
-# 7. Diagnosis GTN pascamola
+# 7. Diagnosis GTN Pascamola
 
 Kriteria diagnostik mencakup pola β-hCG berikut:
 
@@ -132,7 +134,7 @@ Kriteria diagnostik mencakup pola β-hCG berikut:
 - Diagnosis histologis koriokarsinoma.
 - β-hCG yang tetap terdeteksi selama enam bulan atau lebih setelah kehamilan mola.
 
-# 8. Staging dan skor prognostik GTN
+# 8. Staging dan Skor Prognostik GTN
 
 ## Stadium FIGO
 
@@ -160,7 +162,7 @@ Skor digunakan untuk memperkirakan risiko dan membantu memilih terapi. Faktor ya
 
 Skor per faktor meningkat sesuai karakteristik yang lebih berisiko. Dalam sistem WHO/FIGO yang lazim digunakan, **skor total 0–6** tergolong risiko rendah dan **skor ≥7** tergolong risiko tinggi; keputusan terapi harus ditetapkan oleh tim yang menangani GTN.
 
-# 9. Prinsip tata laksana
+# 9. Prinsip Tata Laksana
 
 Tata laksana ditentukan oleh jenis GTD, kadar dan tren β-hCG, stadium, skor prognostik, lokasi metastasis, kondisi klinis, serta keinginan mempertahankan fertilitas.
 
@@ -180,7 +182,7 @@ Tata laksana ditentukan oleh jenis GTD, kadar dan tren β-hCG, stadium, skor pro
 - **Pembedahan:** dipertimbangkan pada kondisi tertentu, misalnya perdarahan yang tidak terkendali, penyakit terlokalisasi tertentu, atau tipe histologis tertentu seperti PSTT/ETT.
 - **Koriokarsinoma:** umumnya sangat sensitif terhadap kemoterapi; metastasis tidak otomatis berarti tidak dapat disembuhkan.
 
-# 10. Kapan harus dirujuk atau ditangani segera?
+# 10. Kapan Harus Dirujuk atau Ditangani Segera?
 
 Rujukan atau penanganan segera diperlukan bila ditemukan:
 
@@ -192,7 +194,7 @@ Rujukan atau penanganan segera diperlukan bila ditemukan:
 - Dugaan koriokarsinoma, mola invasif, PSTT, atau ETT.
 - Kebutuhan penentuan stadium, kemoterapi, atau tata laksana multidisiplin.
 
-# 11. Alur berpikir klinis singkat
+# 11. Alur Berpikir Klinis Singkat
 
 1. **Curigai GTD** pada pasien dengan perdarahan/amenore, riwayat kehamilan, uterus lebih besar dari usia kehamilan, muntah berlebihan, atau jaringan vesikular.
 2. **Nilai stabilitas pasien** dan tangani kegawatan bila ada.
@@ -202,7 +204,7 @@ Rujukan atau penanganan segera diperlukan bila ditemukan:
 6. Bila GTN dicurigai/terkonfirmasi, lakukan penentuan stadium FIGO dan skor prognostik WHO/FIGO.
 7. Tentukan terapi sesuai kategori risiko dan rujuk ke pusat berpengalaman.
 
-# 12. Rangkuman akhir
+# 12. Rangkuman Akhir
 
 - **GTD** adalah spektrum kelainan trofoblas terkait kehamilan; sebagian jinak/premaligna, sebagian menjadi **GTN**.
 - Klasifikasi penting mencakup mola komplet, mola parsial, mola invasif, koriokarsinoma, PSTT, dan ETT.
