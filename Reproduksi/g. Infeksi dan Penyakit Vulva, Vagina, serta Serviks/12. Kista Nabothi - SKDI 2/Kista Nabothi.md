@@ -1,3 +1,6 @@
+
+> [!NOTE] Level Kompetensi SKDI: 2
+
 # 1. Definisi dan Gambaran Umum
 
 **Kista Nabothi** adalah **kista akibat retensi mukus yang jinak pada serviks**. Kista terbentuk ketika muara kelenjar endoserviks tertutup sehingga mukus yang tetap diproduksi kelenjar terperangkap di dalamnya.
