@@ -261,6 +261,6 @@ Pilihan terapi bergantung pada keparahan, kekambuhan, spesies penyebab, serta st
 - Temuan pemeriksaan: eritema, edema, fisura atau ekskoriasi; serviks biasanya normal.
 - pH vagina biasanya normal, sekitar 4–4,5. pH >4,5 mengarahkan evaluasi pada vaginosis bakterialis atau trikomoniasis.
 - Pemeriksaan meliputi mikroskopi KOH 10%, pewarnaan Gram, kultur jamur **(gold standard)**, dan PCR sesuai kebutuhan.
-- VVC tidak terkomplikasi dapat diterapi dengan azol topikal atau fluconazole oral dosis tunggal; pada kehamilan gunakan azol topikal saja.
+- **VVC tidak terkomplikasi dapat diterapi dengan azol topikal atau fluconazole oral dosis tunggal; pada kehamilan gunakan azol topikal saja.**
 - VVC berulang didefinisikan sebagai ≥3 episode per tahun dan memerlukan strategi terapi yang lebih panjang.
 - Pencegahan berfokus pada menghindari douching, penggunaan antibiotik yang tidak perlu, menjaga area genital tetap kering, dan mengendalikan diabetes.
