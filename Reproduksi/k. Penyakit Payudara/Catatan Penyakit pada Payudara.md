@@ -357,17 +357,17 @@ Pemeriksaan dilakukan dalam posisi duduk dan berbaring, meliputi inspeksi dan pa
 
 ### BI-RADS
 
-| Kategori | Makna | Rekomendasi yang dicantumkan |
-|---|---|---|
-| 0 | Pemeriksaan belum lengkap | Pemeriksaan ulang |
-| 1 | Negatif | Skrining sesuai usia |
-| 2 | Temuan jinak | Skrining sesuai usia |
-| 3 | Kemungkinan besar jinak | Follow-up 6 bulan |
-| 4 | Mencurigakan keganasan | Dianjurkan biopsi |
-| 4A | Kecurigaan rendah | Bagian dari kategori 4 |
-| 4B | Kecurigaan menengah | Bagian dari kategori 4 |
-| 4C | Kecurigaan cukup tinggi, tetapi tidak klasik | Bagian dari kategori 4 |
-| 5 | Sangat dicurigai ganas | Biopsi atau biopsi eksisi |
+| Kategori | Makna | Rekomendasi                 |
+| -------- | -------------------------------------------- | --------------------------- |
+| 0 | Pemeriksaan belum lengkap | Pemeriksaan ulang           |
+| 1 | Negatif | Skrining sesuai usia        |
+| 2 | Temuan jinak | Skrining sesuai usia        |
+| 3 | Kemungkinan besar jinak | Follow-up 6 bulan           |
+| 4 | Mencurigakan keganasan | Dianjurkan biopsi           |
+| 4A | Kecurigaan rendah | Bagian dari kategori 4      |
+| 4B | Kecurigaan menengah | Bagian dari kategori 4      |
+| 4C | Kecurigaan cukup tinggi, tetapi tidak klasik | Bagian dari kategori 4      |
+| 5 | Sangat dicurigai ganas | Biopsi atau biopsi eksisi   |
 | 6 | Keganasan telah dibuktikan melalui biopsi | Tindak lanjut sesuai temuan |
 
 ## Imaging untuk staging
@@ -430,13 +430,13 @@ Interpretasi total skor:
 
 ## Subtipe intrinsik berdasarkan imunohistokimia
 
-| Subtipe | Profil yang tercantum |
-|---|---|
-| Luminal A | ER dan/atau PR positif, HER2 negatif, Ki-67 rendah (kurang dari 14%) |
-| Luminal B1 | ER dan/atau PR positif, HER2 negatif, Ki-67 tinggi |
-| Luminal B2 | ER dan/atau PR positif, HER2 positif |
-| HER2-enriched | ER dan PR negatif, HER2 positif |
-| Triple-negative | Negatif untuk ER, PR, dan HER2; slide mengecualikan tipe medular dan adenoid cystic dari kelompok yang dimaksud |
+| Subtipe | Profil yang tercantum                                                                               |
+| --------------- | --------------------------------------------------------------------------------------------------- |
+| Luminal A | ER dan/atau PR positif, HER2 negatif, Ki-67 rendah (kurang dari 14%)                                |
+| Luminal B1 | ER dan/atau PR positif, HER2 negatif, Ki-67 tinggi                                                  |
+| Luminal B2 | ER dan/atau PR positif, HER2 positif                                                                |
+| HER2-enriched | ER dan PR negatif, HER2 positif                                                                     |
+| Triple-negative | Negatif untuk ER, PR, dan HER2; kecuali tipe medular dan adenoid cystic dari kelompok yang dimaksud |
 
 # 10. Staging Kanker Payudara
 ## Kategori T, N, dan M
@@ -458,14 +458,14 @@ Interpretasi total skor:
 - M0: tidak ada metastasis jauh.
 - M1: terdapat metastasis.
 
-Pengelompokan klinis secara umum pada slide:
+Pengelompokan klinis secara umum:
 - *Early breast cancer* (EBC): stadium dini.
 - *Locally advanced breast cancer* (LABC): stadium lanjut lokal.
 - *Metastatic breast cancer* (MBC): kanker dengan metastasis.
 
 # 11. Status Penampilan (*Performance Status*)
 
-Status penampilan menilai kapasitas fisik pasien dan membantu menentukan pilihan terapi. Skala yang disebutkan:
+Status penampilan menilai kapasitas fisik pasien dan membantu menentukan pilihan terapi. Skala:
 - Karnofsky: 100–0.
 - WHO: 0–4.
 - ECOG (*Eastern Cooperative Oncology Group*).
@@ -497,19 +497,19 @@ Pilihan akhirnya dipengaruhi stadium, status penampilan, subtipe intrinsik, kond
 
 Operasi merupakan terapi utama pada kanker payudara stadium dini. Pemilihan prosedur mempertimbangkan lokasi dan ukuran tumor, multifokalitas, ukuran payudara, serta preferensi pasien untuk mempertahankan payudara.
 
-**Operasi kuratif yang disebutkan**
+**Operasi kuratif**
 - *Breast-conserving surgery* (BCS), termasuk wide local excision, lumpektomi, dan kuadrantektomi.
 - Penanganan aksila: sentinel lymph node dissection (SLND) atau axillary lymph node dissection (ALND).
 - Modified radical mastectomy (MRM), termasuk teknik Patey, Scanlon, dan Madden-Auchincloss.
 - Radical mastectomy (Halsted).
 
-**Operasi paliatif yang disebutkan**
+**Operasi paliatif**
 - Mastektomi simpel/total.
 - Eksisi.
 - Debulking.
 - Metastasectomy.
 
-Rekonstruksi payudara juga dapat dipertimbangkan. Pada slide, breast-conserving therapy (BCT) dibandingkan MRM memiliki overall survival yang sama, dengan hasil kosmetik, komplikasi, dan aspek psikologis yang lebih menguntungkan pada pasien yang sesuai.
+Rekonstruksi payudara juga dapat dipertimbangkan. Breast-conserving therapy (BCT) dibandingkan MRM memiliki overall survival yang sama, dengan hasil kosmetik, komplikasi, dan aspek psikologis yang lebih menguntungkan pada pasien yang sesuai.
 
 ## Radioterapi
 
@@ -517,13 +517,13 @@ Rekonstruksi payudara juga dapat dipertimbangkan. Pada slide, breast-conserving 
 - Dapat merusak materi genetik sel secara langsung atau melalui ionisasi.
 - Menurunkan rekurensi lokoregional dan dapat meningkatkan survival.
 
-Indikasi yang dicantumkan meliputi:
+Indikasi meliputi:
 - Tumor primer T3 (lebih dari 5 cm).
 - Kanker payudara lanjut lokal/metastatik atau penyakit residual sesuai konteks klinis.
 - Batas operasi positif atau dekat.
 - Kanker payudara inflamatorik.
 - Keterlibatan KGB, terutama lebih dari tiga nodus positif atau penyebaran ekstranodal.
-- Setelah BCS, radioterapi dicantumkan sebagai komponen wajib; slide menyebut radiasi lokal dan aksila 50 Gy dalam 25 fraksi selama 5 minggu, dengan tambahan 10 Gy ke tumor bed.
+- Setelah BCS, radioterapi sebagai komponen wajib; radiasi lokal dan aksila 50 Gy dalam 25 fraksi selama 5 minggu, dengan tambahan 10 Gy ke tumor bed.
 
 ## Kemoterapi
 
@@ -531,14 +531,14 @@ Indikasi yang dicantumkan meliputi:
 - Dapat diberikan sebagai terapi neoadjuvan, adjuvan, atau paliatif.
 - Menggunakan kombinasi beberapa obat.
 
-Indikasi yang dicantumkan:
+Indikasi:
 - Tumor primer berukuran lebih dari 1 cm.
 - Semua pasien dengan KGB positif.
 - Faktor prognosis buruk.
 - Kanker payudara stadium lanjut.
 - Kanker payudara inflamatorik.
 
-Faktor yang mendukung pertimbangan kemoterapi adjuvan pada slide:
+Faktor yang mendukung pertimbangan kemoterapi adjuvan:
 - ER negatif.
 - Histologi duktal.
 - Grade 3.
@@ -550,10 +550,10 @@ Faktor yang mendukung pertimbangan kemoterapi adjuvan pada slide:
 
 ## Terapi hormonal
 
-- Sekitar 75% pasien pada slide disebut mengekspresikan reseptor hormon.
+- Sekitar 75% pasien mengekspresikan reseptor hormon.
 - ER dan/atau PR positif menjadi dasar pertimbangan terapi hormonal.
 - Tujuan: menurunkan rekurensi, memperbaiki kualitas hidup, dan meningkatkan overall survival.
-- Pilihan pada slide berdasarkan status menopause:
+- Pilihan berdasarkan status menopause:
   - **Premenopause:** tamoxifen atau ablasi ovarium.
   - **Pascamenopause:** aromatase inhibitor (AI) atau tamoxifen.
 
@@ -562,17 +562,17 @@ Kriteria pascamenopause:
 - Amenorea lebih dari 12 bulan tanpa kontrasepsi atau obat yang memengaruhi menstruasi.
 - Ooforektomi bilateral.
 - Kastrasi radiasi disertai amenorea lebih dari 3 bulan.
-- Penggunaan TSH pada usia lebih dari 55 tahun (sebagaimana tertulis pada slide).
+- Penggunaan TSH pada usia lebih dari 55 tahun.
 
 ## Terapi target
 
 - Menghambat pertumbuhan sel kanker secara spesifik.
-- Sekitar 25% pasien pada slide disebut HER2 positif.
+- Sekitar 25% pasien HER2 positif.
 - Jika imunohistokimia menunjukkan HER2 positif, terapi target yang dicontohkan adalah trastuzumab.
 
 ## Imunoterapi
 
-Imunoterapi disebut sebagai salah satu modalitas sistemik. Rincian indikasi dan regimen tidak dijabarkan pada bagian slide yang terbaca.
+Imunoterapi merupakan salah satu modalitas sistemik.
 
 ## Stadium dini dan stadium lanjut
 
