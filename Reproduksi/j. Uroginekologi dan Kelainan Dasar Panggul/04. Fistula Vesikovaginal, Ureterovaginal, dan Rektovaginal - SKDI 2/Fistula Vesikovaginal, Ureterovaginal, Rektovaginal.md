@@ -201,10 +201,10 @@ Mekanismenya adalah pertumbuhan tumor secara lokal ke struktur yang berdekatan.
 # Rangkuman
 
 - **Fistula vesikovaginal:** hubungan abnormal kandung kemih–vagina; ciri utama adalah urin keluar terus-menerus melalui vagina. Pemeriksaan meliputi tes methylene blue, sistoskopi, dan IVP. Fistula kecil yang diketahui dini dapat ditangani dengan drainase transuretra selama 3 minggu; bila menetap, reparasi dapat direncanakan sekitar 3 bulan kemudian.
-- **Fistula ureterovaginal:** hubungan abnormal ureter–vagina. Tes methylene blue dapat digunakan untuk membedakan antara fistula vesikovaginal dan ureterovaginal..
+- **Fistula ureterovaginal:** hubungan abnormal ureter–vagina. Tes methylene blue dapat digunakan untuk membedakan antara fistula vesikovaginal dan ureterovaginal. Pewarna dimasukkan ke vesika urinaria, klo urin yg kluar dri vagina biru brrti fistula vesikovaginal, klo tdk biru brrti ureterovaginal.
 - **Fistula rektovaginal:** hubungan rektum–vagina; gejala khas adalah flatus, feses, atau pus keluar melalui vagina. Penyebab meliputi tindakan iatrogenik, inflamasi, dan keganasan.
 - Fistula rektovaginal diklasifikasikan menurut lokasi menjadi letak tinggi, tengah, dan distal; klasifikasi sederhana/kompleks juga mempertimbangkan lokasi, diameter, dan penyebab.
-- Pemeriksaan fistula rektovaginal mencakup pemeriksaan perineum, anus, rektum, dan vagina serta tes tampon dengan methylene blue.
+- Pemeriksaan fistula rektovaginal mencakup pemeriksaan perineum, anus, rektum, dan vagina serta tes tampon dengan methylene blue. Klo zat pewarna di tampon terserap, brrti fistula rektovaginal.
 - Penanganan fistula rektovaginal dapat mencakup drainase abses, modifikasi diet, dan operasi setelah inflamasi mereda.
 
 ## Tips menghafal
