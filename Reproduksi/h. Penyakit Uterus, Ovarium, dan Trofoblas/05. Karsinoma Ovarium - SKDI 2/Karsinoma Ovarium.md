@@ -30,10 +30,12 @@ Keluhan karsinoma ovarium dapat tidak spesifik. Gejala yang perlu dikenali melip
 - Asites: penumpukan cairan di rongga peritoneum yang dapat menyebabkan perut membesar.
 - Efusi pleura: penumpukan cairan di rongga pleura yang dapat berkaitan dengan sesak napas.
 
+![gh|426](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/17932500740009e24f2.png)
+
 # 3. Faktor Risiko
 
-- **Faktor familial/herediter:** riwayat keluarga atau sindrom kanker payudara–ovarium herediter (*Hereditary Breast and Ovarian Cancer Syndrome*).
-- **Menopause:** kondisi pascamenopause.
+- **Faktor familial/herediter (PALING SERING! Klo karsinoma uterus tdi karna estrogen):** riwayat keluarga atau sindrom kanker payudara–ovarium herediter (*Hereditary Breast and Ovarian Cancer Syndrome*).
+- **Menopause.**
 - **Infertilitas.**
 - **HRT (*hormone replacement therapy*):** terapi penggantian hormon.
 - **Merokok dan konsumsi alkohol.**
@@ -50,33 +52,30 @@ Faktor risiko tidak berarti seseorang pasti mengalami kanker. Penilaian tetap pe
 
 Evaluasi pasien mencakup pemeriksaan fisik, pencitraan, dan pemeriksaan laboratorium.
 
-| Pemeriksaan | Peran umum |
-|---|---|
-| Pemeriksaan fisik | Menilai kondisi klinis dan menemukan tanda yang mengarah pada massa atau penyebaran penyakit. |
-| Ultrasonografi (USG) | Menilai massa ovarium, termasuk gambaran kistik, padat, atau campuran. |
-| Foto rontgen dada (*chest X-ray*) | Membantu evaluasi rongga dada, termasuk bila dicurigai keterlibatan pleura. |
-| CT scan | Membantu menilai luas penyakit dan kemungkinan penyebaran. |
-| Pemeriksaan laboratorium | Mendukung evaluasi klinis. |
-| CA-125 | Penanda tumor yang dapat digunakan sebagai bagian dari evaluasi; tidak berdiri sendiri untuk memastikan diagnosis. |
-| CEA | Penanda tumor yang dapat dipertimbangkan dalam evaluasi. |
-| HE4 | Penanda tumor yang dapat dipertimbangkan dalam evaluasi. |
+| Pemeriksaan                       | Peran umum                                                                                                             |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Pemeriksaan fisik                 | Menilai kondisi klinis dan menemukan tanda yang mengarah pada massa atau penyebaran penyakit.                          |
+| Ultrasonografi (USG)              | Menilai massa ovarium, termasuk gambaran kistik, padat, atau campuran.                                                 |
+| Foto rontgen dada (*chest X-ray*) | Membantu evaluasi rongga dada, termasuk bila dicurigai keterlibatan pleura.                                            |
+| CT scan                           | Membantu menilai luas penyakit dan kemungkinan penyebaran.                                                             |
+| Pemeriksaan laboratorium          | Mendukung evaluasi klinis.                                                                                             |
+| **CA-125**                        | **Penanda tumor yang dapat digunakan sebagai bagian dari evaluasi**; tidak berdiri sendiri untuk memastikan diagnosis. |
+| CEA                               | Penanda tumor yang dapat dipertimbangkan dalam evaluasi.                                                               |
+| HE4                               | Penanda tumor yang dapat dipertimbangkan dalam evaluasi.                                                               |
 
 **Catatan:** hasil penanda tumor harus diinterpretasikan bersama anamnesis, pemeriksaan fisik, dan pencitraan. Nilai penanda tumor saja tidak cukup untuk memastikan atau menyingkirkan karsinoma ovarium.
 
 # 5. Stadium Karsinoma Ovarium (FIGO 2014)
-
-Stadium menggambarkan luas penyebaran tumor. Berikut kriteria stadium FIGO 2014 yang ditampilkan pada tabel pembelajaran.
-
 ## Stadium I — terbatas pada ovarium
 
-| Substadium | Kriteria |
-|---|---|
-| **IA** | Tumor terbatas pada satu ovarium; kapsul utuh; tidak ada tumor pada permukaan kapsul; sel tumor pada bilasan peritoneum negatif. |
-| **IB** | Tumor terbatas pada kedua ovarium; kapsul utuh; tidak ada tumor pada permukaan kapsul; sel tumor pada bilasan peritoneum negatif. |
-| **IC** | Tumor terbatas pada satu atau kedua ovarium, tetapi terdapat salah satu kondisi pada IC1–IC3. |
-| **IC1** | Kapsul tumor pecah saat operasi (*intraoperative rupture*). |
-| **IC2** | Kapsul tumor pecah sebelum operasi atau terdapat pertumbuhan tumor pada permukaan kapsul. |
-| **IC3** | Sel ganas ditemukan pada sitologi asites atau bilasan peritoneum. |
+| Substadium | Kriteria                                                                                                                          |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **IA**     | Tumor terbatas pada satu ovarium; kapsul utuh; tidak ada tumor pada permukaan kapsul; sel tumor pada bilasan peritoneum negatif.  |
+| **IB**     | Tumor terbatas pada kedua ovarium; kapsul utuh; tidak ada tumor pada permukaan kapsul; sel tumor pada bilasan peritoneum negatif. |
+| **IC**     | Tumor terbatas pada satu atau kedua ovarium, tetapi terdapat salah satu kondisi pada IC1–IC3.                                     |
+| **IC1**    | Kapsul tumor pecah saat operasi (*intraoperative rupture*).                                                                       |
+| **IC2**    | Kapsul tumor pecah sebelum operasi atau terdapat pertumbuhan tumor pada permukaan kapsul.                                         |
+| **IC3**    | Sel ganas ditemukan pada sitologi asites atau bilasan peritoneum.                                                                 |
 
 ## Stadium II — perluasan ke pelvis
 
@@ -108,7 +107,7 @@ Tumor melibatkan satu atau kedua ovarium dengan implan peritoneal di luar pelvis
 | **IVA** | Efusi pleura dengan hasil pemeriksaan sitologi positif. |
 | **IVB** | Metastasis ke parenkim hati atau limpa, atau metastasis ke organ ekstraabdomen, termasuk kelenjar limfe inguinal dan kelenjar limfe di luar rongga abdomen. |
 
-Stadium IV menggambarkan metastasis jauh; metastasis ke organ peritoneal saja tidak termasuk definisi metastasis jauh pada tabel ini.
+Stadium IV menggambarkan metastasis jauh; metastasis ke organ peritoneal saja tidak termasuk definisi metastasis jauh.
 
 **Tips mengingat stadium:** pikirkan perluasan bertahap:
 - **I = ovarium**
@@ -118,9 +117,9 @@ Stadium IV menggambarkan metastasis jauh; metastasis ke organ peritoneal saja ti
 
 Untuk substadium III, ingat ukuran metastasis peritoneal makroskopik: **IIIB ≤ 2 cm**, sedangkan **IIIC > 2 cm**.
 
-# 6. Penatalaksanaan
+# 6. Penatalaksanaan (Cuma Nice to Know)
 
-Pilihan penatalaksanaan yang dibahas meliputi:
+Pilihan penatalaksanaan meliputi:
 
 - **Operasi:** laparotomi dan *frozen section*.
   - **Laparotomi** adalah tindakan pembedahan dengan membuka rongga abdomen.
@@ -140,9 +139,9 @@ Dalam menghadapi kasus karsinoma ovarium, kemampuan yang perlu dikuasai meliputi
 
 # Rangkuman
 
-- Karsinoma ovarium dapat bergejala tidak spesifik: pembesaran atau rasa tidak nyaman pada perut, nyeri, penurunan nafsu makan, gangguan berkemih/defekasi, batuk, dispnea, asites, dan efusi pleura.
+- Karsinoma ovarium dapat bergejala tidak spesifik: **pembesaran atau rasa tidak nyaman pada perut**, nyeri, penurunan nafsu makan, gangguan berkemih/defekasi, batuk, dispnea, asites, dan efusi pleura.
 - Faktor risiko yang perlu dikenali meliputi faktor familial/herediter, menopause, infertilitas, HRT, merokok, alkohol, dan obesitas.
-- Pemeriksaan mencakup pemeriksaan fisik, USG, foto rontgen dada, CT scan, serta penanda tumor CA-125, CEA, dan HE4. Penanda tumor tidak dapat digunakan sendirian untuk memastikan diagnosis.
+- Pemeriksaan mencakup pemeriksaan fisik, USG, foto rontgen dada, CT scan, serta penanda tumor **CA-125**, CEA, dan HE4. Penanda tumor tidak dapat digunakan sendirian untuk memastikan diagnosis.
 - Stadium FIGO 2014: **I terbatas pada ovarium; II meluas ke pelvis; III menyebar ke luar pelvis dan/atau kelenjar limfe retroperitoneal; IV mengalami metastasis jauh.**
-- Penatalaksanaan yang dibahas adalah operasi (laparotomi dan *frozen section*) serta kemoterapi.
+- Penatalaksanaan berupa operasi (laparotomi dan *frozen section*) serta kemoterapi.
 - **Mnemonik utama:** gejala = **Perut–Nyeri–Makan–BAK/BAB–Napas–Cairan**; stadium = **Ovarium–Pelvis–Luar pelvis–Jauh**.
