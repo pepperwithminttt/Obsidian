@@ -1,64 +1,117 @@
 
 > [!NOTE] Level Kompetensi SKDI: 4
 
-# 1. Definisi
+# 1. Definisi Persalinan Normal
 
-> "Persalinan normal adalah kontraksi dari uterus gravid yang mengeluarkan janin dan produk konsepsi lainnya."
+Persalinan normal (normal labour) adalah **proses kontraksi uterus pada kehamilan yang menyebabkan pengeluaran janin dan produk konsepsi lainnya melalui jalan lahir**.
 
-## 8 kriteria diagnostik persalinan normal
+Persalinan merupakan proses fisiologis yang melibatkan koordinasi antara:
 
-| No  | Kriteria                                | Penjelasan                               |
-| --- | --------------------------------------- | ---------------------------------------- |
-| 01  | **Ekspulsi spontan**                    | Tanpa intervensi buatan                  |
-| 02  | **Janin tunggal**                       | Bukan kehamilan ganda                    |
-| 03  | **Aterm / mature**                      | Usia kehamilan **37–42 minggu**          |
-| 04  | **Presentasi belakang kepala (vertex)** |                                          |
-| 05  | **Pervaginam**                          | Melalui jalan lahir alami                |
-| 06  | **Waktu wajar**                         | **Lebih dari 3 jam, kurang dari 18 jam** |
-| 07  | **Tanpa komplikasi: faktor ibu**        |                                          |
-| 08  | **Tanpa komplikasi: faktor janin**      |                                          |
+- Kontraksi uterus.
+- Perubahan serviks.
+- Pergerakan dan penyesuaian posisi janin.
+- Adaptasi jalan lahir.
+- Respons hormonal dan psikologis ibu.
 
-> 🧠 **Tips menghafal 8 kriteria:** pakai kata kunci berurutan **S-T-A-V-P-W-I-J**:
-> **S**pontan · **T**unggal · **A**term · **V**ertex · **P**ervaginam · **W**aktu 3–18 jam · **I**bu aman · **J**anin aman.
-> Angka kunci: **37–42 minggu** dan **3–18 jam**.
+# 2. Kriteria Diagnostik Persalinan Normal
 
+Persalinan normal memiliki delapan kriteria utama:
 
-# 2. Mesin Penggerak: "True Labor"
+1. **Ekspulsi spontan**: Janin dilahirkan secara spontan tanpa intervensi buatan.
+2. **Janin tunggal**: Hanya terdapat satu janin.
+3. **Aterm** atau matur: Kehamilan telah mencapai usia cukup bulan.
+4. **Presentasi kepala (vertex)**: Janin berada dalam presentasi kepala. Kepala janin dalam posisi fleksi sehingga bagian oksiput menjadi bagian terendah.
+5. **Pervaginam**: Melalui jalan lahir alami.
+6. **Waktu wajar**: Persalinan berlangsung selama **>3 jam dan <18 jam**.
+7. **Tanpa komplikasi**: Tidak terdapat komplikasi maternal maupun fetal yang bermakna.
+8. **Kondisi ibu dan bayi baik**: Ibu dan bayi berada dalam keadaan baik setelah persalinan.
 
-Persalinan sesungguhnya (**true labor**) ditandai oleh **kontraksi uterus** yang menghasilkan perubahan mekanis progresif:
+# 3. Mekanisme Terjadinya Persalinan: True Labour
 
-1. **Dilatasi dan penipisan (effacement) serviks** yang progresif
+Persalinan sesungguhnya *(true labour)* ditandai oleh **kontraksi uterus** yang menghasilkan perubahan mekanis progresif pada serviks dan penurunan janin.
+
+1. **Dilatasi dan penipisan (effacement) serviks** yang progresif.
 2. **Penurunan janin (descent)** ke dalam rongga panggul
 3. **Ekspulsi janin dan plasenta** (hasil akhir)
 
-# 3. Trinitas Persalinan: 3 "P"
+Kontraksi yang efektif akan menyebabkan perubahan-perubahan tersebut berlangsung secara progresif.
 
-Persalinan berjalan lancar jika tiga faktor berikut selaras:
+Perbedaan true labour dan false labour:
 
-| P                | Nama        | Peran                                                                                                           |
-| ---------------- | ----------- | --------------------------------------------------------------------------------------------------------------- |
-| ⚡ **POWER**      | Kekuatan    | **Uterus**: gaya dorong mekanis utama (kontraksi miometrium), ditambah upaya mengejan ibu                       |
-| 🦴 **PASSAGE**   | Jalan lahir | **Panggul**: arsitektur tulang, otot dasar panggul, dan jaringan lunak perineum                                 |
-| 👶 **PASSENGER** | Penumpang   | **Janin**: benda yang digerakkan (terutama anatomi kepala), juga ukuran, presentasi, dan posisi tengkorak janin |
+|True labour|False labour|
+|---|---|
+|Kontraksi teratur dan semakin kuat|Kontraksi tidak teratur|
+|Intensitas dan frekuensi meningkat|Tidak menunjukkan peningkatan yang konsisten|
+|Menyebabkan dilatasi dan effacement serviks|Tidak menyebabkan perubahan serviks yang progresif|
+|Kontraksi tetap berlangsung meskipun ibu mengubah posisi|Dapat berkurang dengan istirahat atau perubahan posisi|
 
-# 4. PASSAGE: Jalan Lahir (Panggul)
+**Intinya**: Kunci true labour adalah kontraksi yang menghasilkan perubahan serviks secara progresif, bukan sekadar adanya kontraksi atau nyeri perut.
 
-## 🦴 Arsitektur tulang
+# 4. Kerangka Biomekanis Persalinan: The 3 Ps
+
+Keberhasilan persalinan dipengaruhi oleh tiga komponen utama yang dikenal sebagai The 3 Ps.
+
+## A. Power (Kekuatan)
+
+Merupakan tenaga yang mendorong janin keluar melalui jalan lahir.
+
+Terdiri atas:
+
+- Kontraksi otot miometrium uterus.
+- Tenaga mengejan ibu.
+
+## B. Passenger (Janin)
+
+Merupakan janin yang akan melewati jalan lahir.
+
+Faktor yang memengaruhi:
+
+- Ukuran janin.
+- Berat janin.
+- Diameter kepala janin.
+- Presentasi janin.
+- Posisi janin.
+- Derajat fleksi atau defleksi kepala.
+
+## C. Passage (Jalan Lahir)
+
+Merupakan jalan yang harus dilewati janin selama persalinan.
+
+Terdiri atas:
+
+- Jalan lahir tulang, terutama panggul.
+- Jalan lahir lunak, meliputi serviks, vagina, dan jaringan perineum.
+
+Ketiga komponen tersebut harus bekerja secara harmonis agar persalinan dapat berlangsung normal.
+
+# 5. Passage: Anatomi Jalan Lahir
+
+Jalan lahir merupakan struktur yang dilewati janin selama persalinan. Struktur ini terdiri atas panggul tulang dan jaringan lunak.
+
+## A. Struktur Tulang Panggul
+
+Bagian-bagian tulang panggul yang penting dalam persalinan:
+
+- Sacrum: Tulang kelangkang.
+- Promontorium sakrum: Tonjolan anterior pada bagian atas sakrum.
+- Ilium: Bagian terbesar tulang panggul.
+- Iliac crest: Krista iliaka atau tepi atas ilium.
+- Ischium: Bagian bawah dan posterior tulang panggul.
+- **Spina ischiadica: Tonjolan tulang ischium yang menjadi penanda penting untuk menilai penurunan kepala janin.**
+- Pubis: Bagian anterior tulang panggul.
+- Symphysis pubis: Persendian yang menghubungkan kedua tulang pubis.
+- Coccyx: Tulang ekor.
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934622130005ognke.png)
 
-| Struktur | Catatan |
-|---|---|
-| **Sacrum & promontorium sakrum** | Batas belakang pintu atas panggul |
-| **Ilium & iliac crest** | Tulang sayap panggul |
-| **Ischium & spina iskiadika** | ⭐ **Landmark penting untuk penurunan** (station) |
-| **Pubis** | Tulang pubis dan simfisis pubis |
-| **Coccyx** | Koksigis / tulang ekor |
-| **Pelvic inlet & outlet** | Pintu atas dan pintu bawah panggul |
+Panggul memiliki dua bagian penting:
 
-## 📏 Dimensi kritis panggul (pelvic diameters)
+1. **Pelvic inlet** (pintu atas panggul/PAP): Pintu masuk janin ke dalam rongga panggul.
+2. **Pelvic outlet** (pintu bawah panggul/PBP): Pintu keluar janin dari rongga panggul.
 
-Janin harus melakukan **manuver rotasi** untuk melewati arsitektur tulang dengan dimensi yang rigid.
+## B. Dimensi Kritis Panggul
+
+Janin harus menyesuaikan posisi dan melakukan rotasi agar diameter kepala dapat melewati dimensi panggul karena terdapat perbedaan bentuk dan diameter antara pintu atas dan pintu bawah panggul. Rotasi janin ini disebut **putaran paksi dalam** *(internal rotation)*.
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934622620003hbr69.png)
 
@@ -69,9 +122,7 @@ Janin harus melakukan **manuver rotasi** untuk melewati arsitektur tulang dengan
 | **Oblik** (dua sisi) | **12 cm** dan **12,5 cm** |
 | Pintu bawah panggul, anteroposterior | **12,5 cm** |
 
-## 🔄 Konsep "corong rotasi"
-
-**Mengapa janin harus berputar?** Karena bentuk pintu panggul **berubah secara drastis dari atas ke bawah**.
+## C. Perbedaan Bentuk Pintu Atas dan Pintu Bawah Panggul
 
 |                   | Pintu Atas Panggul (Pelvic Brim)                                  | Pintu Bawah Panggul (Pelvic Outlet)                                   |
 | ----------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -80,9 +131,11 @@ Janin harus melakukan **manuver rotasi** untuk melewati arsitektur tulang dengan
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793462380000xum9mt.png)
 
-# 5. PASSENGER: Janin
+**Konsep penting**: Panggul memiliki **bentuk seperti corong** yang orientasi diameter terlebarnya berubah dari atas ke bawah. Oleh karena itu, **janin tidak dapat melewati panggul hanya dengan bergerak lurus, tetapi harus melakukan rotasi**.
 
-**Diameter kepala janin adalah "kunci" pembuka panggul.**
+# 6. Passenger: Diameter Kepala Janin
+
+Ukuran dan posisi kepala janin sangat menentukan keberhasilan persalinan pervaginam.
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934624360003qm07p.png)
 
@@ -92,40 +145,79 @@ Janin harus melakukan **manuver rotasi** untuk melewati arsitektur tulang dengan
 | **Ukuran** | **9,5 cm** | **11,5 cm** |
 | **Mekanisme** | "Kunci" sempurna yang muat melewati diameter panggul terkecil sekalipun → persalinan normal | Terlalu besar untuk melewati panggul normal → **kemacetan persalinan (prolonged/obstructed labor)** |
 
-# 6. POWER: Kekuatan Persalinan
+# 7. Power: Kekuatan Persalinan
 
-## 💪 Kekuatan primer: kontraksi uterus (*his*)
+Power merupakan kekuatan yang mendorong janin melewati jalan lahir. Terdiri atas kekuatan primer dan sekunder.
 
-Bersifat **involunter dan ritmik**, dimulai dari **pacemaker di fundus uteri** dan menyebar ke segmen bawah.
+## A. Kekuatan Primer (Primary Power)
 
-| Parameter      | Nilai pada fase aktif yang efektif                      |
-| -------------- | ------------------------------------------------------- |
-| **Frekuensi**  | **3–5** kontraksi per 10 menit                          |
-| **Durasi**     | **40–60 detik** per kontraksi                           |
-| **Intensitas** | **≥25 mmHg** tekanan intra-uteri saat kontraksi adekuat |
+Kekuatan primer berasal dari kontraksi uterus *(his)* yang bersifat involunter dan ritmik.
 
-**Pola gelombang kontraksi** (dari rekaman tekanan): gelombang kontraksi mulai dari fundus, menyebar ke seluruh uterus, lalu menghilang. Tekanan amnion naik hingga puncak (±50 mmHg), dengan **tonus** dasar sekitar 10 mmHg di antara kontraksi. Fase puncak kontraksi terjadi **serentak di seluruh bagian uterus**, dan nyeri muncul saat kontraksi mendekati puncak.
+Kontraksi:
+- Dimulai dari pacemaker di fundus uteri.
+- Menyebar menuju segmen bawah uterus.
+- Menghasilkan tekanan yang membantu pembukaan serviks dan penurunan janin.
 
-## 🫁 Kekuatan sekunder: tenaga mengejan volunter
+Karakteristik kontraksi pada persalinan aktif:
 
-Pada saat **pembukaan lengkap (10 cm)**, ibu mengerahkan tenaga mengejan dengan:
-- **Otot diafragma**: kontraksi ke bawah meningkatkan tekanan toraks
-- **Otot dinding perut**: menghasilkan tekanan intra-abdomen yang kuat
+| Parameter  | Nilai                        |
+| ---------- | ---------------------------- |
+| Frekuensi  | 3–5 kontraksi/10 menit       |
+| Durasi     | 40–60 detik/kontraksi        |
+| Intensitas | ≥25 mmHg tekanan intrauterin |
 
-**Sinergi** antara *his* (involunter) dan dorongan ibu (volunter) menghasilkan **gaya ekspulsif yang optimal** untuk melahirkan janin.
+Kontraksi uterus berlangsung dalam bentuk gelombang:
 
-# 7. Dinamika Serviks: Effacement vs Dilatasi
+1. Gelombang kontraksi dimulai.
+2. Kontraksi menyebar ke bagian uterus lainnya.
+3. Intensitas kontraksi mencapai puncak.
+4. Kontraksi berangsur menghilang dan uterus mengalami relaksasi.
 
-| | **EFFACEMENT** (penipisan) | **DILATASI** (pembukaan) |
-|---|---|---|
-| **Definisi** | Pemendekan dan penipisan kanalis servikalis | Pembukaan aperture (ostium) serviks, dinilai dengan pemeriksaan vagina |
-| **Metrik** | 0% (belum persalinan) → ± 30% (awal) → **100%** (penipisan sempurna) | Dalam cm atau jari (lihat tabel) |
+## B. Kekuatan Sekunder (Secondary Power)
+
+Kekuatan sekunder berasal dari tenaga mengejan ibu secara volunter.
+
+Mulai berperan ketika pembukaan serviks lengkap (10 cm).
+
+Melibatkan:
+1. **Diafragma**: Berkontraksi ke arah bawah sehingga meningkatkan tekanan dalam rongga toraks dan abdomen.
+2. **Otot dinding perut**: Menghasilkan tekanan intraabdomen yang kuat.
+
+Sinergi antara kontraksi uterus *(his)* yang involunter dan dorongan mengejan ibu yang volunter menghasilkan gaya ekspulsif untuk mengeluarkan janin.
+
+**Intinya**:
+- Primer = kontraksi uterus, involunter.
+- Sekunder = tenaga mengejan ibu, volunter.
+
+# 8. Dinamika Serviks: Effacement dan Dilatasi
+
+Dua perubahan utama serviks selama persalinan adalah effacement dan dilatation.
+
+## A. Effacement (Penipisan Serviks)
+
+Effacement adalah proses pemendekan dan penipisan kanalis servikalis selama persalinan.
 
 ![gh|371](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934627620005pal9k.png)
 
-Gambar: Effacement Serviks
+Perubahan effacement:
 
-## 🖐️ Ukuran dilatasi dengan jari
+- 0%: Serviks masih tebal dan panjang.
+- 30%: Mulai terjadi penipisan.
+- 100%: Serviks telah menipis sempurna sehingga kanal serviks menghilang dan menyatu dengan segmen bawah uterus.
+
+Pada awal persalinan:
+
+- Kontraksi mulai menarik serviks ke arah atas.
+- Serviks mengalami pemendekan.
+- Ostium internum bergeser ke arah anterior.
+
+Pada effacement 100%, jaringan serviks menjadi sangat tipis, menyerupai kertas.
+
+## B. Dilatasi Serviks
+
+- Dilatasi adalah proses pembukaan ostium serviks secara bertahap selama persalinan.
+- Pengukuran dilakukan melalui pemeriksaan vaginal toucher (VT).
+- Perkiraan ukuran pembukaan berdasarkan jumlah jari:
 
 | Jari | Ukuran | Fraksi pembukaan |
 |---|---|---|
@@ -137,7 +229,7 @@ Gambar: Effacement Serviks
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793462835000f6gava.png)
 
-## 📸 Perubahan serviks tahap demi tahap
+## C. Tahapan Perubahan Serviks
 
 | Tahap                 | Kondisi                  | Keterangan                                                                                                        |
 | --------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -148,257 +240,549 @@ Gambar: Effacement Serviks
 
 ![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793462875000fz4yyh.png)
 
-> 🧠 **Tips menghafal:**
-> - **Jari → cm:** **2 – 3,5 – 5,5 – 7,5 – 10** (tambahannya: +1,5, +2, +2, +2,5). Fraksi: **1/3 – 1/2 – 3/4**.
-> - **Tipis dulu, buka kemudian** (terutama pada primigravida): effacement 100% → dilatasi → lengkap. Seperti **balon**: menipis dulu baru melebar 🎈
-> - Mudah diingat: **"jari 4 = 3/4, jari 3 = 1/2, jari 2 = 1/3"** ✋
+Pada awal persalinan, serviks masih tebal dan panjang. Kontraksi uterus secara bertahap menyebabkan serviks memendek, menipis, dan membuka hingga mencapai 10 cm.
 
-# 8. 4 Kala Persalinan
+Catatan:
+- Effacement = penipisan.
+- Dilatasi = pembukaan.
+- Effacement 100% tidak sama dengan dilatasi 10 cm. Keduanya merupakan proses yang berbeda, meskipun berlangsung bersamaan.
 
-| Kala    | Nama                                     | Batasan                                                                                                                              | Batas waktu                                                                                  |
-| ------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| **I**   | **Pembukaan serviks** (dilatasi 0–10 cm) | **Fase laten:** pembukaan 0 – <4 cm (bisa berlangsung berjam-jam). **Fase aktif:** pembukaan 4–10 cm, berakhir saat dilatasi lengkap | Progres ekspektasi fase aktif ± 1 cm per jam (batas minimal diterima 1 cm/2 jam)             |
-| **II**  | **Pengeluaran janin (ekspulsi)**         | Dari pembukaan lengkap hingga bayi lahir, didorong oleh refleks meneran (*bearing down*)                                             | **Maksimal 2 jam (primipara) / 1 jam (multipara)**                                           |
-| **III** | **Kelahiran plasenta**                   | Dari bayi lahir hingga plasenta dan selaput ketuban lahir lengkap                                                                    | **Maksimal 30 menit** (dengan manajemen aktif: **traksi tali pusat terkendali & oksitosin**) |
-| **IV**  | **Pemantauan (observasi postpartum)**    | 2 jam pertama pasca plasenta lahir. Pantau ketat **kontraksi uterus, perdarahan, dan tanda vital ibu**                               | **2 jam**                                                                                    |
+# 9. Empat Kala Persalinan
 
-## 📈 Kurva fase dilatasi serviks (Friedman)
+Persalinan dibagi menjadi empat kala berdasarkan tahapan proses yang terjadi.
+
+## A. Kala I: Pembukaan Serviks
+
+Dimulai ketika persalinan berlangsung hingga pembukaan serviks lengkap (10 cm).
+
+Kala I dibagi menjadi dua fase:
+
+1. **Fase Laten (Latent Phase)**
+
+- Pembukaan serviks dari 0 hingga <4 cm.
+- Progresi pembukaan berlangsung relatif lambat.
+- Dapat berlangsung selama berjam-jam.
+
+1. **Fase Aktif (Active Phase)**
+
+- Pembukaan serviks dari 4-10 cm.
+- Progresi pembukaan berlangsung lebih cepat.
+- Berakhir ketika serviks mencapai pembukaan lengkap.
 
 ![gh|413](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/179346307300026pmd9.png)
 
-| Fase | Penjelasan |
+## B. Kala II: Pengeluaran Janin
+
+Dimulai sejak pembukaan serviks lengkap (10 cm) hingga bayi lahir.
+
+Karakteristik:
+- Terjadi refleks meneran (bearing down).
+- Ibu mulai mengejan secara aktif.
+- Kontraksi uterus bekerja bersama tenaga mengejan untuk mendorong janin keluar.
+
+Batas waktu:
+- Primipara: maksimal 2 jam.
+- Multipara: maksimal 1 jam.
+
+## C. Kala III: Kelahiran Plasenta
+
+Dimulai setelah bayi lahir hingga plasenta dan selaput ketuban lahir lengkap.
+
+Batas waktu:
+- Maksimal 30 menit.
+- Dengan manajemen aktif kala III, termasuk pemberian oksitosin dan traksi tali pusat terkendali.
+
+## D. Kala IV: Pemantauan Pascapersalinan
+
+Merupakan periode observasi selama 2 jam pertama setelah plasenta lahir.
+
+Hal-hal yang dipantau:
+
+- Kontraksi uterus.
+- Jumlah perdarahan.
+- Tanda-tanda vital ibu.
+
+Tujuan utamanya adalah mendeteksi dini perdarahan dan komplikasi pascapersalinan.
+
+Tips menghafal empat kala:
+
+|Kala|Kata kunci|
 |---|---|
-| **Fase laten** (*latent phase*) | 4 cm pertama dilatasi. Prosesnya lambat |
-| **Fase aktif** (*active phase*) | Dilatasi lebih cepat, dari **4 cm hingga lengkap (10 cm)**. Kecepatan normal ± **1 cm/jam** |
+|I|Pembukaan|
+|II|Bayi lahir|
+|III|Plasenta lahir|
+|IV|Observasi ibu|
 
-Pada kurva, fase aktif terbagi tiga: **akselerasi** → **kemiringan maksimum (maximum slope)** → **deselerasi**. Setelah itu masuk **kala II (second stage)**.
+# 10. Mekanisme Hormonal Inisiasi Persalinan
 
-> 🧠 **Tips menghafal 4 kala:**
-> - **Kala 1** = "**4 – 10**" (fase aktif dimulai di 4 cm, berakhir di 10)
-> - **Kala 2** = "**2 / 1**" (primi 2 jam, multi 1 jam), 👶 *Primi = lebih lama*
-> - **Kala 3** = "**30**" menit (plasenta)
-> - **Kala 4** = "**2 jam**" (observasi: **K-P-T** = **K**ontraksi, **P**erdarahan, **T**anda vital)
-> - Kalimat: *"Empat-sepuluh, dua-satu, tiga-puluh, dua jam"* 🎵
-> - **Latent < 4, Active ≥ 4**: "*aktif mulai dari empat*" ⏩
+Inisiasi persalinan melibatkan komunikasi antara janin, plasenta, dan uterus.
 
-# 9. Fisiologi Inisiasi Persalinan
+## A. Peran Janin: Fetal Clock
 
-## ⏰ Jam janin (The Fetal Clock)
+Ketika janin mencapai kematangan, terjadi perubahan kondisi spasial dan nutrisi yang memicu aktivasi sistem hormonal janin.
 
-Persalinan dimulai oleh **sinyal dari janin yang matang**:
+Tahapannya:
+1. Hipotalamus janin: Mengalami aktivasi dan melepaskan CRH (Corticotropin-Releasing Hormone).
+2. Aksis adrenal janin: CRH merangsang pelepasan ACTH (Adrenocorticotropic Hormone).
+3. Kelenjar adrenal janin: ACTH merangsang produksi kortisol.
+4. Plasenta: Kortisol janin memicu perubahan keseimbangan hormonal plasenta.
 
-| Langkah | Peristiwa |
-|---|---|
-| 1️⃣ **Hipotalamus janin (maturasi)** | Janin yang matang mengalami "stres" spasial dan nutrisi → memicu pelepasan **CRH** (*Corticotropin-Releasing Hormone*) |
-| 2️⃣ **Aksis adrenal janin** | CRH merangsang pelepasan **ACTH** → memicu kelenjar adrenal janin memproduksi **kortisol** |
-| 3️⃣ **Plasenta (pergeseran hormonal)** | Kortisol janin mengaktifkan enzim yang **menurunkan dominasi progesteron** dan **meningkatkan produksi estrogen** |
-| 4️⃣ **Sintesis prostaglandin (PGF2α)** | Estrogen tinggi merangsang endometrium rahim melepaskan **prostaglandin**, memicu kontraksi awal rahim |
+## B. Pergeseran Hormonal Plasenta
 
-## ⚙️ Mekanisme persalinan (partus)
-### 1. Pembentukan gap junction (Connexin 43)
+Kortisol janin memengaruhi keseimbangan progesteron dan estrogen.
 
-Pergeseran menuju estrogen memungkinkan pembentukan **gap junction** antar sel otot polos miometrium. Rahim menjadi **sinsitium fungsional**, sehingga kontraksi berdenyut **serempak dan kuat**.
+Perubahan yang terjadi:
+- Dominasi progesteron menurun.
+- Produksi estrogen meningkat.
+- Estrogen merangsang sintesis prostaglandin.
 
-### 2. Refleks Ferguson (siklus umpan balik positif) 🔁
+## C. Peran Prostaglandin
 
-| Langkah | Peristiwa |
-|---|---|
-| 1 | Penurunan kepala janin **menekan dan meregangkan serviks** |
-| 2 | Sinyal regangan dikirim ke **otak ibu (hipotalamus)** |
-| 3 | **Hipofisis posterior** melepaskan **oksitosin** |
-| 4 | Oksitosin memicu kontraksi lebih kuat → kepala janin terdorong lebih dalam → serviks teregang lebih lanjut → **kembali ke langkah 1** |
+Prostaglandin, terutama PGF2α, berperan dalam:
 
-### 3. Peran prostaglandin
+- Memicu kontraksi uterus.
+- Membantu pematangan serviks.
+- Melunakkan serviks.
+- Membantu dilatasi serviks.
 
-Prostaglandin membantu pematangan (pelunakan) dan dilatasi serviks agar janin dapat lewat.
+Pelepasan prostaglandin juga dikaitkan dengan proses lisis korpus luteum dan dimulainya kontraksi awal uterus.
 
-> 🧠 **Tips menghafal:**
-> - Rantai hormon janin: **CRH → ACTH → Kortisol** (ingat **"C-A-K"**) lalu **Estrogen naik, Progesteron turun → Prostaglandin**.
-> - **Ferguson = lingkaran setan yang baik** 😇: *tekan serviks → oksitosin → kontraksi → tekan serviks lagi*.
-> - **Connexin 43** = "kabel penghubung" antar sel otot supaya **kompak seperti paduan suara** 🎶
+> [!NOTE] **Alur menghafal**:
+> 
+> Hipotalamus janin → CRH → ACTH → Kortisol → Perubahan hormonal plasenta → Peningkatan estrogen dan prostaglandin → Kontraksi uterus dan pematangan serviks. #Ingat 
 
-# 10. Hemodinamika Persalinan
+# 11. Mekanisme Kontraksi Uterus dan Refleks Ferguson
 
-Prinsip mekanis: **The 3 Ps** (Power, Passage, Passenger), seperti yang sudah dijelaskan.
+## A. Pembentukan Gap Junction
 
-## 💉 Efek "auto-transfusi" (stres kardiovaskular maksimal)
+Pergeseran keseimbangan hormonal menuju estrogen memungkinkan pembentukan gap junction antarsel otot polos miometrium.
 
-- Setiap kali rahim berkontraksi, sebanyak **300–500 mL darah** (sekitar **20–30% darah rahim**) **diperas kembali ke sirkulasi sistemik ibu**.
-- Akibatnya terjadi **lonjakan drastis curah jantung** (meningkat tambahan hingga **45%** selama persalinan aktif).
-- **Denyut jantung (HR) dan tekanan darah (BP) meningkat** akibat **nyeri dan stimulasi simpatis**.
+Protein yang berperan adalah **Connexin 43**.
 
-# 11. 7 Gerakan Kardinal
+**Fungsi gap junction**:
+- Menghubungkan sel-sel otot polos miometrium.
+- Memungkinkan komunikasi antarsel.
+- **Membuat uterus bertindak sebagai satu kesatuan fungsional (functional syncytium).**
+- **Menghasilkan kontraksi yang lebih serempak dan kuat.**
 
-Gerakan kardinal adalah **orkestrasi biomekanik** janin menyesuaikan diri dengan bentuk panggul.
+## B. Refleks Ferguson (Positive Feedback)
 
-## 🎬 Bagian 1: masuk dan turun
+Refleks Ferguson merupakan mekanisme umpan balik positif yang memperkuat kontraksi uterus selama persalinan.
 
-| No | Gerakan | Penjelasan |
+Tahapannya:
+1. Kepala janin turun dan menekan serviks.
+2. Peregangan serviks mengirimkan sinyal ke otak ibu, terutama hipotalamus.
+3. Hipofisis posterior melepaskan oksitosin.
+4. Oksitosin merangsang kontraksi uterus yang lebih kuat.
+5. Kontraksi mendorong kepala janin semakin turun sehingga serviks semakin teregang.
+6. Peregangan kembali merangsang pelepasan oksitosin.
+
+Siklus ini berlangsung berulang hingga bayi lahir.
+
+## C. Peran Oksitosin
+
+Oksitosin berfungsi meningkatkan kekuatan kontraksi uterus sehingga membantu kemajuan persalinan.
+
+## D. Peran Prostaglandin
+
+Prostaglandin membantu:
+
+- Pematangan serviks.
+- Pelunakan serviks.
+- Dilatasi serviks.
+
+> [!NOTE] **Tips menghafal**:
+> Refleks Ferguson adalah positive feedback: kepala menekan serviks → oksitosin meningkat → kontraksi meningkat → kepala semakin menekan serviks → siklus berulang.
+
+# 12. Hemodinamika Selama Persalinan
+
+Persalinan menyebabkan perubahan kardiovaskular yang cukup besar pada ibu.
+
+## A. Efek Autotransfusi
+
+Setiap kontraksi uterus menyebabkan darah dari pembuluh darah uterus terdorong kembali ke sirkulasi sistemik ibu.
+
+Jumlah darah yang kembali:
+
+- Sekitar 300–500 mL setiap kontraksi.
+- Setara dengan sekitar 20–30% darah dalam uterus.
+
+Fenomena ini disebut **efek autotransfusi**.
+
+## B. Perubahan Kardiovaskular
+
+Akibat perpindahan darah tersebut:
+
+- Curah jantung (cardiac output) meningkat.
+- Peningkatan tambahan curah jantung dapat mencapai 45% selama persalinan aktif.
+- Denyut jantung meningkat akibat nyeri dan stimulasi sistem saraf simpatis.
+- Tekanan darah juga dapat meningkat.
+
+**Poin penting**: Kontraksi uterus tidak hanya berfungsi mengeluarkan janin, tetapi juga memengaruhi hemodinamika ibu melalui perpindahan darah kembali ke sirkulasi sistemik.
+
+# 13. Tujuh Gerakan Kardinal Persalinan (Seven Cardinal Movements)
+
+Gerakan kardinal merupakan serangkaian perubahan posisi dan gerakan kepala serta tubuh janin untuk menyesuaikan diri dengan bentuk jalan lahir.
+
+Terdapat tujuh gerakan utama.
+
+## 1. Engagement (Masuknya Kepala)
+
+Engagement adalah masuknya diameter biparietal kepala janin melewati pintu atas panggul.
+
+Karakteristik:
+
+- Kepala memasuki panggul.
+- Diameter biparietal melewati PAP (Pintu Atas Panggul).
+- Kepala umumnya memasuki panggul dengan posisi melintang, menyesuaikan diameter terlebar pintu atas panggul.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793472348000y4g9u3.png)
+
+## 2. Descent (Penurunan)
+
+Descent adalah penurunan kepala janin secara progresif ke dalam rongga panggul.
+
+Dipengaruhi oleh:
+
+- Tekanan cairan amnion.
+- Tekanan fundus uterus.
+- Kontraksi otot abdomen.
+- Tenaga mengejan ibu.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793472375000faehx7.png)
+
+## 3. Flexion (Fleksi)
+
+Ketika kepala janin menghadapi resistensi dari otot dasar panggul, dagu terdorong mendekati dada.
+
+Tujuannya:
+- Membuat kepala berada dalam posisi fleksi maksimal.
+- Mengubah diameter kepala yang melewati jalan lahir menjadi diameter suboksipitobregmatika.
+- Menghasilkan diameter yang lebih kecil, sekitar 9,5 cm.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793472400000rrhasz.png)
+
+## 4. Internal Rotation (Putaran Paksi Dalam)
+
+Setelah kepala mengalami fleksi, kepala janin melakukan rotasi di dalam panggul.
+
+Mekanismenya:
+- Bentuk pintu bawah panggul memiliki diameter anteroposterior yang lebih besar.
+- Otot levator ani membantu mengarahkan rotasi kepala.
+- Oksiput janin berputar ke arah anterior sekitar 45–90°.
+- Sutura sagitalis menjadi sejajar dengan diameter anteroposterior panggul ibu.
+
+Tujuannya adalah menyesuaikan posisi kepala dengan bentuk pintu bawah panggul.
+
+![gh|394](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793472442000pw9nwe.png)
+
+## 5. Extension (Ekstensi)
+
+Setelah rotasi selesai, kepala janin mencapai introitus vagina.
+
+Mekanismenya:
+
+- Kepala menggunakan tepi bawah simfisis pubis sebagai titik tumpu atau hipomoklion.
+- Kepala mengalami ekstensi untuk melewati jalan lahir.
+- Oksiput, dahi, hidung, dan dagu lahir secara berurutan melewati perineum.
+
+![gh|377](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/179347248200022zdmt.png)
+
+## 6. Restitution dan External Rotation
+
+Keduanya merupakan gerakan yang terjadi setelah kepala janin lahir.
+
+### Restitution (Restitusi)
+
+- Setelah kepala lahir, kepala berputar spontan sekitar 45°.
+- Tujuannya mengembalikan posisi kepala terhadap leher yang sebelumnya mengalami puntiran selama rotasi internal.
+
+![gh|302](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934725210002fba7h.png)
+
+### External Rotation (Putaran Paksi Luar)
+
+- Bahu janin berputar di dalam panggul.
+- Diameter bisakromial (jarak antara kedua bahu) menyesuaikan diri dengan diameter anteroposterior panggul.
+- Kepala yang sudah berada di luar mengikuti rotasi tersebut hingga menghadap ke paha ibu.
+
+## 7. Expulsion (Ekspulsi)
+
+Merupakan tahap pengeluaran seluruh tubuh janin.
+
+Urutannya:
+
+1. Bahu anterior lahir terlebih dahulu di bawah simfisis pubis.
+2. Bahu posterior menyusul melewati perineum.
+3. Sisa tubuh janin keluar mengikuti kurva jalan lahir.
+
+![gh|298](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934725820006k4yyr.png)
+
+## Ringkasan Tujuh Gerakan Kardinal
+
+|Urutan|Gerakan|Makna|
 |---|---|---|
-| **1** | **Engagement** (masuknya kepala) | **Diameter biparietal** janin melewati **pintu atas panggul (Hodge I)**. Kepala masuk dalam posisi **melintang**, menyesuaikan diameter terluas pintu atas panggul |
-| **2** | **Descent** (penurunan) | Penurunan progresif ke dalam rongga panggul, digerakkan oleh **tekanan cairan amnion, fundus, dan kontraksi abdomen** |
-| **3** | **Flexion** (fleksi maksimal) | Saat kepala bertemu resistensi otot dasar panggul, **dagu terdorong ke arah dada**. Tujuan: mengubah diameter kepala menjadi **suboksipito-bregmatika (9,5 cm)** yang jauh lebih kecil |
+|1|Engagement|Kepala masuk PAP|
+|2|Descent|Kepala turun|
+|3|Flexion|Kepala menunduk|
+|4|Internal rotation|Oksiput berputar ke anterior|
+|5|Extension|Kepala lahir|
+|6|Restitution dan external rotation|Kepala dan bahu menyesuaikan posisi|
+|7|Expulsion|Seluruh tubuh lahir|
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793463551000vsizwc.png)
+Tips menghafal tujuh gerakan kardinal:
 
-## 🎬 Bagian 2: menyesuaikan ruang
+**E – D – F – I – E – R – E**
 
-| No | Gerakan | Penjelasan |
-|---|---|---|
-| **4** | **Internal rotation** (putaran paksi dalam) | **Masalah geometris:** pintu bawah panggul punya diameter AP yang lebih besar. **Solusi:** dipandu bentuk "selokan" **otot levator ani**, **oksiput berputar ke depan sejauh 45–90°**. **Sutura sagitalis** janin kini sejajar dengan **diameter AP ibu** |
-| **5** | **Extension** (ekstensi) | Setelah rotasi selesai, kepala mencapai **introitus vagina**. Karena sumbu panggul melengkung ke atas, kepala memakai **tepi bawah simfisis pubis sebagai titik tumpu (hipomoklion)**. Kepala mendongak, melahirkan **oksiput → ubun-ubun → dahi → hidung/muka → dagu** secara berurutan melewati perineum |
+- **E**ngagement
+- **D**escent
+- **F**lexion
+- **I**nternal rotation
+- **E**xtension
+- **R**estitution / External rotation
+- **E**xpulsion
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934635730000p1nlb.png)
+Ingat urutan sederhananya: masuk → turun → menunduk → berputar → mendongak → menyesuaikan → keluar.
 
-## 🎬 Bagian 3: resolusi dan lahirnya fetus
+# 14. Extension dan Crowning
 
-| No | Gerakan | Penjelasan |
-|---|---|---|
-| **6** | **Restitution / External rotation** (putaran paksi luar) | **Restitusi:** setelah kepala lahir bebas, kepala berputar spontan kembali **45°** untuk mengembalikan leher yang terpelintir. **Rotasi eksternal:** tubuh janin memutar dalam panggul sehingga **diameter bisakromial (bahu)** sejajar dengan **diameter AP ibu**. Kepala di luar mengikuti secara pasif hingga **menghadap paha ibu** |
-| **7** | **Expulsion** (ekspulsi) | **Bahu anterior** lahir lebih dulu di bawah simfisis pubis → **bahu posterior** menyusul lahir melewati dasar perineum → **sisa tubuh** meluncur keluar dengan mudah mengikuti jalur kurva panggul |
+## A. Ekstensi Kepala
 
-![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934636230004hpksf.png)
+Setelah oksiput melewati simfisis pubis, kepala janin mengalami ekstensi atau defleksi.
 
-## 👑 Ekstensi kepala dan crowning
+Hal ini disebabkan oleh dua kekuatan yang berlawanan:
 
-Setelah oksiput melewati simfisis pubis, kepala mengalami **ekstensi (defleksi)** akibat **dua kekuatan yang berlawanan**:
-- **Kekuatan kontraksi** yang mendorong ke depan-bawah
-- **Resistensi otot perineum dan simfisis** yang mengarahkan ke atas
+1. Kekuatan kontraksi uterus mendorong kepala ke arah depan dan bawah.
+2. Resistensi otot perineum dan simfisis pubis mengarahkan kepala ke atas.
 
-**Crowning** terjadi saat **diameter kepala terbesar melingkari vulva tanpa regresi di antara kontraksi**, dan merupakan tanda kepala akan segera lahir. Urutan lahirnya: **oksiput → ubun-ubun → dahi → muka → dagu**.
+Kepala kemudian lahir secara berurutan:
 
-**Urutan penolong (rangkaian gambar):** penyangga perineum dengan kompres hangat → crowning kepala bayi → kelahiran kepala → penyangga awal kepala → rotasi dan kelahiran bahu (potongan melintang panggul) → kala III dan pelepasan plasenta (potongan melintang uterus).
+1. Oksiput.
+2. Ubun-ubun.
+3. Dahi.
+4. Muka.
+5. Dagu.
 
-> 🧠 **Tips menghafal 7 gerakan kardinal (E-D-F-I-E-R-E):**
->
-> **E**ngagement → **D**escent → **F**lexion → **I**nternal rotation → **E**xtension → **R**estitution (external rotation) → **E**xpulsion
->
-> Kalimat lucu: ***"E**ko **D**uduk **F**oto **I**kut **E**mak **R**apat **E**ksis"*** 📸😂 (E-D-F-I-E-R-E)
->
-> Kelompok: **1–3 = "masuk & turun & tunduk"** (fleksi), **4–5 = "putar & dongak"**, **6–7 = "putar balik & keluar"**.
-> Ingat pola: **Tunduk (fleksi) → Putar (internal) → Dongak (ekstensi) → Putar balik (restitusi) → Bahu keluar.** 🙇‍♀️🔄🙆‍♀️🔄🏃
-> Kata kunci: **hipomoklion = "engsel" di tepi bawah simfisis.**
+## B. Crowning
 
----
+Crowning adalah keadaan ketika diameter terbesar kepala janin telah melewati vulva dan kepala tetap terlihat tanpa kembali masuk ke dalam vagina di antara kontraksi.
 
-# 12. Asuhan Holistik
+Crowning merupakan tanda bahwa kepala janin akan segera lahir.
 
-## 🧘 A. Fisika gravitasi dan manajemen nyeri
+## C. Dukungan Perineum
 
-**Optimalisasi biomekanik**
-- **Posisi tegak** (berdiri/jongkok/berlutut): memanfaatkan **gaya gravitasi penuh** untuk membantu descent.
-- **Perluasan panggul:** posisi **jongkok (squatting)** dapat memperlebar pintu bawah panggul (PBP) hingga **20–30%** (pada bagian lain disebut hingga **28%**), memberi ruang ekspulsi lebih luas.
-- **Hindari posisi supine (telentang):** mencegah **kompresi vena kava inferior** (hipotensi supine) yang menurunkan curah jantung dan aliran darah ke plasenta (perfusi uteroplasenta).
+Kompres hangat pada perineum dapat digunakan sebagai bagian dari dukungan selama kepala janin mengalami crowning.
 
-**Posisi tegak vs berbaring:** posisi tegak (berdiri, jongkok, duduk) memberi keuntungan fisiologis:
-- Memanfaatkan gravitasi untuk **mempercepat penurunan janin**
-- **Memperluas diameter outlet panggul**
-- **Memperkuat efektivitas dorongan meneran** ibu
+Tujuannya memberikan dukungan dan membantu proses peregangan perineum selama kelahiran kepala.
 
-**Modulasi sensorik**
-- **Teori Gate-Control:** pemijatan punggung bawah (**counter-pressure**) memblokir sinyal nyeri serviks sebelum mencapai otak.
-- **Teknik relaksasi & pernapasan:** mencegah spasme otot dasar panggul yang dapat menghambat **rotasi internal dan ekstensi** kepala janin.
+![gh|342](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/1793472751000ao99m7.png)
 
-## 🧠 B. Psikologis ibu
+# 15. Asuhan Holistik Selama Persalinan
 
-Kondisi psikologis ibu **langsung memengaruhi fisiologi persalinan** melalui jalur neuroendokrin.
+Asuhan persalinan tidak hanya memperhatikan aspek mekanis, tetapi juga kenyamanan fisik, pengelolaan nyeri, serta kondisi psikologis ibu.
 
-| Aspek | Dampak |
-|---|---|
-| 😨 **Rasa takut & cemas** | Mengaktifkan **sistem simpatis**, melepaskan **katekolamin (adrenalin)** → **vasokonstriksi uterus** dan menghambat kontraksi efektif |
-| 😖 **Ketegangan otot** | Stres menyebabkan **hipertonus otot panggul**, mempersulit dilatasi serviks, dan meningkatkan persepsi nyeri (**siklus Fear–Tension–Pain**) |
-| 🤝 **Dukungan emosional** | Kehadiran pendamping suportif (doula, keluarga, bidan) terbukti **mempersingkat durasi persalinan** dan **mengurangi kebutuhan analgesia** |
+## A. Optimalisasi Biomekanik
+### 1. Posisi tegak
 
-## 🔄 C. Psikoneuroendokrinologi: dampak fisik dukungan keluarga
+**Contohnya**:
+- Berdiri.
+- Jongkok.
+- Berlutut.
+- Duduk.
 
-Persalinan normal sangat bergantung pada **keseimbangan neuro-hormonal**. Lingkungan psikologis secara langsung menentukan kekuatan **Power**.
+**Keuntungan**:
+- Memanfaatkan gravitasi untuk membantu penurunan kepala janin.
+- Membantu efektivitas kontraksi dan dorongan mengejan.
 
-| 😈 **Lingkaran setan** | 😇 **Lingkaran fisiologis** |
-|---|---|
-| Rasa takut / sendirian | Kehadiran pendamping / rasa aman |
-| ⬇️ Aktivasi sistem saraf **simpatis** | ⬇️ Aktivasi sistem **parasimpatis** |
-| ⬇️ Pelepasan hormon stres (**katekolamin/adrenalin**) | ⬇️ Stimulasi **oksitosin endogen** & pelepasan **endorfin** |
-| ⬇️ Penurunan sirkulasi uteroplasenta & **penghambatan oksitosin** | ⬇️ |
-| ⬇️ **Kontraksi melemah, persalinan macet** ❌ | ✅ **Kontraksi uterus ritmik, relaksasi serviks, persalinan lancar** |
+### 2. Posisi jongkok (Squatting)
 
-> 🧠 **Tips menghafal:**
-> - **Takut → Simpatis → Adrenalin → Oksitosin turun → Macet** (*"TSAOM"*) vs **Aman → Parasimpatis → Oksitosin + Endorfin → Lancar**.
-> - **Adrenalin = musuh oksitosin** ⚔️. Oleh karena itu, ibu **jangan ditinggal sendirian**!
-> - **Posisi:** "**Tegak itu hebat, telentang itu berat**" 🧍‍♀️✅ 🛏️❌ (supine → vena kava tertekan → hipotensi supine).
+Posisi jongkok dapat memperlebar diameter pintu bawah panggul sehingga memberikan ruang lebih luas bagi janin untuk keluar dengan perluasan hingga sekitar 20–30%.
 
----
+### 3. Menghindari posisi telentang (Supine Position)
 
-# 13. Partograf
+Posisi telentang dapat menyebabkan kompresi vena kava inferior oleh uterus yang membesar.
 
-**Fungsi utama:** merekam **laju pembukaan serviks, penurunan kepala, denyut jantung janin, dan kualitas kontraksi uterus** dalam **satu grafik terpadu**. Partograf berfungsi sebagai sistem **visualisasi dan peringatan dini** persalinan.
+**Akibatnya**:
+- Aliran balik vena menurun.
+- Curah jantung menurun.
+- Dapat terjadi hipotensi supine.
+- Aliran darah ke plasenta dapat berkurang.
 
-## 📊 Komponen grafik
+## B. Modulasi Sensorik dan Manajemen Nyeri
 
-| Bagian | Isi |
-|---|---|
-| Sumbu utama | **Pembukaan serviks (cm)** terhadap **waktu (jam)** |
-| Panel tengah | **Penurunan kepala** (per lima): dari 5/5 hingga 0/5 |
-| Panel bawah | **Kontraksi per 10 menit** (frekuensi dan durasi) |
+### 1. Teori Gate-Control
 
-## 🟡🔴 Garis waspada dan garis bertindak
+Pemijatan pada punggung bawah atau counter-pressure dapat membantu menghambat transmisi sinyal nyeri sebelum mencapai otak.
 
-| | 🟡 **Garis Waspada (Alert Line)** | 🔴 **Garis Bertindak (Action Line)** |
-|---|---|---|
-| **Awal** | Dimulai dari pembukaan **4 cm** | **Paralel, 4 jam di sebelah kanan** garis waspada |
-| **Makna** | Mewakili laju dilatasi normal (**1 cm per jam**) | Kondisi gawat (**prolonged labor**) |
-| **Tindakan klinis** | Bila plot pasien melintasi ke **sebelah kanan** garis ini, persalinan berjalan **lebih lambat dari normal** → **wajib tingkatkan observasi** | Membutuhkan **intervensi medis segera**, misalnya **amniotomi, augmentasi oksitosin, atau persiapan rujukan Sesar** |
+### 2. Relaksasi dan teknik pernapasan
 
-**Contoh kurva normal:** pembukaan 4 cm pada jam ke-0 → 5 cm (jam 1) → 6 cm (jam 2) → ± 6,5 cm (jam 3) → 7,5 cm (jam 4) → 9 cm (jam 5) → 10 cm (jam 6), selalu **di sebelah kiri atau di atas garis waspada**. Penurunan kepala turun dari 5/5 menjadi 0/5 seiring waktu.
+**Membantu**:
+- Mengurangi ketegangan otot.
+- Mencegah spasme otot dasar panggul.
+- Mendukung proses rotasi internal dan ekstensi kepala.
+- Membantu ibu menghadapi nyeri persalinan.
 
-> 🧠 **Tips menghafal:**
-> - 🟡 **Kuning = hati-hati (waspada, observasi lebih ketat)**, 🔴 **Merah = bertindak (intervensi)**, seperti **lampu lalu lintas** 🚦
-> - **Alert 4 cm, Action = alert + 4 jam.**
-> - **Patokan: "1 cm per jam"** → kiri garis = aman, kanan garis = lambat.
+# 16. Pengaruh Psikologis Ibu terhadap Persalinan
 
----
+Kondisi psikologis ibu memengaruhi fisiologi persalinan melalui jalur neuroendokrin.
 
-# 14. Tanda Bahaya (Red Flags) Gawat Darurat
+## A. Dampak Rasa Takut dan Cemas
 
-## 👩 Indikator gawat maternal (ibu)
+Kecemasan mengaktifkan sistem saraf simpatis dan menyebabkan pelepasan katekolamin, terutama adrenalin.
 
-| Tanda | Keterangan |
-|---|---|
-| 🩸 **Perdarahan pervaginam abnormal** | Darah segar masif di luar *bloody show* → curiga **solusio plasenta / plasenta previa** |
-| 💢 **Hipertensi & gejala preeklampsia** | TD **≥ 140/90 mmHg** dengan **pandangan kabur, nyeri ulu hati, atau kejang** |
-| ⏳ **Kegagalan progresivitas** (masalah Power/Passage) | Plot **melewati garis bertindak** pada partograf, atau **ibu kelelahan ekstrem (maternal exhaustion)** |
-| 🌡️ **Tanda infeksi** | **Demam, takikardia, atau cairan ketuban berbau busuk** |
+**Dampaknya**:
+- Terjadi vasokonstriksi pembuluh darah uterus.
+- Perfusi uteroplasenta dapat menurun.
+- Kontraksi uterus menjadi kurang efektif.
 
-## 👶 Indikator gawat janin (neonatal)
+## B. Ketegangan Otot
 
-| Tanda | Keterangan |
-|---|---|
-| 💓 **DJJ abnormal** | **Bradikardia (< 110 x/menit)**, **takikardia (> 160 x/menit)**, atau **deselerasi lambat** pada CTG (**hipoksia janin**) |
-| 🟢 **Ketuban mekonium** | Cairan ketuban **hijau pekat atau kental** (tanda stres janin intrauterin) |
-| 🧵 **Prolaps tali pusat** | Tali pusat **menumbung**, teraba di bawah atau di samping bagian terbawah janin → **kegawatdaruratan absolut** |
+Stres psikologis dapat menyebabkan peningkatan tonus otot panggul.
 
-> 🧠 **Tips menghafal:**
-> - **Ibu: P-H-K-I** → **P**erdarahan, **H**ipertensi, **K**egagalan progres, **I**nfeksi (*"Pak Haji Kasih Infaq"* 🕌😄).
-> - **Janin: D-M-T** → **D**JJ abnormal, **M**ekonium, **T**ali pusat menumbung (*"Dokter Menolong Tuntas"*).
-> - **DJJ aman = 110–160**, di luar itu waspada.
+**Akibatnya**:
+- Dilatasi serviks dapat menjadi lebih sulit.
+- Persepsi nyeri meningkat.
+- Relaksasi selama persalinan terganggu.
 
----
+Hal ini membentuk **siklus Fear–Tension–Pain**:
+1. **Fear** (ketakutan) meningkatkan kecemasan.
+2. **Tension** (ketegangan) menyebabkan otot semakin tegang.
+3. **Pain** (nyeri) meningkat.
+4. Nyeri yang meningkat dapat memperburuk ketakutan dan ketegangan.
 
-# 15. Kesimpulan: Fisiologi Pemberdayaan
+## C. Dukungan Emosional
 
-**The Physiology of Empowerment**
+Kehadiran pendamping yang suportif, seperti keluarga, bidan, atau doula, dapat memberikan rasa aman bagi ibu.
 
-Persalinan normal adalah **mahakarya fisiologi yang terkoordinasi**: anatomi, hormon, biomekanika, dan pikiran manusia menyatu dalam satu proses yang bertujuan.
+**Manfaatnya**:
+- Mendukung pelepasan oksitosin endogen.
+- Membantu relaksasi.
+- Mengurangi stres.
+- Membantu mengurangi kebutuhan analgesia.
+- Dapat mempersingkat durasi persalinan.
 
-| Pesan | Isi |
-|---|---|
-| 🎼 **Koordinasi kompleks** | Hormon, gerakan kardinal, dan 3 P bekerja dalam sinkroni yang presisi untuk menghasilkan persalinan aman |
-| 📚 **Pengetahuan memberdayakan** | Memahami mekanika persalinan memungkinkan dukungan klinis yang lebih baik, **lebih sedikit intervensi yang tidak perlu**, dan hasil yang lebih baik |
-| 🌈 **Setiap persalinan unik** | **Kesabaran, observasi cermat, dan penghormatan mendalam terhadap variasi fisiologis** adalah ciri asuhan intrapartum yang unggul |
+## D. Hubungan Dukungan Keluarga dengan Hormon
 
----
+**Jika ibu merasa takut atau sendirian:**
 
-# 16. ✨ Rangkuman Akhir
+- Sistem saraf simpatis teraktivasi.
+- Katekolamin dan adrenalin meningkat.
+- Oksitosin terhambat.
+- Kontraksi melemah.
+- Perfusi uteroplasenta dapat menurun.
+- Persalinan dapat mengalami hambatan.
 
+**Jika ibu merasa aman dan mendapat dukungan:**
+
+- Sistem saraf parasimpatis lebih dominan.
+- Oksitosin endogen meningkat.
+- Endorfin dilepaskan.
+- Kontraksi lebih mendukung kemajuan persalinan.
+- Ibu lebih mampu menghadapi nyeri.
+
+**Tips menghafal**: *Fear–Tension–Pain* merupakan siklus yang menghambat persalinan, sedangkan rasa aman dan dukungan emosional membantu menciptakan kondisi yang mendukung persalinan fisiologis.
+
+# 17. Partograf: Pemantauan dan Peringatan Dini Persalinan
+
+Partograf merupakan alat pemantauan kemajuan persalinan dalam bentuk grafik terpadu.
+
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17934732320001srbgk.png)
+
+## A. Fungsi Partograf
+
+Partograf digunakan untuk merekam:
+
+- Laju pembukaan serviks.
+- Penurunan kepala janin.
+- Denyut jantung janin.
+- Frekuensi dan kualitas kontraksi uterus.
+
+Partograf membantu mendeteksi persalinan yang mengalami perlambatan atau hambatan sehingga tindakan dapat dilakukan lebih awal.
+
+## B. Garis Waspada (Alert Line)
+
+**Karakteristik**:
+- Dimulai dari pembukaan serviks 4 cm.
+- Menggambarkan laju dilatasi sekitar 1 cm/jam.
+
+**Makna klinis**:
+Jika grafik kemajuan persalinan melewati ke sebelah kanan garis waspada, pembukaan serviks berlangsung lebih lambat daripada laju yang digambarkan.
+
+**Tindakan**:
+- Meningkatkan observasi.
+- Mengevaluasi kemajuan persalinan.
+- Memantau kondisi ibu dan janin.
+
+## C. Garis Bertindak (Action Line)
+
+**Karakteristik**:
+- Sejajar dengan garis waspada.
+- Terletak 4 jam di sebelah kanan garis waspada.
+
+**Makna klinis**:
+Jika grafik mencapai atau melewati garis bertindak, terdapat kecurigaan persalinan memanjang *(prolonged labour)* yang membutuhkan evaluasi dan intervensi medis segera.
+
+Contoh tindakan:
+- Amniotomi.
+- Augmentasi menggunakan oksitosin.
+- Persiapan rujukan untuk seksio sesarea.
+
+Tips menghafal:
+- Alert line = waspada, tingkatkan observasi.
+- Action line = bertindak, perlu evaluasi dan intervensi.
+
+# 18. Tanda Bahaya (Red Flags) dalam Persalinan
+
+Tanda bahaya merupakan kondisi yang membutuhkan evaluasi dan penanganan segera karena dapat mengancam keselamatan ibu maupun janin.
+
+## A. Indikator Kegawatan Maternal (Ibu)
+
+1. **Perdarahan pervaginam abnormal**
+	- Darah segar masif di luar bloody show.
+	- Dapat mengarah pada kondisi seperti solusio plasenta atau plasenta previa.
+2. **Hipertensi dan gejala preeklampsia**
+	- Tekanan darah ≥140/90 mmHg.
+	- Pandangan kabur.
+	- Nyeri ulu hati.
+	- Kejang.
+3. **Kegagalan progresivitas persalinan**
+	- Grafik melewati garis bertindak pada partograf.
+	- Ibu mengalami kelelahan ekstrem (maternal exhaustion).
+	- Dapat berkaitan dengan masalah power atau passage.
+4. **Tanda infeksi**
+	- Demam.
+	- Takikardia.
+	- Cairan ketuban berbau busuk.
+
+## B. Indikator Kegawatan Janin (Fetal/Neonatal)
+
+1. **Denyut Jantung Janin (DJJ) abnormal**
+	- Bradikardia: kurang dari 110 kali/menit.
+	- Takikardia: lebih dari 160 kali/menit.
+	- Deselerasi lambat pada CTG dapat menunjukkan hipoksia janin.
+2. **Ketuban bercampur mekonium**
+	- Cairan ketuban berwarna hijau pekat atau kental.
+	- Dapat menjadi tanda stres janin intrauterin.
+3. **Prolaps tali pusar**
+	- Tali pusar menumbung atau teraba di bawah maupun di samping bagian terbawah janin.
+	- Merupakan kegawatdaruratan obstetri karena dapat menyebabkan gangguan aliran darah dan oksigen menuju janin.
+
+# 19. Kesimpulan Fisiologi Persalinan Normal
+
+Persalinan normal merupakan proses fisiologis yang melibatkan koordinasi antara anatomi, hormon, biomekanika, dan kondisi psikologis ibu.
+
+Keberhasilan persalinan dipengaruhi oleh:
+
+- Keseimbangan ketiga komponen persalinan (3P).
+- Kontraksi uterus yang efektif.
+- Penipisan dan pembukaan serviks.
+- Penyesuaian posisi serta diameter kepala janin terhadap panggul.
+- Koordinasi tujuh gerakan kardinal.
+- Keseimbangan hormonal.
+- Dukungan fisik dan emosional terhadap ibu.
+
+Pemahaman terhadap fisiologi persalinan membantu tenaga medis memberikan dukungan yang tepat, menghindari intervensi yang tidak diperlukan, dan meningkatkan keselamatan ibu serta bayi.
+
+# Rangkuman
 ## 🧩 Gambaran besar
 
 | Topik | Inti |
@@ -416,24 +800,24 @@ Persalinan normal adalah **mahakarya fisiologi yang terkoordinasi**: anatomi, ho
 
 ## 🔑 Angka-angka wajib hafal
 
-| Angka | Makna |
-|---|---|
-| **37–42 minggu** | Aterm |
-| **3–18 jam** | Waktu wajar persalinan |
-| **9,5 cm vs 11,5 cm** | Diameter kepala fleksi vs defleksi |
-| **11 / 13 / 12 / 12,5 cm** | Diameter panggul (AP / transversal / oblik / outlet) |
-| **2 – 3,5 – 5,5 – 7,5 – 10 cm** | 1–4 jari dan lengkap |
-| **4 cm** | Awal fase aktif |
-| **1 cm/jam** | Laju dilatasi normal fase aktif |
-| **2 jam / 1 jam** | Batas kala II (primipara / multipara) |
-| **30 menit** | Batas kala III (manajemen aktif) |
-| **2 jam** | Observasi kala IV |
-| **3–5 / 40–60 / ≥ 25** | Frekuensi per 10 menit, durasi (detik), intensitas (mmHg) kontraksi adekuat |
-| **300–500 mL; 45%** | Auto-transfusi per kontraksi; peningkatan curah jantung |
-| **110–160** | DJJ normal |
-| **≥ 140/90** | Hipertensi berat tanda bahaya |
-| **45–90°** | Rotasi internal oksiput (restitusi: 45°) |
-| **20–30%** | Perluasan outlet panggul pada posisi jongkok |
+| Angka                           | Makna                                                                       |
+| ------------------------------- | --------------------------------------------------------------------------- |
+| **37–42 minggu**                | Aterm                                                                       |
+| **3–18 jam**                    | Waktu wajar persalinan                                                      |
+| **9,5 cm vs 11,5 cm**           | Diameter kepala fleksi vs defleksi                                          |
+| **11 / 13 / 12 / 12,5 cm**      | Diameter panggul (AP / transversal / oblik / outlet)                        |
+| **2 – 3,5 – 5,5 – 7,5 – 10 cm** | 1–4 jari dan lengkap                                                        |
+| **4 cm**                        | Awal fase aktif                                                             |
+| **1 cm/jam**                    | Laju dilatasi normal fase aktif                                             |
+| **2 jam / 1 jam**               | Batas kala II (primipara / multipara)                                       |
+| **30 menit**                    | Batas kala III (manajemen aktif)                                            |
+| **2 jam**                       | Observasi kala IV                                                           |
+| **3–5 / 40–60 / ≥25**           | Frekuensi per 10 menit, durasi (detik), intensitas (mmHg) kontraksi adekuat |
+| **300–500 mL; 45%**             | Auto-transfusi per kontraksi; peningkatan curah jantung                     |
+| **110–160**                     | DJJ normal                                                                  |
+| **≥140/90**                     | Hipertensi berat tanda bahaya                                               |
+| **45–90°**                      | Rotasi internal oksiput (restitusi: 45°)                                    |
+| **20–30%**                      | Perluasan outlet panggul pada posisi jongkok                                |
 
 ## 🧠 Kumpulan jembatan keledai
 
@@ -450,19 +834,3 @@ Persalinan normal adalah **mahakarya fisiologi yang terkoordinasi**: anatomi, ho
 ## ✅ Pesan akhir
 
 > Persalinan normal bukan sekadar menunggu bayi lahir. Dokter harus memahami **mekanisme**, mengenali **batas normal**, mengawasi dengan **partograf**, dan **bertindak cepat** saat melewati batas bahaya, sambil memberi **dukungan emosional** yang menjadi bagian dari terapi. 💗
-
----
-
-# 17. Catatan Ketelitian Data
-
-Beberapa hal kecil yang perlu diperhatikan saat belajar:
-
-- **Diameter transversal pintu atas panggul** tertulis **13 cm** pada gambar dimensi panggul dan **13,5 cm** pada gambar konsep corong rotasi. Keduanya menggambarkan prinsip yang sama (transversal paling lebar di pintu atas). Gunakan angka yang diminta dosen/buku rujukan Anda.
-- **Laju dilatasi fase aktif:** gambar kurva dan partograf memakai patokan **1 cm/jam**, sedangkan ringkasan 4 kala menyebut batas progres minimal **1 cm per 2 jam**. Anggap **1 cm/jam sebagai laju normal** dan **< 1 cm/2 jam sebagai batas lambat yang harus dievaluasi**.
-- **Penurunan kepala "0/5 (engaged)" pada partograf:** secara klinis **0/5** berarti kepala sudah **turun sepenuhnya (tidak teraba di atas simfisis)**, bukan sekadar engaged. Engagement terjadi lebih awal (kepala sekitar 3/5 atau kurang yang teraba).
-- **Perluasan outlet panggul pada posisi jongkok** disebut **20–30%** pada satu bagian dan **hingga 28%** pada bagian lain; keduanya konsisten (rentang yang sama).
-- **Peran korpus luteum:** pada tahap inisiasi persalinan, prostaglandin disebut "memicu lisis korpus luteum". Pada manusia, progesteron sejak awal kehamilan dihasilkan **plasenta**, sehingga **luteolisis bukan penentu utama** dimulainya persalinan. Fokuskan hafalan pada **perubahan rasio estrogen–progesteron, prostaglandin, dan gap junction**.
-- **Tips klinis tambahan** (mis. singkatan hafalan, ilustrasi "bus", fraksi dilatasi) adalah alat bantu belajar, bukan bagian dari standar formal.
-- **Sumber rujukan:** Wood CE. *Fetal Development & Birth Systems*. Elsevier; 2018. Oxford Textbook of Obstetrics and Gynaecology. Oxford University Press; 2020.
-
-*— Selesai. Semangat belajar, calon dokter hebat! 🩺🎓✨*
