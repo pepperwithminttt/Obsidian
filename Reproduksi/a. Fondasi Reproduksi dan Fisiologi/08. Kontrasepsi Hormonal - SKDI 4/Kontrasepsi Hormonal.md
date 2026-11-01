@@ -262,7 +262,7 @@ Implan merupakan metode kontrasepsi yang **sangat efektif**, dengan angka kegaga
 - Efektivitas tinggi.
 - Memberikan perlindungan jangka panjang.
 - Tidak memerlukan pemeriksaan dalam.
-- Tidak mengandung estrogen.
+- **Tidak mengandung estrogen**.
 - Tidak mengganggu hubungan seksual.
 - Tidak mengganggu produksi ASI secara bermakna.
 - Tidak memerlukan kunjungan rutin untuk konsumsi obat.
