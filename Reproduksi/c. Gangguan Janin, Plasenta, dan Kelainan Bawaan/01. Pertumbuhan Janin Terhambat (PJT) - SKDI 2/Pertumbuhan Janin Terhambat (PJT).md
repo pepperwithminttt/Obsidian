@@ -1,4 +1,3 @@
-
 > [!NOTE] Level Kompetensi SKDI: 2
 
 # 1. Definisi
