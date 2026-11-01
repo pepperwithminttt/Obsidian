@@ -164,6 +164,8 @@ Tata laksana ditentukan berdasarkan penyebab, kadar Hb, gejala, usia kehamilan, 
 - Hindari mengonsumsi tablet zat besi bersamaan dengan teh, kopi, atau susu karena dapat mengurangi absorpsi.
 - Evaluasi respons klinis dan hematologis dalam periode **90 hari** dan kelanjutan hingga **42 hari postpartum**; bila tidak membaik, pasien perlu dirujuk untuk evaluasi lebih lanjut.
 
+![gh](https://raw.githubusercontent.com/pepperwithminttt/Obsidian/main/ImagesDump/Reproduksi/17935435350008u979d.png)
+
 ## Zat besi intravena
 
 Pertimbangkan zat besi parenteral/IV bila terdapat intoleransi berat terhadap zat besi oral, malabsorpsi, respons yang tidak memadai, atau kebutuhan koreksi lebih cepat pada usia kehamilan lanjut, yaitu pada trimester III.
