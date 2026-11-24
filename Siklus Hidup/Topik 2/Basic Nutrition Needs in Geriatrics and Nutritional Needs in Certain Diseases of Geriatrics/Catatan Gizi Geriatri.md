@@ -403,6 +403,7 @@ Gunakan ambang yang sesuai populasi dan metode pemeriksaan. AWGS dirancang untuk
 ## 10. Rangkuman
 
 - **Skrining dan diagnosis malnutrisi:** MNA-SF untuk skrining, dilanjutkan GLIM untuk diagnosis. GLIM memerlukan minimal satu kriteria fenotipik dan satu etiologis.
+- Interpretasi skor MNA-SF: **12–14:** status gizi normal. **8–11:** berisiko malnutrisi. **0–7:** malnutrisi.
 - **Dehidrasi:** osmolalitas serum **>300 mOsm/kg** mendukung diagnosis. Mulut kering dan turgor kulit tidak cukup andal bila dinilai sendiri.
 - **Fenotipe Fried:** penurunan berat badan, kelelahan, aktivitas rendah, berjalan lambat, dan genggaman lemah.
 
