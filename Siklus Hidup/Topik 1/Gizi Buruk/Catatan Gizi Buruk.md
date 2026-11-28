@@ -383,8 +383,8 @@ Anak dapat dipulangkan bila:
 # Rangkuman ⚡
 
 - **Diagnosis gizi buruk:** tampak sangat kurus dan/atau edema; BB/TB atau BB/PB **<-3 SD**; LILA **<11,5 cm**.
-- **Kwashiorkor:** defisiensi protein bernilai biologik tinggi; edema; umum pada usia **1–3 tahun**.
-- **Marasmus:** defisiensi kalori, *wasting* hebat, BB/TB rendah, **tanpa edema**.
+- **Kwashiorkor:** defisiensi protein bernilai biologik tinggi; edema pitting; umum pada usia **1–3 tahun**. Tanda khas: *crazy pavement dermatosis*.
+- **Marasmus:** defisiensi kalori, *wasting* hebat, BB/TB rendah, **tanpa edema**. Tanda: iga gambang, atrofi otot, *baggy pants*.
 - **Marasmik-kwashiorkor:** campuran, BB/TB atau BB/PB **<-3 SD**, edema tidak mencolok.
 - **Empat fase:** stabilisasi → transisi → rehabilitasi → tindak lanjut.
 - **Sepuluh langkah:** hipoglikemia, hipotermia, dehidrasi, elektrolit, infeksi, zat gizi mikro, makanan stabilisasi/transisi, makanan tumbuh kejar, stimulasi tumbuh kembang, tindak lanjut rumah.
